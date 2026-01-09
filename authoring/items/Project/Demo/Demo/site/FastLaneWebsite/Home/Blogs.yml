@@ -1,0 +1,503 @@
+﻿---
+ID: "b30f90c0-ed99-45fa-9b4a-8f548ebc82f8"
+Parent: "0526e9ae-743a-423e-ae25-4f8ad7f3b68c"
+Template: "ce4fba93-7384-4c2f-8e00-c50181610504"
+Path: /sitecore/content/FastLaneTenant/fastlanewebsite/Home/Blogs
+SharedFields:
+- ID: "06d5295c-ed2f-4a54-9bf2-26228d113318"
+  Hint: __Icon
+  Value: "/sitecore/media library/Project/FastLane/shared/PageIcons/-/media/EB7839F71A5647F99343C75C3462E025.ashx"
+- ID: "1172f251-dad4-4efb-a329-0c63500e4f1e"
+  Hint: __Masters
+  Value: 
+- ID: "508c54c0-cd02-4266-8b68-d71f88de1aa9"
+  Hint: ChangeFrequency
+  Value: "{D23B4654-53A5-4589-8B1B-5665A763D144}"
+- ID: "a4f985d9-98b3-4b52-aaaf-4344f6e747c6"
+  Hint: __Workflow
+  Value: "{CF913994-CC05-4D20-B38A-9CF1E73F5951}"
+- ID: "dbbbeca1-21c7-4906-9dd2-493c1efa59a2"
+  Hint: __Shared revision
+  Value: "0f795c73-0983-4c2c-bb1b-3c82b92fd5bc"
+- ID: "f1a1fe9e-a60c-4ddb-a3a0-bb5b29fe732e"
+  Hint: __Renderings
+  Value: |
+    <r xmlns:p="p" xmlns:s="s"
+      p:p="1">
+      <d
+        id="{FE5D7FDF-89C0-4D99-9AA3-B5FBD009C9F3}">
+        <r
+          uid="{F03F1455-5E19-44A4-8350-7B9A11719B27}"
+          p:before="*"
+          s:id="{B7C649C8-C683-44CB-9A87-AEBEA3DA8EB3}"
+          s:par="GridParameters=%7BF61E01E9-711A-4C99-AE30-4E28463E1DF7%7D&amp;FieldNames=%7B129985C4-D854-49F5-9602-9E1D1B8DF899%7D&amp;BackgroundImage&amp;Styles=%7C%7B0D8280A3-A4C1-4AAD-8392-30B3080349C8%7D&amp;RenderingIdentifier&amp;CSSStyles&amp;DynamicPlaceholderId=1"
+          s:ph="headless-main" />
+        <r
+          uid="{B34FE9D0-9A3D-4840-97C9-F523FB8FCF11}"
+          p:after="r[@uid='{F03F1455-5E19-44A4-8350-7B9A11719B27}']"
+          s:id="{F7295588-FA7F-448E-B222-F64005B22E8D}"
+          s:par="GridParameters=%7BF61E01E9-711A-4C99-AE30-4E28463E1DF7%7D&amp;ImageOrder&amp;FieldNames=%7BBAC81150-16BD-4AED-9DF5-6FB5C82E1B95%7D&amp;Styles=%7C%7BDA96D040-41DE-4486-A4D1-6CEDECA18E14%7D&amp;RenderingIdentifier&amp;CSSStyles&amp;DynamicPlaceholderId=3"
+          s:ph="headless-main" />
+        <r
+          uid="{A6D8BFCA-70D3-4B1E-9775-9D9AE4B3FB51}"
+          p:after="r[@uid='{B34FE9D0-9A3D-4840-97C9-F523FB8FCF11}']"
+          s:id="{B7C649C8-C683-44CB-9A87-AEBEA3DA8EB3}"
+          s:par="GridParameters=%7BF61E01E9-711A-4C99-AE30-4E28463E1DF7%7D&amp;FieldNames=%7B129985C4-D854-49F5-9602-9E1D1B8DF899%7D&amp;BackgroundImage&amp;Styles=%7C%7B0D8280A3-A4C1-4AAD-8392-30B3080349C8%7D&amp;RenderingIdentifier&amp;CSSStyles&amp;DynamicPlaceholderId=4"
+          s:ph="headless-main" />
+        <r
+          uid="{34D6D1EF-9275-483F-A6AA-2DD0D10F2BC2}"
+          p:after="r[@uid='{A6D8BFCA-70D3-4B1E-9775-9D9AE4B3FB51}']"
+          s:id="{D425DB5D-FFB0-4574-852C-C17D904CC3E7}"
+          s:par="GridParameters=%7BF61E01E9-711A-4C99-AE30-4E28463E1DF7%7D&amp;FieldNames=%7B6F83E0EE-E1C1-42D2-8B7B-DA86DFDD39DB%7D&amp;Styles=%7C%7B475E77AB-3D7F-4C96-A0C4-8164A8158C82%7D&amp;RenderingIdentifier&amp;CSSStyles&amp;DynamicPlaceholderId=2"
+          s:ph="/headless-main/container-1" />
+        <r
+          uid="{C9251A3F-3ACB-4B7D-9506-949633BF7554}"
+          p:after="r[@uid='{34D6D1EF-9275-483F-A6AA-2DD0D10F2BC2}']"
+          s:id="{15CABDFF-FFD9-48F4-826D-A4C3D7868D3A}"
+          s:par="ColumnWidth1=%7B670536BF-55BC-4EBD-BBE5-00D9A5E9AF50%7D%7C%7B5989A7F1-3386-478F-9D04-4E2AE1C807C9%7D&amp;ColumnWidth2=%7B670536BF-55BC-4EBD-BBE5-00D9A5E9AF50%7D%7C%7B5989A7F1-3386-478F-9D04-4E2AE1C807C9%7D&amp;ColumnWidth3=%7B670536BF-55BC-4EBD-BBE5-00D9A5E9AF50%7D%7C%7B5989A7F1-3386-478F-9D04-4E2AE1C807C9%7D&amp;ColumnWidth4=%7B670536BF-55BC-4EBD-BBE5-00D9A5E9AF50%7D%7C%7B5989A7F1-3386-478F-9D04-4E2AE1C807C9%7D&amp;ColumnWidth5&amp;ColumnWidth6&amp;ColumnWidth7&amp;ColumnWidth8&amp;GridParameters=%7BF61E01E9-711A-4C99-AE30-4E28463E1DF7%7D&amp;SplitterSize=4&amp;EnabledPlaceholders=1%2C2%2C3%2C4&amp;FieldNames&amp;Styles1&amp;Styles2&amp;Styles3&amp;Styles4&amp;Styles5&amp;Styles6&amp;Styles7&amp;Styles=%7C%7B475E77AB-3D7F-4C96-A0C4-8164A8158C82%7D&amp;Styles8&amp;RenderingIdentifier&amp;CSSStyles&amp;DynamicPlaceholderId=5"
+          s:ph="/headless-main/container-4" />
+        <r
+          uid="{920BACED-346B-4AA0-A06F-8B20AF336640}"
+          p:after="r[@uid='{C9251A3F-3ACB-4B7D-9506-949633BF7554}']"
+          s:id="{15CABDFF-FFD9-48F4-826D-A4C3D7868D3A}"
+          s:par="ColumnWidth1=%7B670536BF-55BC-4EBD-BBE5-00D9A5E9AF50%7D%7C%7B5989A7F1-3386-478F-9D04-4E2AE1C807C9%7D&amp;ColumnWidth2=%7B670536BF-55BC-4EBD-BBE5-00D9A5E9AF50%7D%7C%7B5989A7F1-3386-478F-9D04-4E2AE1C807C9%7D&amp;ColumnWidth3=%7B670536BF-55BC-4EBD-BBE5-00D9A5E9AF50%7D%7C%7B5989A7F1-3386-478F-9D04-4E2AE1C807C9%7D&amp;ColumnWidth4=%7B670536BF-55BC-4EBD-BBE5-00D9A5E9AF50%7D%7C%7B5989A7F1-3386-478F-9D04-4E2AE1C807C9%7D&amp;ColumnWidth5&amp;ColumnWidth6&amp;ColumnWidth7&amp;ColumnWidth8&amp;GridParameters=%7BF61E01E9-711A-4C99-AE30-4E28463E1DF7%7D&amp;SplitterSize=4&amp;EnabledPlaceholders=1%2C2%2C3%2C4&amp;FieldNames&amp;Styles1&amp;Styles2&amp;Styles3&amp;Styles4&amp;Styles5&amp;Styles6&amp;Styles7&amp;Styles=%7C%7BACA1D298-4F90-4EA9-8281-82D0BBB1E353%7D&amp;Styles8&amp;RenderingIdentifier&amp;CSSStyles&amp;DynamicPlaceholderId=6"
+          s:ph="/headless-main/container-4" />
+        <r
+          uid="{E164419B-F6CB-41F4-95D2-7F01BAE9E8BA}"
+          p:after="r[@uid='{920BACED-346B-4AA0-A06F-8B20AF336640}']"
+          s:ds="local:/Data/ICMP Certifies Over 10000 Physicians Through Digital Fellowship Network"
+          s:id="{2AC9F9B4-0E80-4B4E-BC71-A52B5F1C8D9B}"
+          s:par="CardOrientation=vertical&amp;ImageOrder&amp;HeaderTag&amp;LinkType=Button&amp;GridParameters=%7BF61E01E9-711A-4C99-AE30-4E28463E1DF7%7D&amp;FieldNames=%7B3427D6A0-EB73-4CB7-A24F-FBE8CD8FB35A%7D&amp;Styles&amp;RenderingIdentifier&amp;CSSStyles&amp;DynamicPlaceholderId=7"
+          s:ph="/headless-main/container-4/column-1-5" />
+        <r
+          uid="{D0CE03AA-8B8D-4177-B72B-6BFD593D9D4C}"
+          p:after="r[@uid='{E164419B-F6CB-41F4-95D2-7F01BAE9E8BA}']"
+          s:ds="local:/Data/Statement Regarding Our Ever-Changing Environment"
+          s:id="{2AC9F9B4-0E80-4B4E-BC71-A52B5F1C8D9B}"
+          s:par="CardOrientation=vertical&amp;ImageOrder&amp;HeaderTag&amp;LinkType=Button&amp;GridParameters=%7BF61E01E9-711A-4C99-AE30-4E28463E1DF7%7D&amp;FieldNames=%7B3427D6A0-EB73-4CB7-A24F-FBE8CD8FB35A%7D&amp;Styles&amp;RenderingIdentifier&amp;CSSStyles&amp;DynamicPlaceholderId=8"
+          s:ph="/headless-main/container-4/column-2-5" />
+        <r
+          uid="{E1221ED2-7DF6-4D72-8AB4-65EF0D22D1A0}"
+          p:after="r[@uid='{D0CE03AA-8B8D-4177-B72B-6BFD593D9D4C}']"
+          s:ds="local:/Data/ICMP Launches Global Telemedicine Accreditation Program"
+          s:id="{2AC9F9B4-0E80-4B4E-BC71-A52B5F1C8D9B}"
+          s:par="CardOrientation=vertical&amp;ImageOrder&amp;HeaderTag&amp;LinkType=Button&amp;GridParameters=%7BF61E01E9-711A-4C99-AE30-4E28463E1DF7%7D&amp;FieldNames=%7B3427D6A0-EB73-4CB7-A24F-FBE8CD8FB35A%7D&amp;Styles&amp;RenderingIdentifier&amp;CSSStyles&amp;DynamicPlaceholderId=9"
+          s:ph="/headless-main/container-4/column-3-5" />
+        <r
+          uid="{D8CFE92D-58B6-41D8-905F-6FEFDD5BF9A8}"
+          p:after="r[@uid='{E1221ED2-7DF6-4D72-8AB4-65EF0D22D1A0}']"
+          s:ds="local:/Data/Dr Aminata Diouf Addresses UN on Climate Health Crisis"
+          s:id="{2AC9F9B4-0E80-4B4E-BC71-A52B5F1C8D9B}"
+          s:par="CardOrientation=vertical&amp;ImageOrder&amp;HeaderTag&amp;LinkType=Button&amp;GridParameters=%7BF61E01E9-711A-4C99-AE30-4E28463E1DF7%7D&amp;FieldNames=%7B3427D6A0-EB73-4CB7-A24F-FBE8CD8FB35A%7D&amp;Styles&amp;RenderingIdentifier&amp;CSSStyles&amp;DynamicPlaceholderId=10"
+          s:ph="/headless-main/container-4/column-4-5" />
+        <r
+          uid="{7336F38E-6E35-4DA2-BE30-025DD3315ADB}"
+          p:after="r[@uid='{D8CFE92D-58B6-41D8-905F-6FEFDD5BF9A8}']"
+          s:ds="local:/Data/Dr Javier Ortega Named Chair of Global Research Equity Consortium"
+          s:id="{2AC9F9B4-0E80-4B4E-BC71-A52B5F1C8D9B}"
+          s:par="CardOrientation=vertical&amp;ImageOrder&amp;HeaderTag&amp;LinkType=Button&amp;GridParameters=%7BF61E01E9-711A-4C99-AE30-4E28463E1DF7%7D&amp;FieldNames=%7B3427D6A0-EB73-4CB7-A24F-FBE8CD8FB35A%7D&amp;Styles&amp;RenderingIdentifier&amp;CSSStyles&amp;DynamicPlaceholderId=11"
+          s:ph="/headless-main/container-4/column-1-6" />
+        <r
+          uid="{0FE0C288-28E7-4140-8C27-182DA272A163}"
+          p:after="r[@uid='{7336F38E-6E35-4DA2-BE30-025DD3315ADB}']"
+          s:ds="local:/Data/ICMP Releases Updated International Code of Medical Conduct"
+          s:id="{2AC9F9B4-0E80-4B4E-BC71-A52B5F1C8D9B}"
+          s:par="CardOrientation=vertical&amp;ImageOrder&amp;HeaderTag&amp;LinkType=Button&amp;GridParameters=%7BF61E01E9-711A-4C99-AE30-4E28463E1DF7%7D&amp;FieldNames=%7B3427D6A0-EB73-4CB7-A24F-FBE8CD8FB35A%7D&amp;Styles&amp;RenderingIdentifier&amp;CSSStyles&amp;DynamicPlaceholderId=12"
+          s:ph="/headless-main/container-4/column-2-6" />
+        <r
+          uid="{88963BAC-4B68-43CC-B164-DD676BE04358}"
+          p:after="r[@uid='{0FE0C288-28E7-4140-8C27-182DA272A163}']"
+          s:ds="local:/Data/ICMP Expands Regional Offices in Southeast Asia and West Africa"
+          s:id="{2AC9F9B4-0E80-4B4E-BC71-A52B5F1C8D9B}"
+          s:par="CardOrientation=vertical&amp;ImageOrder&amp;HeaderTag&amp;LinkType=Button&amp;GridParameters=%7BF61E01E9-711A-4C99-AE30-4E28463E1DF7%7D&amp;FieldNames=%7B3427D6A0-EB73-4CB7-A24F-FBE8CD8FB35A%7D&amp;Styles&amp;RenderingIdentifier&amp;CSSStyles&amp;DynamicPlaceholderId=13"
+          s:ph="/headless-main/container-4/column-3-6" />
+        <r
+          uid="{70E77748-EE38-4F05-9C1E-2306360311BC}"
+          p:after="*[1=2]"
+          s:ds="local:/Data/ICMP Hosts First Hybrid Global Congress Since Pandemic"
+          s:id="{2AC9F9B4-0E80-4B4E-BC71-A52B5F1C8D9B}"
+          s:par="CardOrientation=vertical&amp;ImageOrder&amp;HeaderTag&amp;LinkType=Button&amp;GridParameters=%7BF61E01E9-711A-4C99-AE30-4E28463E1DF7%7D&amp;FieldNames=%7B3427D6A0-EB73-4CB7-A24F-FBE8CD8FB35A%7D&amp;Styles&amp;RenderingIdentifier&amp;CSSStyles&amp;DynamicPlaceholderId=14"
+          s:ph="/headless-main/container-4/column-4-6" />
+      </d>
+    </r>
+- ID: "f6d8a61c-2f84-4401-bd24-52d2068172bc"
+  Hint: __Originator
+  Value: "{CA184AF1-F4A5-44A5-9F65-6554781403EA}"
+Languages:
+- Language: "ar-AE"
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "06890ecb-5786-4776-8d76-19250477a9bc"
+      Hint: MetaImage
+      Value: |
+        <image mediaid="{B64FCD49-D691-4CE6-A2D6-A2CB618C59B1}" alt="Blogs" height="" width="" hspace="" vspace="" />
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20250811T060905Z
+    - ID: "3e431de1-525e-47a3-b6b0-1ccbec3a8c98"
+      Hint: __Workflow state
+      Value: "{F7F71754-F47E-4605-AD5B-87F78974DD92}"
+    - ID: "4e0720e9-9d50-4ddc-87cf-ecd65e8e94c8"
+      Hint: NavigationTitle
+      Value: المدونات
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+      Hint: __Owner
+      Value: |
+        sitecore\karthikeyan.kumaravel@altudo.co
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\karthikeyan.kumaravel@altudo.co
+    - ID: "78bd5b13-d9ab-44a4-bae4-c2dda0ad6133"
+      Hint: IntroText
+      Value: |
+        <div class="ck-content">
+        <p>ذات مرة، في بلد بعيد، كان هناك ملك كسول للغاية يقضي يومه كله مستلقياً على &nbsp;</p>
+        <p>العرش. ذات يوم، جاءه مستشاروه ليخبروه بمشكلة: المملكة كانت على وشك الإفلاس.</p>
+        </div>
+    - ID: "7cba72f9-1513-41af-ba26-de761f138805"
+      Hint: Title
+      Value: رؤى حديثة
+    - ID: "85f5b648-1823-4509-b7fd-27deacdf2dff"
+      Hint: MetaDescription
+      Value: ابق على اطلاع بأحدث المدونات والنصائح وآراء الخبراء حول إدارة المحتوى والتحول الرقمي في XM Cloud.
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "0f08a9cd-e273-4c05-b37c-dd1cb31a2748"
+    - ID: "92c233dc-a8b3-4fd0-bb3f-e82a8b49bed2"
+      Hint: MetaTitle
+      Value: "XM Cloud Fast Lane - أحدث المدونات"
+    - ID: "9f4483ca-f858-45d1-86a5-0a69c9ab6207"
+      Hint: MetaKeywords
+      Value: مدونة XM Cloud، رؤى حول إدارة المحتوى، التحول الرقمي، أخبار Sitecore، تحديثات Fast Lane
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\karthikeyan.kumaravel@altudo.co
+    - ID: "c24e85bf-697a-4e60-92ce-c0d557ce510e"
+      Hint: NavigationDescription
+      Value: ابق على اطلاع بأحدث المدونات والنصائح وآراء الخبراء حول إدارة المحتوى والتحول الرقمي في Fastlane XM Cloud.
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20251201T182707Z
+    - ID: "f56d5ae9-cbca-48e1-b47e-e06a7561fc5d"
+      Hint: CalltoActionLinkMain
+      Value: |
+        <link text="اشترك لتلقي آخر الأخبار" anchor="" linktype="internal" class="" title="" target="" querystring="" id="{B30F90C0-ED99-45FA-9B4A-8F548EBC82F8}" />
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "001dd393-96c5-490b-924a-b0f25cd9efd8"
+      Hint: __Lock
+      Value: <r />
+    - ID: "04bf00db-f5fb-41f7-8ab7-22408372a981"
+      Hint: __Final Renderings
+      Value: |
+        <r xmlns:p="p" xmlns:s="s"
+          p:p="1">
+          <d
+            id="{FE5D7FDF-89C0-4D99-9AA3-B5FBD009C9F3}">
+            <r
+              uid="{F03F1455-5E19-44A4-8350-7B9A11719B27}"
+              p:before="*"
+              s:id="{B7C649C8-C683-44CB-9A87-AEBEA3DA8EB3}"
+              s:par="GridParameters=%7BF61E01E9-711A-4C99-AE30-4E28463E1DF7%7D&amp;FieldNames=%7B129985C4-D854-49F5-9602-9E1D1B8DF899%7D&amp;BackgroundImage&amp;Styles=%7C%7B0D8280A3-A4C1-4AAD-8392-30B3080349C8%7D&amp;RenderingIdentifier&amp;CSSStyles&amp;DynamicPlaceholderId=1"
+              s:ph="headless-main" />
+            <r
+              uid="{B34FE9D0-9A3D-4840-97C9-F523FB8FCF11}"
+              p:after="r[@uid='{F03F1455-5E19-44A4-8350-7B9A11719B27}']"
+              s:id="{F7295588-FA7F-448E-B222-F64005B22E8D}"
+              s:par="GridParameters=%7BF61E01E9-711A-4C99-AE30-4E28463E1DF7%7D&amp;ImageOrder&amp;FieldNames=%7BBAC81150-16BD-4AED-9DF5-6FB5C82E1B95%7D&amp;Styles=%7C%7BDA96D040-41DE-4486-A4D1-6CEDECA18E14%7D&amp;RenderingIdentifier&amp;CSSStyles&amp;DynamicPlaceholderId=3"
+              s:ph="headless-main" />
+            <r
+              uid="{A6D8BFCA-70D3-4B1E-9775-9D9AE4B3FB51}"
+              p:after="r[@uid='{B34FE9D0-9A3D-4840-97C9-F523FB8FCF11}']"
+              s:id="{B7C649C8-C683-44CB-9A87-AEBEA3DA8EB3}"
+              s:par="GridParameters=%7BF61E01E9-711A-4C99-AE30-4E28463E1DF7%7D&amp;FieldNames=%7B129985C4-D854-49F5-9602-9E1D1B8DF899%7D&amp;BackgroundImage&amp;Styles=%7C%7B0D8280A3-A4C1-4AAD-8392-30B3080349C8%7D&amp;RenderingIdentifier&amp;CSSStyles&amp;DynamicPlaceholderId=4"
+              s:ph="headless-main" />
+            <r
+              uid="{34D6D1EF-9275-483F-A6AA-2DD0D10F2BC2}"
+              p:after="r[@uid='{A6D8BFCA-70D3-4B1E-9775-9D9AE4B3FB51}']"
+              s:id="{D425DB5D-FFB0-4574-852C-C17D904CC3E7}"
+              s:par="GridParameters=%7BF61E01E9-711A-4C99-AE30-4E28463E1DF7%7D&amp;FieldNames=%7B6F83E0EE-E1C1-42D2-8B7B-DA86DFDD39DB%7D&amp;Styles=%7C%7B475E77AB-3D7F-4C96-A0C4-8164A8158C82%7D&amp;RenderingIdentifier&amp;CSSStyles&amp;DynamicPlaceholderId=2"
+              s:ph="/headless-main/container-1" />
+            <r
+              uid="{C9251A3F-3ACB-4B7D-9506-949633BF7554}"
+              p:after="r[@uid='{34D6D1EF-9275-483F-A6AA-2DD0D10F2BC2}']"
+              s:id="{15CABDFF-FFD9-48F4-826D-A4C3D7868D3A}"
+              s:par="ColumnWidth1=%7B670536BF-55BC-4EBD-BBE5-00D9A5E9AF50%7D%7C%7B5989A7F1-3386-478F-9D04-4E2AE1C807C9%7D&amp;ColumnWidth2=%7B670536BF-55BC-4EBD-BBE5-00D9A5E9AF50%7D%7C%7B5989A7F1-3386-478F-9D04-4E2AE1C807C9%7D&amp;ColumnWidth3=%7B670536BF-55BC-4EBD-BBE5-00D9A5E9AF50%7D%7C%7B5989A7F1-3386-478F-9D04-4E2AE1C807C9%7D&amp;ColumnWidth4=%7B670536BF-55BC-4EBD-BBE5-00D9A5E9AF50%7D%7C%7B5989A7F1-3386-478F-9D04-4E2AE1C807C9%7D&amp;ColumnWidth5&amp;ColumnWidth6&amp;ColumnWidth7&amp;ColumnWidth8&amp;GridParameters=%7BF61E01E9-711A-4C99-AE30-4E28463E1DF7%7D&amp;SplitterSize=4&amp;EnabledPlaceholders=1%2C2%2C3%2C4&amp;FieldNames&amp;Styles1&amp;Styles2&amp;Styles3&amp;Styles4&amp;Styles5&amp;Styles6&amp;Styles7&amp;Styles=%7C%7B475E77AB-3D7F-4C96-A0C4-8164A8158C82%7D&amp;Styles8&amp;RenderingIdentifier&amp;CSSStyles&amp;DynamicPlaceholderId=5"
+              s:ph="/headless-main/container-4" />
+            <r
+              uid="{920BACED-346B-4AA0-A06F-8B20AF336640}"
+              p:after="r[@uid='{C9251A3F-3ACB-4B7D-9506-949633BF7554}']"
+              s:id="{15CABDFF-FFD9-48F4-826D-A4C3D7868D3A}"
+              s:par="ColumnWidth1=%7B670536BF-55BC-4EBD-BBE5-00D9A5E9AF50%7D%7C%7B5989A7F1-3386-478F-9D04-4E2AE1C807C9%7D&amp;ColumnWidth2=%7B670536BF-55BC-4EBD-BBE5-00D9A5E9AF50%7D%7C%7B5989A7F1-3386-478F-9D04-4E2AE1C807C9%7D&amp;ColumnWidth3=%7B670536BF-55BC-4EBD-BBE5-00D9A5E9AF50%7D%7C%7B5989A7F1-3386-478F-9D04-4E2AE1C807C9%7D&amp;ColumnWidth4=%7B670536BF-55BC-4EBD-BBE5-00D9A5E9AF50%7D%7C%7B5989A7F1-3386-478F-9D04-4E2AE1C807C9%7D&amp;ColumnWidth5&amp;ColumnWidth6&amp;ColumnWidth7&amp;ColumnWidth8&amp;GridParameters=%7BF61E01E9-711A-4C99-AE30-4E28463E1DF7%7D&amp;SplitterSize=4&amp;EnabledPlaceholders=1%2C2%2C3%2C4&amp;FieldNames&amp;Styles1&amp;Styles2&amp;Styles3&amp;Styles4&amp;Styles5&amp;Styles6&amp;Styles7&amp;Styles=%7C%7BACA1D298-4F90-4EA9-8281-82D0BBB1E353%7D&amp;Styles8&amp;RenderingIdentifier&amp;CSSStyles&amp;DynamicPlaceholderId=6"
+              s:ph="/headless-main/container-4" />
+            <r
+              uid="{E164419B-F6CB-41F4-95D2-7F01BAE9E8BA}"
+              p:after="r[@uid='{920BACED-346B-4AA0-A06F-8B20AF336640}']"
+              s:ds="local:/Data/ICMP Certifies Over 10000 Physicians Through Digital Fellowship Network"
+              s:id="{2AC9F9B4-0E80-4B4E-BC71-A52B5F1C8D9B}"
+              s:par="CardOrientation=vertical&amp;ImageOrder&amp;HeaderTag&amp;LinkType=Button&amp;GridParameters=%7BF61E01E9-711A-4C99-AE30-4E28463E1DF7%7D&amp;FieldNames=%7B3427D6A0-EB73-4CB7-A24F-FBE8CD8FB35A%7D&amp;Styles&amp;RenderingIdentifier&amp;CSSStyles&amp;DynamicPlaceholderId=7"
+              s:ph="/headless-main/container-4/column-1-5" />
+            <r
+              uid="{D0CE03AA-8B8D-4177-B72B-6BFD593D9D4C}"
+              p:after="r[@uid='{E164419B-F6CB-41F4-95D2-7F01BAE9E8BA}']"
+              s:ds="local:/Data/Statement Regarding Our Ever-Changing Environment"
+              s:id="{2AC9F9B4-0E80-4B4E-BC71-A52B5F1C8D9B}"
+              s:par="CardOrientation=vertical&amp;ImageOrder&amp;HeaderTag&amp;LinkType=Button&amp;GridParameters=%7BF61E01E9-711A-4C99-AE30-4E28463E1DF7%7D&amp;FieldNames=%7B3427D6A0-EB73-4CB7-A24F-FBE8CD8FB35A%7D&amp;Styles&amp;RenderingIdentifier&amp;CSSStyles&amp;DynamicPlaceholderId=8"
+              s:ph="/headless-main/container-4/column-2-5" />
+            <r
+              uid="{E1221ED2-7DF6-4D72-8AB4-65EF0D22D1A0}"
+              p:after="r[@uid='{D0CE03AA-8B8D-4177-B72B-6BFD593D9D4C}']"
+              s:ds="local:/Data/ICMP Launches Global Telemedicine Accreditation Program"
+              s:id="{2AC9F9B4-0E80-4B4E-BC71-A52B5F1C8D9B}"
+              s:par="CardOrientation=vertical&amp;ImageOrder&amp;HeaderTag&amp;LinkType=Button&amp;GridParameters=%7BF61E01E9-711A-4C99-AE30-4E28463E1DF7%7D&amp;FieldNames=%7B3427D6A0-EB73-4CB7-A24F-FBE8CD8FB35A%7D&amp;Styles&amp;RenderingIdentifier&amp;CSSStyles&amp;DynamicPlaceholderId=9"
+              s:ph="/headless-main/container-4/column-3-5" />
+            <r
+              uid="{D8CFE92D-58B6-41D8-905F-6FEFDD5BF9A8}"
+              p:after="r[@uid='{E1221ED2-7DF6-4D72-8AB4-65EF0D22D1A0}']"
+              s:ds="local:/Data/Dr Aminata Diouf Addresses UN on Climate Health Crisis"
+              s:id="{2AC9F9B4-0E80-4B4E-BC71-A52B5F1C8D9B}"
+              s:par="CardOrientation=vertical&amp;ImageOrder&amp;HeaderTag&amp;LinkType=Button&amp;GridParameters=%7BF61E01E9-711A-4C99-AE30-4E28463E1DF7%7D&amp;FieldNames=%7B3427D6A0-EB73-4CB7-A24F-FBE8CD8FB35A%7D&amp;Styles&amp;RenderingIdentifier&amp;CSSStyles&amp;DynamicPlaceholderId=10"
+              s:ph="/headless-main/container-4/column-4-5" />
+            <r
+              uid="{7336F38E-6E35-4DA2-BE30-025DD3315ADB}"
+              p:after="r[@uid='{D8CFE92D-58B6-41D8-905F-6FEFDD5BF9A8}']"
+              s:ds="local:/Data/Dr Javier Ortega Named Chair of Global Research Equity Consortium"
+              s:id="{2AC9F9B4-0E80-4B4E-BC71-A52B5F1C8D9B}"
+              s:par="CardOrientation=vertical&amp;ImageOrder&amp;HeaderTag&amp;LinkType=Button&amp;GridParameters=%7BF61E01E9-711A-4C99-AE30-4E28463E1DF7%7D&amp;FieldNames=%7B3427D6A0-EB73-4CB7-A24F-FBE8CD8FB35A%7D&amp;Styles&amp;RenderingIdentifier&amp;CSSStyles&amp;DynamicPlaceholderId=11"
+              s:ph="/headless-main/container-4/column-1-6" />
+            <r
+              uid="{0FE0C288-28E7-4140-8C27-182DA272A163}"
+              p:after="r[@uid='{7336F38E-6E35-4DA2-BE30-025DD3315ADB}']"
+              s:ds="local:/Data/ICMP Releases Updated International Code of Medical Conduct"
+              s:id="{2AC9F9B4-0E80-4B4E-BC71-A52B5F1C8D9B}"
+              s:par="CardOrientation=vertical&amp;ImageOrder&amp;HeaderTag&amp;LinkType=Button&amp;GridParameters=%7BF61E01E9-711A-4C99-AE30-4E28463E1DF7%7D&amp;FieldNames=%7B3427D6A0-EB73-4CB7-A24F-FBE8CD8FB35A%7D&amp;Styles&amp;RenderingIdentifier&amp;CSSStyles&amp;DynamicPlaceholderId=12"
+              s:ph="/headless-main/container-4/column-2-6" />
+            <r
+              uid="{88963BAC-4B68-43CC-B164-DD676BE04358}"
+              p:after="r[@uid='{0FE0C288-28E7-4140-8C27-182DA272A163}']"
+              s:ds="local:/Data/ICMP Expands Regional Offices in Southeast Asia and West Africa"
+              s:id="{2AC9F9B4-0E80-4B4E-BC71-A52B5F1C8D9B}"
+              s:par="CardOrientation=vertical&amp;ImageOrder&amp;HeaderTag&amp;LinkType=Button&amp;GridParameters=%7BF61E01E9-711A-4C99-AE30-4E28463E1DF7%7D&amp;FieldNames=%7B3427D6A0-EB73-4CB7-A24F-FBE8CD8FB35A%7D&amp;Styles&amp;RenderingIdentifier&amp;CSSStyles&amp;DynamicPlaceholderId=13"
+              s:ph="/headless-main/container-4/column-3-6" />
+            <r
+              uid="{70E77748-EE38-4F05-9C1E-2306360311BC}"
+              p:after="*[1=2]"
+              s:ds="local:/Data/ICMP Hosts First Hybrid Global Congress Since Pandemic"
+              s:id="{2AC9F9B4-0E80-4B4E-BC71-A52B5F1C8D9B}"
+              s:par="CardOrientation=vertical&amp;ImageOrder&amp;HeaderTag&amp;LinkType=Button&amp;GridParameters=%7BF61E01E9-711A-4C99-AE30-4E28463E1DF7%7D&amp;FieldNames=%7B3427D6A0-EB73-4CB7-A24F-FBE8CD8FB35A%7D&amp;Styles&amp;RenderingIdentifier&amp;CSSStyles&amp;DynamicPlaceholderId=14"
+              s:ph="/headless-main/container-4/column-4-6" />
+          </d>
+        </r>
+    - ID: "06890ecb-5786-4776-8d76-19250477a9bc"
+      Hint: MetaImage
+      Value: |
+        <image mediaid="{B64FCD49-D691-4CE6-A2D6-A2CB618C59B1}" />
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20250811T060905Z
+    - ID: "3e431de1-525e-47a3-b6b0-1ccbec3a8c98"
+      Hint: __Workflow state
+      Value: "{F7F71754-F47E-4605-AD5B-87F78974DD92}"
+    - ID: "4e0720e9-9d50-4ddc-87cf-ecd65e8e94c8"
+      Hint: NavigationTitle
+      Value: Blogs
+    - ID: "78bd5b13-d9ab-44a4-bae4-c2dda0ad6133"
+      Hint: IntroText
+      Value: |
+        <div class="ck-content"><p>Once upon a time, in a far-off land, there was a very lazy king who spent all day lounging on his&nbsp;</p><p>throne. One day, his advisors came to him with a problem: the kingdom was running out of money.</p></div>
+    - ID: "7cba72f9-1513-41af-ba26-de761f138805"
+      Hint: Title
+      Value: Recent Insights
+    - ID: "85f5b648-1823-4509-b7fd-27deacdf2dff"
+      Hint: MetaDescription
+      Value: Stay updated with the latest blogs, tips, and expert insights on XM Cloud content management and digital transformation
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "e7d0161f-4e22-4dd0-9621-8d6fc23cd4d5"
+    - ID: "92c233dc-a8b3-4fd0-bb3f-e82a8b49bed2"
+      Hint: MetaTitle
+      Value: "XM Cloud Fast Lane - Latest Blogs"
+    - ID: "9f4483ca-f858-45d1-86a5-0a69c9ab6207"
+      Hint: MetaKeywords
+      Value: XM Cloud blog, content management insights, digital transformation, Sitecore news, Fast Lane updates
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\karthikeyan.kumaravel@altudo.co
+    - ID: "c24e85bf-697a-4e60-92ce-c0d557ce510e"
+      Hint: NavigationDescription
+      Value: Stay updated with the latest blogs, tips, and expert insights on Fastlane XM Cloud content management and digital transformation
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20251203T121427Z
+    - ID: "f56d5ae9-cbca-48e1-b47e-e06a7561fc5d"
+      Hint: CalltoActionLinkMain
+      Value: |
+        <link text="Subscribe to receive news posts" anchor="" linktype="internal" class="" title="" target="" querystring="" id="{B30F90C0-ED99-45FA-9B4A-8F548EBC82F8}" />
+- Language: "fr-CA"
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "04bf00db-f5fb-41f7-8ab7-22408372a981"
+      Hint: __Final Renderings
+      Value: |
+        <r xmlns:p="p" xmlns:s="s"
+          p:p="1">
+          <d
+            id="{FE5D7FDF-89C0-4D99-9AA3-B5FBD009C9F3}">
+            <r
+              uid="{F03F1455-5E19-44A4-8350-7B9A11719B27}"
+              p:before="*"
+              s:id="{B7C649C8-C683-44CB-9A87-AEBEA3DA8EB3}"
+              s:par="GridParameters=%7BF61E01E9-711A-4C99-AE30-4E28463E1DF7%7D&amp;FieldNames=%7B129985C4-D854-49F5-9602-9E1D1B8DF899%7D&amp;BackgroundImage&amp;Styles=%7C%7B0D8280A3-A4C1-4AAD-8392-30B3080349C8%7D&amp;RenderingIdentifier&amp;CSSStyles&amp;DynamicPlaceholderId=1"
+              s:ph="headless-main" />
+            <r
+              uid="{B34FE9D0-9A3D-4840-97C9-F523FB8FCF11}"
+              p:after="r[@uid='{F03F1455-5E19-44A4-8350-7B9A11719B27}']"
+              s:id="{F7295588-FA7F-448E-B222-F64005B22E8D}"
+              s:par="GridParameters=%7BF61E01E9-711A-4C99-AE30-4E28463E1DF7%7D&amp;ImageOrder&amp;FieldNames=%7BBAC81150-16BD-4AED-9DF5-6FB5C82E1B95%7D&amp;Styles=%7C%7BDA96D040-41DE-4486-A4D1-6CEDECA18E14%7D&amp;RenderingIdentifier&amp;CSSStyles&amp;DynamicPlaceholderId=3"
+              s:ph="headless-main" />
+            <r
+              uid="{A6D8BFCA-70D3-4B1E-9775-9D9AE4B3FB51}"
+              p:after="r[@uid='{B34FE9D0-9A3D-4840-97C9-F523FB8FCF11}']"
+              s:id="{B7C649C8-C683-44CB-9A87-AEBEA3DA8EB3}"
+              s:par="GridParameters=%7BF61E01E9-711A-4C99-AE30-4E28463E1DF7%7D&amp;FieldNames=%7B129985C4-D854-49F5-9602-9E1D1B8DF899%7D&amp;BackgroundImage&amp;Styles=%7C%7B0D8280A3-A4C1-4AAD-8392-30B3080349C8%7D&amp;RenderingIdentifier&amp;CSSStyles&amp;DynamicPlaceholderId=4"
+              s:ph="headless-main" />
+            <r
+              uid="{34D6D1EF-9275-483F-A6AA-2DD0D10F2BC2}"
+              p:after="r[@uid='{A6D8BFCA-70D3-4B1E-9775-9D9AE4B3FB51}']"
+              s:id="{D425DB5D-FFB0-4574-852C-C17D904CC3E7}"
+              s:par="GridParameters=%7BF61E01E9-711A-4C99-AE30-4E28463E1DF7%7D&amp;FieldNames=%7B6F83E0EE-E1C1-42D2-8B7B-DA86DFDD39DB%7D&amp;Styles=%7C%7B475E77AB-3D7F-4C96-A0C4-8164A8158C82%7D&amp;RenderingIdentifier&amp;CSSStyles&amp;DynamicPlaceholderId=2"
+              s:ph="/headless-main/container-1" />
+            <r
+              uid="{C9251A3F-3ACB-4B7D-9506-949633BF7554}"
+              p:after="r[@uid='{34D6D1EF-9275-483F-A6AA-2DD0D10F2BC2}']"
+              s:id="{15CABDFF-FFD9-48F4-826D-A4C3D7868D3A}"
+              s:par="ColumnWidth1=%7B670536BF-55BC-4EBD-BBE5-00D9A5E9AF50%7D%7C%7B5989A7F1-3386-478F-9D04-4E2AE1C807C9%7D&amp;ColumnWidth2=%7B670536BF-55BC-4EBD-BBE5-00D9A5E9AF50%7D%7C%7B5989A7F1-3386-478F-9D04-4E2AE1C807C9%7D&amp;ColumnWidth3=%7B670536BF-55BC-4EBD-BBE5-00D9A5E9AF50%7D%7C%7B5989A7F1-3386-478F-9D04-4E2AE1C807C9%7D&amp;ColumnWidth4=%7B670536BF-55BC-4EBD-BBE5-00D9A5E9AF50%7D%7C%7B5989A7F1-3386-478F-9D04-4E2AE1C807C9%7D&amp;ColumnWidth5&amp;ColumnWidth6&amp;ColumnWidth7&amp;ColumnWidth8&amp;GridParameters=%7BF61E01E9-711A-4C99-AE30-4E28463E1DF7%7D&amp;SplitterSize=4&amp;EnabledPlaceholders=1%2C2%2C3%2C4&amp;FieldNames&amp;Styles1&amp;Styles2&amp;Styles3&amp;Styles4&amp;Styles5&amp;Styles6&amp;Styles7&amp;Styles=%7C%7B475E77AB-3D7F-4C96-A0C4-8164A8158C82%7D&amp;Styles8&amp;RenderingIdentifier&amp;CSSStyles&amp;DynamicPlaceholderId=5"
+              s:ph="/headless-main/container-4" />
+            <r
+              uid="{920BACED-346B-4AA0-A06F-8B20AF336640}"
+              p:after="r[@uid='{C9251A3F-3ACB-4B7D-9506-949633BF7554}']"
+              s:id="{15CABDFF-FFD9-48F4-826D-A4C3D7868D3A}"
+              s:par="ColumnWidth1=%7B670536BF-55BC-4EBD-BBE5-00D9A5E9AF50%7D%7C%7B5989A7F1-3386-478F-9D04-4E2AE1C807C9%7D&amp;ColumnWidth2=%7B670536BF-55BC-4EBD-BBE5-00D9A5E9AF50%7D%7C%7B5989A7F1-3386-478F-9D04-4E2AE1C807C9%7D&amp;ColumnWidth3=%7B670536BF-55BC-4EBD-BBE5-00D9A5E9AF50%7D%7C%7B5989A7F1-3386-478F-9D04-4E2AE1C807C9%7D&amp;ColumnWidth4=%7B670536BF-55BC-4EBD-BBE5-00D9A5E9AF50%7D%7C%7B5989A7F1-3386-478F-9D04-4E2AE1C807C9%7D&amp;ColumnWidth5&amp;ColumnWidth6&amp;ColumnWidth7&amp;ColumnWidth8&amp;GridParameters=%7BF61E01E9-711A-4C99-AE30-4E28463E1DF7%7D&amp;SplitterSize=4&amp;EnabledPlaceholders=1%2C2%2C3%2C4&amp;FieldNames&amp;Styles1&amp;Styles2&amp;Styles3&amp;Styles4&amp;Styles5&amp;Styles6&amp;Styles7&amp;Styles=%7C%7BACA1D298-4F90-4EA9-8281-82D0BBB1E353%7D&amp;Styles8&amp;RenderingIdentifier&amp;CSSStyles&amp;DynamicPlaceholderId=6"
+              s:ph="/headless-main/container-4" />
+            <r
+              uid="{E164419B-F6CB-41F4-95D2-7F01BAE9E8BA}"
+              p:after="r[@uid='{920BACED-346B-4AA0-A06F-8B20AF336640}']"
+              s:ds="local:/Data/ICMP Certifies Over 10000 Physicians Through Digital Fellowship Network"
+              s:id="{2AC9F9B4-0E80-4B4E-BC71-A52B5F1C8D9B}"
+              s:par="CardOrientation=vertical&amp;ImageOrder&amp;HeaderTag&amp;LinkType=Button&amp;GridParameters=%7BF61E01E9-711A-4C99-AE30-4E28463E1DF7%7D&amp;FieldNames=%7B3427D6A0-EB73-4CB7-A24F-FBE8CD8FB35A%7D&amp;Styles&amp;RenderingIdentifier&amp;CSSStyles&amp;DynamicPlaceholderId=7"
+              s:ph="/headless-main/container-4/column-1-5" />
+            <r
+              uid="{D0CE03AA-8B8D-4177-B72B-6BFD593D9D4C}"
+              p:after="r[@uid='{E164419B-F6CB-41F4-95D2-7F01BAE9E8BA}']"
+              s:ds="local:/Data/Statement Regarding Our Ever-Changing Environment"
+              s:id="{2AC9F9B4-0E80-4B4E-BC71-A52B5F1C8D9B}"
+              s:par="CardOrientation=vertical&amp;ImageOrder&amp;HeaderTag&amp;LinkType=Button&amp;GridParameters=%7BF61E01E9-711A-4C99-AE30-4E28463E1DF7%7D&amp;FieldNames=%7B3427D6A0-EB73-4CB7-A24F-FBE8CD8FB35A%7D&amp;Styles&amp;RenderingIdentifier&amp;CSSStyles&amp;DynamicPlaceholderId=8"
+              s:ph="/headless-main/container-4/column-2-5" />
+            <r
+              uid="{E1221ED2-7DF6-4D72-8AB4-65EF0D22D1A0}"
+              p:after="r[@uid='{D0CE03AA-8B8D-4177-B72B-6BFD593D9D4C}']"
+              s:ds="local:/Data/ICMP Launches Global Telemedicine Accreditation Program"
+              s:id="{2AC9F9B4-0E80-4B4E-BC71-A52B5F1C8D9B}"
+              s:par="CardOrientation=vertical&amp;ImageOrder&amp;HeaderTag&amp;LinkType=Button&amp;GridParameters=%7BF61E01E9-711A-4C99-AE30-4E28463E1DF7%7D&amp;FieldNames=%7B3427D6A0-EB73-4CB7-A24F-FBE8CD8FB35A%7D&amp;Styles&amp;RenderingIdentifier&amp;CSSStyles&amp;DynamicPlaceholderId=9"
+              s:ph="/headless-main/container-4/column-3-5" />
+            <r
+              uid="{D8CFE92D-58B6-41D8-905F-6FEFDD5BF9A8}"
+              p:after="r[@uid='{E1221ED2-7DF6-4D72-8AB4-65EF0D22D1A0}']"
+              s:ds="local:/Data/Dr Aminata Diouf Addresses UN on Climate Health Crisis"
+              s:id="{2AC9F9B4-0E80-4B4E-BC71-A52B5F1C8D9B}"
+              s:par="CardOrientation=vertical&amp;ImageOrder&amp;HeaderTag&amp;LinkType=Button&amp;GridParameters=%7BF61E01E9-711A-4C99-AE30-4E28463E1DF7%7D&amp;FieldNames=%7B3427D6A0-EB73-4CB7-A24F-FBE8CD8FB35A%7D&amp;Styles&amp;RenderingIdentifier&amp;CSSStyles&amp;DynamicPlaceholderId=10"
+              s:ph="/headless-main/container-4/column-4-5" />
+            <r
+              uid="{7336F38E-6E35-4DA2-BE30-025DD3315ADB}"
+              p:after="r[@uid='{D8CFE92D-58B6-41D8-905F-6FEFDD5BF9A8}']"
+              s:ds="local:/Data/Dr Javier Ortega Named Chair of Global Research Equity Consortium"
+              s:id="{2AC9F9B4-0E80-4B4E-BC71-A52B5F1C8D9B}"
+              s:par="CardOrientation=vertical&amp;ImageOrder&amp;HeaderTag&amp;LinkType=Button&amp;GridParameters=%7BF61E01E9-711A-4C99-AE30-4E28463E1DF7%7D&amp;FieldNames=%7B3427D6A0-EB73-4CB7-A24F-FBE8CD8FB35A%7D&amp;Styles&amp;RenderingIdentifier&amp;CSSStyles&amp;DynamicPlaceholderId=11"
+              s:ph="/headless-main/container-4/column-1-6" />
+            <r
+              uid="{0FE0C288-28E7-4140-8C27-182DA272A163}"
+              p:after="r[@uid='{7336F38E-6E35-4DA2-BE30-025DD3315ADB}']"
+              s:ds="local:/Data/ICMP Releases Updated International Code of Medical Conduct"
+              s:id="{2AC9F9B4-0E80-4B4E-BC71-A52B5F1C8D9B}"
+              s:par="CardOrientation=vertical&amp;ImageOrder&amp;HeaderTag&amp;LinkType=Button&amp;GridParameters=%7BF61E01E9-711A-4C99-AE30-4E28463E1DF7%7D&amp;FieldNames=%7B3427D6A0-EB73-4CB7-A24F-FBE8CD8FB35A%7D&amp;Styles&amp;RenderingIdentifier&amp;CSSStyles&amp;DynamicPlaceholderId=12"
+              s:ph="/headless-main/container-4/column-2-6" />
+            <r
+              uid="{88963BAC-4B68-43CC-B164-DD676BE04358}"
+              p:after="r[@uid='{0FE0C288-28E7-4140-8C27-182DA272A163}']"
+              s:ds="local:/Data/ICMP Expands Regional Offices in Southeast Asia and West Africa"
+              s:id="{2AC9F9B4-0E80-4B4E-BC71-A52B5F1C8D9B}"
+              s:par="CardOrientation=vertical&amp;ImageOrder&amp;HeaderTag&amp;LinkType=Button&amp;GridParameters=%7BF61E01E9-711A-4C99-AE30-4E28463E1DF7%7D&amp;FieldNames=%7B3427D6A0-EB73-4CB7-A24F-FBE8CD8FB35A%7D&amp;Styles&amp;RenderingIdentifier&amp;CSSStyles&amp;DynamicPlaceholderId=13"
+              s:ph="/headless-main/container-4/column-3-6" />
+            <r
+              uid="{70E77748-EE38-4F05-9C1E-2306360311BC}"
+              p:after="*[1=2]"
+              s:ds="local:/Data/ICMP Hosts First Hybrid Global Congress Since Pandemic"
+              s:id="{2AC9F9B4-0E80-4B4E-BC71-A52B5F1C8D9B}"
+              s:par="CardOrientation=vertical&amp;ImageOrder&amp;HeaderTag&amp;LinkType=Button&amp;GridParameters=%7BF61E01E9-711A-4C99-AE30-4E28463E1DF7%7D&amp;FieldNames=%7B3427D6A0-EB73-4CB7-A24F-FBE8CD8FB35A%7D&amp;Styles&amp;RenderingIdentifier&amp;CSSStyles&amp;DynamicPlaceholderId=14"
+              s:ph="/headless-main/container-4/column-4-6" />
+          </d>
+        </r>
+    - ID: "06890ecb-5786-4776-8d76-19250477a9bc"
+      Hint: MetaImage
+      Value: |
+        <image mediaid="{B64FCD49-D691-4CE6-A2D6-A2CB618C59B1}" alt="Blogs" height="" width="" hspace="" vspace="" />
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20250811T060905Z
+    - ID: "3e431de1-525e-47a3-b6b0-1ccbec3a8c98"
+      Hint: __Workflow state
+      Value: "{F7F71754-F47E-4605-AD5B-87F78974DD92}"
+    - ID: "4e0720e9-9d50-4ddc-87cf-ecd65e8e94c8"
+      Hint: NavigationTitle
+      Value: Blogues
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+      Hint: __Owner
+      Value: |
+        sitecore\karthikeyan.kumaravel@altudo.co
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\karthikeyan.kumaravel@altudo.co
+    - ID: "78bd5b13-d9ab-44a4-bae4-c2dda0ad6133"
+      Hint: IntroText
+      Value: |
+        <div class="ck-content">
+        <p>Il &eacute;tait une fois, dans un pays lointain, un roi tr&egrave;s paresseux qui passait ses journ&eacute;es &agrave; se pr&eacute;lasser sur son canap&eacute;.&nbsp;</p>
+        <p>tr&ocirc;ne. Un jour, ses conseillers vinrent le trouver avec un probl&egrave;me&nbsp;: le royaume &eacute;tait &agrave; court d&rsquo;argent.</p>
+        </div>
+    - ID: "7cba72f9-1513-41af-ba26-de761f138805"
+      Hint: Title
+      Value: Perspectives récentes
+    - ID: "85f5b648-1823-4509-b7fd-27deacdf2dff"
+      Hint: MetaDescription
+      Value: Restez à l'affût des derniers articles de blogue, conseils et analyses d'experts sur la gestion de contenu et la transformation numérique avec XM Cloud.
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "fd20550e-7312-4cc2-af93-a5571cf6d97a"
+    - ID: "92c233dc-a8b3-4fd0-bb3f-e82a8b49bed2"
+      Hint: MetaTitle
+      Value: "XM Cloud Fast Lane - Derniers articles de blogue"
+    - ID: "9f4483ca-f858-45d1-86a5-0a69c9ab6207"
+      Hint: MetaKeywords
+      Value: Blogue XM Cloud, analyses de gestion de contenu, transformation numérique, nouvelles Sitecore, mises à jour Fast Lane
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\karthikeyan.kumaravel@altudo.co
+    - ID: "c24e85bf-697a-4e60-92ce-c0d557ce510e"
+      Hint: NavigationDescription
+      Value: Restez à l'affût des derniers articles de blogue, conseils et analyses d'experts sur la gestion de contenu et la transformation numérique avec Fastlane XM Cloud.
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20251201T182721Z
+    - ID: "f56d5ae9-cbca-48e1-b47e-e06a7561fc5d"
+      Hint: CalltoActionLinkMain
+      Value: |
+        <link text="Abonnez-vous pour recevoir les nouvelles" anchor="" linktype="internal" class="" title="" target="" querystring="" id="{B30F90C0-ED99-45FA-9B4A-8F548EBC82F8}" />

@@ -1,0 +1,96 @@
+﻿---
+ID: "09f0d7c6-480c-4115-b99d-e192633e5ace"
+Parent: "4acd44be-30c8-4193-8591-30e7d0341d07"
+Template: "6f108e3c-5d57-42f8-a910-c22920269b0a"
+Path: /sitecore/content/FastLaneTenant/fastlanewebsite/Data/Link Lists/Header/MegaNav Solutions LinkList2/Installation
+BranchID: "f2490b61-7d7d-4bbf-8cf6-3b355fdf4ce4"
+SharedFields:
+- ID: "a4f985d9-98b3-4b52-aaaf-4344f6e747c6"
+  Hint: __Workflow
+  Value: "{9A1B3B33-17C0-4DAE-A533-CEC7FA11F68A}"
+- ID: "ba3f86a2-4a1c-4d78-b63d-91c2779c1b5e"
+  Hint: __Sortorder
+  Value: 50
+- ID: "dbbbeca1-21c7-4906-9dd2-493c1efa59a2"
+  Hint: __Shared revision
+  Value: "275ffbb0-6aea-4f7a-8c7b-ea3a3d79c2e8"
+- ID: "f6d8a61c-2f84-4401-bd24-52d2068172bc"
+  Hint: __Originator
+  Value: "{0D4590EB-C925-4056-BDB9-222EC424247B}"
+Languages:
+- Language: "ar-AE"
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20250618T132218Z
+    - ID: "3e431de1-525e-47a3-b6b0-1ccbec3a8c98"
+      Hint: __Workflow state
+      Value: "{B71D5C66-667B-4CF1-BE66-342C8B59A4DB}"
+    - ID: "68c2a603-f98e-42a3-be2d-dd70598c2a63"
+      Hint: Link
+      Value: |
+        <link text="مساهماتنا" anchor="" linktype="internal" class="" title="مساهماتنا" target="" querystring="" id="{0ADFD485-E57C-417A-B2E4-DE7A3D381DCE}" />
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "e97e7c66-8fc8-41ed-abd7-3497d2ab951d"
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\karthikeyan.kumaravel@altudo.co
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20251106T065919Z
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20250618T132218Z
+    - ID: "3e431de1-525e-47a3-b6b0-1ccbec3a8c98"
+      Hint: __Workflow state
+      Value: "{B71D5C66-667B-4CF1-BE66-342C8B59A4DB}"
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\karthikeyan.kumaravel@altudo.co
+    - ID: "68c2a603-f98e-42a3-be2d-dd70598c2a63"
+      Hint: Link
+      Value: |
+        <link text="Our Contributions" anchor="" linktype="internal" class="" title="Our Contributions" target="" querystring="" id="{0ADFD485-E57C-417A-B2E4-DE7A3D381DCE}" />
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "9101401c-c6df-4252-bd05-680378d3c718"
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\karthikeyan.kumaravel@altudo.co
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20251016T072749Z
+- Language: "fr-CA"
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20250618T132218Z
+    - ID: "3e431de1-525e-47a3-b6b0-1ccbec3a8c98"
+      Hint: __Workflow state
+      Value: "{B71D5C66-667B-4CF1-BE66-342C8B59A4DB}"
+    - ID: "68c2a603-f98e-42a3-be2d-dd70598c2a63"
+      Hint: Link
+      Value: |
+        <link text="Nos contributions" anchor="" linktype="internal" class="" title="Nos contributions" target="" querystring="" id="{0ADFD485-E57C-417A-B2E4-DE7A3D381DCE}" />
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "34561db6-1aee-4837-971c-689ddcf083f0"
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\karthikeyan.kumaravel@altudo.co
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20251109T200055Z

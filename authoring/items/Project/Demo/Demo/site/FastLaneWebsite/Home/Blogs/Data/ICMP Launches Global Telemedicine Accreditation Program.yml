@@ -1,0 +1,148 @@
+﻿---
+ID: "e92f680e-26eb-4979-9c99-73f0fc3e0e5d"
+Parent: "6bfdc1b7-22c0-40d2-b2df-d35f9cff49d8"
+Template: "e58b7dbf-2a15-4a94-ad45-9c250ac1ac68"
+Path: /sitecore/content/FastLaneTenant/fastlanewebsite/Home/Blogs/Data/ICMP Launches Global Telemedicine Accreditation Program
+SharedFields:
+- ID: "a4f985d9-98b3-4b52-aaaf-4344f6e747c6"
+  Hint: __Workflow
+  Value: "{9A1B3B33-17C0-4DAE-A533-CEC7FA11F68A}"
+- ID: "dbbbeca1-21c7-4906-9dd2-493c1efa59a2"
+  Hint: __Shared revision
+  Value: "2a0a5a67-1229-4374-a858-36c59b657648"
+Languages:
+- Language: "ar-AE"
+  Fields:
+  - ID: "30e85e5d-e00a-4864-b358-7624d511deb4"
+    Hint: __Unversioned revision
+    Value: "57d84b5b-dddb-4147-a34a-28de5abfdb48"
+  - ID: "b5e02ad9-d56f-4c41-a065-a133db87bdeb"
+    Hint: __Display name
+    Value: 
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20250616T073040Z
+    - ID: "3e431de1-525e-47a3-b6b0-1ccbec3a8c98"
+      Hint: __Workflow state
+      Value: "{B71D5C66-667B-4CF1-BE66-342C8B59A4DB}"
+    - ID: "6128ed46-0b79-4d6a-87ad-ac6fe70c649c"
+      Hint: Category
+      Value: هذا مخصص
+    - ID: "78bd5b13-d9ab-44a4-bae4-c2dda0ad6133"
+      Hint: IntroText
+      Value: أطلقت ICMP أول نظام اعتماد دولي في العالم لمقدمي خدمات الطب عن بُعد، بهدف ضمان توفير رعاية افتراضية آمنة وأخلاقية وموحدة عبر الحدود والمنصات.
+    - ID: "7cba72f9-1513-41af-ba26-de761f138805"
+      Hint: Title
+      Value: ICMP تطلق برنامج اعتماد عالمي للطب عن بعد
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "cec70229-b29d-4ecf-80af-63d4046fbbee"
+    - ID: "ba41d59c-a2b6-4f14-8913-7734549cce04"
+      Hint: Image
+      Value: |
+        <image mediaid="{91CD5DFA-8BC0-48B5-943A-E7689E560172}" alt="ICMP Launches" height="" width="" hspace="" vspace="" />
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\karthikeyan.kumaravel@altudo.co
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20251106T200118Z
+    - ID: "f56d5ae9-cbca-48e1-b47e-e06a7561fc5d"
+      Hint: CalltoActionLinkMain
+      Value: |
+        <link text="اقرأ المقال" linktype="external" url="https://xmc-fast-lane.vercel.app/blogs/icmp-launches" anchor="" title="اقرأ المقال" target="" />
+- Language: en
+  Fields:
+  - ID: "30e85e5d-e00a-4864-b358-7624d511deb4"
+    Hint: __Unversioned revision
+    Value: "7158455c-6b9f-45fb-ab91-704ad186533c"
+  - ID: "b5e02ad9-d56f-4c41-a065-a133db87bdeb"
+    Hint: __Display name
+    Value: 
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "001dd393-96c5-490b-924a-b0f25cd9efd8"
+      Hint: __Lock
+      Value: <r />
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20250616T073040Z
+    - ID: "3e431de1-525e-47a3-b6b0-1ccbec3a8c98"
+      Hint: __Workflow state
+      Value: "{B71D5C66-667B-4CF1-BE66-342C8B59A4DB}"
+    - ID: "6128ed46-0b79-4d6a-87ad-ac6fe70c649c"
+      Hint: Category
+      Value: This is an earmark
+    - ID: "78bd5b13-d9ab-44a4-bae4-c2dda0ad6133"
+      Hint: IntroText
+      Value: The ICMP has introduced the world&rsquo;s first international accreditation system for telemedicine providers, aiming to ensure safe, ethical, and standardized virtual care across borders and platforms.
+    - ID: "7cba72f9-1513-41af-ba26-de761f138805"
+      Hint: Title
+      Value: ICMP Launches Global Telemedicine Accreditation Program
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "c1536ffb-abce-4c54-aec2-33e352aa7c72"
+    - ID: "ba41d59c-a2b6-4f14-8913-7734549cce04"
+      Hint: Image
+      Value: |
+        <image mediaid="{91CD5DFA-8BC0-48B5-943A-E7689E560172}" />
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\karthikeyan.kumaravel@altudo.co
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20251028T143533Z
+    - ID: "f56d5ae9-cbca-48e1-b47e-e06a7561fc5d"
+      Hint: CalltoActionLinkMain
+      Value: |
+        <link linktype="internal" id="0a1c1cb93b6e453ea69b407f4fb28c8f" anchor="" querystring="" target="" class="" text="Read the Article" title=""/>
+- Language: "fr-CA"
+  Fields:
+  - ID: "30e85e5d-e00a-4864-b358-7624d511deb4"
+    Hint: __Unversioned revision
+    Value: "c03c07b4-80ce-45a5-a0ec-9bb9cdf9e061"
+  - ID: "b5e02ad9-d56f-4c41-a065-a133db87bdeb"
+    Hint: __Display name
+    Value: 
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20250616T073040Z
+    - ID: "3e431de1-525e-47a3-b6b0-1ccbec3a8c98"
+      Hint: __Workflow state
+      Value: "{B71D5C66-667B-4CF1-BE66-342C8B59A4DB}"
+    - ID: "6128ed46-0b79-4d6a-87ad-ac6fe70c649c"
+      Hint: Category
+      Value: Il s'agit d'une affectation spéciale
+    - ID: "78bd5b13-d9ab-44a4-bae4-c2dda0ad6133"
+      Hint: IntroText
+      Value: "L&rsquo;ICMP a mis en place le premier syst&egrave;me d&rsquo;accr&eacute;ditation international au monde pour les fournisseurs de t&eacute;l&eacute;m&eacute;decine, visant &agrave; garantir des soins virtuels s&ucirc;rs, &eacute;thiques et standardis&eacute;s au-del&agrave; des fronti&egrave;res et des plateformes."
+    - ID: "7cba72f9-1513-41af-ba26-de761f138805"
+      Hint: Title
+      Value: L'ICMP lance un programme mondial d'agrément en télémédecine
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "491c976f-60c9-4948-b783-dd3acc1d1e1f"
+    - ID: "ba41d59c-a2b6-4f14-8913-7734549cce04"
+      Hint: Image
+      Value: |
+        <image mediaid="{91CD5DFA-8BC0-48B5-943A-E7689E560172}" alt="Telemedicine" height="" width="" hspace="" vspace="" />
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\karthikeyan.kumaravel@altudo.co
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20251127T092242Z
+    - ID: "f56d5ae9-cbca-48e1-b47e-e06a7561fc5d"
+      Hint: CalltoActionLinkMain
+      Value: |
+        <link text="Lire l'article" anchor="" linktype="internal" class="" title="Lire l'article" target="" querystring="" id="{0A1C1CB9-3B6E-453E-A69B-407F4FB28C8F}" />

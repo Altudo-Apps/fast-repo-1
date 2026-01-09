@@ -1,0 +1,120 @@
+﻿---
+ID: "f564eed4-3ec1-4f11-908c-f0370b6e5735"
+Parent: "846f0028-c858-4517-9e5d-6afe4f6bfcf7"
+Template: "c16a4c28-0a40-4d2c-9f19-20648c62b054"
+Path: /sitecore/content/FastLaneTenant/fastlanewebsite/Data/SocialShare/X
+SharedFields:
+- ID: "a4f985d9-98b3-4b52-aaaf-4344f6e747c6"
+  Hint: __Workflow
+  Value: "{9A1B3B33-17C0-4DAE-A533-CEC7FA11F68A}"
+- ID: "dbbbeca1-21c7-4906-9dd2-493c1efa59a2"
+  Hint: __Shared revision
+  Value: "419efbd5-0b79-4bf0-bf04-72b1469cf8c6"
+Languages:
+- Language: "ar-AE"
+  Fields:
+  - ID: "30e85e5d-e00a-4864-b358-7624d511deb4"
+    Hint: __Unversioned revision
+    Value: "5b984c93-ea63-482f-9491-680ba062a574"
+  - ID: "b5e02ad9-d56f-4c41-a065-a133db87bdeb"
+    Hint: __Display name
+    Value: 
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20250225T070212Z
+    - ID: "3e431de1-525e-47a3-b6b0-1ccbec3a8c98"
+      Hint: __Workflow state
+      Value: "{B71D5C66-667B-4CF1-BE66-342C8B59A4DB}"
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "d4912e19-febf-4076-aac6-c2999142bfa8"
+    - ID: "aa4e5f92-cbb0-4134-ba73-fe27fc4e2e7a"
+      Hint: SocialIcon
+      Value: |
+        <image mediaid="{8F4207AF-DC45-4EE4-844E-EB14ECF227A1}" alt="X" height="" width="" hspace="" vspace="" />
+    - ID: "ba0a52e5-b8a7-46fd-b24d-815c5d720b96"
+      Hint: Title
+      Value: X
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\karthikeyan.kumaravel@altudo.co
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20251104T182333Z
+- Language: en
+  Fields:
+  - ID: "30e85e5d-e00a-4864-b358-7624d511deb4"
+    Hint: __Unversioned revision
+    Value: "807f80aa-8c2b-446a-a13f-adf20bd286dd"
+  - ID: "b5e02ad9-d56f-4c41-a065-a133db87bdeb"
+    Hint: __Display name
+    Value: 
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20250225T070212Z
+    - ID: "3e431de1-525e-47a3-b6b0-1ccbec3a8c98"
+      Hint: __Workflow state
+      Value: "{B71D5C66-667B-4CF1-BE66-342C8B59A4DB}"
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "06e1ff20-7653-45aa-82a6-8b06cbcc50af"
+    - ID: "aa4e5f92-cbb0-4134-ba73-fe27fc4e2e7a"
+      Hint: SocialIcon
+      Value: |
+        <image mediaid="{8F4207AF-DC45-4EE4-844E-EB14ECF227A1}" alt="X" height="" width="" hspace="" vspace="" />
+    - ID: "ba0a52e5-b8a7-46fd-b24d-815c5d720b96"
+      Hint: Title
+      Value: X
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\andy.cohen@altudo.co
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20250628T214046Z
+- Language: "fr-CA"
+  Fields:
+  - ID: "30e85e5d-e00a-4864-b358-7624d511deb4"
+    Hint: __Unversioned revision
+    Value: "693df26a-bb7d-4d2b-9f4e-cc381dd5b3e1"
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20250225T070212Z
+    - ID: "3e431de1-525e-47a3-b6b0-1ccbec3a8c98"
+      Hint: __Workflow state
+      Value: "{B71D5C66-667B-4CF1-BE66-342C8B59A4DB}"
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+      Hint: __Owner
+      Value: |
+        sitecore\karthikeyan.kumaravel@altudo.co
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\karthikeyan.kumaravel@altudo.co
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "9ec96328-c390-41d6-911d-248d62e85aa0"
+    - ID: "aa4e5f92-cbb0-4134-ba73-fe27fc4e2e7a"
+      Hint: SocialIcon
+      Value: |
+        <image mediaid="{8F4207AF-DC45-4EE4-844E-EB14ECF227A1}" alt="X" height="" width="" hspace="" vspace="" />
+    - ID: "ba0a52e5-b8a7-46fd-b24d-815c5d720b96"
+      Hint: Title
+      Value: X
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\karthikeyan.kumaravel@altudo.co
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20251104T181354Z

@@ -1,0 +1,40 @@
+﻿---
+ID: "6ef3d829-3f84-4289-b5fc-7a06e585ccf5"
+Parent: "7cbcf8b9-ba69-43ce-b10b-1a8856fb0e55"
+Template: "67e51aca-745b-4251-a749-cae42832d061"
+Path: /sitecore/content/FastLaneTenant/global/Data/BlogPostList/RelatedBlogPostList/Plans for small business
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20251111T054136Z
+    - ID: "6128ed46-0b79-4d6a-87ad-ac6fe70c649c"
+      Hint: Category
+      Value: This is an earmark
+    - ID: "78bd5b13-d9ab-44a4-bae4-c2dda0ad6133"
+      Hint: IntroText
+      Value: Lets have a decent paragraph description here around the content of the card, and what we wanna say
+    - ID: "7cba72f9-1513-41af-ba26-de761f138805"
+      Hint: Title
+      Value: Plans for small business
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "5ba90feb-f6f6-4cf3-a2c4-61b4828a4a69"
+    - ID: "ba41d59c-a2b6-4f14-8913-7734549cce04"
+      Hint: Image
+      Value: |
+        <image mediaid="{A6FA4886-81F9-4320-8D66-FE66B0A0672E}" />
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\karthikeyan.kumaravel@altudo.co
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20251111T054625Z
+    - ID: "f56d5ae9-cbca-48e1-b47e-e06a7561fc5d"
+      Hint: CalltoActionLinkMain
+      Value: |
+        <link text="Learn More" linktype="external" url="https://www.altudo.co" anchor="" target="" />

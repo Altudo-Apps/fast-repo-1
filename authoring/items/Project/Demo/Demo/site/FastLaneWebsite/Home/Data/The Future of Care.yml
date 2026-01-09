@@ -1,0 +1,150 @@
+﻿---
+ID: "90b15637-6654-42c4-bce5-2c1aeea93c1d"
+Parent: "debef755-9c8a-4d73-8720-ed81a3f82b41"
+Template: "e58b7dbf-2a15-4a94-ad45-9c250ac1ac68"
+Path: /sitecore/content/FastLaneTenant/fastlanewebsite/Home/Data/The Future of Care
+SharedFields:
+- ID: "a4f985d9-98b3-4b52-aaaf-4344f6e747c6"
+  Hint: __Workflow
+  Value: "{9A1B3B33-17C0-4DAE-A533-CEC7FA11F68A}"
+- ID: "ba3f86a2-4a1c-4d78-b63d-91c2779c1b5e"
+  Hint: __Sortorder
+  Value: 100
+- ID: "dbbbeca1-21c7-4906-9dd2-493c1efa59a2"
+  Hint: __Shared revision
+  Value: "08589977-883a-44fd-af21-bf4bcf7d28a4"
+Languages:
+- Language: "ar-AE"
+  Fields:
+  - ID: "30e85e5d-e00a-4864-b358-7624d511deb4"
+    Hint: __Unversioned revision
+    Value: "5a5785a0-89cf-4742-a20a-15355459b7be"
+  - ID: "b5e02ad9-d56f-4c41-a065-a133db87bdeb"
+    Hint: __Display name
+    Value: 
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20250610T095046Z
+    - ID: "3e431de1-525e-47a3-b6b0-1ccbec3a8c98"
+      Hint: __Workflow state
+      Value: "{B71D5C66-667B-4CF1-BE66-342C8B59A4DB}"
+    - ID: "6128ed46-0b79-4d6a-87ad-ac6fe70c649c"
+      Hint: Category
+      Value: الذكاء الاصطناعي في الرعاية الصحية
+    - ID: "78bd5b13-d9ab-44a4-bae4-c2dda0ad6133"
+      Hint: IntroText
+      Value: |
+        <p dir="auto">استكشف كيف يمكن للذكاء الاصطناعي تحسين بروتوكولات العلاج، وتخصيص الرعاية، وتقليل التباين&mdash;مما يعزز نتائج المرضى وكفاءة اتخاذ قرارات الأطباء.</p>
+    - ID: "7cba72f9-1513-41af-ba26-de761f138805"
+      Hint: Title
+      Value: "مستقبل الرعاية: مسارات سريرية مدعومة بالذكاء الاصطناعي لتحقيق نتائج أفضل"
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "8c36435f-1f59-449d-88a9-3cb3426727ef"
+    - ID: "ba41d59c-a2b6-4f14-8913-7734549cce04"
+      Hint: Image
+      Value: |
+        <image mediaid="{3F21F722-7A21-48F8-985A-54622E2C3381}" alt="Future of Care" height="" width="" hspace="" vspace="" />
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\karthikeyan.kumaravel@altudo.co
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20251106T095912Z
+    - ID: "f56d5ae9-cbca-48e1-b47e-e06a7561fc5d"
+      Hint: CalltoActionLinkMain
+      Value: |
+        <link text="تعرف على المزيد" linktype="external" url="https://www.google.com" anchor="" title="تعرف على المزيد" target="" />
+- Language: en
+  Fields:
+  - ID: "30e85e5d-e00a-4864-b358-7624d511deb4"
+    Hint: __Unversioned revision
+    Value: "968dba9f-809c-47bd-8ac1-828dcf4280ab"
+  - ID: "b5e02ad9-d56f-4c41-a065-a133db87bdeb"
+    Hint: __Display name
+    Value: 
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20250610T095046Z
+    - ID: "3e431de1-525e-47a3-b6b0-1ccbec3a8c98"
+      Hint: __Workflow state
+      Value: "{B71D5C66-667B-4CF1-BE66-342C8B59A4DB}"
+    - ID: "6128ed46-0b79-4d6a-87ad-ac6fe70c649c"
+      Hint: Category
+      Value: AI in Healthcare
+    - ID: "78bd5b13-d9ab-44a4-bae4-c2dda0ad6133"
+      Hint: IntroText
+      Value: "Explore how artificial intelligence can optimize treatment protocols, personalize care, and reduce variability&mdash;enhancing both patient outcomes and clinician decision-making efficiency."
+    - ID: "7cba72f9-1513-41af-ba26-de761f138805"
+      Hint: Title
+      Value: "The Future of Care: AI-Driven Clinical Pathways for Better Outcomes"
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "b3cf808d-d4d6-45f2-9372-f6d338decd71"
+    - ID: "ba41d59c-a2b6-4f14-8913-7734549cce04"
+      Hint: Image
+      Value: |
+        <image mediaid="{3F21F722-7A21-48F8-985A-54622E2C3381}" />
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\andy.cohen@altudo.co
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20250628T214323Z
+    - ID: "f56d5ae9-cbca-48e1-b47e-e06a7561fc5d"
+      Hint: CalltoActionLinkMain
+      Value: |
+        <link text="Learn More" linktype="external" url="https://www.google.com" anchor="" target="" />
+- Language: "fr-CA"
+  Fields:
+  - ID: "30e85e5d-e00a-4864-b358-7624d511deb4"
+    Hint: __Unversioned revision
+    Value: "90627d8a-429f-4995-b26f-5dda99022fdb"
+  - ID: "b5e02ad9-d56f-4c41-a065-a133db87bdeb"
+    Hint: __Display name
+    Value: 
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20250610T095046Z
+    - ID: "3e431de1-525e-47a3-b6b0-1ccbec3a8c98"
+      Hint: __Workflow state
+      Value: "{B71D5C66-667B-4CF1-BE66-342C8B59A4DB}"
+    - ID: "6128ed46-0b79-4d6a-87ad-ac6fe70c649c"
+      Hint: Category
+      Value: IA en santé
+    - ID: "78bd5b13-d9ab-44a4-bae4-c2dda0ad6133"
+      Hint: IntroText
+      Value: |
+        <p dir="auto">Explorez comment l'intelligence artificielle peut optimiser les protocoles de traitement, personnaliser les soins et r&eacute;duire la variabilit&eacute; &mdash; en am&eacute;liorant &agrave; la fois les r&eacute;sultats pour les patients et l'efficacit&eacute; de la prise de d&eacute;cision des cliniciens.</p>
+    - ID: "7cba72f9-1513-41af-ba26-de761f138805"
+      Hint: Title
+      Value: "L'avenir des soins : Voies cliniques pilotées par l'IA pour de meilleurs résultats"
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "f3c4495b-5266-478f-8029-51f55c45aef5"
+    - ID: "ba41d59c-a2b6-4f14-8913-7734549cce04"
+      Hint: Image
+      Value: |
+        <image mediaid="{3F21F722-7A21-48F8-985A-54622E2C3381}" alt="ContentSectionImage" height="" width="" hspace="" vspace="" />
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\karthikeyan.kumaravel@altudo.co
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20251105T060937Z
+    - ID: "f56d5ae9-cbca-48e1-b47e-e06a7561fc5d"
+      Hint: CalltoActionLinkMain
+      Value: |
+        <link text="En savoir plus" linktype="external" url="https://www.google.com" anchor="" target="" />

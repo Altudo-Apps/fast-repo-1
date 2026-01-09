@@ -1,0 +1,358 @@
+﻿---
+ID: "18d2ac2d-7ea9-4b61-a7b1-df15edcb0066"
+Parent: "6f8af16c-8165-4e94-b6c0-2a3abbd31b4c"
+Template: "350838af-2729-4435-accd-f1bdb79ef733"
+Path: /sitecore/content/FastLaneTenant/fastlanewebsite/Home/Blogs/BlogArticles/i/ICMP Expands
+BranchID: "85f6266a-c591-4ada-85cb-c6cdd8775f47"
+SharedFields:
+- ID: "a4f985d9-98b3-4b52-aaaf-4344f6e747c6"
+  Hint: __Workflow
+  Value: "{CF913994-CC05-4D20-B38A-9CF1E73F5951}"
+- ID: "dbbbeca1-21c7-4906-9dd2-493c1efa59a2"
+  Hint: __Shared revision
+  Value: "b5090d37-b420-45b7-a294-4198b58fc5bb"
+- ID: "f6d8a61c-2f84-4401-bd24-52d2068172bc"
+  Hint: __Originator
+  Value: "{64A8D11E-D36B-4319-AEA1-E7C4976224D1}"
+Languages:
+- Language: "ar-AE"
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "04bf00db-f5fb-41f7-8ab7-22408372a981"
+      Hint: __Final Renderings
+      Value: |
+        <r xmlns:p="p" xmlns:s="s"
+          p:p="1">
+          <d
+            id="{FE5D7FDF-89C0-4D99-9AA3-B5FBD009C9F3}">
+            <r
+              uid="{E6577B7B-5EEC-43F0-A751-6457290EBB0D}"
+              p:before="*"
+              s:id="{B7C649C8-C683-44CB-9A87-AEBEA3DA8EB3}"
+              s:par="GridParameters=%7BF61E01E9-711A-4C99-AE30-4E28463E1DF7%7D&amp;FieldNames=%7B129985C4-D854-49F5-9602-9E1D1B8DF899%7D&amp;BackgroundImage&amp;Styles=%7C%7B0D8280A3-A4C1-4AAD-8392-30B3080349C8%7D&amp;RenderingIdentifier&amp;CSSStyles&amp;DynamicPlaceholderId=1"
+              s:ph="headless-main" />
+            <r
+              uid="{ECCDC050-7EDE-47E9-ABE3-73295D3277CC}"
+              p:after="r[@uid='{E6577B7B-5EEC-43F0-A751-6457290EBB0D}']"
+              s:id="{F7295588-FA7F-448E-B222-F64005B22E8D}"
+              s:par="GridParameters=%7BF61E01E9-711A-4C99-AE30-4E28463E1DF7%7D&amp;ImageOrder&amp;FieldNames=%7BBAC81150-16BD-4AED-9DF5-6FB5C82E1B95%7D&amp;Styles=%7C%7BDA96D040-41DE-4486-A4D1-6CEDECA18E14%7D&amp;RenderingIdentifier&amp;CSSStyles&amp;DynamicPlaceholderId=3"
+              s:ph="headless-main" />
+            <r
+              uid="{9ADB19C9-8277-4F47-95DF-BDE94C39F41E}"
+              p:after="r[@uid='{ECCDC050-7EDE-47E9-ABE3-73295D3277CC}']"
+              s:id="{B7C649C8-C683-44CB-9A87-AEBEA3DA8EB3}"
+              s:par="GridParameters=%7BF61E01E9-711A-4C99-AE30-4E28463E1DF7%7D&amp;FieldNames=%7B129985C4-D854-49F5-9602-9E1D1B8DF899%7D&amp;BackgroundImage&amp;Styles=%7C%7B0D8280A3-A4C1-4AAD-8392-30B3080349C8%7D&amp;RenderingIdentifier&amp;CSSStyles&amp;DynamicPlaceholderId=4"
+              s:ph="headless-main" />
+            <r
+              uid="{392DA7C3-FB30-40FE-B216-ED447498DA55}"
+              p:after="r[@uid='{9ADB19C9-8277-4F47-95DF-BDE94C39F41E}']"
+              s:id="{D425DB5D-FFB0-4574-852C-C17D904CC3E7}"
+              s:par="GridParameters=%7BF61E01E9-711A-4C99-AE30-4E28463E1DF7%7D&amp;FieldNames=%7B6F83E0EE-E1C1-42D2-8B7B-DA86DFDD39DB%7D&amp;Styles=%7C%7B475E77AB-3D7F-4C96-A0C4-8164A8158C82%7D&amp;RenderingIdentifier&amp;CSSStyles&amp;DynamicPlaceholderId=2"
+              s:ph="/headless-main/container-1" />
+            <r
+              uid="{880AE9CD-2B91-402C-9EB6-3A21C918E730}"
+              p:after="r[@uid='{392DA7C3-FB30-40FE-B216-ED447498DA55}']"
+              s:id="{1409AEA2-6E60-4EA9-8813-CB229DF0E3B7}"
+              s:par="GridParameters=%7BF61E01E9-711A-4C99-AE30-4E28463E1DF7%7D&amp;FieldNames=%7B0EFC83ED-6584-40A0-91D4-56B2091E359B%7D&amp;Styles=%7C%7B475E77AB-3D7F-4C96-A0C4-8164A8158C82%7D%7C%7BACA1D298-4F90-4EA9-8281-82D0BBB1E353%7D&amp;RenderingIdentifier&amp;CSSStyles&amp;DynamicPlaceholderId=6"
+              s:ph="/headless-main/container-4" />
+            <r
+              uid="{5E0FE3EB-64F0-48FB-8A3C-AC763044C1AC}"
+              p:after="*[1=2]"
+              s:id="{C5F905F8-FD1F-444E-A9E5-AC6B774FF0DE}"
+              s:par="GridParameters=%7BF61E01E9-711A-4C99-AE30-4E28463E1DF7%7D&amp;Heading Tag&amp;FieldNames=%7B73D70018-AEEB-4FE5-A0F2-50B7BE67B1FF%7D&amp;Styles&amp;RenderingIdentifier&amp;CSSStyles&amp;DynamicPlaceholderId=5"
+              s:ph="/headless-main/container-4" />
+          </d>
+        </r>
+    - ID: "06890ecb-5786-4776-8d76-19250477a9bc"
+      Hint: MetaImage
+      Value: |
+        <image mediaid="{CBFC2ABD-74D0-40B6-AC93-ED4686FAB51B}" alt="ICMP Expands SE Asia" height="" width="" hspace="" vspace="" />
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20251028T130852Z
+    - ID: "3e431de1-525e-47a3-b6b0-1ccbec3a8c98"
+      Hint: __Workflow state
+      Value: "{F7F71754-F47E-4605-AD5B-87F78974DD92}"
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+      Hint: __Owner
+      Value: |
+        sitecore\karthikeyan.kumaravel@altudo.co
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\karthikeyan.kumaravel@altudo.co
+    - ID: "6128ed46-0b79-4d6a-87ad-ac6fe70c649c"
+      Hint: Category
+      Value: Insights
+    - ID: "6fb03d9c-e0f6-4765-831d-d5627c4e0b67"
+      Hint: Content
+      Value: |
+        <div class="ck-content"><p>In a strategic move to address surging public health demands and accelerate membership growth, the International Council for Medical Proficiency (ICMP) has inaugurated two new regional offices: one in Kuala Lumpur, Malaysia, serving Southeast Asia, and another in Dakar, Senegal, for West Africa. These ground-level hubs will enhance on-site training, accreditation services, and policy engagement, empowering local healthcare leaders to tackle region-specific challenges like infectious disease outbreaks, climate vulnerabilities, and workforce shortages with greater agility and cultural relevance.</p><p>&nbsp;</p><p><strong>Strategic Expansion: Meeting the Moment in Global Health</strong><br />The decision to establish these offices stems from ICMP's 2024 Global Needs Assessment, which revealed a 45% rise in demand for localized professional development in these high-growth regions. Southeast Asia, home to over 680 million people, grapples with urbanization-driven non-communicable diseases and post-pandemic recovery, while West Africa faces persistent threats from Ebola resurgence risks and maternal health inequities. By embedding operations locally, ICMP shifts from remote support to immersive partnerships, fostering sustainable capacity building.<br />"These offices represent ICMP's commitment to 'health equity from the ground up,'" said Dr. Bello at the joint virtual opening ceremony. "We're not just expanding our footprint—we're amplifying voices and expertise where they're needed most."</p><p>&nbsp;</p><p><strong>Spotlight on the New Hubs:</strong>&nbsp;Capabilities and Focus Areas<br />Each office is tailored to its region's unique ecosystem, staffed by multidisciplinary teams of clinicians, educators, and policy experts, with initial cohorts of 15-20 professionals per site.</p><p><strong>Kuala Lumpur Office (Southeast Asia Hub)</strong><br /><strong>Location and Launch:</strong>&nbsp;Situated in the heart of Malaysia's bustling capital, the office opened with a ribbon-cutting attended by Malaysian Health Minister Dr. Zaliha Mustafa.<br /><strong>Core Services:</strong><br /><strong>Training Programs:</strong>&nbsp;Hands-on workshops in digital health and disaster response, targeting 5,000 nurses and physicians annually through hybrid formats.<br /><strong>Accreditation Center:&nbsp;</strong>Streamlined certification for telemedicine and genomics specialists, reducing processing times from months to weeks.<br /><strong>Policy Engagement:</strong>&nbsp;Advocacy for ASEAN-wide standards on antimicrobial resistance, including roundtables with governments and NGOs.<br /><strong>Partnerships:</strong>&nbsp;Collaborations with institutions like the University of Malaya and the ASEAN Secretariat to integrate ICMP curricula into national health strategies.<br /><br /><strong>Dakar Office (West Africa Hub)</strong><br /><strong>Location and Launch:</strong>&nbsp;Overlooking the Atlantic in Senegal's vibrant capital, the hub was inaugurated alongside ECOWAS health officials, emphasizing pan-African solidarity.<br /><strong>Core Services:</strong><br /><strong>Training Programs:</strong>&nbsp;Focus on outbreak preparedness and community health worker upskilling, with mobile units extending reach to rural Sahel communities.<br /><strong>Accreditation Center:</strong>&nbsp;Specialized pathways for tropical medicine and equity-focused research, accrediting 2,000+ practitioners in Year 1.<br /><strong>Policy Engagement:</strong>&nbsp;Lobbying for climate-health integration in AU agendas, including funding for resilient supply chains amid Sahel droughts.<br /><strong>Partnerships:</strong>&nbsp;Alliances with the Africa CDC and local universities like Cheikh Anta Diop to co-develop French- and local-language resources.<br />Both offices feature state-of-the-art simulation labs and virtual collaboration suites, connected via ICMP's global network for seamless knowledge sharing.</p><p>&nbsp;</p><p><strong>Projected Impact: Driving Membership and Systemic Change</strong><br />This expansion is poised to supercharge ICMP's growth, aiming to double regional membership to 20,000 within three years. Early indicators are promising: Pre-launch surveys show 85% of prospective members citing "local access" as a key motivator. Beyond numbers, the offices will catalyze policy wins, such as harmonized accreditation across ASEAN borders and West African vaccination protocols.<br />Real-world testimonials underscore the urgency. Dr. Nguyen Thi Lan from Hanoi shared, "Proximity means faster support—ICMP's Kuala Lumpur team can now tailor training to our monsoon-flood response needs." In Dakar, community leader Fatou Sow added, "This hub will empower our midwives with credentials that open doors to better care for nomadic families."<br />&nbsp;</p><p><strong>A Call to Collaborate: Join the Regional Momentum</strong><br />ICMP invites healthcare professionals, institutions, and funders to connect with these new offices. Explore opportunities at icmp.org/regional-offices, from fellowship applications to sponsorships.<br />As Dr. Bello concluded, "In Southeast Asia's megacities and West Africa's resilient villages, we're building bridges to a healthier tomorrow—one local solution at a time."</p><p><br />Stay informed on our expansion through blog archives or the ICMP newsletter.</p></div>
+    - ID: "78bd5b13-d9ab-44a4-bae4-c2dda0ad6133"
+      Hint: IntroText
+      Value: To meet rising public health demands and boost membership, ICMP has opened new regional offices in Kuala Lumpur for Southeast Asia and Dakar for West Africa. These hubs enhance local training, accreditation, and policy engagement for more responsive, equitable care.
+    - ID: "7cba72f9-1513-41af-ba26-de761f138805"
+      Hint: Title
+      Value: ICMP Expands with Regional Offices in Southeast Asia and West Africa
+    - ID: "85f5b648-1823-4509-b7fd-27deacdf2dff"
+      Hint: MetaDescription
+      Value: ICMP expands with new offices in Kuala Lumpur and Dakar to address public health needs, enhancing training, accreditation, and policy in Southeast Asia and West Africa. Learn how this drives membership growth and equity.
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "c5411087-fae5-4568-a9c4-8faf741d2669"
+    - ID: "92c233dc-a8b3-4fd0-bb3f-e82a8b49bed2"
+      Hint: MetaTitle
+      Value: ICMP Opens Regional Offices in Southeast Asia and West Africa | Boosting Local Health Training
+    - ID: "9f4483ca-f858-45d1-86a5-0a69c9ab6207"
+      Hint: MetaKeywords
+      Value: ICMP regional offices, Southeast Asia health, West Africa healthcare, medical training, accreditation programs, global health expansion, policy engagement, health equity, Kuala Lumpur office, Dakar hub
+    - ID: "a667d11b-ca9f-4fbe-881f-2538eb51f432"
+      Hint: PublishedDate
+      Value: 20241112T000000Z
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\karthikeyan.kumaravel@altudo.co
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20251201T184653Z
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "001dd393-96c5-490b-924a-b0f25cd9efd8"
+      Hint: __Lock
+      Value: <r />
+    - ID: "04bf00db-f5fb-41f7-8ab7-22408372a981"
+      Hint: __Final Renderings
+      Value: |
+        <r xmlns:p="p" xmlns:s="s"
+          p:p="1">
+          <d
+            id="{FE5D7FDF-89C0-4D99-9AA3-B5FBD009C9F3}">
+            <r
+              uid="{E6577B7B-5EEC-43F0-A751-6457290EBB0D}"
+              p:before="*"
+              s:id="{B7C649C8-C683-44CB-9A87-AEBEA3DA8EB3}"
+              s:par="GridParameters=%7BF61E01E9-711A-4C99-AE30-4E28463E1DF7%7D&amp;FieldNames=%7B129985C4-D854-49F5-9602-9E1D1B8DF899%7D&amp;BackgroundImage&amp;Styles=%7C%7B0D8280A3-A4C1-4AAD-8392-30B3080349C8%7D&amp;RenderingIdentifier&amp;CSSStyles&amp;DynamicPlaceholderId=1"
+              s:ph="headless-main" />
+            <r
+              uid="{ECCDC050-7EDE-47E9-ABE3-73295D3277CC}"
+              p:after="r[@uid='{E6577B7B-5EEC-43F0-A751-6457290EBB0D}']"
+              s:id="{F7295588-FA7F-448E-B222-F64005B22E8D}"
+              s:par="GridParameters=%7BF61E01E9-711A-4C99-AE30-4E28463E1DF7%7D&amp;ImageOrder&amp;FieldNames=%7BBAC81150-16BD-4AED-9DF5-6FB5C82E1B95%7D&amp;Styles=%7C%7BDA96D040-41DE-4486-A4D1-6CEDECA18E14%7D&amp;RenderingIdentifier&amp;CSSStyles&amp;DynamicPlaceholderId=3"
+              s:ph="headless-main" />
+            <r
+              uid="{9ADB19C9-8277-4F47-95DF-BDE94C39F41E}"
+              p:after="r[@uid='{ECCDC050-7EDE-47E9-ABE3-73295D3277CC}']"
+              s:id="{B7C649C8-C683-44CB-9A87-AEBEA3DA8EB3}"
+              s:par="GridParameters=%7BF61E01E9-711A-4C99-AE30-4E28463E1DF7%7D&amp;FieldNames=%7B129985C4-D854-49F5-9602-9E1D1B8DF899%7D&amp;BackgroundImage&amp;Styles=%7C%7B0D8280A3-A4C1-4AAD-8392-30B3080349C8%7D&amp;RenderingIdentifier&amp;CSSStyles&amp;DynamicPlaceholderId=4"
+              s:ph="headless-main" />
+            <r
+              uid="{392DA7C3-FB30-40FE-B216-ED447498DA55}"
+              p:after="r[@uid='{9ADB19C9-8277-4F47-95DF-BDE94C39F41E}']"
+              s:id="{D425DB5D-FFB0-4574-852C-C17D904CC3E7}"
+              s:par="GridParameters=%7BF61E01E9-711A-4C99-AE30-4E28463E1DF7%7D&amp;FieldNames=%7B6F83E0EE-E1C1-42D2-8B7B-DA86DFDD39DB%7D&amp;Styles=%7C%7B475E77AB-3D7F-4C96-A0C4-8164A8158C82%7D&amp;RenderingIdentifier&amp;CSSStyles&amp;DynamicPlaceholderId=2"
+              s:ph="/headless-main/container-1" />
+            <r
+              uid="{880AE9CD-2B91-402C-9EB6-3A21C918E730}"
+              p:after="r[@uid='{392DA7C3-FB30-40FE-B216-ED447498DA55}']"
+              s:id="{1409AEA2-6E60-4EA9-8813-CB229DF0E3B7}"
+              s:par="GridParameters=%7BF61E01E9-711A-4C99-AE30-4E28463E1DF7%7D&amp;FieldNames=%7B0EFC83ED-6584-40A0-91D4-56B2091E359B%7D&amp;Styles=%7C%7B475E77AB-3D7F-4C96-A0C4-8164A8158C82%7D%7C%7BACA1D298-4F90-4EA9-8281-82D0BBB1E353%7D&amp;RenderingIdentifier&amp;CSSStyles&amp;DynamicPlaceholderId=6"
+              s:ph="/headless-main/container-4" />
+            <r
+              uid="{5E0FE3EB-64F0-48FB-8A3C-AC763044C1AC}"
+              p:after="*[1=2]"
+              s:id="{C5F905F8-FD1F-444E-A9E5-AC6B774FF0DE}"
+              s:par="GridParameters=%7BF61E01E9-711A-4C99-AE30-4E28463E1DF7%7D&amp;Heading Tag&amp;FieldNames=%7B73D70018-AEEB-4FE5-A0F2-50B7BE67B1FF%7D&amp;Styles&amp;RenderingIdentifier&amp;CSSStyles&amp;DynamicPlaceholderId=5"
+              s:ph="/headless-main/container-4" />
+          </d>
+        </r>
+    - ID: "06890ecb-5786-4776-8d76-19250477a9bc"
+      Hint: MetaImage
+      Value: |
+        <image mediaid="{CBFC2ABD-74D0-40B6-AC93-ED4686FAB51B}" />
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20251028T130852Z
+    - ID: "3e431de1-525e-47a3-b6b0-1ccbec3a8c98"
+      Hint: __Workflow state
+      Value: "{F7F71754-F47E-4605-AD5B-87F78974DD92}"
+    - ID: "4e0720e9-9d50-4ddc-87cf-ecd65e8e94c8"
+      Hint: NavigationTitle
+      Value: ICMP Expands
+    - ID: "6128ed46-0b79-4d6a-87ad-ac6fe70c649c"
+      Hint: Category
+      Value: Insights
+    - ID: "6fb03d9c-e0f6-4765-831d-d5627c4e0b67"
+      Hint: Content
+      Value: |
+        <div class="ck-content"><p>In a strategic move to address surging public health demands and accelerate membership growth, the International Council for Medical Proficiency (ICMP) has inaugurated two new regional offices: one in Kuala Lumpur, Malaysia, serving Southeast Asia, and another in Dakar, Senegal, for West Africa. These ground-level hubs will enhance on-site training, accreditation services, and policy engagement, empowering local healthcare leaders to tackle region-specific challenges like infectious disease outbreaks, climate vulnerabilities, and workforce shortages with greater agility and cultural relevance.</p><p>&nbsp;</p><p><strong>Strategic Expansion: Meeting the Moment in Global Health</strong><br />The decision to establish these offices stems from ICMP's 2024 Global Needs Assessment, which revealed a 45% rise in demand for localized professional development in these high-growth regions. Southeast Asia, home to over 680 million people, grapples with urbanization-driven non-communicable diseases and post-pandemic recovery, while West Africa faces persistent threats from Ebola resurgence risks and maternal health inequities. By embedding operations locally, ICMP shifts from remote support to immersive partnerships, fostering sustainable capacity building.<br />"These offices represent ICMP's commitment to 'health equity from the ground up,'" said Dr. Bello at the joint virtual opening ceremony. "We're not just expanding our footprint—we're amplifying voices and expertise where they're needed most."</p><p>&nbsp;</p><p><strong>Spotlight on the New Hubs:</strong>&nbsp;Capabilities and Focus Areas<br />Each office is tailored to its region's unique ecosystem, staffed by multidisciplinary teams of clinicians, educators, and policy experts, with initial cohorts of 15-20 professionals per site.</p><p><strong>Kuala Lumpur Office (Southeast Asia Hub)</strong><br /><strong>Location and Launch:</strong>&nbsp;Situated in the heart of Malaysia's bustling capital, the office opened with a ribbon-cutting attended by Malaysian Health Minister Dr. Zaliha Mustafa.<br /><strong>Core Services:</strong><br /><strong>Training Programs:</strong>&nbsp;Hands-on workshops in digital health and disaster response, targeting 5,000 nurses and physicians annually through hybrid formats.<br /><strong>Accreditation Center:&nbsp;</strong>Streamlined certification for telemedicine and genomics specialists, reducing processing times from months to weeks.<br /><strong>Policy Engagement:</strong>&nbsp;Advocacy for ASEAN-wide standards on antimicrobial resistance, including roundtables with governments and NGOs.<br /><strong>Partnerships:</strong>&nbsp;Collaborations with institutions like the University of Malaya and the ASEAN Secretariat to integrate ICMP curricula into national health strategies.<br /><br /><strong>Dakar Office (West Africa Hub)</strong><br /><strong>Location and Launch:</strong>&nbsp;Overlooking the Atlantic in Senegal's vibrant capital, the hub was inaugurated alongside ECOWAS health officials, emphasizing pan-African solidarity.<br /><strong>Core Services:</strong><br /><strong>Training Programs:</strong>&nbsp;Focus on outbreak preparedness and community health worker upskilling, with mobile units extending reach to rural Sahel communities.<br /><strong>Accreditation Center:</strong>&nbsp;Specialized pathways for tropical medicine and equity-focused research, accrediting 2,000+ practitioners in Year 1.<br /><strong>Policy Engagement:</strong>&nbsp;Lobbying for climate-health integration in AU agendas, including funding for resilient supply chains amid Sahel droughts.<br /><strong>Partnerships:</strong>&nbsp;Alliances with the Africa CDC and local universities like Cheikh Anta Diop to co-develop French- and local-language resources.<br />Both offices feature state-of-the-art simulation labs and virtual collaboration suites, connected via ICMP's global network for seamless knowledge sharing.</p><p>&nbsp;</p><p><strong>Projected Impact: Driving Membership and Systemic Change</strong><br />This expansion is poised to supercharge ICMP's growth, aiming to double regional membership to 20,000 within three years. Early indicators are promising: Pre-launch surveys show 85% of prospective members citing "local access" as a key motivator. Beyond numbers, the offices will catalyze policy wins, such as harmonized accreditation across ASEAN borders and West African vaccination protocols.<br />Real-world testimonials underscore the urgency. Dr. Nguyen Thi Lan from Hanoi shared, "Proximity means faster support—ICMP's Kuala Lumpur team can now tailor training to our monsoon-flood response needs." In Dakar, community leader Fatou Sow added, "This hub will empower our midwives with credentials that open doors to better care for nomadic families."<br />&nbsp;</p><p><strong>A Call to Collaborate: Join the Regional Momentum</strong><br />ICMP invites healthcare professionals, institutions, and funders to connect with these new offices. Explore opportunities at icmp.org/regional-offices, from fellowship applications to sponsorships.<br />As Dr. Bello concluded, "In Southeast Asia's megacities and West Africa's resilient villages, we're building bridges to a healthier tomorrow—one local solution at a time."</p><p><br />Stay informed on our expansion through blog archives or the ICMP newsletter.</p></div>
+    - ID: "78bd5b13-d9ab-44a4-bae4-c2dda0ad6133"
+      Hint: IntroText
+      Value: To meet rising public health demands and boost membership, ICMP has opened new regional offices in Kuala Lumpur for Southeast Asia and Dakar for West Africa. These hubs enhance local training, accreditation, and policy engagement for more responsive, equitable care.
+    - ID: "7cba72f9-1513-41af-ba26-de761f138805"
+      Hint: Title
+      Value: ICMP Expands with Regional Offices in Southeast Asia and West Africa
+    - ID: "85f5b648-1823-4509-b7fd-27deacdf2dff"
+      Hint: MetaDescription
+      Value: ICMP expands with new offices in Kuala Lumpur and Dakar to address public health needs, enhancing training, accreditation, and policy in Southeast Asia and West Africa. Learn how this drives membership growth and equity.
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "adfee49a-27b8-4063-a9ab-0694a8e315a8"
+    - ID: "92c233dc-a8b3-4fd0-bb3f-e82a8b49bed2"
+      Hint: MetaTitle
+      Value: ICMP Opens Regional Offices in Southeast Asia and West Africa | Boosting Local Health Training
+    - ID: "9f4483ca-f858-45d1-86a5-0a69c9ab6207"
+      Hint: MetaKeywords
+      Value: ICMP regional offices, Southeast Asia health, West Africa healthcare, medical training, accreditation programs, global health expansion, policy engagement, health equity, Kuala Lumpur office, Dakar hub
+    - ID: "a667d11b-ca9f-4fbe-881f-2538eb51f432"
+      Hint: PublishedDate
+      Value: 20241112T000000Z
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\karthikeyan.kumaravel@altudo.co
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20251201T184629Z
+- Language: "fr-CA"
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "04bf00db-f5fb-41f7-8ab7-22408372a981"
+      Hint: __Final Renderings
+      Value: |
+        <r xmlns:p="p" xmlns:s="s"
+          p:p="1">
+          <d
+            id="{FE5D7FDF-89C0-4D99-9AA3-B5FBD009C9F3}">
+            <r
+              uid="{E6577B7B-5EEC-43F0-A751-6457290EBB0D}"
+              p:before="*"
+              s:id="{B7C649C8-C683-44CB-9A87-AEBEA3DA8EB3}"
+              s:par="GridParameters=%7BF61E01E9-711A-4C99-AE30-4E28463E1DF7%7D&amp;FieldNames=%7B129985C4-D854-49F5-9602-9E1D1B8DF899%7D&amp;BackgroundImage&amp;Styles=%7C%7B0D8280A3-A4C1-4AAD-8392-30B3080349C8%7D&amp;RenderingIdentifier&amp;CSSStyles&amp;DynamicPlaceholderId=1"
+              s:ph="headless-main" />
+            <r
+              uid="{ECCDC050-7EDE-47E9-ABE3-73295D3277CC}"
+              p:after="r[@uid='{E6577B7B-5EEC-43F0-A751-6457290EBB0D}']"
+              s:id="{F7295588-FA7F-448E-B222-F64005B22E8D}"
+              s:par="GridParameters=%7BF61E01E9-711A-4C99-AE30-4E28463E1DF7%7D&amp;ImageOrder&amp;FieldNames=%7BBAC81150-16BD-4AED-9DF5-6FB5C82E1B95%7D&amp;Styles=%7C%7BDA96D040-41DE-4486-A4D1-6CEDECA18E14%7D&amp;RenderingIdentifier&amp;CSSStyles&amp;DynamicPlaceholderId=3"
+              s:ph="headless-main" />
+            <r
+              uid="{9ADB19C9-8277-4F47-95DF-BDE94C39F41E}"
+              p:after="r[@uid='{ECCDC050-7EDE-47E9-ABE3-73295D3277CC}']"
+              s:id="{B7C649C8-C683-44CB-9A87-AEBEA3DA8EB3}"
+              s:par="GridParameters=%7BF61E01E9-711A-4C99-AE30-4E28463E1DF7%7D&amp;FieldNames=%7B129985C4-D854-49F5-9602-9E1D1B8DF899%7D&amp;BackgroundImage&amp;Styles=%7C%7B0D8280A3-A4C1-4AAD-8392-30B3080349C8%7D&amp;RenderingIdentifier&amp;CSSStyles&amp;DynamicPlaceholderId=4"
+              s:ph="headless-main" />
+            <r
+              uid="{392DA7C3-FB30-40FE-B216-ED447498DA55}"
+              p:after="r[@uid='{9ADB19C9-8277-4F47-95DF-BDE94C39F41E}']"
+              s:id="{D425DB5D-FFB0-4574-852C-C17D904CC3E7}"
+              s:par="GridParameters=%7BF61E01E9-711A-4C99-AE30-4E28463E1DF7%7D&amp;FieldNames=%7B6F83E0EE-E1C1-42D2-8B7B-DA86DFDD39DB%7D&amp;Styles=%7C%7B475E77AB-3D7F-4C96-A0C4-8164A8158C82%7D&amp;RenderingIdentifier&amp;CSSStyles&amp;DynamicPlaceholderId=2"
+              s:ph="/headless-main/container-1" />
+            <r
+              uid="{880AE9CD-2B91-402C-9EB6-3A21C918E730}"
+              p:after="r[@uid='{392DA7C3-FB30-40FE-B216-ED447498DA55}']"
+              s:id="{1409AEA2-6E60-4EA9-8813-CB229DF0E3B7}"
+              s:par="GridParameters=%7BF61E01E9-711A-4C99-AE30-4E28463E1DF7%7D&amp;FieldNames=%7B0EFC83ED-6584-40A0-91D4-56B2091E359B%7D&amp;Styles=%7C%7B475E77AB-3D7F-4C96-A0C4-8164A8158C82%7D%7C%7BACA1D298-4F90-4EA9-8281-82D0BBB1E353%7D&amp;RenderingIdentifier&amp;CSSStyles&amp;DynamicPlaceholderId=6"
+              s:ph="/headless-main/container-4" />
+            <r
+              uid="{5E0FE3EB-64F0-48FB-8A3C-AC763044C1AC}"
+              p:after="*[1=2]"
+              s:id="{C5F905F8-FD1F-444E-A9E5-AC6B774FF0DE}"
+              s:par="GridParameters=%7BF61E01E9-711A-4C99-AE30-4E28463E1DF7%7D&amp;Heading Tag&amp;FieldNames=%7B73D70018-AEEB-4FE5-A0F2-50B7BE67B1FF%7D&amp;Styles&amp;RenderingIdentifier&amp;CSSStyles&amp;DynamicPlaceholderId=5"
+              s:ph="/headless-main/container-4" />
+          </d>
+        </r>
+    - ID: "06890ecb-5786-4776-8d76-19250477a9bc"
+      Hint: MetaImage
+      Value: |
+        <image mediaid="{CBFC2ABD-74D0-40B6-AC93-ED4686FAB51B}" alt="ICMP Expands SE Asia" height="" width="" hspace="" vspace="" />
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20251028T130852Z
+    - ID: "3e431de1-525e-47a3-b6b0-1ccbec3a8c98"
+      Hint: __Workflow state
+      Value: "{F7F71754-F47E-4605-AD5B-87F78974DD92}"
+    - ID: "4e0720e9-9d50-4ddc-87cf-ecd65e8e94c8"
+      Hint: NavigationTitle
+      Value: "L'ICMP ouvre des bureaux régionaux en Asie du Sud-Est et en Afrique de l'Ouest "
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+      Hint: __Owner
+      Value: |
+        sitecore\karthikeyan.kumaravel@altudo.co
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\karthikeyan.kumaravel@altudo.co
+    - ID: "6128ed46-0b79-4d6a-87ad-ac6fe70c649c"
+      Hint: Category
+      Value: Connaissances
+    - ID: "6fb03d9c-e0f6-4765-831d-d5627c4e0b67"
+      Hint: Content
+      Value: |
+        <div class="ck-content">
+        <p>Dans une démarche stratégique visant à répondre à la forte demande en matière de santé publique et à accélérer la croissance de son nombre de membres, le Conseil international pour l'expertise médicale (ICMP) a inauguré deux nouveaux bureaux régionaux : l'un à Kuala Lumpur, en Malaisie, pour l'Asie du Sud-Est, et l'autre à Dakar, au Sénégal, pour l'Afrique de l'Ouest. Ces centres de proximité renforceront la formation sur place, les services d'accréditation et l'engagement politique, permettant ainsi aux responsables locaux de la santé de relever avec plus d'agilité et de pertinence culturelle les défis propres à chaque région, tels que les épidémies de maladies infectieuses, les vulnérabilités climatiques et les pénuries de personnel.</p>
+        <p> </p>
+        <p><strong>Expansion stratégique : Répondre aux enjeux de la santé mondiale</strong><br />
+        La décision d'établir ces bureaux fait suite à l'Évaluation des besoins mondiaux 2024 de l'ICMP, qui a révélé une augmentation de 45 % de la demande de perfectionnement professionnel localisé dans ces régions à forte croissance. L'Asie du Sud-Est, qui abrite plus de 680 millions d'habitants, est confrontée aux maladies non transmissibles exacerbées par l'urbanisation et à la reprise post-pandémique, tandis que l'Afrique de l'Ouest fait face à la menace persistante d'une résurgence d'Ebola et aux inégalités en matière de santé maternelle. En ancrant ses opérations localement, l’ICMP passe d’un soutien à distance à des partenariats immersifs, favorisant ainsi un renforcement durable des capacités. « Ces bureaux témoignent de l’engagement de l’ICMP à l’égard d’une équité en santé à tous les niveaux », a déclaré le Dr Bello lors de la cérémonie d’ouverture virtuelle conjointe. « Nous ne nous contentons pas d'étendre notre présence ; nous offrons plus de visibilité et d'expertise là où les besoins sont les plus criants. »
+        </p>
+        <p> </p>
+        <p><strong>Beaucoup de feux sur les nouveaux pôles :</strong> Capacités et domaines d'intervention<br />
+        Chaque bureau est adapté à l'écosystème unique de sa région et est composé d'équipes multidisciplinaires de cliniciens, de formateurs et d'experts en politiques publiques, avec des cohortes initiales de 15 à 20 professionnels par site.</p>
+        <p><strong>Bureau de Kuala Lumpur (Pôle Asie du Sud-Est)</strong><br />
+        <strong>Emplacement et lancement :</strong> Situé au cœur de la capitale animée de la Malaisie, le bureau a ouvert ses portes lors d'une cérémonie d'inauguration en présence de la ministre malaisienne de la Santé, la Dre Zaliha Mustafa.<br />
+        <strong>Services principaux :</strong><br />
+        <strong>Programmes de formation :</strong> Ateliers pratiques En matière de santé numérique et de réponse aux catastrophes, ciblant 5 000 infirmières et médecins par année grâce à des formations hybrides.<br />
+        <strong>Centre d'agrément : Certification simplifiée pour les spécialistes en télémédecine et en génomique, réduisant les délais de traitement de plusieurs mois à quelques semaines.<br />
+        <strong>Engagement politique : Plaidoyer pour des normes à l'échelle de l'ANASE en matière de résistance aux antimicrobiens, notamment par le biais de tables rondes avec les gouvernements et les ONG.<br />
+        <strong>Partenariats : Collaborations avec des institutions telles que l'Université de Malaya et le Secrétariat de l'ANASE afin d'intégrer les programmes de l'ICMP aux stratégies nationales de santé.<br />
+        <br />
+        <strong>Bureau de Dakar (Pôle Afrique de l'Ouest)</strong><br />
+        Implantation et lancement : Surplombant l'Atlantique dans la capitale dynamique du Sénégal, le pôle a été inauguré en présence de responsables de la santé de la CEDEAO, soulignant la solidarité panafricaine.
+        Services essentiels :
+        Programmes de formation : axés sur la préparation aux épidémies et le renforcement des compétences des agents de santé communautaires, avec des unités mobiles étendant la portée aux communautés rurales du Sahel.
+        Centre d’accréditation : parcours spécialisés en médecine tropicale et recherche axée sur l’équité, avec l’agrément de plus de 2 000 praticiens dès la première année.
+        Action politique : plaidoyer pour l’intégration du climat et de la santé dans les programmes de l’Union africaine, notamment le financement de chaînes d’approvisionnement résilientes face aux sécheresses au Sahel.
+        Partenariats : alliances avec le CDC Afrique et des universités locales comme Cheikh Anta Diop pour le codéveloppement de ressources en français et dans les langues locales.
+        Les deux bureaux disposent de laboratoires de simulation et d'espaces de collaboration virtuelle de pointe, connectés via le réseau mondial de l'ICMP pour une collaboration fluide. Partage des connaissances.</strong></strong></strong></p>
+        <strong><strong>
+         
+        Impact prévu : Augmenter le nombre de membres et stimuler un changement systémique</strong><br />
+        Cette expansion devrait stimuler la croissance de l’ICMP, avec pour objectif de doubler le nombre de ses membres régionaux pour atteindre 20 000 d’ici trois ans. Les premiers indicateurs sont prometteurs : les enquêtes menées avant le lancement montrent que 85 % des membres potentiels citent « l’accès local » comme un facteur de motivation essentiel. Au-delà des chiffres, ces bureaux permettront de concrétiser des avancées politiques, comme l’harmonisation des accréditations au sein de l’ANASE et des protocoles de vaccination en Afrique de l’Ouest.<br />
+        Des témoignages concrets soulignent l'urgence de la situation. Le Dr Nguyen Thi Lan, de Hanoï, a déclaré : « La proximité permet un soutien plus rapide : l’équipe de l’ICMP à Kuala Lumpur peut désormais adapter la formation à nos besoins en matière de réponse aux inondations de la mousson.À Dakar, Fatou Sow, responsable communautaire, a ajouté : « Ce centre permettra à nos sages-femmes d’obtenir les qualifications nécessaires pour mieux prendre en charge les familles nomades. »<br />
+         
+         
+        <strong>Appel à la collaboration : Joignez-vous à la dynamique régionale</strong>
+        </strong></div>
+        
+    - ID: "78bd5b13-d9ab-44a4-bae4-c2dda0ad6133"
+      Hint: IntroText
+      Value: "Pour r&eacute;pondre aux besoins croissants en mati&egrave;re de sant&eacute; publique et accro&icirc;tre le nombre de ses membres, l'ICMP a ouvert de nouveaux bureaux r&eacute;gionaux &agrave; Kuala Lumpur pour l'Asie du Sud-Est et &agrave; Dakar pour l'Afrique de l'Ouest. Ces centres renforcent la formation locale, l'agr&eacute;ment et l'engagement politique pour des soins plus adapt&eacute;s et &eacute;quitables."
+    - ID: "7cba72f9-1513-41af-ba26-de761f138805"
+      Hint: Title
+      Value: "L'ICMP élargit ses activités avec des bureaux régionaux en Asie du Sud-Est et en Afrique de l'Ouest."
+    - ID: "85f5b648-1823-4509-b7fd-27deacdf2dff"
+      Hint: MetaDescription
+      Value: "L’ICMP étend son action avec de nouveaux bureaux à Kuala Lumpur et Dakar afin de mieux répondre aux besoins de santé publique, en renforçant la formation, l’accréditation et les politiques en Asie du Sud-Est et en Afrique de l’Ouest. Découvrez comment cela favorise la croissance du nombre de membres et l’équité."
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "55db2364-8ef4-466e-8e20-e6876ab4b732"
+    - ID: "92c233dc-a8b3-4fd0-bb3f-e82a8b49bed2"
+      Hint: MetaTitle
+      Value: "L'ICMP ouvre des bureaux régionaux en Asie du Sud-Est et en Afrique de l'Ouest | Renforcement de l'éducation sanitaire locale"
+    - ID: "9f4483ca-f858-45d1-86a5-0a69c9ab6207"
+      Hint: MetaKeywords
+      Value: "Bureaux régionaux de l'ICMP, santé en Asie du Sud-Est, soins de santé en Afrique de l'Ouest, formation médicale, programmes d'accréditation, expansion mondiale de la santé, engagement politique, équité en santé, bureau de Kuala Lumpur, centre de Dakar"
+    - ID: "a667d11b-ca9f-4fbe-881f-2538eb51f432"
+      Hint: PublishedDate
+      Value: 20241112T000000Z
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\karthikeyan.kumaravel@altudo.co
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20251201T184905Z

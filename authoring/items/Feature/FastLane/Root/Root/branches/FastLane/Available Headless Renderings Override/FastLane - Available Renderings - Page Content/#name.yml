@@ -1,0 +1,47 @@
+﻿---
+ID: "2748361d-feeb-49ca-a363-d437b830ca0c"
+Parent: "621c48b5-59b5-4784-af26-ce2a2a0f8659"
+Template: "76da0a8d-fc7e-42b2-af1e-205b49e43f98"
+Path: "/sitecore/templates/Branches/Feature/FastLane/Available Headless Renderings Override/FastLane - Available Renderings - Page Content/$name"
+SharedFields:
+- ID: "715ae6c0-71c8-4744-ab4f-65362d20ad65"
+  Hint: Renderings
+  Value: |
+    {1409AEA2-6E60-4EA9-8813-CB229DF0E3B7}
+    {2AC9F9B4-0E80-4B4E-BC71-A52B5F1C8D9B}
+    {C4B269F2-5546-43B5-81EE-5105AB647DF7}
+    {70384B1C-2EBE-4480-8BF2-3BB4C6B863AB}
+    {EF6EE87E-576F-425E-9D30-6CF942E5BFEA}
+    {134267BF-7FD3-4CC1-B62B-E346D4A8F3F2}
+    {4C6E445E-C204-4425-9C82-3868BDA442DC}
+    {C5F905F8-FD1F-444E-A9E5-AC6B774FF0DE}
+    {F7295588-FA7F-448E-B222-F64005B22E8D}
+    {2492BAC4-DA07-4C86-87F0-9873D40E2276}
+    {9C6D53E3-FE57-4638-AF7B-6D68304C7A94}
+    {1C264401-FDF8-4FC9-A240-793A93942B17}
+    {3836D951-BB14-43AC-9231-649B7F245DC5}
+- ID: "dbbbeca1-21c7-4906-9dd2-493c1efa59a2"
+  Hint: __Shared revision
+  Value: "1a668ce6-1eaa-42b4-a630-ef5c9d55ff68"
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20211028T135230Z
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\admin
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "04ecdaa9-a513-4356-89bd-c6beb89233c8"
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\andy.cohen@altudo.co
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20250630T153547Z

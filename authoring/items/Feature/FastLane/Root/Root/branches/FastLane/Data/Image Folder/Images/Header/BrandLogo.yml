@@ -1,0 +1,41 @@
+﻿---
+ID: "97280bf5-6cb6-4661-a2ac-38705b050358"
+Parent: "92d8c56f-5724-4dca-a539-4b82d040cd83"
+Template: "d885df8c-b2d6-4007-b34b-2bbafb527304"
+Path: /sitecore/templates/Branches/Feature/FastLane/Data/Image Folder/Images/Header/BrandLogo
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20250313T112448Z
+    - ID: "4d7b05d0-0300-486f-8f87-57de34a9b793"
+      Hint: ImageCaption
+      Value: 
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+      Hint: __Owner
+      Value: |
+        sitecore\karthikeyan.kumaravel@altudo.co
+    - ID: "57caf172-ce57-4e48-b3a1-46f8aea71c08"
+      Hint: Image
+      Value: |
+        <image mediaid="{CFE2A35D-6D43-4740-9770-D8BF7E2EDD14}" />
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\karthikeyan.kumaravel@altudo.co
+    - ID: "75fbf1b1-e7c5-494b-9633-693909f79425"
+      Hint: TargetUrl
+      Value: 
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "68e209be-5af7-48b2-adc5-331e10a16446"
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\andy.cohen@altudo.co
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20250629T120324Z

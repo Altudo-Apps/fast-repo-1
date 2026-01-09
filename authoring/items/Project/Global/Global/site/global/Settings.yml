@@ -1,0 +1,170 @@
+﻿---
+ID: "22cbeaa1-4bf1-4c88-84c3-aafd7e191b12"
+Parent: "c197dbd2-75c1-4993-932b-adb65397c867"
+Template: "bc1849c6-facf-4d67-9aa4-65a14811a254"
+Path: /sitecore/content/FastLaneTenant/global/Settings
+BranchID: "45cf9f42-b3ac-4412-aab9-f8441c7e448e"
+SharedFields:
+- ID: "0129da3f-8c86-4591-ae32-6ec923413923"
+  Hint: DictionaryDomain
+  Value: "{C6526013-CC3D-401A-AF5C-27485F84E735}"
+- ID: "1172f251-dad4-4efb-a329-0c63500e4f1e"
+  Hint: __Masters
+  Value: "{C2DC4690-AF44-48C7-BB21-90D1AD246732}"
+- ID: "1864e99d-c29a-40bf-96e0-b3e7896a013b"
+  Hint: UseLanguageSpecificLayout
+  Value: 
+- ID: "300fb7a0-b27f-44dd-9af0-b37a19723e0e"
+  Hint: RouteTemplateName
+  Value: Settings Route
+- ID: "32ce6bbe-4217-46e5-9335-42793884cbe3"
+  Hint: AppTemplate
+  Value: "{8B758423-0D1E-4147-A10A-F204C9B2754A}"
+- ID: "3e4f559f-8e59-4405-b50d-619811371f6c"
+  Hint: Name
+  Value: global
+- ID: "5764d2d4-724d-4313-a81b-9246c911faff"
+  Hint: AppDatasourcesPath
+  Value: "{5C515600-3FBB-4E95-B775-C831EBF2D88A}"
+- ID: "5ca117eb-8782-4a4f-9f2f-30de31fc2e34"
+  Hint: PlaceholdersPath
+  Value: "{E98E5FF7-A5BE-4143-B571-5F92564C0C92}"
+- ID: "72e83c8d-3578-4e50-b4c0-93a78a1729f2"
+  Hint: FilesystemPath
+  Value: /dist/global
+- ID: "9016141c-ff51-40f2-9135-40f5161b9784"
+  Hint: ServerSideRenderingEngine
+  Value: http
+- ID: "96e5e297-6fd1-46d6-8e92-b03e33a9376c"
+  Hint: Error404Page
+  Value: /sitecore/content/FastLaneTenant/global/Home/Page Not Found
+- ID: "a7bbad73-b933-49ff-95c8-1c269cb35e7c"
+  Hint: DictionaryPath
+  Value: "{C6526013-CC3D-401A-AF5C-27485F84E735}"
+- ID: "ad84cc6b-32ef-49d8-9326-916976cb2520"
+  Hint: Grid Mapping
+  Value: "%7bFE5D7FDF-89C0-4D99-9AA3-B5FBD009C9F3%7d%3d%257B9CA06BD0-CD73-4718-9A3D-D000D07EC771%257D"
+- ID: "af332c24-fe17-41e7-8caf-8e64c588fe72"
+  Hint: EditingTheme
+  Value: "{3BCAB9EF-1E4F-4C23-B452-783BB82AA686}"
+- ID: "ba3f86a2-4a1c-4d78-b63d-91c2779c1b5e"
+  Hint: __Sortorder
+  Value: 2000
+- ID: "c8d002f9-9518-4c5e-9baa-6617e13f0797"
+  Hint: LayoutPath
+  Value: "{96E5F4BA-A2CF-4A4C-A4E7-64DA88226362}"
+- ID: "d0ce707c-342f-4c02-ac0a-edb21346dde4"
+  Hint: SupportedLanguages
+  Value: "{AF584191-45C9-4201-8740-5409F4CF8BDD}|{CC292A44-8C65-444F-BDF1-DE7479235232}|{0E3A6C55-BBA2-476D-A9CE-06D9BF7A6D7E}"
+- ID: "d91bf82c-0e2b-4b79-ae85-e54b9afd5026"
+  Hint: Error500Page
+  Value: /sitecore/content/FastLaneTenant/global/Home/Internal Server Error
+- ID: "dbbbeca1-21c7-4906-9dd2-493c1efa59a2"
+  Hint: __Shared revision
+  Value: "9921ba19-695d-4b6c-9a2b-5ae1fc1b0027"
+- ID: "e8881464-38af-4655-be4a-ee10586578a2"
+  Hint: Templates
+  Value: "{B9FA48C4-2D59-48CF-BC3C-B35F3EEA74E3}"
+- ID: "f29428d5-1285-48b8-a884-44057965829a"
+  Hint: RenderingsPath
+  Value: "{D590D52D-997B-43BE-BE66-9DDCAE092DC9}"
+- ID: "f6d8a61c-2f84-4401-bd24-52d2068172bc"
+  Hint: __Originator
+  Value: "{0FEEB907-58F0-44DE-B08C-2F43C063D0A5}"
+Languages:
+- Language: "ar-AE"
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20250629T172502Z
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+      Hint: __Owner
+      Value: |
+        sitecore\karthikeyan.kumaravel@altudo.co
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\andy.cohen@altudo.co
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "2afcb74f-549f-4b4d-adbf-852c781c4d1e"
+    - ID: "9ce73b35-34d3-49dc-bd5a-ce1e8267fda9"
+      Hint: ComponentDataSourceTemplates
+      Value: |
+        {E58B7DBF-2A15-4A94-AD45-9C250AC1AC68}
+        {475273FB-FBC5-4063-A429-F30DF04D9802}
+        {7F34AEE7-0D13-4FC7-9F6D-278CE4728538}
+        {354C3B95-7256-4BC2-BF85-B43BE4162126}
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\karthikeyan.kumaravel@altudo.co
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20251104T183349Z
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20250629T172502Z
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+      Hint: __Owner
+      Value: |
+        sitecore\andy.cohen@altudo.co
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\andy.cohen@altudo.co
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "52b21547-db0f-42ec-af5a-274cae3936c0"
+    - ID: "9ce73b35-34d3-49dc-bd5a-ce1e8267fda9"
+      Hint: ComponentDataSourceTemplates
+      Value: |
+        {E58B7DBF-2A15-4A94-AD45-9C250AC1AC68}
+        {475273FB-FBC5-4063-A429-F30DF04D9802}
+        {7F34AEE7-0D13-4FC7-9F6D-278CE4728538}
+        {354C3B95-7256-4BC2-BF85-B43BE4162126}
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\karthikeyan.kumaravel@altudo.co
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20251107T074943Z
+- Language: "fr-CA"
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20250629T172502Z
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+      Hint: __Owner
+      Value: |
+        sitecore\karthikeyan.kumaravel@altudo.co
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\andy.cohen@altudo.co
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "067671cf-24f2-42f5-bee4-3d598d883837"
+    - ID: "9ce73b35-34d3-49dc-bd5a-ce1e8267fda9"
+      Hint: ComponentDataSourceTemplates
+      Value: |
+        {E58B7DBF-2A15-4A94-AD45-9C250AC1AC68}
+        {475273FB-FBC5-4063-A429-F30DF04D9802}
+        {7F34AEE7-0D13-4FC7-9F6D-278CE4728538}
+        {354C3B95-7256-4BC2-BF85-B43BE4162126}
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\karthikeyan.kumaravel@altudo.co
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20251104T182810Z

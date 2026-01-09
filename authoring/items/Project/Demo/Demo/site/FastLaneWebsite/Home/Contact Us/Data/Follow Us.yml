@@ -1,0 +1,136 @@
+﻿---
+ID: "c024a4e2-ef05-45d2-985c-896eae9c0a37"
+Parent: "332d1ef7-2249-464b-a4d7-14fdf7e5c936"
+Template: "e58b7dbf-2a15-4a94-ad45-9c250ac1ac68"
+Path: /sitecore/content/FastLaneTenant/fastlanewebsite/Home/Contact Us/Data/Follow Us
+SharedFields:
+- ID: "a4f985d9-98b3-4b52-aaaf-4344f6e747c6"
+  Hint: __Workflow
+  Value: "{9A1B3B33-17C0-4DAE-A533-CEC7FA11F68A}"
+- ID: "dbbbeca1-21c7-4906-9dd2-493c1efa59a2"
+  Hint: __Shared revision
+  Value: "007f68d7-4839-494f-bd3d-b8c1a89e733d"
+Languages:
+- Language: "ar-AE"
+  Fields:
+  - ID: "30e85e5d-e00a-4864-b358-7624d511deb4"
+    Hint: __Unversioned revision
+    Value: "d1595a2b-5307-4378-8be4-da287fc20570"
+  - ID: "b5e02ad9-d56f-4c41-a065-a133db87bdeb"
+    Hint: __Display name
+    Value: 
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20250619T121619Z
+    - ID: "3e431de1-525e-47a3-b6b0-1ccbec3a8c98"
+      Hint: __Workflow state
+      Value: "{B71D5C66-667B-4CF1-BE66-342C8B59A4DB}"
+    - ID: "78bd5b13-d9ab-44a4-bae4-c2dda0ad6133"
+      Hint: IntroText
+      Value: تابعنا على تويتر، أو انضم إلى صفحتنا على فيسبوك، أو IMCP على لينكد إن.
+    - ID: "7cba72f9-1513-41af-ba26-de761f138805"
+      Hint: Title
+      Value: تابعونا
+    - ID: "8c2b6bbe-34c6-4373-bf1b-3a9da4119dda"
+      Hint: Icon
+      Value: |
+        <image mediaid="{F11FBD42-43F5-48E5-8B34-9B72A97FF46C}" alt="MegaPhone" height="" width="" hspace="" vspace="" />
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "a1974a22-8c2a-451c-a848-1a5d28439a5c"
+    - ID: "ba41d59c-a2b6-4f14-8913-7734549cce04"
+      Hint: Image
+      Value: |
+        <image mediaid="{B2A4CA06-6632-4369-9E0C-9DFA26CC09A4}" alt="FollowUs" height="" width="" hspace="" vspace="" />
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\karthikeyan.kumaravel@altudo.co
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20251106T132359Z
+- Language: en
+  Fields:
+  - ID: "30e85e5d-e00a-4864-b358-7624d511deb4"
+    Hint: __Unversioned revision
+    Value: "d823d4f0-41e9-49b6-b450-44c22bb0232e"
+  - ID: "b5e02ad9-d56f-4c41-a065-a133db87bdeb"
+    Hint: __Display name
+    Value: 
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20250619T121619Z
+    - ID: "3e431de1-525e-47a3-b6b0-1ccbec3a8c98"
+      Hint: __Workflow state
+      Value: "{B71D5C66-667B-4CF1-BE66-342C8B59A4DB}"
+    - ID: "78bd5b13-d9ab-44a4-bae4-c2dda0ad6133"
+      Hint: IntroText
+      Value: Follow us on Twitter, become a fan on Facebook, or IMCP on LinkedIn.
+    - ID: "7cba72f9-1513-41af-ba26-de761f138805"
+      Hint: Title
+      Value: Follow Us
+    - ID: "8c2b6bbe-34c6-4373-bf1b-3a9da4119dda"
+      Hint: Icon
+      Value: |
+        <image mediaid="{F11FBD42-43F5-48E5-8B34-9B72A97FF46C}" />
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "0814b947-c6bb-408d-a2c6-cac7c6f3cd55"
+    - ID: "ba41d59c-a2b6-4f14-8913-7734549cce04"
+      Hint: Image
+      Value: |
+        <image mediaid="{B2A4CA06-6632-4369-9E0C-9DFA26CC09A4}" />
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\andy.cohen@altudo.co
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20250628T212825Z
+- Language: "fr-CA"
+  Fields:
+  - ID: "30e85e5d-e00a-4864-b358-7624d511deb4"
+    Hint: __Unversioned revision
+    Value: "a632bd6e-b677-40ed-a602-716a38c4371f"
+  - ID: "b5e02ad9-d56f-4c41-a065-a133db87bdeb"
+    Hint: __Display name
+    Value: 
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20250619T121619Z
+    - ID: "3e431de1-525e-47a3-b6b0-1ccbec3a8c98"
+      Hint: __Workflow state
+      Value: "{B71D5C66-667B-4CF1-BE66-342C8B59A4DB}"
+    - ID: "78bd5b13-d9ab-44a4-bae4-c2dda0ad6133"
+      Hint: IntroText
+      Value: "Suivez-nous sur Twitter, devenez fan sur Facebook ou suivez IMCP sur LinkedIn."
+    - ID: "7cba72f9-1513-41af-ba26-de761f138805"
+      Hint: Title
+      Value: "Suivez-nous"
+    - ID: "8c2b6bbe-34c6-4373-bf1b-3a9da4119dda"
+      Hint: Icon
+      Value: |
+        <image mediaid="{F11FBD42-43F5-48E5-8B34-9B72A97FF46C}" alt="MegaPhone" height="" width="" hspace="" vspace="" />
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "f5f1abe4-4d90-4e81-ac5a-4711b9687e99"
+    - ID: "ba41d59c-a2b6-4f14-8913-7734549cce04"
+      Hint: Image
+      Value: |
+        <image mediaid="{B2A4CA06-6632-4369-9E0C-9DFA26CC09A4}" />
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\karthikeyan.kumaravel@altudo.co
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20251127T102018Z

@@ -1,0 +1,26 @@
+{
+    "$schema": "../../../../../.sitecore/schemas/ModuleFile.schema.json",
+    "namespace": "Feature.FastLane.FLRichText",
+    "references": ["Feature.FastLane.Root"],
+    "items": {
+        "path": "FLRichText",
+        "includes": [
+			{
+                "name": "templates",
+                "path": "/sitecore/templates/Feature/FastLane/Renderings/FLRichText"
+            },            
+			{
+                "name": "branches",
+                "path": "/sitecore/templates/Branches/Feature/FastLane/Default Variants/FLRichText"
+            },
+			{
+                "name": "renderings",
+                "path": "/sitecore/layout/Renderings/Feature/FastLane/Renderings/FLRichText"                
+            },
+			{
+                "name": "settings",
+                "path": "/sitecore/system/Settings/Feature/FastLane/Renderings/FLRichText"
+            }
+        ]
+    }
+}

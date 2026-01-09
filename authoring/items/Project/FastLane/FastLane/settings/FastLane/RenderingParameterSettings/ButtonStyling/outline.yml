@@ -1,0 +1,26 @@
+﻿---
+ID: "f1ed1254-88be-4768-8ca4-660a719f8ecd"
+Parent: "ad4d91fe-681a-4d82-89e0-34fb61bd0351"
+Template: "adbf2ebd-e4dd-47e0-b564-ba2f9c4a18aa"
+Path: /sitecore/system/Settings/Project/FastLane/RenderingParameterSettings/ButtonStyling/outline
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20250224T092154Z
+    - ID: "33ebeb3b-ab30-453e-b594-ce36c1c8fe0c"
+      Hint: Name
+      Value: outline
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "3e6c3814-061b-4f11-ab1d-d8952af4a447"
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\karthikeyan.kumaravel@altudo.co
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20250224T092154Z

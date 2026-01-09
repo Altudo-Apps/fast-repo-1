@@ -1,0 +1,150 @@
+﻿---
+ID: "93904d3a-4ab1-4ee3-966a-df15aa140268"
+Parent: "debef755-9c8a-4d73-8720-ed81a3f82b41"
+Template: "e58b7dbf-2a15-4a94-ad45-9c250ac1ac68"
+Path: /sitecore/content/FastLaneTenant/fastlanewebsite/Home/Data/Health Analytics
+SharedFields:
+- ID: "a4f985d9-98b3-4b52-aaaf-4344f6e747c6"
+  Hint: __Workflow
+  Value: "{9A1B3B33-17C0-4DAE-A533-CEC7FA11F68A}"
+- ID: "ba3f86a2-4a1c-4d78-b63d-91c2779c1b5e"
+  Hint: __Sortorder
+  Value: 100
+- ID: "dbbbeca1-21c7-4906-9dd2-493c1efa59a2"
+  Hint: __Shared revision
+  Value: "08589977-883a-44fd-af21-bf4bcf7d28a4"
+Languages:
+- Language: "ar-AE"
+  Fields:
+  - ID: "30e85e5d-e00a-4864-b358-7624d511deb4"
+    Hint: __Unversioned revision
+    Value: "08c83959-357d-4d1c-8e44-fc7e7d0c6fae"
+  - ID: "b5e02ad9-d56f-4c41-a065-a133db87bdeb"
+    Hint: __Display name
+    Value: 
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20250610T095046Z
+    - ID: "3e431de1-525e-47a3-b6b0-1ccbec3a8c98"
+      Hint: __Workflow state
+      Value: "{B71D5C66-667B-4CF1-BE66-342C8B59A4DB}"
+    - ID: "6128ed46-0b79-4d6a-87ad-ac6fe70c649c"
+      Hint: Category
+      Value: تحليلات الصحة
+    - ID: "78bd5b13-d9ab-44a4-bae4-c2dda0ad6133"
+      Hint: IntroText
+      Value: |
+        <p dir="auto">اكتشف كيفية تحويل بيانات الصحة المجزأة إلى رؤى في الوقت الفعلي تمكّن الموظفين، وتُفيد في صياغة السياسات، وتدفع تحسينات قابلة للقياس عبر العمليات السريرية.</p>
+    - ID: "7cba72f9-1513-41af-ba26-de761f138805"
+      Hint: Title
+      Value: "من بحيرات البيانات إلى الفعل: تحليلات الصحة على نطاق واسع"
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "62ae399c-1b1b-4686-a874-5306cb76a6f5"
+    - ID: "ba41d59c-a2b6-4f14-8913-7734549cce04"
+      Hint: Image
+      Value: |
+        <image mediaid="{F208029D-43D4-4D24-919F-0F6D0D3533AF}" alt="Health Analytics" height="" width="" hspace="" vspace="" />
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\karthikeyan.kumaravel@altudo.co
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20251105T133917Z
+    - ID: "f56d5ae9-cbca-48e1-b47e-e06a7561fc5d"
+      Hint: CalltoActionLinkMain
+      Value: |
+        <link text="تعرف على المزيد" linktype="external" url="https://www.google.com" anchor="" target="" />
+- Language: en
+  Fields:
+  - ID: "30e85e5d-e00a-4864-b358-7624d511deb4"
+    Hint: __Unversioned revision
+    Value: "e32c5131-a9a9-4cc0-b8da-3e85414cd267"
+  - ID: "b5e02ad9-d56f-4c41-a065-a133db87bdeb"
+    Hint: __Display name
+    Value: 
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20250610T095046Z
+    - ID: "3e431de1-525e-47a3-b6b0-1ccbec3a8c98"
+      Hint: __Workflow state
+      Value: "{B71D5C66-667B-4CF1-BE66-342C8B59A4DB}"
+    - ID: "6128ed46-0b79-4d6a-87ad-ac6fe70c649c"
+      Hint: Category
+      Value: Health Analytics
+    - ID: "78bd5b13-d9ab-44a4-bae4-c2dda0ad6133"
+      Hint: IntroText
+      Value: "Discover how to transform fragmented health data into real-time insights that empower staff, inform policy, and drive measurable improvements across clinical operations."
+    - ID: "7cba72f9-1513-41af-ba26-de761f138805"
+      Hint: Title
+      Value: "From Data Lakes to Action: Health Analytics at Scale"
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "a11dcb0a-d9d7-4ef9-a137-6589abed6ddb"
+    - ID: "ba41d59c-a2b6-4f14-8913-7734549cce04"
+      Hint: Image
+      Value: |
+        <image mediaid="{F208029D-43D4-4D24-919F-0F6D0D3533AF}" />
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\andy.cohen@altudo.co
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20250628T214312Z
+    - ID: "f56d5ae9-cbca-48e1-b47e-e06a7561fc5d"
+      Hint: CalltoActionLinkMain
+      Value: |
+        <link text="Learn More" linktype="external" url="https://www.google.com" anchor="" target="" />
+- Language: "fr-CA"
+  Fields:
+  - ID: "30e85e5d-e00a-4864-b358-7624d511deb4"
+    Hint: __Unversioned revision
+    Value: "2adac2ea-955c-4d09-b928-a205cd64a207"
+  - ID: "b5e02ad9-d56f-4c41-a065-a133db87bdeb"
+    Hint: __Display name
+    Value: 
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20250610T095046Z
+    - ID: "3e431de1-525e-47a3-b6b0-1ccbec3a8c98"
+      Hint: __Workflow state
+      Value: "{B71D5C66-667B-4CF1-BE66-342C8B59A4DB}"
+    - ID: "6128ed46-0b79-4d6a-87ad-ac6fe70c649c"
+      Hint: Category
+      Value: Analytique de santé
+    - ID: "78bd5b13-d9ab-44a4-bae4-c2dda0ad6133"
+      Hint: IntroText
+      Value: |
+        <p dir="auto">D&eacute;couvrez comment transformer des donn&eacute;es de sant&eacute; fragment&eacute;es en perspectives en temps r&eacute;el qui autonomisent le personnel, informent les politiques et propulsent des am&eacute;liorations mesurables dans les op&eacute;rations cliniques.</p>
+    - ID: "7cba72f9-1513-41af-ba26-de761f138805"
+      Hint: Title
+      Value: "Des lacs de données à l'action : Analytique de santé à grande échelle"
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "d3154229-de73-4e58-815d-6e5253ea0b44"
+    - ID: "ba41d59c-a2b6-4f14-8913-7734549cce04"
+      Hint: Image
+      Value: |
+        <image mediaid="{F208029D-43D4-4D24-919F-0F6D0D3533AF}" alt="Health Analytics" height="" width="" hspace="" vspace="" />
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\karthikeyan.kumaravel@altudo.co
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20251109T185643Z
+    - ID: "f56d5ae9-cbca-48e1-b47e-e06a7561fc5d"
+      Hint: CalltoActionLinkMain
+      Value: |
+        <link text="En savoir plus" linktype="external" url="https://www.google.com" anchor="" title="En savoir plus" target="" />

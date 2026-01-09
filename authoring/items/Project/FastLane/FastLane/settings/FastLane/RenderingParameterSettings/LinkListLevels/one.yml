@@ -1,0 +1,23 @@
+﻿---
+ID: "2c2f8225-e21f-4766-ac53-48045191a0ac"
+Parent: "a210157f-781f-4c2e-8316-b034b31eb475"
+Template: "2fe2f896-d9a5-46de-a738-c779b0632223"
+Path: /sitecore/system/Settings/Project/FastLane/RenderingParameterSettings/LinkListLevels/one
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20250228T194924Z
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "de09f1d0-5c62-4087-b6a4-4c05a1358a4f"
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\karthikeyan.kumaravel@altudo.co
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20250228T194924Z

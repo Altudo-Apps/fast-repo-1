@@ -1,0 +1,13 @@
+# Global owners
+* @Altudo-Dev/xm-cloud-fast-lane
+
+# Frontend specific files
+headapps/nextjs-starter/src/ @Altudo-Dev/xm-cloud-fast-lane
+headapps/nextjs-starter/package.json @Altudo-Dev/xm-cloud-fast-lane
+headapps/nextjs-starter/vitest.config.ts @Altudo-Dev/xm-cloud-fast-lane
+
+# GitHub Actions
+.github/workflows/ @Altudo-Dev/xm-cloud-fast-lane
+
+# Documentation
+*.md @Altudo-Dev/xm-cloud-fast-lane 

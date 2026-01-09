@@ -1,0 +1,376 @@
+@import "tailwindcss";
+@import 'plyr/dist/plyr.css';
+
+/* 
+ * Tailwind v4 CSS-First Configuration
+ * 
+ * Theme values are imported from Figma-generated file.
+ * Only project-specific additions are defined here.
+ */
+
+/* Import Figma-generated theme (contains @theme, :root, .dark, keyframes) */
+@import "../../../figma/figma-theme.css";
+
+/* Dark mode configuration - use .dark class */
+@variant dark (&:where(.dark, .dark *));
+
+/* Content sources for class detection */
+@source "../app/**/*.{js,ts,jsx,tsx,mdx}";
+@source "../pages/**/*.{js,ts,jsx,tsx,mdx}";
+@source "../components/**/*.{js,ts,jsx,tsx,mdx}";
+@source "../src/**/*.{js,ts,jsx,tsx,mdx}";
+@source "../stories/**/*.{js,ts,jsx,tsx}";
+@source "../.storybook/**/*.{js,ts,jsx,tsx}";
+
+/* Import safelist classes (dynamic CMS classes) */
+@import "./safelist.css";
+
+/* ============================================
+ * PROJECT-SPECIFIC THEME ADDITIONS
+ * Values not included in the Figma export
+ * ============================================ */
+@theme {
+  /* Font Families - set by Next.js localFont in _app.tsx */
+  --font-family-satoshi: var(--font-satoshi), sans-serif;
+  --font-family-zodiak: var(--font-zodiak), sans-serif;
+
+  /* Semantic heading size aliases */
+  --font-size-h1: var(--font-size-5xl);
+  --font-size-h2: var(--font-size-4xl);
+  --font-size-h3: var(--font-size-2xl);
+  --font-size-h4: var(--font-size-xl);
+  --font-size-p: var(--font-size-base);
+
+  /* Semantic spacing aliases */
+  --spacing-sm: 20px;
+  --spacing-md: 30px;
+  --spacing-lg: 50px;
+  --spacing-xl: 75px;
+
+  /* Custom widths not in standard Tailwind */
+  --width-600: 600px;
+
+  /* Custom heights not in standard Tailwind */
+  --height-41: 41px;
+  --height-137: 137px;
+  --height-387: 387px;
+  --height-600: 600px;
+
+  /* Legacy shadow aliases */
+  --shadow-light: var(--shadow-sm);
+  --shadow-medium: var(--shadow-md);
+  --shadow-heavy: var(--shadow-lg);
+
+  /* Short z-index aliases */
+  --z-5: 5;
+  --z-100: 100;
+
+  /* Additional color mappings */
+  --color-tertiary: var(--accent);
+  --color-tertiary-foreground: var(--accent-foreground);
+  --color-quaternary: var(--quaternary);
+  --color-quaternary-foreground: var(--quaternary-foreground);
+  --color-slate: var(--slate);
+}
+
+/* Project-specific color additions */
+:root,
+.fastlanewebsite {
+  --slate: #f1f5f9;
+  --quaternary: var(--accent);
+  --quaternary-foreground: var(--accent-foreground);
+}
+
+.dark,
+.dark .fastlanewebsite {
+  --slate: #082f49;
+  --quaternary: var(--accent);
+  --quaternary-foreground: var(--accent-foreground);
+}
+
+/* ============================================
+ * SITECORE EDITOR STYLES
+ * ============================================ */
+.scChromeData,
+.scpm {
+  display: none !important;
+}
+
+.sc-jss-editing-error,
+.sc-jss-placeholder-error {
+  padding: 1em;
+  background-color: lightyellow;
+}
+
+/* ============================================
+ * BASE ELEMENT STYLES
+ * ============================================ */
+.contentTitle {
+  font-size: 3.5rem;
+  font-weight: 300;
+  line-height: 1.2;
+}
+
+a {
+  text-decoration: none;
+}
+
+a:hover {
+  @apply opacity-80;
+}
+
+/* Text heading utility classes */
+.text-h1 {
+  @apply text-4xl font-extrabold tracking-tight lg:text-5xl leading-none;
+}
+.text-h2 {
+  @apply text-3xl font-semibold tracking-tight;
+}
+.text-h3 {
+  @apply text-2xl font-semibold tracking-tight;
+}
+.text-h4 {
+  @apply text-xl font-semibold tracking-tight;
+}
+.text-h5 {
+  font-size: 1.1rem;
+  font-weight: bold;
+}
+.text-h6 {
+  font-size: 1rem;
+  font-weight: bold;
+}
+.text-p {
+  font-size: 1rem;
+  font-weight: normal;
+}
+
+@layer base {
+  * {
+    @apply border-border;
+    font-family: var(--font-satoshi), sans-serif;
+  }
+  body {
+    @apply bg-background text-foreground;
+  }
+  h1 {
+    @apply text-4xl font-extrabold tracking-tight lg:text-5xl leading-none;
+    font-family: var(--font-zodiak), sans-serif;
+  }
+  h2 {
+    @apply text-3xl font-semibold tracking-tight;
+    font-family: var(--font-zodiak), sans-serif;
+  }
+  h3 {
+    @apply text-2xl font-semibold tracking-tight;
+    font-family: var(--font-zodiak), sans-serif;
+  }
+  h4 {
+    @apply text-xl font-semibold tracking-tight;
+    font-family: var(--font-zodiak), sans-serif;
+  }
+  h5 {
+    font-size: 1.1rem;
+    font-weight: bold;
+    font-family: var(--font-zodiak), sans-serif;
+  }
+  h6 {
+    font-size: 1rem;
+    font-weight: bold;
+    font-family: var(--font-zodiak), sans-serif;
+  }
+  p {
+    font-size: 1rem;
+    font-weight: normal;
+    font-family: var(--font-satoshi), sans-serif;
+  }
+}
+
+/* ============================================
+ * LAYOUT UTILITIES
+ * ============================================ */
+.position-center,
+.position-left,
+.position-right {
+  @apply flex items-center;
+}
+.position-center {
+  @apply justify-center;
+}
+.position-left {
+  @apply justify-start;
+}
+.position-right {
+  @apply justify-end;
+}
+
+.grid-three-tile {
+  @apply grid-cols-1 sm:grid-cols-1 md:grid-cols-2 lg:grid-cols-3;
+}
+
+.grid-image-text-split,
+.grid-equal-split {
+  @apply grid-cols-1;
+}
+
+/* ============================================
+ * SPACING UTILITIES
+ * ============================================ */
+.bottom-low-space {
+  @apply mb-5;
+}
+.bottom-medium-space {
+  @apply mb-10;
+}
+.bottom-large-space {
+  @apply mb-16;
+}
+.bottom-no-space {
+  @apply mb-0;
+}
+.top-low-space {
+  @apply mt-4;
+}
+.top-medium-space {
+  @apply mt-10;
+}
+.top-large-space {
+  @apply mt-16;
+}
+.top-no-space {
+  @apply mt-0;
+}
+
+/* Custom z-index utility */
+.z-5 {
+  z-index: 5;
+}
+
+/* ============================================
+ * CAROUSEL / SLICK STYLES
+ * ============================================ */
+.slick-next {
+  right: 1.5rem !important;
+}
+.slick-prev {
+  left: 1.5rem !important;
+  z-index: 10 !important;
+}
+
+.slick-prev,
+.slick-next {
+  position: absolute;
+  top: 50%;
+  transform: translateY(-50%);
+  z-index: 10;
+  width: 40px;
+  height: 40px;
+  background: none;
+  border: none;
+  display: flex !important;
+  align-items: center;
+  justify-content: center;
+  cursor: pointer;
+  opacity: 1 !important;
+  visibility: visible !important;
+  transition: opacity 0.3s ease;
+}
+
+.slick-prev::before,
+.slick-next::before {
+  display: none;
+}
+
+.slick-prev {
+  left: 10px;
+}
+
+.slick-next {
+  right: 10px;
+}
+
+.slick-prev:hover,
+.slick-next:hover {
+  opacity: 0.8 !important;
+}
+
+.slick-dots {
+  bottom: 25px;
+}
+.slick-dots li button:before,
+.slick-dots li.slick-active button:before {
+  @apply text-white;
+}
+.slick-dots li button:before {
+  @apply text-base;
+}
+
+.carouselComponent.zoom-effect .slick-slide {
+  transition: transform 0.4s ease, opacity 0.4s ease;
+  opacity: 0.6;
+  transform: scale(0.9);
+}
+
+.carouselComponent.zoom-effect .slick-center {
+  opacity: 1;
+  transform: scale(1.05);
+  z-index: 2;
+}
+
+.editing-mode .carouselComponent .component-content {
+  display: none;
+}
+.editing-mode .carouselComponent .slick-slider .component-content {
+  display: block;
+}
+
+/* ============================================
+ * EDITING MODE UTILITIES
+ * ============================================ */
+.editing-mode .inside-editing-mode {
+  @apply opacity-100 visible pointer-events-auto;
+}
+
+.inside-editing-mode {
+  @apply opacity-0 invisible pointer-events-none;
+}
+
+/* ============================================
+ * NAVIGATION / HEADER STYLES
+ * ============================================ */
+.linklist:first-child ul a {
+  @apply text-lg font-semibold leading-7;
+}
+
+.linklist:nth-of-type(2) ul a {
+  @apply text-sm font-medium leading-none;
+}
+
+header .submenu:last-child ul {
+  right: 0;
+  left: auto;
+}
+
+header .row.component.column-splitter.basis-full .row {
+  @apply flex w-full;
+}
+
+header .row.component.column-splitter.basis-full .row .basis-full {
+  flex-basis: unset;
+}
+
+header .column-splitter [class~='basis-1/2']:nth-child(2) .row {
+  @apply md:gap-6;
+}
+
+.mega-nav-container .linklist a {
+  @apply text-secondary-foreground mix-blend-normal;
+}
+
+header .column-splitter [class~='basis-1/2']:nth-child(1) .row {
+  justify-content: flex-start;
+}
+
+.active-menu-item .meganav-item {
+  display: block;
+}

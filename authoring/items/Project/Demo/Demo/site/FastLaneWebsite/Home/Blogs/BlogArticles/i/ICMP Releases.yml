@@ -1,0 +1,351 @@
+﻿---
+ID: "e62d527c-639c-44f2-9684-8227f883806a"
+Parent: "6f8af16c-8165-4e94-b6c0-2a3abbd31b4c"
+Template: "350838af-2729-4435-accd-f1bdb79ef733"
+Path: /sitecore/content/FastLaneTenant/fastlanewebsite/Home/Blogs/BlogArticles/i/ICMP Releases
+BranchID: "85f6266a-c591-4ada-85cb-c6cdd8775f47"
+SharedFields:
+- ID: "a4f985d9-98b3-4b52-aaaf-4344f6e747c6"
+  Hint: __Workflow
+  Value: "{CF913994-CC05-4D20-B38A-9CF1E73F5951}"
+- ID: "dbbbeca1-21c7-4906-9dd2-493c1efa59a2"
+  Hint: __Shared revision
+  Value: "e930c7c5-37da-4acd-88fe-7e0ac8686c74"
+- ID: "f6d8a61c-2f84-4401-bd24-52d2068172bc"
+  Hint: __Originator
+  Value: "{64A8D11E-D36B-4319-AEA1-E7C4976224D1}"
+Languages:
+- Language: "ar-AE"
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "04bf00db-f5fb-41f7-8ab7-22408372a981"
+      Hint: __Final Renderings
+      Value: |
+        <r xmlns:p="p" xmlns:s="s"
+          p:p="1">
+          <d
+            id="{FE5D7FDF-89C0-4D99-9AA3-B5FBD009C9F3}">
+            <r
+              uid="{E6577B7B-5EEC-43F0-A751-6457290EBB0D}"
+              p:before="*"
+              s:id="{B7C649C8-C683-44CB-9A87-AEBEA3DA8EB3}"
+              s:par="GridParameters=%7BF61E01E9-711A-4C99-AE30-4E28463E1DF7%7D&amp;FieldNames=%7B129985C4-D854-49F5-9602-9E1D1B8DF899%7D&amp;BackgroundImage&amp;Styles=%7C%7B0D8280A3-A4C1-4AAD-8392-30B3080349C8%7D&amp;RenderingIdentifier&amp;CSSStyles&amp;DynamicPlaceholderId=1"
+              s:ph="headless-main" />
+            <r
+              uid="{ECCDC050-7EDE-47E9-ABE3-73295D3277CC}"
+              p:after="r[@uid='{E6577B7B-5EEC-43F0-A751-6457290EBB0D}']"
+              s:id="{F7295588-FA7F-448E-B222-F64005B22E8D}"
+              s:par="GridParameters=%7BF61E01E9-711A-4C99-AE30-4E28463E1DF7%7D&amp;ImageOrder&amp;FieldNames=%7BBAC81150-16BD-4AED-9DF5-6FB5C82E1B95%7D&amp;Styles=%7C%7BDA96D040-41DE-4486-A4D1-6CEDECA18E14%7D&amp;RenderingIdentifier&amp;CSSStyles&amp;DynamicPlaceholderId=3"
+              s:ph="headless-main" />
+            <r
+              uid="{9ADB19C9-8277-4F47-95DF-BDE94C39F41E}"
+              p:after="r[@uid='{ECCDC050-7EDE-47E9-ABE3-73295D3277CC}']"
+              s:id="{B7C649C8-C683-44CB-9A87-AEBEA3DA8EB3}"
+              s:par="GridParameters=%7BF61E01E9-711A-4C99-AE30-4E28463E1DF7%7D&amp;FieldNames=%7B129985C4-D854-49F5-9602-9E1D1B8DF899%7D&amp;BackgroundImage&amp;Styles=%7C%7B0D8280A3-A4C1-4AAD-8392-30B3080349C8%7D&amp;RenderingIdentifier&amp;CSSStyles&amp;DynamicPlaceholderId=4"
+              s:ph="headless-main" />
+            <r
+              uid="{392DA7C3-FB30-40FE-B216-ED447498DA55}"
+              p:after="r[@uid='{9ADB19C9-8277-4F47-95DF-BDE94C39F41E}']"
+              s:id="{D425DB5D-FFB0-4574-852C-C17D904CC3E7}"
+              s:par="GridParameters=%7BF61E01E9-711A-4C99-AE30-4E28463E1DF7%7D&amp;FieldNames=%7B6F83E0EE-E1C1-42D2-8B7B-DA86DFDD39DB%7D&amp;Styles=%7C%7B475E77AB-3D7F-4C96-A0C4-8164A8158C82%7D&amp;RenderingIdentifier&amp;CSSStyles&amp;DynamicPlaceholderId=2"
+              s:ph="/headless-main/container-1" />
+            <r
+              uid="{D3489773-40CD-42D0-96F2-DF2B1C01AA1B}"
+              p:after="r[@uid='{392DA7C3-FB30-40FE-B216-ED447498DA55}']"
+              s:id="{1409AEA2-6E60-4EA9-8813-CB229DF0E3B7}"
+              s:par="GridParameters=%7BF61E01E9-711A-4C99-AE30-4E28463E1DF7%7D&amp;FieldNames=%7B0EFC83ED-6584-40A0-91D4-56B2091E359B%7D&amp;Styles=%7C%7B475E77AB-3D7F-4C96-A0C4-8164A8158C82%7D%7C%7BACA1D298-4F90-4EA9-8281-82D0BBB1E353%7D&amp;RenderingIdentifier&amp;CSSStyles&amp;DynamicPlaceholderId=6"
+              s:ph="/headless-main/container-4" />
+            <r
+              uid="{4111F2B6-52D9-48B2-BBC6-83FC64B499E3}"
+              p:after="*[1=2]"
+              s:id="{C5F905F8-FD1F-444E-A9E5-AC6B774FF0DE}"
+              s:par="GridParameters=%7BF61E01E9-711A-4C99-AE30-4E28463E1DF7%7D&amp;Heading Tag&amp;FieldNames=%7B73D70018-AEEB-4FE5-A0F2-50B7BE67B1FF%7D&amp;Styles&amp;RenderingIdentifier&amp;CSSStyles&amp;DynamicPlaceholderId=5"
+              s:ph="/headless-main/container-4" />
+          </d>
+        </r>
+    - ID: "06890ecb-5786-4776-8d76-19250477a9bc"
+      Hint: MetaImage
+      Value: |
+        <image mediaid="{B52DCA4F-51C7-4F98-8A11-F4E23E0C81C5}" alt="ICMP Releases" height="" width="" hspace="" vspace="" />
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20251028T125045Z
+    - ID: "3e431de1-525e-47a3-b6b0-1ccbec3a8c98"
+      Hint: __Workflow state
+      Value: "{F7F71754-F47E-4605-AD5B-87F78974DD92}"
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+      Hint: __Owner
+      Value: |
+        sitecore\karthikeyan.kumaravel@altudo.co
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\karthikeyan.kumaravel@altudo.co
+    - ID: "6128ed46-0b79-4d6a-87ad-ac6fe70c649c"
+      Hint: Category
+      Value: Insights
+    - ID: "6fb03d9c-e0f6-4765-831d-d5627c4e0b67"
+      Hint: Content
+      Value: |
+        <div class="ck-content"><p>The International Council for Medical Proficiency (ICMP) today unveiled the revised International Code of Medical Conduct, a landmark update to its foundational ethical framework. Responding to seismic shifts in digital medicine, genomics, and the pervasive threat of health misinformation, this iteration places unprecedented emphasis on transparency, informed consent, and physician accountability in a rapidly evolving global landscape. Developed through collaborative input from over 1,000 ethicists, clinicians, and patient advocates across 60 countries, the code serves as a universal guide to navigate modern dilemmas, ensuring that medical practice upholds the highest standards of integrity and equity.</p><p>&nbsp;</p><p><strong>Addressing the New Frontiers of Ethical Challenges</strong></p><p>&nbsp; The original ICMP Code, established in 2015, laid the groundwork for ethical practice amid globalization. But the past decade has introduced complexities unforeseen: AI-driven diagnostics that blur lines of liability, genomic editing tools like CRISPR raising equity concerns, and social media-fueled misinformation eroding public trust in vaccines and treatments. The revised code—spanning 28 principles across eight domains—directly confronts these, integrating lessons from real-world crises like the COVID-19 infodemic and ethical debates over gene therapies.<br />"We are not just codifying rules; we are equipping physicians to be ethical innovators," said Dr. Khalil during the virtual rollout event. Endorsed by partners including the World Medical Association and the American Medical Association, the code's revisions were informed by a global survey revealing that 72% of practitioners feel underprepared for digital ethics.</p><p><strong>Core Revisions: Pillars of the Updated Code</strong><br />The updated framework builds on timeless tenets like "do no harm" while introducing forward-looking mandates. Here's a breakdown of the key enhancements:<br /><strong>Digital Medicine and Data Stewardship:</strong>&nbsp;New sections mandate "digital hygiene" protocols, requiring physicians to disclose AI use in consultations and ensure patient data portability across platforms. Informed consent now explicitly covers algorithmic biases, with guidelines for auditing tools to prevent discriminatory outcomes.<br /><strong>Genomics and Reproductive Ethics:</strong>&nbsp;Addressing the genomics boom, the code outlines responsibilities for genetic counseling, emphasizing non-directive approaches and protections against "genetic discrimination." It calls for international registries to track long-term CRISPR outcomes, prioritizing access for underserved populations.<br /><strong>Combating Misinformation:</strong>&nbsp;In a dedicated domain, physicians are urged to actively counter falsehoods through evidence-based public engagement. This includes training on media literacy and a "duty to correct" clause, compelling professionals to report and refute harmful narratives propagated by colleagues.<br /><strong>Transparency and Accountability:</strong>&nbsp;Enhanced reporting mechanisms, including anonymous whistleblower protections and mandatory ethics audits for institutions, foster a culture of openness. The code also introduces a global ethics hotline for real-time consultations on emerging issues.<br />These principles are designed for adaptability, with annual reviews to incorporate advancements like quantum computing in drug discovery or metaverse-based therapy.<br />&nbsp;</p><p><strong>Implementation and Global Rollout</strong><br />To bridge the gap from principle to practice, ICMP is rolling out a multifaceted support ecosystem:</p><p><strong>Online Certification Modules:</strong>&nbsp;Free, interactive courses launching in 2026, projected to train 50,000 professionals in the first year.<br /><strong>Toolkit for Integration:</strong>&nbsp;Downloadable resources for clinics, including consent templates and misinformation response scripts.<br /><strong>Advocacy Partnerships:</strong>&nbsp;Collaborations with tech giants like Google Health and genomic firms like Illumina to align corporate practices with the code.<br />Pilot implementations in five countries—Brazil, India, Nigeria, Sweden, and the U.S.—have already yielded promising results: a 30% uptick in patient trust scores and reduced ethics violation reports.</p><p>&nbsp;</p><p><strong>Voices of Change: Why This Matters Now</strong></p><p>Dr. Rajesh Kumar, a telemedicine pioneer in Mumbai, reflects the sentiment: "In an age where a tweet can spark a pandemic scare, this code arms us with the moral clarity to lead with facts, not fear." Patient advocate Maria Gonzalez from Mexico City adds, "For too long, consent felt like a formality; now, it's a partnership."<br />As misinformation surges— with WHO estimating 1 in 5 health articles online as false—these updates are a clarion call for proactive guardianship.</p><p>&nbsp;</p><p><strong>A Commitment to Enduring Integrity</strong><br />ICMP invites the global medical community to adopt and adapt the code, accessible here. By embedding these principles, we safeguard not just patients, but the very soul of medicine.<br />Join the dialogue on ethics in our blog archives or subscribe to the ICMP newsletter for implementation guides.</p><p>&nbsp;</p></div>
+    - ID: "78bd5b13-d9ab-44a4-bae4-c2dda0ad6133"
+      Hint: IntroText
+      Value: |
+        <div class="ck-content"><p>The International Council for Medical Proficiency (ICMP) emphasizes transparency, informed consent, and physician accountability to guide practice in a fast-changing world.</p></div>
+    - ID: "7cba72f9-1513-41af-ba26-de761f138805"
+      Hint: Title
+      Value: ICMP Releases International Code of Medical Conduct
+    - ID: "85f5b648-1823-4509-b7fd-27deacdf2dff"
+      Hint: MetaDescription
+      Value: ICMP unveils a revised Code of Medical Conduct addressing digital health, genomics, and misinformation challenges. Explore new principles on transparency, consent, and physician responsibility for ethical global practice.
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "7a599f62-e8eb-4513-8a34-47021a2aee32"
+    - ID: "92c233dc-a8b3-4fd0-bb3f-e82a8b49bed2"
+      Hint: MetaTitle
+      Value: ICMP Releases Updated International Code of Medical Conduct | Ethics in Digital Medicine & Genomics
+    - ID: "9f4483ca-f858-45d1-86a5-0a69c9ab6207"
+      Hint: MetaKeywords
+      Value: medical ethics code, ICMP conduct guidelines, digital medicine ethics, genomics ethics, health misinformation, informed consent, physician accountability, global health ethics, AI in medicine, ethical transparency
+    - ID: "a667d11b-ca9f-4fbe-881f-2538eb51f432"
+      Hint: PublishedDate
+      Value: 20240210T000000Z
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\karthikeyan.kumaravel@altudo.co
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20251201T185837Z
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "001dd393-96c5-490b-924a-b0f25cd9efd8"
+      Hint: __Lock
+      Value: <r />
+    - ID: "04bf00db-f5fb-41f7-8ab7-22408372a981"
+      Hint: __Final Renderings
+      Value: |
+        <r xmlns:p="p" xmlns:s="s"
+          p:p="1">
+          <d
+            id="{FE5D7FDF-89C0-4D99-9AA3-B5FBD009C9F3}">
+            <r
+              uid="{E6577B7B-5EEC-43F0-A751-6457290EBB0D}"
+              p:before="*"
+              s:id="{B7C649C8-C683-44CB-9A87-AEBEA3DA8EB3}"
+              s:par="GridParameters=%7BF61E01E9-711A-4C99-AE30-4E28463E1DF7%7D&amp;FieldNames=%7B129985C4-D854-49F5-9602-9E1D1B8DF899%7D&amp;BackgroundImage&amp;Styles=%7C%7B0D8280A3-A4C1-4AAD-8392-30B3080349C8%7D&amp;RenderingIdentifier&amp;CSSStyles&amp;DynamicPlaceholderId=1"
+              s:ph="headless-main" />
+            <r
+              uid="{ECCDC050-7EDE-47E9-ABE3-73295D3277CC}"
+              p:after="r[@uid='{E6577B7B-5EEC-43F0-A751-6457290EBB0D}']"
+              s:id="{F7295588-FA7F-448E-B222-F64005B22E8D}"
+              s:par="GridParameters=%7BF61E01E9-711A-4C99-AE30-4E28463E1DF7%7D&amp;ImageOrder&amp;FieldNames=%7BBAC81150-16BD-4AED-9DF5-6FB5C82E1B95%7D&amp;Styles=%7C%7BDA96D040-41DE-4486-A4D1-6CEDECA18E14%7D&amp;RenderingIdentifier&amp;CSSStyles&amp;DynamicPlaceholderId=3"
+              s:ph="headless-main" />
+            <r
+              uid="{9ADB19C9-8277-4F47-95DF-BDE94C39F41E}"
+              p:after="r[@uid='{ECCDC050-7EDE-47E9-ABE3-73295D3277CC}']"
+              s:id="{B7C649C8-C683-44CB-9A87-AEBEA3DA8EB3}"
+              s:par="GridParameters=%7BF61E01E9-711A-4C99-AE30-4E28463E1DF7%7D&amp;FieldNames=%7B129985C4-D854-49F5-9602-9E1D1B8DF899%7D&amp;BackgroundImage&amp;Styles=%7C%7B0D8280A3-A4C1-4AAD-8392-30B3080349C8%7D&amp;RenderingIdentifier&amp;CSSStyles&amp;DynamicPlaceholderId=4"
+              s:ph="headless-main" />
+            <r
+              uid="{392DA7C3-FB30-40FE-B216-ED447498DA55}"
+              p:after="r[@uid='{9ADB19C9-8277-4F47-95DF-BDE94C39F41E}']"
+              s:id="{D425DB5D-FFB0-4574-852C-C17D904CC3E7}"
+              s:par="GridParameters=%7BF61E01E9-711A-4C99-AE30-4E28463E1DF7%7D&amp;FieldNames=%7B6F83E0EE-E1C1-42D2-8B7B-DA86DFDD39DB%7D&amp;Styles=%7C%7B475E77AB-3D7F-4C96-A0C4-8164A8158C82%7D&amp;RenderingIdentifier&amp;CSSStyles&amp;DynamicPlaceholderId=2"
+              s:ph="/headless-main/container-1" />
+            <r
+              uid="{D3489773-40CD-42D0-96F2-DF2B1C01AA1B}"
+              p:after="r[@uid='{392DA7C3-FB30-40FE-B216-ED447498DA55}']"
+              s:id="{1409AEA2-6E60-4EA9-8813-CB229DF0E3B7}"
+              s:par="GridParameters=%7BF61E01E9-711A-4C99-AE30-4E28463E1DF7%7D&amp;FieldNames=%7B0EFC83ED-6584-40A0-91D4-56B2091E359B%7D&amp;Styles=%7C%7B475E77AB-3D7F-4C96-A0C4-8164A8158C82%7D%7C%7BACA1D298-4F90-4EA9-8281-82D0BBB1E353%7D&amp;RenderingIdentifier&amp;CSSStyles&amp;DynamicPlaceholderId=6"
+              s:ph="/headless-main/container-4" />
+            <r
+              uid="{4111F2B6-52D9-48B2-BBC6-83FC64B499E3}"
+              p:after="*[1=2]"
+              s:id="{C5F905F8-FD1F-444E-A9E5-AC6B774FF0DE}"
+              s:par="GridParameters=%7BF61E01E9-711A-4C99-AE30-4E28463E1DF7%7D&amp;Heading Tag&amp;FieldNames=%7B73D70018-AEEB-4FE5-A0F2-50B7BE67B1FF%7D&amp;Styles&amp;RenderingIdentifier&amp;CSSStyles&amp;DynamicPlaceholderId=5"
+              s:ph="/headless-main/container-4" />
+          </d>
+        </r>
+    - ID: "06890ecb-5786-4776-8d76-19250477a9bc"
+      Hint: MetaImage
+      Value: |
+        <image mediaid="{B52DCA4F-51C7-4F98-8A11-F4E23E0C81C5}" />
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20251028T125045Z
+    - ID: "3e431de1-525e-47a3-b6b0-1ccbec3a8c98"
+      Hint: __Workflow state
+      Value: "{F7F71754-F47E-4605-AD5B-87F78974DD92}"
+    - ID: "4e0720e9-9d50-4ddc-87cf-ecd65e8e94c8"
+      Hint: NavigationTitle
+      Value: ICMP Releases
+    - ID: "6128ed46-0b79-4d6a-87ad-ac6fe70c649c"
+      Hint: Category
+      Value: Insights
+    - ID: "6fb03d9c-e0f6-4765-831d-d5627c4e0b67"
+      Hint: Content
+      Value: |
+        <div class="ck-content"><p>The International Council for Medical Proficiency (ICMP) today unveiled the revised International Code of Medical Conduct, a landmark update to its foundational ethical framework. Responding to seismic shifts in digital medicine, genomics, and the pervasive threat of health misinformation, this iteration places unprecedented emphasis on transparency, informed consent, and physician accountability in a rapidly evolving global landscape. Developed through collaborative input from over 1,000 ethicists, clinicians, and patient advocates across 60 countries, the code serves as a universal guide to navigate modern dilemmas, ensuring that medical practice upholds the highest standards of integrity and equity.</p><p>&nbsp;</p><p><strong>Addressing the New Frontiers of Ethical Challenges</strong></p><p>&nbsp; The original ICMP Code, established in 2015, laid the groundwork for ethical practice amid globalization. But the past decade has introduced complexities unforeseen: AI-driven diagnostics that blur lines of liability, genomic editing tools like CRISPR raising equity concerns, and social media-fueled misinformation eroding public trust in vaccines and treatments. The revised code—spanning 28 principles across eight domains—directly confronts these, integrating lessons from real-world crises like the COVID-19 infodemic and ethical debates over gene therapies.<br />"We are not just codifying rules; we are equipping physicians to be ethical innovators," said Dr. Khalil during the virtual rollout event. Endorsed by partners including the World Medical Association and the American Medical Association, the code's revisions were informed by a global survey revealing that 72% of practitioners feel underprepared for digital ethics.</p><p><strong>Core Revisions: Pillars of the Updated Code</strong><br />The updated framework builds on timeless tenets like "do no harm" while introducing forward-looking mandates. Here's a breakdown of the key enhancements:<br /><strong>Digital Medicine and Data Stewardship:</strong>&nbsp;New sections mandate "digital hygiene" protocols, requiring physicians to disclose AI use in consultations and ensure patient data portability across platforms. Informed consent now explicitly covers algorithmic biases, with guidelines for auditing tools to prevent discriminatory outcomes.<br /><strong>Genomics and Reproductive Ethics:</strong>&nbsp;Addressing the genomics boom, the code outlines responsibilities for genetic counseling, emphasizing non-directive approaches and protections against "genetic discrimination." It calls for international registries to track long-term CRISPR outcomes, prioritizing access for underserved populations.<br /><strong>Combating Misinformation:</strong>&nbsp;In a dedicated domain, physicians are urged to actively counter falsehoods through evidence-based public engagement. This includes training on media literacy and a "duty to correct" clause, compelling professionals to report and refute harmful narratives propagated by colleagues.<br /><strong>Transparency and Accountability:</strong>&nbsp;Enhanced reporting mechanisms, including anonymous whistleblower protections and mandatory ethics audits for institutions, foster a culture of openness. The code also introduces a global ethics hotline for real-time consultations on emerging issues.<br />These principles are designed for adaptability, with annual reviews to incorporate advancements like quantum computing in drug discovery or metaverse-based therapy.<br />&nbsp;</p><p><strong>Implementation and Global Rollout</strong><br />To bridge the gap from principle to practice, ICMP is rolling out a multifaceted support ecosystem:</p><p><strong>Online Certification Modules:</strong>&nbsp;Free, interactive courses launching in 2026, projected to train 50,000 professionals in the first year.<br /><strong>Toolkit for Integration:</strong>&nbsp;Downloadable resources for clinics, including consent templates and misinformation response scripts.<br /><strong>Advocacy Partnerships:</strong>&nbsp;Collaborations with tech giants like Google Health and genomic firms like Illumina to align corporate practices with the code.<br />Pilot implementations in five countries—Brazil, India, Nigeria, Sweden, and the U.S.—have already yielded promising results: a 30% uptick in patient trust scores and reduced ethics violation reports.</p><p>&nbsp;</p><p><strong>Voices of Change: Why This Matters Now</strong></p><p>Dr. Rajesh Kumar, a telemedicine pioneer in Mumbai, reflects the sentiment: "In an age where a tweet can spark a pandemic scare, this code arms us with the moral clarity to lead with facts, not fear." Patient advocate Maria Gonzalez from Mexico City adds, "For too long, consent felt like a formality; now, it's a partnership."<br />As misinformation surges— with WHO estimating 1 in 5 health articles online as false—these updates are a clarion call for proactive guardianship.</p><p>&nbsp;</p><p><strong>A Commitment to Enduring Integrity</strong><br />ICMP invites the global medical community to adopt and adapt the code, accessible here. By embedding these principles, we safeguard not just patients, but the very soul of medicine.<br />Join the dialogue on ethics in our blog archives or subscribe to the ICMP newsletter for implementation guides.</p><p>&nbsp;</p></div>
+    - ID: "78bd5b13-d9ab-44a4-bae4-c2dda0ad6133"
+      Hint: IntroText
+      Value: |
+        <div class="ck-content"><p>The International Council for Medical Proficiency (ICMP) emphasizes transparency, informed consent, and physician accountability to guide practice in a fast-changing world.</p></div>
+    - ID: "7cba72f9-1513-41af-ba26-de761f138805"
+      Hint: Title
+      Value: ICMP Releases International Code of Medical Conduct
+    - ID: "85f5b648-1823-4509-b7fd-27deacdf2dff"
+      Hint: MetaDescription
+      Value: ICMP unveils a revised Code of Medical Conduct addressing digital health, genomics, and misinformation challenges. Explore new principles on transparency, consent, and physician responsibility for ethical global practice.
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "bf28440a-1663-4786-bd92-56b22a8c0804"
+    - ID: "92c233dc-a8b3-4fd0-bb3f-e82a8b49bed2"
+      Hint: MetaTitle
+      Value: ICMP Releases Updated International Code of Medical Conduct | Ethics in Digital Medicine & Genomics
+    - ID: "9f4483ca-f858-45d1-86a5-0a69c9ab6207"
+      Hint: MetaKeywords
+      Value: medical ethics code, ICMP conduct guidelines, digital medicine ethics, genomics ethics, health misinformation, informed consent, physician accountability, global health ethics, AI in medicine, ethical transparency
+    - ID: "a667d11b-ca9f-4fbe-881f-2538eb51f432"
+      Hint: PublishedDate
+      Value: 20240210T000000Z
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\karthikeyan.kumaravel@altudo.co
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20251201T185849Z
+- Language: "fr-CA"
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "04bf00db-f5fb-41f7-8ab7-22408372a981"
+      Hint: __Final Renderings
+      Value: |
+        <r xmlns:p="p" xmlns:s="s"
+          p:p="1">
+          <d
+            id="{FE5D7FDF-89C0-4D99-9AA3-B5FBD009C9F3}">
+            <r
+              uid="{E6577B7B-5EEC-43F0-A751-6457290EBB0D}"
+              p:before="*"
+              s:id="{B7C649C8-C683-44CB-9A87-AEBEA3DA8EB3}"
+              s:par="GridParameters=%7BF61E01E9-711A-4C99-AE30-4E28463E1DF7%7D&amp;FieldNames=%7B129985C4-D854-49F5-9602-9E1D1B8DF899%7D&amp;BackgroundImage&amp;Styles=%7C%7B0D8280A3-A4C1-4AAD-8392-30B3080349C8%7D&amp;RenderingIdentifier&amp;CSSStyles&amp;DynamicPlaceholderId=1"
+              s:ph="headless-main" />
+            <r
+              uid="{ECCDC050-7EDE-47E9-ABE3-73295D3277CC}"
+              p:after="r[@uid='{E6577B7B-5EEC-43F0-A751-6457290EBB0D}']"
+              s:id="{F7295588-FA7F-448E-B222-F64005B22E8D}"
+              s:par="GridParameters=%7BF61E01E9-711A-4C99-AE30-4E28463E1DF7%7D&amp;ImageOrder&amp;FieldNames=%7BBAC81150-16BD-4AED-9DF5-6FB5C82E1B95%7D&amp;Styles=%7C%7BDA96D040-41DE-4486-A4D1-6CEDECA18E14%7D&amp;RenderingIdentifier&amp;CSSStyles&amp;DynamicPlaceholderId=3"
+              s:ph="headless-main" />
+            <r
+              uid="{9ADB19C9-8277-4F47-95DF-BDE94C39F41E}"
+              p:after="r[@uid='{ECCDC050-7EDE-47E9-ABE3-73295D3277CC}']"
+              s:id="{B7C649C8-C683-44CB-9A87-AEBEA3DA8EB3}"
+              s:par="GridParameters=%7BF61E01E9-711A-4C99-AE30-4E28463E1DF7%7D&amp;FieldNames=%7B129985C4-D854-49F5-9602-9E1D1B8DF899%7D&amp;BackgroundImage&amp;Styles=%7C%7B0D8280A3-A4C1-4AAD-8392-30B3080349C8%7D&amp;RenderingIdentifier&amp;CSSStyles&amp;DynamicPlaceholderId=4"
+              s:ph="headless-main" />
+            <r
+              uid="{392DA7C3-FB30-40FE-B216-ED447498DA55}"
+              p:after="r[@uid='{9ADB19C9-8277-4F47-95DF-BDE94C39F41E}']"
+              s:id="{D425DB5D-FFB0-4574-852C-C17D904CC3E7}"
+              s:par="GridParameters=%7BF61E01E9-711A-4C99-AE30-4E28463E1DF7%7D&amp;FieldNames=%7B6F83E0EE-E1C1-42D2-8B7B-DA86DFDD39DB%7D&amp;Styles=%7C%7B475E77AB-3D7F-4C96-A0C4-8164A8158C82%7D&amp;RenderingIdentifier&amp;CSSStyles&amp;DynamicPlaceholderId=2"
+              s:ph="/headless-main/container-1" />
+            <r
+              uid="{D3489773-40CD-42D0-96F2-DF2B1C01AA1B}"
+              p:after="r[@uid='{392DA7C3-FB30-40FE-B216-ED447498DA55}']"
+              s:id="{1409AEA2-6E60-4EA9-8813-CB229DF0E3B7}"
+              s:par="GridParameters=%7BF61E01E9-711A-4C99-AE30-4E28463E1DF7%7D&amp;FieldNames=%7B0EFC83ED-6584-40A0-91D4-56B2091E359B%7D&amp;Styles=%7C%7B475E77AB-3D7F-4C96-A0C4-8164A8158C82%7D%7C%7BACA1D298-4F90-4EA9-8281-82D0BBB1E353%7D&amp;RenderingIdentifier&amp;CSSStyles&amp;DynamicPlaceholderId=6"
+              s:ph="/headless-main/container-4" />
+            <r
+              uid="{4111F2B6-52D9-48B2-BBC6-83FC64B499E3}"
+              p:after="*[1=2]"
+              s:id="{C5F905F8-FD1F-444E-A9E5-AC6B774FF0DE}"
+              s:par="GridParameters=%7BF61E01E9-711A-4C99-AE30-4E28463E1DF7%7D&amp;Heading Tag&amp;FieldNames=%7B73D70018-AEEB-4FE5-A0F2-50B7BE67B1FF%7D&amp;Styles&amp;RenderingIdentifier&amp;CSSStyles&amp;DynamicPlaceholderId=5"
+              s:ph="/headless-main/container-4" />
+          </d>
+        </r>
+    - ID: "06890ecb-5786-4776-8d76-19250477a9bc"
+      Hint: MetaImage
+      Value: |
+        <image mediaid="{B52DCA4F-51C7-4F98-8A11-F4E23E0C81C5}" alt="ICMP Releases" height="" width="" hspace="" vspace="" />
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20251028T125045Z
+    - ID: "3e431de1-525e-47a3-b6b0-1ccbec3a8c98"
+      Hint: __Workflow state
+      Value: "{F7F71754-F47E-4605-AD5B-87F78974DD92}"
+    - ID: "4e0720e9-9d50-4ddc-87cf-ecd65e8e94c8"
+      Hint: NavigationTitle
+      Value: L’ICMP publie une version mise à jour du Code international de déontologie médicale
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+      Hint: __Owner
+      Value: |
+        sitecore\karthikeyan.kumaravel@altudo.co
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\karthikeyan.kumaravel@altudo.co
+    - ID: "6128ed46-0b79-4d6a-87ad-ac6fe70c649c"
+      Hint: Category
+      Value: Connaissances
+    - ID: "6fb03d9c-e0f6-4765-831d-d5627c4e0b67"
+      Hint: Content
+      Value: |
+        <div class="ck-content">
+        <p>Le Conseil international des comp&eacute;tences m&eacute;dicales (ICMP) a d&eacute;voil&eacute; aujourd'hui la version r&eacute;vis&eacute;e du Code international de d&eacute;ontologie m&eacute;dicale, une mise &agrave; jour majeure de son cadre &eacute;thique fondamental. Face aux bouleversements majeurs de la m&eacute;decine num&eacute;rique, de la g&eacute;nomique et &agrave; la menace omnipr&eacute;sente de la d&eacute;sinformation en sant&eacute;, cette version met l'accent, comme jamais auparavant, sur la transparence, le consentement &eacute;clair&eacute; et la responsabilit&eacute; des m&eacute;decins dans un contexte mondial en constante &eacute;volution. &Eacute;labor&eacute; gr&acirc;ce &agrave; la contribution de plus de 1&nbsp;000 &eacute;thiciens, cliniciens et repr&eacute;sentants de patients provenant de 60 pays, ce code constitue un guide universel pour appr&eacute;hender les dilemmes modernes et garantir que la pratique m&eacute;dicale respecte les normes les plus &eacute;lev&eacute;es d'int&eacute;grit&eacute; et d'&eacute;quit&eacute;.</p>
+        <p>&nbsp;</p>
+        <p><strong>Relever les nouveaux d&eacute;fis &eacute;thiques</strong></p>
+        <p>&nbsp;Le Code initial de l'ICMP, &eacute;tabli en 2015, a jet&eacute; les bases d'une pratique &eacute;thique dans un contexte de mondialisation. Mais la derni&egrave;re d&eacute;cennie a introduit des complexit&eacute;s impr&eacute;vues&nbsp;: des diagnostics bas&eacute;s sur l&rsquo;IA qui brouillent les fronti&egrave;res de la responsabilit&eacute;, des outils d&rsquo;&eacute;dition g&eacute;nomique comme CRISPR qui soul&egrave;vent des questions d&rsquo;&eacute;quit&eacute;, et la d&eacute;sinformation aliment&eacute;e par les r&eacute;seaux sociaux qui &eacute;rode la confiance du public envers les vaccins et les traitements. Le code r&eacute;vis&eacute; &ndash; qui comprend 28 principes r&eacute;partis dans huit domaines &ndash; s&rsquo;attaque directement &agrave; ces probl&egrave;mes, en int&eacute;grant les le&ccedil;ons tir&eacute;es de crises r&eacute;elles comme l&rsquo;infod&eacute;mie li&eacute;e &agrave; la COVID-19 et les d&eacute;bats &eacute;thiques sur les th&eacute;rapies g&eacute;niques. &laquo;&nbsp;Nous ne nous contentons pas de codifier des r&egrave;gles&nbsp;; nous donnons aux m&eacute;decins les moyens d&rsquo;&ecirc;tre des innovateurs &eacute;thiques&nbsp;&raquo;, a d&eacute;clar&eacute; le Dr Khalil lors de l&rsquo;&eacute;v&eacute;nement de lancement virtuel. Approuv&eacute; par des partenaires tels que l'Association m&eacute;dicale mondiale et l'Association m&eacute;dicale am&eacute;ricaine, le code de d&eacute;ontologie a &eacute;t&eacute; r&eacute;vis&eacute; &agrave; la suite d'une enqu&ecirc;te mondiale r&eacute;v&eacute;lant que 72 % des praticiens se sentent insuffisamment pr&eacute;par&eacute;s &agrave; l'&eacute;thique num&eacute;rique.
+        </p>
+        <p><strong>R&eacute;visions fondamentales&nbsp;: Piliers du code mis &agrave; jour</strong><br />
+        Le cadre actualis&eacute; s'appuie sur des principes intemporels comme &laquo;&nbsp;primum non nocere&nbsp;&raquo; tout en introduisant des obligations tourn&eacute;es vers l'avenir. Voici un aper&ccedil;u des principales am&eacute;liorations&nbsp;:<br />
+        <strong>M&eacute;decine num&eacute;rique et gestion des donn&eacute;es&nbsp;:</strong> De nouvelles sections imposent des protocoles d'&laquo;&nbsp;hygi&egrave;ne num&eacute;rique&nbsp;&raquo;, obligeant les m&eacute;decins &agrave; d&eacute;clarer l'utilisation de l'IA lors des consultations et &agrave; garantir la portabilit&eacute; des donn&eacute;es des patients entre les plateformes. Le consentement &eacute;clair&eacute; couvre maintenant explicitement les biais algorithmiques, avec des lignes directrices pour l'audit des outils afin de pr&eacute;venir les discriminations.<br />
+        <strong>G&eacute;nomique et &eacute;thique de la reproduction&nbsp;:</strong>&nbsp;Face &agrave; l'essor de la g&eacute;nomique, le code d&eacute;finit les responsabilit&eacute;s en mati&egrave;re de conseil g&eacute;n&eacute;tique, en privil&eacute;giant les approches non directives et la protection contre la &laquo;&nbsp;discrimination g&eacute;n&eacute;tique&nbsp;&raquo;. Il pr&eacute;conise la mise en place de registres internationaux pour le suivi &agrave; long terme des r&eacute;sultats de la technologie CRISPR, en donnant la priorit&eacute; &agrave; l'acc&egrave;s pour les populations mal desservies.<br />
+        <strong>Lutte contre la d&eacute;sinformation&nbsp;:</strong>&nbsp;Dans un espace d&eacute;di&eacute;, les m&eacute;decins sont invit&eacute;s &agrave; lutter activement contre la d&eacute;sinformation par le biais d'une communication publique fond&eacute;e sur des donn&eacute;es probantes. Cela inclut une formation en &eacute;ducation aux m&eacute;dias et une clause de &laquo; devoir de rectification &raquo;, obligeant les professionnels &agrave; signaler et &agrave; r&eacute;futer les discours pr&eacute;judiciables propag&eacute;s par leurs coll&egrave;gues.<br />
+        <strong>Transparence et responsabilit&eacute;&nbsp;:</strong> Des m&eacute;canismes de signalement renforc&eacute;s, notamment la protection des d&eacute;nonciateurs anonymes et des v&eacute;rifications &eacute;thiques obligatoires pour les institutions, favorisent une culture d'ouverture. Le code introduit &eacute;galement une ligne d'assistance &eacute;thique mondiale pour des consultations en temps r&eacute;el sur les questions &eacute;mergentes. Ces principes sont con&ccedil;us pour &ecirc;tre adaptables, avec des r&eacute;visions annuelles afin d'int&eacute;grer les avanc&eacute;es telles que l'informatique quantique dans la d&eacute;couverte de m&eacute;dicaments ou la th&eacute;rapie bas&eacute;e sur le m&eacute;tavers.
+        </p>
+        <p><strong>Mise en &oelig;uvre et d&eacute;ploiement mondial</strong><br />
+        Pour faciliter la transition des principes &agrave; la pratique, l'ICMP d&eacute;ploie un &eacute;cosyst&egrave;me de soutien &agrave; volets multiples&nbsp;:</p>
+        <p><strong>Modules de certification en ligne&nbsp;:</strong>&nbsp;Cours interactifs gratuits lanc&eacute;s en 2026, qui devraient former 50&nbsp;000&nbsp;professionnels d&egrave;s la premi&egrave;re ann&eacute;e.<br />
+        <strong>Outils d'int&eacute;gration&nbsp;:</strong>&nbsp;Ressources t&eacute;l&eacute;chargeables pour les cliniques, notamment des mod&egrave;les de consentement et des scripts de r&eacute;ponse &agrave; la d&eacute;sinformation.<br />
+        <strong>Partenariats de plaidoyer&nbsp;:</strong>&nbsp;Collaborations avec des g&eacute;ants de la technologie comme Google Health et des entreprises de g&eacute;nomique comme Illumina afin d'harmoniser les pratiques des entreprises. avec le code.<br />
+        Des projets pilotes men&eacute;s dans cinq pays (Br&eacute;sil, Inde, Nig&eacute;ria, Su&egrave;de et &Eacute;tats-Unis) ont d&eacute;j&agrave; donn&eacute; des r&eacute;sultats prometteurs&nbsp;: une hausse de 30&nbsp;% des scores de confiance des patients et une diminution des signalements de violations &eacute;thiques.</p>
+        <p>&nbsp;</p>
+        <p><strong>Voix du changement&nbsp;: Pourquoi c&rsquo;est important maintenant</strong></p>
+        Le Dr Rajesh Kumar, pionnier de la t&eacute;l&eacute;m&eacute;decine &agrave; Mumbai, partage ce sentiment&nbsp;: &laquo;&nbsp;&Agrave; l&rsquo;heure o&ugrave; un tweet peut d&eacute;clencher une panique pand&eacute;mique, ce code nous donne la clart&eacute; morale n&eacute;cessaire pour fonder nos actions sur les faits, et non sur la peur.Maria Gonzalez, d&eacute;fenseure des droits des patients &agrave; Mexico, ajoute&nbsp;: &laquo;&nbsp;Trop longtemps, le consentement a &eacute;t&eacute; per&ccedil;u comme une simple formalit&eacute;&nbsp;; maintenant, c'est un vrai partenariat.&raquo;<br />
+        Face &agrave; la prolif&eacute;ration de la d&eacute;sinformation (l&rsquo;OMS estimant qu&rsquo;un article de sant&eacute; sur cinq en ligne est faux), ces mises &agrave; jour constituent un appel urgent &agrave; la transparence et &agrave; la transparence.</div>
+    - ID: "78bd5b13-d9ab-44a4-bae4-c2dda0ad6133"
+      Hint: IntroText
+      Value: |
+        <div class="ck-content">
+        <p>Le Conseil international des comp&eacute;tences m&eacute;dicales (ICMP) met l'accent sur la transparence, le consentement &eacute;clair&eacute; et la responsabilit&eacute; des m&eacute;decins pour guider la pratique dans un monde en constante &eacute;volution.</p>
+        </div>
+    - ID: "7cba72f9-1513-41af-ba26-de761f138805"
+      Hint: Title
+      Value: L'ICMP publie un code international de déontologie médicale
+    - ID: "85f5b648-1823-4509-b7fd-27deacdf2dff"
+      Hint: MetaDescription
+      Value: L’ICMP dévoile un Code de déontologie médicale révisé qui aborde les enjeux de la santé numérique, de la génomique et de la désinformation. Découvrez de nouveaux principes sur la transparence, le consentement et la responsabilité des médecins en matière de pratique éthique à l’échelle mondiale.
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "046dc92a-c12b-4519-b521-f76d488ea410"
+    - ID: "92c233dc-a8b3-4fd0-bb3f-e82a8b49bed2"
+      Hint: MetaTitle
+      Value: L’ICMP publie une version mise à jour du Code international de déontologie médicale | Éthique en médecine numérique et génomique
+    - ID: "9f4483ca-f858-45d1-86a5-0a69c9ab6207"
+      Hint: MetaKeywords
+      Value: Code de déontologie médicale, lignes directrices de l'ICMP, éthique de la médecine numérique, éthique de la génomique, désinformation en santé, consentement éclairé, responsabilité des médecins, éthique de la santé mondiale, intelligence artificielle en médecine, transparence éthique
+    - ID: "a667d11b-ca9f-4fbe-881f-2538eb51f432"
+      Hint: PublishedDate
+      Value: 20240210T000000Z
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\karthikeyan.kumaravel@altudo.co
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20251201T185812Z

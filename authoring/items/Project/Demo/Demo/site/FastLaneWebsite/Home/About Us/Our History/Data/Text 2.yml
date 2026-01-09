@@ -1,0 +1,133 @@
+﻿---
+ID: "7c98f3c4-fc8b-4450-a41b-a7690cbcb6c8"
+Parent: "2451876e-d6b3-4156-97ca-92fefa985a5b"
+Template: "0a7aa373-5ed1-4e9b-9678-22d3c5faf6df"
+Path: /sitecore/content/FastLaneTenant/fastlanewebsite/Home/About Us/Our History/Data/Text 2
+SharedFields:
+- ID: "a4f985d9-98b3-4b52-aaaf-4344f6e747c6"
+  Hint: __Workflow
+  Value: "{9A1B3B33-17C0-4DAE-A533-CEC7FA11F68A}"
+- ID: "dbbbeca1-21c7-4906-9dd2-493c1efa59a2"
+  Hint: __Shared revision
+  Value: "d6422256-c841-4839-95f8-2ba6ece8daa5"
+Languages:
+- Language: "ar-AE"
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20250612T092655Z
+    - ID: "3e431de1-525e-47a3-b6b0-1ccbec3a8c98"
+      Hint: __Workflow state
+      Value: "{B71D5C66-667B-4CF1-BE66-342C8B59A4DB}"
+    - ID: "729034fc-24f3-40b7-8fa4-fb49d7de20dd"
+      Hint: Text
+      Value: |
+        <section>
+        <h2>تحديات القرن الحادي والعشرين والتحول (1991 حتى الآن)</h2>
+        <p>
+        جلب أوائل القرن الحادي والعشرين مجموعة جديدة من التحديات: التغير التكنولوجي السريع، وانتشار المعلومات الطبية الخاطئة، وتفاقم التفاوتات الصحية بسبب العولمة، وتزايد تسويق الرعاية الصحية.
+        </p>
+        <p>
+        استجابةً لذلك، خضعت ICMP لإصلاح داخلي كبير في أوائل العقد الأول من القرن الحادي والعشرين. فقد انتقلت من نموذج يعتمد بشكل كبير على الأوراق إلى نموذج رقمي في المقام الأول، وأطلقت شبكة ICMP Digital Fellowship Network، وهي مركز افتراضي للتعليم المستمر والتعاون بين الأقران والإرشاد. كما أدخلت مسارات للتطوير المهني قائمة على الكفاءة، مع التركيز بشكل خاص على الطب عن بُعد وخصوصية البيانات والتشخيص بمساعدة الذكاء الاصطناعي.
+        </p>
+        <p>
+        كان التزام المنظمة المتجدد بالدعوة أحد التغييرات الرئيسية الأخرى خلال هذه الفترة. فقد أصبحت المنظمة مشاركًا نشطًا في المناقشات حول أسعار الأدوية، والحصول على اللقاحات، وأخلاقيات أنظمة التأمين الصحي الخاصة. وأصدرت المنظمة أوراق موقف تم الاستشهاد بها على نطاق واسع حول أزمة المواد الأفيونية، وتغير المناخ والصحة، والاستخدام الأخلاقي للذكاء الاصطناعي في اتخاذ القرارات السريرية.
+        </p>
+        <p>
+        عندما ظهرت جائحة كوفيد-19 في عام 2020، لعبت اللجنة الدولية لشؤون المفقودين (ICMP) دوراً عالمياً محورياً. فاستناداً إلى بنيتها التحتية القائمة، قامت بتنسيق إحاطات الأطباء عبر الحدود، ووزعت بروتوكولات العلاج متعددة اللغات، وضغطت من أجل التوزيع العادل للقاحات. وأصدرت لجنة أخلاقيات الجائحة التابعة لها - التي تشكلت بعد أسابيع قليلة من فرض الإغلاق الدولي الأول - توجيهات مؤثرة بشأن فرز المرضى وتخصيص الموارد وواجب الرعاية خلال الأزمات.
+        </p>
+        <p>
+        في كثير من النواحي، أعادت الجائحة تأكيد الغرض الأساسي للجنة الدولية لشؤون المفقودين: توحيد الأطباء عبر الحدود في خدمة العلم والأخلاق وكرامة الإنسان.&nbsp; &nbsp;</p>
+        </section>
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "49a4e491-92fe-4563-936e-c278fa0db0d5"
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\karthikeyan.kumaravel@altudo.co
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20251106T113305Z
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20250612T092655Z
+    - ID: "3e431de1-525e-47a3-b6b0-1ccbec3a8c98"
+      Hint: __Workflow state
+      Value: "{B71D5C66-667B-4CF1-BE66-342C8B59A4DB}"
+    - ID: "729034fc-24f3-40b7-8fa4-fb49d7de20dd"
+      Hint: Text
+      Value: |
+        <section>
+        <h2>21st Century Challenges and Transformation (1991&ndash;present)</h2>
+        <p>
+        The early 21st century brought a new set of challenges: rapid technological change, the rise of medical misinformation, health inequities exacerbated by globalization, and the increasing commercialization of healthcare.
+        </p>
+        <p>
+        In response, the ICMP underwent significant internal reform in the early 2000s. It transitioned from a largely paper-based operation to a digital-first model, launching the ICMP Digital Fellowship Network, a virtual hub for continuing education, peer collaboration, and mentorship. It also introduced competency-based professional development tracks, with particular focus on telemedicine, data privacy, and AI-assisted diagnostics.
+        </p>
+        <p>
+        Another major shift during this period was a renewed commitment to advocacy. The ICMP became an active participant in debates over pharmaceutical pricing, vaccine access, and the ethics of private health insurance systems. It issued widely cited position papers on the opioid crisis, climate change and health, and the ethical use of artificial intelligence in clinical decision-making.
+        </p>
+        <p>
+        When the COVID-19 pandemic emerged in 2020, the ICMP played a pivotal global role. Drawing on its existing infrastructure, it coordinated cross-border physician briefings, distributed multilingual treatment protocols, and lobbied for equitable vaccine distribution. Its Pandemic Ethics Committee&mdash;formed just weeks after the first international lockdowns&mdash;issued influential guidance on triage, resource allocation, and the duty of care during crisis conditions.
+        </p>
+        <p>
+        In many respects, the pandemic reaffirmed the ICMP&rsquo;s core purpose: to unite physicians across borders in service of science, ethics, and human dignity.&nbsp; &nbsp;</p>
+        </section>
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "53a51418-7176-4d55-a3c1-805cd804950b"
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\karthikeyan.kumaravel@altudo.co
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20250613T112758Z
+- Language: "fr-CA"
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20250612T092655Z
+    - ID: "3e431de1-525e-47a3-b6b0-1ccbec3a8c98"
+      Hint: __Workflow state
+      Value: "{B71D5C66-667B-4CF1-BE66-342C8B59A4DB}"
+    - ID: "729034fc-24f3-40b7-8fa4-fb49d7de20dd"
+      Hint: Text
+      Value: |
+        <section>
+        <h2>D&eacute;fis et transformations du XXIe si&egrave;cle (1991-aujourd'hui)</h2>
+        <p>
+        Le d&eacute;but du XXIe si&egrave;cle a apport&eacute; son lot de nouveaux d&eacute;fis&nbsp;: l&rsquo;&eacute;volution technologique rapide, la mont&eacute;e en puissance de la d&eacute;sinformation m&eacute;dicale, les in&eacute;galit&eacute;s en mati&egrave;re de sant&eacute; exacerb&eacute;es par la mondialisation et la commercialisation croissante des soins de sant&eacute;.
+        </p>
+        <p>
+        En r&eacute;ponse, l'ICMP a entrepris une importante r&eacute;forme interne au d&eacute;but des ann&eacute;es 2000. Elle est pass&eacute;e d'un fonctionnement principalement bas&eacute; sur le papier &agrave; un mod&egrave;le ax&eacute; sur le num&eacute;rique, lan&ccedil;ant le R&eacute;seau de bourses num&eacute;riques de l'ICMP, une plateforme virtuelle de formation continue, de collaboration entre pairs et de mentorat. Elle a &eacute;galement mis en place des parcours de d&eacute;veloppement professionnel ax&eacute;s sur les comp&eacute;tences, avec un accent particulier sur la t&eacute;l&eacute;m&eacute;decine, la protection des donn&eacute;es et le diagnostic assist&eacute; par l'IA.
+        </p>
+        <p>
+        Un autre changement majeur survenu durant cette p&eacute;riode a &eacute;t&eacute; un engagement renouvel&eacute; en mati&egrave;re de plaidoyer. L'ICMP est devenu un acteur important dans les d&eacute;bats sur le prix des m&eacute;dicaments, l'acc&egrave;s aux vaccins et l'&eacute;thique des syst&egrave;mes d'assurance maladie priv&eacute;s. Il a publi&eacute; des prises de position largement cit&eacute;es sur la crise des opio&iuml;des, les changements climatiques et la sant&eacute;, ainsi que sur l'utilisation &eacute;thique de l'intelligence artificielle dans la prise de d&eacute;cision clinique.
+        </p>
+        <p>
+        Lors de l'&eacute;mergence de la pand&eacute;mie de COVID-19 en 2020, l'ICMP a jou&eacute; un r&ocirc;le mondial essentiel. S'appuyant sur son infrastructure existante, elle a coordonn&eacute; des r&eacute;unions d'information internationales &agrave; l'intention des m&eacute;decins, diffus&eacute; des protocoles de traitement multilingues et milit&eacute; pour une distribution &eacute;quitable des vaccins. Son comit&eacute; d'&eacute;thique en cas de pand&eacute;mie &ndash; cr&eacute;&eacute; quelques semaines seulement apr&egrave;s les premiers confinements internationaux &ndash; a publi&eacute; des recommandations d&eacute;terminantes sur le triage, l'allocation des ressources et le devoir de diligence en situation de crise.
+        </p>
+        <p>
+        &Agrave; bien des &eacute;gards, la pand&eacute;mie a r&eacute;affirm&eacute; la mission fondamentale de l&rsquo;ICMP&nbsp;: unir les m&eacute;decins par-del&agrave; les fronti&egrave;res au service de la science, de l&rsquo;&eacute;thique et de la dignit&eacute; humaine.&nbsp; &nbsp;</p>
+        </section>
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "299af93e-ada9-437d-977a-36a9fcac9227"
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\karthikeyan.kumaravel@altudo.co
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20251126T132354Z

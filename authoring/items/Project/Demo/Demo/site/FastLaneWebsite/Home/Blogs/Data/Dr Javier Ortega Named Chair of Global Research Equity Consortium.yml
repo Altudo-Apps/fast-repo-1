@@ -1,0 +1,148 @@
+﻿---
+ID: "7a248465-b9d3-45a0-b6c7-6164b9c9b107"
+Parent: "6bfdc1b7-22c0-40d2-b2df-d35f9cff49d8"
+Template: "e58b7dbf-2a15-4a94-ad45-9c250ac1ac68"
+Path: /sitecore/content/FastLaneTenant/fastlanewebsite/Home/Blogs/Data/Dr Javier Ortega Named Chair of Global Research Equity Consortium
+SharedFields:
+- ID: "a4f985d9-98b3-4b52-aaaf-4344f6e747c6"
+  Hint: __Workflow
+  Value: "{9A1B3B33-17C0-4DAE-A533-CEC7FA11F68A}"
+- ID: "dbbbeca1-21c7-4906-9dd2-493c1efa59a2"
+  Hint: __Shared revision
+  Value: "2a0a5a67-1229-4374-a858-36c59b657648"
+Languages:
+- Language: "ar-AE"
+  Fields:
+  - ID: "30e85e5d-e00a-4864-b358-7624d511deb4"
+    Hint: __Unversioned revision
+    Value: "4a5a94a3-9277-43a4-8df3-13cde8befe66"
+  - ID: "b5e02ad9-d56f-4c41-a065-a133db87bdeb"
+    Hint: __Display name
+    Value: 
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20250616T073040Z
+    - ID: "3e431de1-525e-47a3-b6b0-1ccbec3a8c98"
+      Hint: __Workflow state
+      Value: "{B71D5C66-667B-4CF1-BE66-342C8B59A4DB}"
+    - ID: "6128ed46-0b79-4d6a-87ad-ac6fe70c649c"
+      Hint: Category
+      Value: هذا مخصص
+    - ID: "78bd5b13-d9ab-44a4-bae4-c2dda0ad6133"
+      Hint: IntroText
+      Value: أصدرت فرقة عمل متعددة التخصصات تابعة للجنة الدولية للمفقودين (ICMP) تقريرًا تاريخيًا يحث على تعزيز الحوكمة والشفافية وحماية المرضى في ظل الاستخدام المتزايد لأدوات الذكاء الاصطناعي في اتخاذ القرارات السر
+    - ID: "7cba72f9-1513-41af-ba26-de761f138805"
+      Hint: Title
+      Value: تعيين الدكتور خافيير أورتيغا رئيسًا لاتحاد الأبحاث العالمية للإنصاف
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "91c54b59-d39b-4d50-896f-5aef589fd35e"
+    - ID: "ba41d59c-a2b6-4f14-8913-7734549cce04"
+      Hint: Image
+      Value: |
+        <image mediaid="{3F761E8A-348F-4686-B2E9-69383A6F88A2}" alt="DrJavier" height="" width="" hspace="" vspace="" />
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\karthikeyan.kumaravel@altudo.co
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20251106T195448Z
+    - ID: "f56d5ae9-cbca-48e1-b47e-e06a7561fc5d"
+      Hint: CalltoActionLinkMain
+      Value: |
+        <link text="اقرأ المقال" linktype="external" url="https://xmc-fast-lane.vercel.app/blogs/dr-javier" anchor="" title="اقرأ المقال" target="" />
+- Language: en
+  Fields:
+  - ID: "30e85e5d-e00a-4864-b358-7624d511deb4"
+    Hint: __Unversioned revision
+    Value: "1000f853-c707-4a26-82ec-d63378f0c2ee"
+  - ID: "b5e02ad9-d56f-4c41-a065-a133db87bdeb"
+    Hint: __Display name
+    Value: 
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "001dd393-96c5-490b-924a-b0f25cd9efd8"
+      Hint: __Lock
+      Value: <r />
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20250616T073040Z
+    - ID: "3e431de1-525e-47a3-b6b0-1ccbec3a8c98"
+      Hint: __Workflow state
+      Value: "{B71D5C66-667B-4CF1-BE66-342C8B59A4DB}"
+    - ID: "6128ed46-0b79-4d6a-87ad-ac6fe70c649c"
+      Hint: Category
+      Value: This is an earmark
+    - ID: "78bd5b13-d9ab-44a4-bae4-c2dda0ad6133"
+      Hint: IntroText
+      Value: "A multidisciplinary ICMP task force released a landmark report urging stronger governance, transparency, and patient protections in the growing use of AI tools in clinical decision-making."
+    - ID: "7cba72f9-1513-41af-ba26-de761f138805"
+      Hint: Title
+      Value: Dr Javier Ortega Named Chair of Global Research Equity Consortium
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "91572f8e-0bb6-474b-8fe2-a347b8305a76"
+    - ID: "ba41d59c-a2b6-4f14-8913-7734549cce04"
+      Hint: Image
+      Value: |
+        <image mediaid="{3F761E8A-348F-4686-B2E9-69383A6F88A2}" />
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\karthikeyan.kumaravel@altudo.co
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20251028T143636Z
+    - ID: "f56d5ae9-cbca-48e1-b47e-e06a7561fc5d"
+      Hint: CalltoActionLinkMain
+      Value: |
+        <link linktype="internal" id="8f403cdf1f0f4b82a36fcea7ccf0bce1" anchor="" querystring="" target="" class="" text="Read the Article" title=""/>
+- Language: "fr-CA"
+  Fields:
+  - ID: "30e85e5d-e00a-4864-b358-7624d511deb4"
+    Hint: __Unversioned revision
+    Value: "7bdf7683-a262-4337-af33-104956d01f80"
+  - ID: "b5e02ad9-d56f-4c41-a065-a133db87bdeb"
+    Hint: __Display name
+    Value: 
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20250616T073040Z
+    - ID: "3e431de1-525e-47a3-b6b0-1ccbec3a8c98"
+      Hint: __Workflow state
+      Value: "{B71D5C66-667B-4CF1-BE66-342C8B59A4DB}"
+    - ID: "6128ed46-0b79-4d6a-87ad-ac6fe70c649c"
+      Hint: Category
+      Value: Il s'agit d'une affectation spéciale
+    - ID: "78bd5b13-d9ab-44a4-bae4-c2dda0ad6133"
+      Hint: IntroText
+      Value: Un groupe de travail multidisciplinaire de l'ICMP a publi&eacute; un rapport historique pr&eacute;conisant une gouvernance renforc&eacute;e, une transparence et une protection des patients face &agrave; l'utilisation croissante des outils d'IA dans la prise de d&eacute;cision clinique.
+    - ID: "7cba72f9-1513-41af-ba26-de761f138805"
+      Hint: Title
+      Value: Le Dr Javier Ortega nommé président du Consortium mondial pour l'équité en matière de recherche
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "715b4aa7-a482-4fff-8df3-3a215a5324bb"
+    - ID: "ba41d59c-a2b6-4f14-8913-7734549cce04"
+      Hint: Image
+      Value: |
+        <image mediaid="{3F761E8A-348F-4686-B2E9-69383A6F88A2}" alt="DrJavier" height="" width="" hspace="" vspace="" />
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\karthikeyan.kumaravel@altudo.co
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20251127T091937Z
+    - ID: "f56d5ae9-cbca-48e1-b47e-e06a7561fc5d"
+      Hint: CalltoActionLinkMain
+      Value: |
+        <link text="Lire l'article" anchor="" linktype="internal" class="" title="Lire l'article" target="" querystring="" id="{8F403CDF-1F0F-4B82-A36F-CEA7CCF0BCE1}" />

@@ -1,0 +1,128 @@
+﻿---
+ID: "5e899752-6045-46d6-9ccb-e419b2a33011"
+Parent: "ee2d8dd6-8ca7-49a2-b9f8-4810487a0116"
+Template: "9b0ee820-703c-4649-9eef-684a1b297ffd"
+Path: /sitecore/content/FastLaneTenant/global/Data/SocialLinks/Facebook
+BranchID: "fe026ac2-9ee3-4e63-bd3d-1e5b1f4a7d69"
+SharedFields:
+- ID: "a4f985d9-98b3-4b52-aaaf-4344f6e747c6"
+  Hint: __Workflow
+  Value: "{9A1B3B33-17C0-4DAE-A533-CEC7FA11F68A}"
+- ID: "dbbbeca1-21c7-4906-9dd2-493c1efa59a2"
+  Hint: __Shared revision
+  Value: "e0ede481-fa34-465d-a388-7b3d5c5369df"
+- ID: "f6d8a61c-2f84-4401-bd24-52d2068172bc"
+  Hint: __Originator
+  Value: "{D9E77418-BE44-4FEA-92A5-AC1D8CE1EAC6}"
+Languages:
+- Language: "ar-AE"
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20250629T172640Z
+    - ID: "3e431de1-525e-47a3-b6b0-1ccbec3a8c98"
+      Hint: __Workflow state
+      Value: "{B71D5C66-667B-4CF1-BE66-342C8B59A4DB}"
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+      Hint: __Owner
+      Value: |
+        sitecore\karthikeyan.kumaravel@altudo.co
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\andy.cohen@altudo.co
+    - ID: "66c510fd-541a-4c84-8cd2-54dd2dfdc333"
+      Hint: SocialLink
+      Value: |
+        <link text="Facebook" linktype="external" url="https://www.facebook.com" anchor="" title="Facebook" target="_blank" />
+    - ID: "6c577ce5-422b-43f2-8d61-e67cda14391d"
+      Hint: SocialIcon
+      Value: |
+        <image mediaid="{C8A6B090-2858-4464-9CB9-610862EF7E79}" />
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "7551949f-48ca-473b-bedd-28b5d952e7d2"
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\karthikeyan.kumaravel@altudo.co
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20251104T183241Z
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "001dd393-96c5-490b-924a-b0f25cd9efd8"
+      Hint: __Lock
+      Value: <r />
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20250629T172640Z
+    - ID: "3e431de1-525e-47a3-b6b0-1ccbec3a8c98"
+      Hint: __Workflow state
+      Value: "{B71D5C66-667B-4CF1-BE66-342C8B59A4DB}"
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+      Hint: __Owner
+      Value: |
+        sitecore\andy.cohen@altudo.co
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\andy.cohen@altudo.co
+    - ID: "66c510fd-541a-4c84-8cd2-54dd2dfdc333"
+      Hint: SocialLink
+      Value: |
+        <link text="Facebook" linktype="external" url="https://www.facebook.com" anchor="" title="Facebook" target="_blank" />
+    - ID: "6c577ce5-422b-43f2-8d61-e67cda14391d"
+      Hint: SocialIcon
+      Value: |
+        <image mediaid="{C8A6B090-2858-4464-9CB9-610862EF7E79}" />
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "ac3ea9aa-1e6d-4f68-886c-0b78fec87efc"
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\andy.cohen@altudo.co
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20250629T173334Z
+- Language: "fr-CA"
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20250629T172640Z
+    - ID: "3e431de1-525e-47a3-b6b0-1ccbec3a8c98"
+      Hint: __Workflow state
+      Value: "{B71D5C66-667B-4CF1-BE66-342C8B59A4DB}"
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+      Hint: __Owner
+      Value: |
+        sitecore\karthikeyan.kumaravel@altudo.co
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\andy.cohen@altudo.co
+    - ID: "66c510fd-541a-4c84-8cd2-54dd2dfdc333"
+      Hint: SocialLink
+      Value: |
+        <link text="Facebook" linktype="external" url="https://www.facebook.com" anchor="" title="Facebook" target="_blank" />
+    - ID: "6c577ce5-422b-43f2-8d61-e67cda14391d"
+      Hint: SocialIcon
+      Value: |
+        <image mediaid="{C8A6B090-2858-4464-9CB9-610862EF7E79}" />
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "de9abec8-7b98-4ade-acbe-ffbdb5378d4b"
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\karthikeyan.kumaravel@altudo.co
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20251104T182719Z

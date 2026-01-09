@@ -1,0 +1,38 @@
+﻿---
+ID: "83cd3c35-2d6e-4afb-984e-7bf061c845a5"
+Parent: "62b5c59b-7e55-433a-9316-e59c9e1d59f3"
+Template: "62b5c59b-7e55-433a-9316-e59c9e1d59f3"
+Path: /sitecore/templates/Feature/FastLane/Renderings/CTAButton/CTAButton/__Standard Values
+SharedFields:
+- ID: "06d5295c-ed2f-4a54-9bf2-26228d113318"
+  Hint: __Icon
+  Value: "/sitecore/media library/Project/FastLaneTenant/shared/ComponentIcons/-/media/91BA0340F91E47E9BDBFB8F3A1E85428.ashx?thn=1&db=master"
+- ID: "dbbbeca1-21c7-4906-9dd2-493c1efa59a2"
+  Hint: __Shared revision
+  Value: "e71a91d9-38dd-4166-9e93-019aa9edb1bd"
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20250224T140838Z
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+      Hint: __Owner
+      Value: |
+        sitecore\karthikeyan.kumaravel@altudo.co
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\karthikeyan.kumaravel@altudo.co
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "a555cedf-ac4e-496a-8a07-ca6743440959"
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\andy.cohen@altudo.co
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20250629T181057Z

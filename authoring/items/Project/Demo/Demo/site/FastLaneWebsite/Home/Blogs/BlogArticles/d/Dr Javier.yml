@@ -1,0 +1,352 @@
+﻿---
+ID: "8f403cdf-1f0f-4b82-a36f-cea7ccf0bce1"
+Parent: "3fa14f8a-f453-4bf7-bc6a-9bafe6cff65f"
+Template: "350838af-2729-4435-accd-f1bdb79ef733"
+Path: /sitecore/content/FastLaneTenant/fastlanewebsite/Home/Blogs/BlogArticles/d/Dr Javier
+BranchID: "85f6266a-c591-4ada-85cb-c6cdd8775f47"
+SharedFields:
+- ID: "a4f985d9-98b3-4b52-aaaf-4344f6e747c6"
+  Hint: __Workflow
+  Value: "{CF913994-CC05-4D20-B38A-9CF1E73F5951}"
+- ID: "dbbbeca1-21c7-4906-9dd2-493c1efa59a2"
+  Hint: __Shared revision
+  Value: "ea481739-d52a-4056-8171-8dcfd77491ac"
+- ID: "f6d8a61c-2f84-4401-bd24-52d2068172bc"
+  Hint: __Originator
+  Value: "{64A8D11E-D36B-4319-AEA1-E7C4976224D1}"
+Languages:
+- Language: "ar-AE"
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "04bf00db-f5fb-41f7-8ab7-22408372a981"
+      Hint: __Final Renderings
+      Value: |
+        <r xmlns:p="p" xmlns:s="s"
+          p:p="1">
+          <d
+            id="{FE5D7FDF-89C0-4D99-9AA3-B5FBD009C9F3}">
+            <r
+              uid="{E6577B7B-5EEC-43F0-A751-6457290EBB0D}"
+              p:before="*"
+              s:id="{B7C649C8-C683-44CB-9A87-AEBEA3DA8EB3}"
+              s:par="GridParameters=%7BF61E01E9-711A-4C99-AE30-4E28463E1DF7%7D&amp;FieldNames=%7B129985C4-D854-49F5-9602-9E1D1B8DF899%7D&amp;BackgroundImage&amp;Styles=%7C%7B0D8280A3-A4C1-4AAD-8392-30B3080349C8%7D&amp;RenderingIdentifier&amp;CSSStyles&amp;DynamicPlaceholderId=1"
+              s:ph="headless-main" />
+            <r
+              uid="{ECCDC050-7EDE-47E9-ABE3-73295D3277CC}"
+              p:after="r[@uid='{E6577B7B-5EEC-43F0-A751-6457290EBB0D}']"
+              s:id="{F7295588-FA7F-448E-B222-F64005B22E8D}"
+              s:par="GridParameters=%7BF61E01E9-711A-4C99-AE30-4E28463E1DF7%7D&amp;ImageOrder&amp;FieldNames=%7BBAC81150-16BD-4AED-9DF5-6FB5C82E1B95%7D&amp;Styles&amp;RenderingIdentifier&amp;CSSStyles&amp;DynamicPlaceholderId=3"
+              s:ph="headless-main" />
+            <r
+              uid="{9ADB19C9-8277-4F47-95DF-BDE94C39F41E}"
+              p:after="r[@uid='{ECCDC050-7EDE-47E9-ABE3-73295D3277CC}']"
+              s:id="{B7C649C8-C683-44CB-9A87-AEBEA3DA8EB3}"
+              s:par="GridParameters=%7BF61E01E9-711A-4C99-AE30-4E28463E1DF7%7D&amp;FieldNames=%7B129985C4-D854-49F5-9602-9E1D1B8DF899%7D&amp;BackgroundImage&amp;Styles&amp;RenderingIdentifier&amp;CSSStyles&amp;DynamicPlaceholderId=4"
+              s:ph="headless-main" />
+            <r
+              uid="{392DA7C3-FB30-40FE-B216-ED447498DA55}"
+              p:after="*[1=2]"
+              s:id="{D425DB5D-FFB0-4574-852C-C17D904CC3E7}"
+              s:par="GridParameters=%7BF61E01E9-711A-4C99-AE30-4E28463E1DF7%7D&amp;FieldNames=%7B6F83E0EE-E1C1-42D2-8B7B-DA86DFDD39DB%7D&amp;Styles&amp;RenderingIdentifier&amp;CSSStyles&amp;DynamicPlaceholderId=2"
+              s:ph="/headless-main/container-1" />
+          </d>
+        </r>
+    - ID: "06890ecb-5786-4776-8d76-19250477a9bc"
+      Hint: MetaImage
+      Value: |
+        <image mediaid="{3F761E8A-348F-4686-B2E9-69383A6F88A2}" alt="DrJavier" height="" width="" hspace="" vspace="" />
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20251028T133955Z
+    - ID: "3e431de1-525e-47a3-b6b0-1ccbec3a8c98"
+      Hint: __Workflow state
+      Value: "{F7F71754-F47E-4605-AD5B-87F78974DD92}"
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+      Hint: __Owner
+      Value: |
+        sitecore\karthikeyan.kumaravel@altudo.co
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\karthikeyan.kumaravel@altudo.co
+    - ID: "6128ed46-0b79-4d6a-87ad-ac6fe70c649c"
+      Hint: Category
+      Value: Insights
+    - ID: "6fb03d9c-e0f6-4765-831d-d5627c4e0b67"
+      Hint: Content
+      Value: |
+        <p dir="auto"><strong>The Imperative for Decolonizing Global Health Research</strong><br />
+        For decades, medical research has been dominated by Northern institutions, leading to skewed priorities, underrepresentation of marginalized communities, and perpetuation of colonial legacies in science. GREC emerges as a bold counterforce, uniting over 200 organizations from 75 countries to dismantle these barriers. Under Dr. Ortega's stewardship, the consortium will advocate for reforms that prioritize community-driven studies, fair data sovereignty, and reparative funding models.<br />
+        In his acceptance remarks at the consortium's virtual launch event, Dr. Ortega stated: "Research equity isn't a buzzword&mdash;it's justice. We've long extracted knowledge from the South to fuel innovations in the North; now, it's time to redistribute power, resources, and credit equitably."<br />
+        GREC's formation is timely, building on recent critiques from bodies like the WHO and Lancet Commission on Global Surgery, which highlight how biased research contributes to health disparities affecting billions.</p>
+        <p dir="auto"><strong>Pillars of the Global Research Equity Consortium</strong><br />
+        GREC's framework is anchored in five strategic pillars, each designed to foster transformative change:<br />
+        <br />
+        <strong> Equitable Funding Mechanisms:</strong>&nbsp;Launching a $50 million seed fund for researcher-led projects in low- and middle-income countries (LMICs), with mandates for local principal investigators and profit-sharing from commercialized outcomes.<br />
+        <strong> Diverse Authorship and Recognition:</strong>&nbsp;Implementing "Equity Audits" for journals and funders, requiring at least 50% authorship from affected communities and crediting traditional knowledge holders as co-authors.<br />
+        <strong> Decolonizing Methodologies:</strong>&nbsp;Developing open-access toolkits for participatory research, emphasizing indigenous epistemologies and de-emphasizing Western-centric metrics like impact factors.<br />
+        <strong> Capacity Building and Mentorship:</strong>&nbsp;Expanding ICMP's fellowship programs to include reverse mentorship, where LMIC experts train Northern counterparts on cultural humility and context-specific ethics.<br />
+        <strong> Policy Advocacy and Accountability:</strong>&nbsp;Partnering with UN agencies to embed equity clauses in international grants and track progress via annual transparency reports.<br />
+        <br />
+        These initiatives aim to increase LMIC-led publications by 40% within five years, measured against baseline data from PubMed and Scopus.</p>
+        <p dir="auto"><strong>Spotlight on Impact: From Vision to Action</strong><br />
+        Dr. Ortega's own trajectory exemplifies GREC's ethos. As lead investigator on a landmark study of maternal health in Andean communities, he ensured 70% of the authorship team hailed from indigenous groups, resulting in policies adopted by Peru's Ministry of Health. Now, as Chair, he's piloting GREC's first project: a multi-country trial on climate-adaptive nutrition, co-designed with farmers and nutritionists from sub-Saharan Africa and Southeast Asia.<br />
+        Collaborators like Dr. Fatima Al-Sayed from Egypt's National Research Centre praise the appointment: "Javier's blend of rigor and empathy will make GREC a beacon for authentic global collaboration."<br />
+        <strong></strong></p>
+        <p dir="auto"><strong>Charting the Future: A Call for Collective Commitment</strong><br />
+        As Chair, Dr. Ortega will convene the first GREC Summit in Bogot&aacute;, Colombia, in 2026, inviting researchers, funders, and policymakers to co-create actionable roadmaps. ICMP members and allies can engage through grec.icmp.org/join, accessing resources like equity training webinars and funding alerts.<br />
+        This appointment reinforces ICMP's role as a vanguard for just health sciences. Under Dr. Ortega's guidance, GREC will not only challenge the status quo but redefine it&mdash;ensuring global health research truly serves all humanity.<br />
+        Dive deeper into equity in research via our blog archives or subscribe to the ICMP newsletter for updates.</p>
+    - ID: "78bd5b13-d9ab-44a4-bae4-c2dda0ad6133"
+      Hint: IntroText
+      Value: ICMP Vice President Dr. Javier Ortega has been appointed as the inaugural Chair of the Global Research Equity Consortium, a pioneering international alliance dedicated to decolonizing medical research through equitable funding, diverse authorship, and inclusive practices in global health studies&mdash;empowering underrepresented voices to lead transformative change.
+    - ID: "7cba72f9-1513-41af-ba26-de761f138805"
+      Hint: Title
+      Value: Dr Javier Ortega Named Chair of Global Research Equity Consortium
+    - ID: "85f5b648-1823-4509-b7fd-27deacdf2dff"
+      Hint: MetaDescription
+      Value: ICMP's Dr. Javier Ortega appointed Chair of the new Global Research Equity Consortium, focusing on equitable funding and authorship in global health. Explore initiatives to decolonize medical research and promote inclusive studies.
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "4f90d962-3ce8-4731-8d27-8fa704d9a423"
+    - ID: "92c233dc-a8b3-4fd0-bb3f-e82a8b49bed2"
+      Hint: MetaTitle
+      Value: Dr. Javier Ortega Named Chair of Global Research Equity Consortium | Decolonizing Medical Research
+    - ID: "9f4483ca-f858-45d1-86a5-0a69c9ab6207"
+      Hint: MetaKeywords
+      Value: research equity, global health consortium, decolonizing medicine, Dr. Javier Ortega, ICMP vice president, medical authorship, health funding equity, inclusive research, Global South, health policy reform
+    - ID: "a667d11b-ca9f-4fbe-881f-2538eb51f432"
+      Hint: PublishedDate
+      Value: 20251102T000000Z
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\karthikeyan.kumaravel@altudo.co
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20251201T184447Z
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "001dd393-96c5-490b-924a-b0f25cd9efd8"
+      Hint: __Lock
+      Value: <r />
+    - ID: "04bf00db-f5fb-41f7-8ab7-22408372a981"
+      Hint: __Final Renderings
+      Value: |
+        <r xmlns:p="p" xmlns:s="s"
+          p:p="1">
+          <d
+            id="{FE5D7FDF-89C0-4D99-9AA3-B5FBD009C9F3}">
+            <r
+              uid="{E6577B7B-5EEC-43F0-A751-6457290EBB0D}"
+              p:before="*"
+              s:id="{B7C649C8-C683-44CB-9A87-AEBEA3DA8EB3}"
+              s:par="GridParameters=%7BF61E01E9-711A-4C99-AE30-4E28463E1DF7%7D&amp;FieldNames=%7B129985C4-D854-49F5-9602-9E1D1B8DF899%7D&amp;BackgroundImage&amp;Styles=%7C%7B0D8280A3-A4C1-4AAD-8392-30B3080349C8%7D&amp;RenderingIdentifier&amp;CSSStyles&amp;DynamicPlaceholderId=1"
+              s:ph="headless-main" />
+            <r
+              uid="{ECCDC050-7EDE-47E9-ABE3-73295D3277CC}"
+              p:after="r[@uid='{E6577B7B-5EEC-43F0-A751-6457290EBB0D}']"
+              s:id="{F7295588-FA7F-448E-B222-F64005B22E8D}"
+              s:par="GridParameters=%7BF61E01E9-711A-4C99-AE30-4E28463E1DF7%7D&amp;ImageOrder&amp;FieldNames=%7BBAC81150-16BD-4AED-9DF5-6FB5C82E1B95%7D&amp;Styles&amp;RenderingIdentifier&amp;CSSStyles&amp;DynamicPlaceholderId=3"
+              s:ph="headless-main" />
+            <r
+              uid="{9ADB19C9-8277-4F47-95DF-BDE94C39F41E}"
+              p:after="r[@uid='{ECCDC050-7EDE-47E9-ABE3-73295D3277CC}']"
+              s:id="{B7C649C8-C683-44CB-9A87-AEBEA3DA8EB3}"
+              s:par="GridParameters=%7BF61E01E9-711A-4C99-AE30-4E28463E1DF7%7D&amp;FieldNames=%7B129985C4-D854-49F5-9602-9E1D1B8DF899%7D&amp;BackgroundImage&amp;Styles&amp;RenderingIdentifier&amp;CSSStyles&amp;DynamicPlaceholderId=4"
+              s:ph="headless-main" />
+            <r
+              uid="{392DA7C3-FB30-40FE-B216-ED447498DA55}"
+              p:after="*[1=2]"
+              s:id="{D425DB5D-FFB0-4574-852C-C17D904CC3E7}"
+              s:par="GridParameters=%7BF61E01E9-711A-4C99-AE30-4E28463E1DF7%7D&amp;FieldNames=%7B6F83E0EE-E1C1-42D2-8B7B-DA86DFDD39DB%7D&amp;Styles&amp;RenderingIdentifier&amp;CSSStyles&amp;DynamicPlaceholderId=2"
+              s:ph="/headless-main/container-1" />
+          </d>
+        </r>
+    - ID: "06890ecb-5786-4776-8d76-19250477a9bc"
+      Hint: MetaImage
+      Value: |
+        <image mediaid="{3F761E8A-348F-4686-B2E9-69383A6F88A2}" />
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20251028T133955Z
+    - ID: "3e431de1-525e-47a3-b6b0-1ccbec3a8c98"
+      Hint: __Workflow state
+      Value: "{F7F71754-F47E-4605-AD5B-87F78974DD92}"
+    - ID: "4e0720e9-9d50-4ddc-87cf-ecd65e8e94c8"
+      Hint: NavigationTitle
+      Value: Dr Javier Ortega Named Chair of Global Research Equity Consortium
+    - ID: "6128ed46-0b79-4d6a-87ad-ac6fe70c649c"
+      Hint: Category
+      Value: Insights
+    - ID: "6fb03d9c-e0f6-4765-831d-d5627c4e0b67"
+      Hint: Content
+      Value: |
+        <p dir="auto"><strong>The Imperative for Decolonizing Global Health Research</strong><br />
+        For decades, medical research has been dominated by Northern institutions, leading to skewed priorities, underrepresentation of marginalized communities, and perpetuation of colonial legacies in science. GREC emerges as a bold counterforce, uniting over 200 organizations from 75 countries to dismantle these barriers. Under Dr. Ortega's stewardship, the consortium will advocate for reforms that prioritize community-driven studies, fair data sovereignty, and reparative funding models.<br />
+        In his acceptance remarks at the consortium's virtual launch event, Dr. Ortega stated: "Research equity isn't a buzzword&mdash;it's justice. We've long extracted knowledge from the South to fuel innovations in the North; now, it's time to redistribute power, resources, and credit equitably."<br />
+        GREC's formation is timely, building on recent critiques from bodies like the WHO and Lancet Commission on Global Surgery, which highlight how biased research contributes to health disparities affecting billions.</p>
+        <p dir="auto"><strong>Pillars of the Global Research Equity Consortium</strong><br />
+        GREC's framework is anchored in five strategic pillars, each designed to foster transformative change:<br />
+        <br />
+        <strong> Equitable Funding Mechanisms:</strong>&nbsp;Launching a $50 million seed fund for researcher-led projects in low- and middle-income countries (LMICs), with mandates for local principal investigators and profit-sharing from commercialized outcomes.<br />
+        <strong> Diverse Authorship and Recognition:</strong>&nbsp;Implementing "Equity Audits" for journals and funders, requiring at least 50% authorship from affected communities and crediting traditional knowledge holders as co-authors.<br />
+        <strong> Decolonizing Methodologies:</strong>&nbsp;Developing open-access toolkits for participatory research, emphasizing indigenous epistemologies and de-emphasizing Western-centric metrics like impact factors.<br />
+        <strong> Capacity Building and Mentorship:</strong>&nbsp;Expanding ICMP's fellowship programs to include reverse mentorship, where LMIC experts train Northern counterparts on cultural humility and context-specific ethics.<br />
+        <strong> Policy Advocacy and Accountability:</strong>&nbsp;Partnering with UN agencies to embed equity clauses in international grants and track progress via annual transparency reports.<br />
+        <br />
+        These initiatives aim to increase LMIC-led publications by 40% within five years, measured against baseline data from PubMed and Scopus.</p>
+        <p dir="auto"><strong>Spotlight on Impact: From Vision to Action</strong><br />
+        Dr. Ortega's own trajectory exemplifies GREC's ethos. As lead investigator on a landmark study of maternal health in Andean communities, he ensured 70% of the authorship team hailed from indigenous groups, resulting in policies adopted by Peru's Ministry of Health. Now, as Chair, he's piloting GREC's first project: a multi-country trial on climate-adaptive nutrition, co-designed with farmers and nutritionists from sub-Saharan Africa and Southeast Asia.<br />
+        Collaborators like Dr. Fatima Al-Sayed from Egypt's National Research Centre praise the appointment: "Javier's blend of rigor and empathy will make GREC a beacon for authentic global collaboration."<br />
+        <strong></strong></p>
+        <p dir="auto"><strong>Charting the Future: A Call for Collective Commitment</strong><br />
+        As Chair, Dr. Ortega will convene the first GREC Summit in Bogot&aacute;, Colombia, in 2026, inviting researchers, funders, and policymakers to co-create actionable roadmaps. ICMP members and allies can engage through grec.icmp.org/join, accessing resources like equity training webinars and funding alerts.<br />
+        This appointment reinforces ICMP's role as a vanguard for just health sciences. Under Dr. Ortega's guidance, GREC will not only challenge the status quo but redefine it&mdash;ensuring global health research truly serves all humanity.<br />
+        Dive deeper into equity in research via our blog archives or subscribe to the ICMP newsletter for updates.</p>
+    - ID: "78bd5b13-d9ab-44a4-bae4-c2dda0ad6133"
+      Hint: IntroText
+      Value: ICMP Vice President Dr. Javier Ortega has been appointed as the inaugural Chair of the Global Research Equity Consortium, a pioneering international alliance dedicated to decolonizing medical research through equitable funding, diverse authorship, and inclusive practices in global health studies&mdash;empowering underrepresented voices to lead transformative change.
+    - ID: "7cba72f9-1513-41af-ba26-de761f138805"
+      Hint: Title
+      Value: Dr Javier Ortega Named Chair of Global Research Equity Consortium
+    - ID: "85f5b648-1823-4509-b7fd-27deacdf2dff"
+      Hint: MetaDescription
+      Value: ICMP's Dr. Javier Ortega appointed Chair of the new Global Research Equity Consortium, focusing on equitable funding and authorship in global health. Explore initiatives to decolonize medical research and promote inclusive studies.
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "9fd85032-33e9-4b75-ab1a-44e07c4a9fe3"
+    - ID: "92c233dc-a8b3-4fd0-bb3f-e82a8b49bed2"
+      Hint: MetaTitle
+      Value: Dr. Javier Ortega Named Chair of Global Research Equity Consortium | Decolonizing Medical Research
+    - ID: "9f4483ca-f858-45d1-86a5-0a69c9ab6207"
+      Hint: MetaKeywords
+      Value: research equity, global health consortium, decolonizing medicine, Dr. Javier Ortega, ICMP vice president, medical authorship, health funding equity, inclusive research, Global South, health policy reform
+    - ID: "a667d11b-ca9f-4fbe-881f-2538eb51f432"
+      Hint: PublishedDate
+      Value: 20251102T000000Z
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\karthikeyan.kumaravel@altudo.co
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20251201T184420Z
+- Language: "fr-CA"
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "04bf00db-f5fb-41f7-8ab7-22408372a981"
+      Hint: __Final Renderings
+      Value: |
+        <r xmlns:p="p" xmlns:s="s"
+          p:p="1">
+          <d
+            id="{FE5D7FDF-89C0-4D99-9AA3-B5FBD009C9F3}">
+            <r
+              uid="{E6577B7B-5EEC-43F0-A751-6457290EBB0D}"
+              p:before="*"
+              s:id="{B7C649C8-C683-44CB-9A87-AEBEA3DA8EB3}"
+              s:par="GridParameters=%7BF61E01E9-711A-4C99-AE30-4E28463E1DF7%7D&amp;FieldNames=%7B129985C4-D854-49F5-9602-9E1D1B8DF899%7D&amp;BackgroundImage&amp;Styles=%7C%7B0D8280A3-A4C1-4AAD-8392-30B3080349C8%7D&amp;RenderingIdentifier&amp;CSSStyles&amp;DynamicPlaceholderId=1"
+              s:ph="headless-main" />
+            <r
+              uid="{ECCDC050-7EDE-47E9-ABE3-73295D3277CC}"
+              p:after="r[@uid='{E6577B7B-5EEC-43F0-A751-6457290EBB0D}']"
+              s:id="{F7295588-FA7F-448E-B222-F64005B22E8D}"
+              s:par="GridParameters=%7BF61E01E9-711A-4C99-AE30-4E28463E1DF7%7D&amp;ImageOrder&amp;FieldNames=%7BBAC81150-16BD-4AED-9DF5-6FB5C82E1B95%7D&amp;Styles&amp;RenderingIdentifier&amp;CSSStyles&amp;DynamicPlaceholderId=3"
+              s:ph="headless-main" />
+            <r
+              uid="{9ADB19C9-8277-4F47-95DF-BDE94C39F41E}"
+              p:after="r[@uid='{ECCDC050-7EDE-47E9-ABE3-73295D3277CC}']"
+              s:id="{B7C649C8-C683-44CB-9A87-AEBEA3DA8EB3}"
+              s:par="GridParameters=%7BF61E01E9-711A-4C99-AE30-4E28463E1DF7%7D&amp;FieldNames=%7B129985C4-D854-49F5-9602-9E1D1B8DF899%7D&amp;BackgroundImage&amp;Styles&amp;RenderingIdentifier&amp;CSSStyles&amp;DynamicPlaceholderId=4"
+              s:ph="headless-main" />
+            <r
+              uid="{392DA7C3-FB30-40FE-B216-ED447498DA55}"
+              p:after="*[1=2]"
+              s:id="{D425DB5D-FFB0-4574-852C-C17D904CC3E7}"
+              s:par="GridParameters=%7BF61E01E9-711A-4C99-AE30-4E28463E1DF7%7D&amp;FieldNames=%7B6F83E0EE-E1C1-42D2-8B7B-DA86DFDD39DB%7D&amp;Styles&amp;RenderingIdentifier&amp;CSSStyles&amp;DynamicPlaceholderId=2"
+              s:ph="/headless-main/container-1" />
+          </d>
+        </r>
+    - ID: "06890ecb-5786-4776-8d76-19250477a9bc"
+      Hint: MetaImage
+      Value: |
+        <image mediaid="{3F761E8A-348F-4686-B2E9-69383A6F88A2}" alt="DrJavier" height="" width="" hspace="" vspace="" />
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20251028T133955Z
+    - ID: "3e431de1-525e-47a3-b6b0-1ccbec3a8c98"
+      Hint: __Workflow state
+      Value: "{F7F71754-F47E-4605-AD5B-87F78974DD92}"
+    - ID: "4e0720e9-9d50-4ddc-87cf-ecd65e8e94c8"
+      Hint: NavigationTitle
+      Value: Le Dr Javier Ortega nommé président du Consortium mondial pour l'équité en matière de recherche
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+      Hint: __Owner
+      Value: |
+        sitecore\karthikeyan.kumaravel@altudo.co
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\karthikeyan.kumaravel@altudo.co
+    - ID: "6128ed46-0b79-4d6a-87ad-ac6fe70c649c"
+      Hint: Category
+      Value: Connaissances
+    - ID: "6fb03d9c-e0f6-4765-831d-d5627c4e0b67"
+      Hint: Content
+      Value: |
+        <p dir="auto">
+              <strong>L'impératif de décoloniser la recherche en santé mondiale</strong>
+              <br />
+        Pendant des décennies, la recherche médicale a été dominée par les institutions du Nord, ce qui a engendré des priorités biaisées, une sous-représentation des communautés marginalisées et la perpétuation des séquelles du colonialisme dans les sciences. Le GREC s'impose comme une force de résistance audacieuse, unissant plus de 200 organisations provenant de 75 pays pour démanteler ces barrières. Sous la direction du Dr Ortega, le consortium défendra des réformes qui privilégient les études menées par les communautés, la souveraineté équitable des données et des modèles de financement réparateurs.<br />
+        Lors de son discours d'acceptation à l'occasion du lancement virtuel du consortium, le Dr Ortega a déclaré : « L'équité en recherche n'est pas un simple slogan, c'est la justice. Nous avons longtemps extrait des connaissances des pays du Sud pour alimenter les innovations des pays du Nord ; il est temps maintenant de redistribuer équitablement le pouvoir, les ressources et la reconnaissance. »<br />
+        La création du GREC est opportune et s'appuie sur les critiques récentes d'organismes tels que l'OMS et la Commission Lancet sur la chirurgie mondiale, qui soulignent comment les recherches biaisées contribuent aux inégalités de santé qui touchent des milliards de personnes.</p>
+        <p dir="auto"><strong>Piliers du Consortium mondial pour l'équité en recherche</strong><br />
+        Le cadre du GREC repose sur cinq piliers stratégiques, chacun conçu pour favoriser un changement transformateur :<br />
+        <br />
+        <strong>Financement équitable Mécanismes : Lancement d’un fonds d’amorçage de 50 millions de dollars pour des projets menés par des chercheurs dans les pays à revenu faible et intermédiaire (PRFI), avec des mandats pour des chercheurs principaux locaux et un partage des bénéfices issus de la commercialisation des résultats.
+        Diversité des auteurs et reconnaissance : Mise en œuvre d’« audits d’équité » pour les revues et les bailleurs de fonds, exigeant qu’au moins 50 % des auteurs soient issus des communautés concernées et reconnaissant les détenteurs de savoirs traditionnels comme coauteurs.
+        Décolonisation des méthodologies : Développement de boîtes à outils en libre accès pour la recherche participative, mettant l’accent sur les épistémologies autochtones et minimisant l’importance des indicateurs occidentaux comme les facteurs d’impact.
+        Renforcement des capacités et mentorat : Élargissement des programmes de bourses de l’ICMP pour inclure le mentorat inversé, où des experts des PRFI forment leurs homologues des pays du Nord à l’humilité culturelle et à l’éthique contextuelle.<br />
+        <strong>Plaidoyer politique et responsabilité :</strong> Partenariat avec les agences des Nations Unies pour intégrer des clauses d’équité dans les subventions internationales et suivre les progrès accomplis grâce à des rapports annuels de transparence.<br />
+        <br />
+        Ces initiatives visent à augmenter de 40 % le nombre de publications menées par des pays à revenu faible ou intermédiaire d’ici cinq ans, par rapport aux données de référence de PubMed et Scopus.</strong></p>
+        <strong>
+        <strong>Pleins feux sur l’impact : De la vision à l’action</strong><br />
+        Le parcours du Dr Ortega illustre parfaitement l’éthique du GREC. En tant que chercheur principal d'une étude marquante sur la santé maternelle dans les communautés andines, il a veillé à ce que 70 % des auteurs soient issus de groupes autochtones, ce qui a permis l'adoption de politiques par le ministère de la Santé du Pérou. En tant que président, il pilote actuellement le premier projet du GREC : un essai multinational sur la nutrition adaptée au climat, conçu en collaboration avec des agriculteurs et des nutritionnistes d’Afrique subsaharienne et d’Asie du Sud-Est. Des collaborateurs comme la Dre Fatima Al-Sayed du Centre national de recherche d’Égypte saluent cette nomination : « La rigueur et l’empathie dont Javier fait preuve feront du GREC un modèle de collaboration mondiale authentique. »
+        <strong></strong>
+        <strong>Tracer l’avenir : un appel à l’engagement collectif</strong><br />
+        En tant que président, le Dr Ortega organisera le premier sommet du GREC à Bogota, en Colombie, en 2026, invitant les chercheurs, les bailleurs de fonds et les décideurs politiques à co-créer des feuilles de route concrètes. Les membres et alliés de l'ICMP peuvent s'engager via grec.icmp.org/join et accéder à des ressources telles que des webinaires de formation sur l'équité et des alertes de financement. La nomination renforce le rôle de l'ICMP en tant que pionnière des sciences de la santé équitables. Sous la direction du Dr Ortega, le GREC ne se contentera pas de remettre en question le statu quo, mais le redéfinira, afin que la recherche en santé mondiale soit véritablement au service de toute l'humanité. Approfondissez vos connaissances sur l'équité dans la recherche en consultant nos archives de blogue ou abonnez-vous à l'infolettre de l'ICMP pour rester informé(e).
+        </strong>
+    - ID: "78bd5b13-d9ab-44a4-bae4-c2dda0ad6133"
+      Hint: IntroText
+      Value: "Le Dr Javier Ortega, vice-pr&eacute;sident de l'ICMP, a &eacute;t&eacute; nomm&eacute; premier pr&eacute;sident du Consortium mondial pour l'&eacute;quit&eacute; en recherche, une alliance internationale pionni&egrave;re d&eacute;di&eacute;e &agrave; la d&eacute;colonisation de la recherche m&eacute;dicale gr&acirc;ce &agrave; un financement &eacute;quitable, une diversit&eacute; d'auteurs et des pratiques inclusives dans les &eacute;tudes sur la sant&eacute; mondiale, donnant ainsi aux voix sous-repr&eacute;sent&eacute;es les moyens de mener un changement transformateur."
+    - ID: "7cba72f9-1513-41af-ba26-de761f138805"
+      Hint: Title
+      Value: Le Dr Javier Ortega nommé président du Consortium mondial pour l'équité en matière de recherche
+    - ID: "85f5b648-1823-4509-b7fd-27deacdf2dff"
+      Hint: MetaDescription
+      Value: Le Dr Javier Ortega de l'ICMP a été nommé président du nouveau Consortium mondial pour l'équité en recherche, qui se concentre sur le financement et la reconnaissance équitables des publications en santé mondiale. Explorez les initiatives visant à décoloniser la recherche médicale et à promouvoir des études inclusives.
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "4e82e799-a86f-47ac-a139-615d4d422082"
+    - ID: "92c233dc-a8b3-4fd0-bb3f-e82a8b49bed2"
+      Hint: MetaTitle
+      Value: Le Dr Javier Ortega nommé président du Consortium mondial pour l'équité en recherche | Décoloniser la recherche médicale
+    - ID: "9f4483ca-f858-45d1-86a5-0a69c9ab6207"
+      Hint: MetaKeywords
+      Value: "Équité en matière de recherche, consortium mondial de santé, décolonisation de la médecine, Dr Javier Ortega, vice-président de l'ICMP, paternité des publications médicales, équité du financement de la santé, recherche inclusive, pays du Sud, réforme des politiques de santé"
+    - ID: "a667d11b-ca9f-4fbe-881f-2538eb51f432"
+      Hint: PublishedDate
+      Value: 20251102T000000Z
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\karthikeyan.kumaravel@altudo.co
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20251201T184505Z

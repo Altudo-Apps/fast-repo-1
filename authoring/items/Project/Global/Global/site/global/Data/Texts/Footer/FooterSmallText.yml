@@ -1,0 +1,113 @@
+﻿---
+ID: "3b2c2910-e4ac-4924-b247-eeda8622d0c2"
+Parent: "966f2fc6-0262-4290-aac7-8107d9922529"
+Template: "0a7aa373-5ed1-4e9b-9678-22d3c5faf6df"
+Path: /sitecore/content/FastLaneTenant/global/Data/Texts/Footer/FooterSmallText
+BranchID: "199c6a17-3d97-4174-b003-fc491952bdd5"
+SharedFields:
+- ID: "a4f985d9-98b3-4b52-aaaf-4344f6e747c6"
+  Hint: __Workflow
+  Value: "{9A1B3B33-17C0-4DAE-A533-CEC7FA11F68A}"
+- ID: "dbbbeca1-21c7-4906-9dd2-493c1efa59a2"
+  Hint: __Shared revision
+  Value: "08841722-e53a-4b61-b488-ead68b9e8148"
+- ID: "f6d8a61c-2f84-4401-bd24-52d2068172bc"
+  Hint: __Originator
+  Value: "{5DCA7E14-AF34-4F0A-92C7-F53D4F9D585F}"
+Languages:
+- Language: "ar-AE"
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20250629T195456Z
+    - ID: "3e431de1-525e-47a3-b6b0-1ccbec3a8c98"
+      Hint: __Workflow state
+      Value: "{B71D5C66-667B-4CF1-BE66-342C8B59A4DB}"
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+      Hint: __Owner
+      Value: |
+        sitecore\karthikeyan.kumaravel@altudo.co
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\andy.cohen@altudo.co
+    - ID: "729034fc-24f3-40b7-8fa4-fb49d7de20dd"
+      Hint: Text
+      Value: |
+        <div class="ck-content">
+        <div style="align-items:center;display:flex;flex-direction:column;justify-content:center;">
+        <p style="font-size:12px;text-align:center;">هذا هو المكان الذي سيوضع فيه النص الصغير في التذييل الذي يعرض جميع التفاصيل الدقيقة وكيف سيتم التعامل مع كل شيء في حالة وجود تحديات قانونية لأي من محتويات الموقع. هنا يوضع النص الصغير في تذييل الصفحة الذي يعرض جميع التفاصيل الدقيقة وكيفية التعامل مع كل شيء في حالة وجود تحديات قانونية لأي من محتويات الموقع. هنا يوضع النص الصغير في تذييل الصفحة الذي يعرض جميع التفاصيل الدقيقة وكيفية التعامل مع كل شيء في حالة وجود تحديات قانونية لأي من محتويات الموقع</p>
+        <p style="display:flex;"><a rel="noopener noreferrer" href="https://google.com" target="_blank"><img src="-/media/2A81E387AC10479F85F7DE3F8BCE5A2C.ashx" alt="Google PlayStore" width="135" height="40" /></a><a href="https://apple.com"><img class="ml-2" src="-/media/62E507EF2A384C839F0B36DE89EF3D65.ashx" alt="Apple Store" width="120" height="40" /></a><a rel="noopener noreferrer" href="https://amazon.com" target="_blank"><img class="ml-2" src="-/media/8510C5CFB3EA4AA08A0F382232A38552.ashx" alt="Amazon App Store" width="137" height="40" /></a></p>
+        </div>
+        </div>
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "105563bc-da21-4b52-9904-09d031f4be30"
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\karthikeyan.kumaravel@altudo.co
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20251106T061739Z
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "001dd393-96c5-490b-924a-b0f25cd9efd8"
+      Hint: __Lock
+      Value: <r />
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20250629T195456Z
+    - ID: "3e431de1-525e-47a3-b6b0-1ccbec3a8c98"
+      Hint: __Workflow state
+      Value: "{B71D5C66-667B-4CF1-BE66-342C8B59A4DB}"
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+      Hint: __Owner
+      Value: |
+        sitecore\andy.cohen@altudo.co
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\andy.cohen@altudo.co
+    - ID: "729034fc-24f3-40b7-8fa4-fb49d7de20dd"
+      Hint: Text
+      Value: |
+        <div class="ck-content"><div style="align-items:center;display:flex;flex-direction:column;justify-content:center;"><p style="font-size:12px;text-align:center;">This is where the small footer text would go that shows all the fine print and how everything will be handled if there are legal challenges to any of the content on the site. This is where the small footer text would go that shows all the fine print and how everything will be handled if there are legal challenges to any of the content on the site. This is where the small footer text would go that shows all the fine print and how everything will be handled if there are legal challenges to any of the content on the site.</p><p style="display:flex;"><a href="https://google.com" target="_blank"><img src="-/media/2A81E387AC10479F85F7DE3F8BCE5A2C.ashx" alt="Google PlayStore" width="135" height="40" /></a><a href="https://apple.com"><img class="ml-2" src="-/media/62E507EF2A384C839F0B36DE89EF3D65.ashx" alt="Apple Store" width="120" height="40" /></a><a href="https://amazon.com" target="_blank"><img class="ml-2" src="-/media/8510C5CFB3EA4AA08A0F382232A38552.ashx" alt="Amazon App Store" width="137" height="40" /></a></p></div></div>
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "640352a3-53fc-42fa-bc03-b002b0640dd6"
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\andy.cohen@altudo.co
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20250629T195547Z
+- Language: "fr-CA"
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20250629T195456Z
+    - ID: "3e431de1-525e-47a3-b6b0-1ccbec3a8c98"
+      Hint: __Workflow state
+      Value: "{B71D5C66-667B-4CF1-BE66-342C8B59A4DB}"
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\andy.cohen@altudo.co
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "cd8b2c0e-700a-4a33-98e8-0e893942db5e"
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\karthikeyan.kumaravel@altudo.co
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20251104T182724Z

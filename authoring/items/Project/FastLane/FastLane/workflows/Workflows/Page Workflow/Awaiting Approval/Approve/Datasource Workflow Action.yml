@@ -1,0 +1,44 @@
+﻿---
+ID: "c66f3e17-4973-44f1-a377-4ecb61c85586"
+Parent: "e2f74086-6f2f-4dba-a7be-fe2993ed8cc8"
+Template: "def0aa0d-3446-41ae-b307-ec7ba429ce50"
+Path: /sitecore/system/Workflows/Page Workflow/Awaiting Approval/Approve/Datasource Workflow Action
+SharedFields:
+- ID: "8273a3db-fac0-44d6-aed0-29e2e039e8f9"
+  Hint: Command Item
+  Value: "{B006A3EE-60D4-426A-A144-FB62A284C85E}"
+- ID: "b5757325-3263-4daf-b6cd-811629cf4794"
+  Hint: Scope
+  Value: "{C049953F-D744-41FA-BE67-F9F90D3C30BB}"
+- ID: "ba3f86a2-4a1c-4d78-b63d-91c2779c1b5e"
+  Hint: __Sortorder
+  Value: 200
+- ID: "dbbbeca1-21c7-4906-9dd2-493c1efa59a2"
+  Hint: __Shared revision
+  Value: "75bf0831-01bd-49cd-abb4-e15432460257"
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20250422T120652Z
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+      Hint: __Owner
+      Value: |
+        sitecore\karthikeyan.kumaravel@altudo.co
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\karthikeyan.kumaravel@altudo.co
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "58b1eb76-8259-4851-bf4a-3d5b1df3029f"
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\karthikeyan.kumaravel@altudo.co
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20250422T120735Z

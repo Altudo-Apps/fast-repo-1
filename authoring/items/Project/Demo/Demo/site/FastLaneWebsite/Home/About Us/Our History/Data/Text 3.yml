@@ -1,0 +1,100 @@
+﻿---
+ID: "3f8b8ea9-7377-4cab-a8ee-dba10bc373dd"
+Parent: "2451876e-d6b3-4156-97ca-92fefa985a5b"
+Template: "0a7aa373-5ed1-4e9b-9678-22d3c5faf6df"
+Path: /sitecore/content/FastLaneTenant/fastlanewebsite/Home/About Us/Our History/Data/Text 3
+SharedFields:
+- ID: "a4f985d9-98b3-4b52-aaaf-4344f6e747c6"
+  Hint: __Workflow
+  Value: "{9A1B3B33-17C0-4DAE-A533-CEC7FA11F68A}"
+- ID: "dbbbeca1-21c7-4906-9dd2-493c1efa59a2"
+  Hint: __Shared revision
+  Value: "9ad3c9da-48b5-474d-a46b-be1c9ee70691"
+Languages:
+- Language: "ar-AE"
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20250612T092937Z
+    - ID: "3e431de1-525e-47a3-b6b0-1ccbec3a8c98"
+      Hint: __Workflow state
+      Value: "{B71D5C66-667B-4CF1-BE66-342C8B59A4DB}"
+    - ID: "729034fc-24f3-40b7-8fa4-fb49d7de20dd"
+      Hint: Text
+      Value: |
+        <div class="ck-content"><section>
+        <h2>الاحتراف والتأثير العالمي (1939-1990)</h2>
+        <p>شهدت النصف الثاني من القرن العشرين نضوج اللجنة الدولية لشؤون المفقودين لتصبح مؤسسة محترفة بالكامل ومعترف بها عالمياً. بحلول عام 1970، كانت المنظمة تضم أكثر من 60,000 عضو في 112 دولة وعقدت مؤتمرات كل سنتين جذبت أبرز العقول في مجالات الطب والصحة العامة والأخلاقيات الطبية الحيوية.</p>
+        <p>تميزت هذه الحقبة بمبادرتين رئيسيتين. الأولى كانت المدونة الدولية للسلوك الطبي، التي نُشرت في عام 1972، والتي قدمت إطارًا حديثًا وقابلًا للتطبيق عالميًا لأخلاقيات الطب، وتم تحديثها لمواجهة التحديات المعاصرة مثل الاختبارات الجينية وزراعة الأعضاء والرعاية في نهاية العمر. والثانية كانت برنامج الطبيب في المجتمع، الذي أُطلق في عام 1981، والذي استكشف المحددات الاجتماعية للصحة وحث الأطباء على لعب دور أكثر نشاطًا في تشكيل السياسة العامة.</p>
+        <p>خلال أزمة فيروس نقص المناعة البشرية/الإيدز في الثمانينيات، تميزت اللجنة الدولية لشؤون المفقودين (ICMP) باعتبارها صوتًا رائدًا في مجال التوعية الصحية العامة القائمة على الأسس العلمية. في حين تعثرت بعض السلطات الوطنية في استجابتها للوباء، عقدت اللجنة الدولية لشؤون المفقودين (ICMP) اجتماعات طارئة، ونسقت مع البلدان المتضررة، وأصدرت واحدة من أولى الدعوات لجمع تمويل عالمي لدعم الأبحاث والعلاج. كما وضعت بروتوكولات لسلامة الأطباء وسرية معلومات المرضى، والتي أصبحت نماذج يحتذى بها في الأوبئة اللاحقة.</p>
+        <p>بحلول عام 1990، نمت اللجنة الدولية لشؤون المفقودين لتصبح هيئة مرموقة تتمتع بمركز استشاري لدى الأمم المتحدة. وأقامت مكاتب دائمة في جنيف وواشنطن العاصمة ونيروبي وبانكوك، وتجاوز عدد أعضائها 100,000 طبيب.</p>
+        </section></div>
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "07621dd2-530b-40b6-acc7-45b12b29f017"
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\karthikeyan.kumaravel@altudo.co
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20251106T113558Z
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "001dd393-96c5-490b-924a-b0f25cd9efd8"
+      Hint: __Lock
+      Value: <r />
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20250612T092937Z
+    - ID: "3e431de1-525e-47a3-b6b0-1ccbec3a8c98"
+      Hint: __Workflow state
+      Value: "{B71D5C66-667B-4CF1-BE66-342C8B59A4DB}"
+    - ID: "729034fc-24f3-40b7-8fa4-fb49d7de20dd"
+      Hint: Text
+      Value: |
+        <div class="ck-content"><section><h2>Professionalization and Global Influence (1939–1990)</h2><p>The second half of the 20th century saw the ICMP mature into a fully professional, globally recognized institution. By 1970, the organization boasted over 60,000 members in 112 countries and held biennial congresses that attracted leading minds in medicine, public health, and biomedical ethics.</p><p>This era was defined by two major initiatives. The first was the International Code of Medical Conduct, published in 1972, which offered a modernized, globally applicable framework for medical ethics, updated to address contemporary challenges such as genetic testing, organ transplantation, and end-of-life care. The second was the Physician in Society program, launched in 1981, which explored the social determinants of health and urged doctors to play a more active role in shaping public policy.</p><p>During the HIV/AIDS crisis of the 1980s, the ICMP distinguished itself as a leading voice for science-based public health messaging. While some national authorities faltered in their response to the epidemic, the ICMP convened emergency panels, coordinated with affected countries, and issued one of the earliest calls for global funding to support research and treatment. It also created protocols for physician safety and patient confidentiality that became models for later epidemics.</p><p>By 1990, the ICMP had grown into a respected authority with consultative status at the United Nations. It maintained permanent offices in Geneva, Washington D.C., Nairobi, and Bangkok, and its membership had surpassed 100,000 physicians.</p></section></div>
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "a8f53076-d14b-485e-b355-cee20905fbd2"
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\sneha.yadav@altudo.co
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20250805T114903Z
+- Language: "fr-CA"
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20250612T092937Z
+    - ID: "3e431de1-525e-47a3-b6b0-1ccbec3a8c98"
+      Hint: __Workflow state
+      Value: "{B71D5C66-667B-4CF1-BE66-342C8B59A4DB}"
+    - ID: "729034fc-24f3-40b7-8fa4-fb49d7de20dd"
+      Hint: Text
+      Value: |
+        <div class="ck-content"><section>
+        <h2>Professionnalisation et influence mondiale (1939-1990)</h2>
+        <p>La deuxi&egrave;me moiti&eacute; du XXe si&egrave;cle a vu l'ICMP devenir une institution pleinement professionnelle et reconnue mondialement. En 1970, l'organisation comptait plus de 60&nbsp;000 membres r&eacute;partis dans 112 pays et organisait des congr&egrave;s bisannuels qui attiraient les plus grands experts en m&eacute;decine, en sant&eacute; publique et en bio&eacute;thique.</p>
+        <p>Cette p&eacute;riode a &eacute;t&eacute; marqu&eacute;e par deux initiatives majeures. La premi&egrave;re &eacute;tait le Code international de d&eacute;ontologie m&eacute;dicale, publi&eacute; en 1972, qui proposait un cadre &eacute;thique modernis&eacute; et applicable &agrave; l'&eacute;chelle mondiale, actualis&eacute; pour r&eacute;pondre aux enjeux contemporains tels que les tests g&eacute;n&eacute;tiques, la transplantation d'organes et les soins palliatifs. La deuxi&egrave;me &eacute;tait le programme &laquo;&nbsp;Le m&eacute;decin dans la soci&eacute;t&eacute;&nbsp;&raquo;, lanc&eacute; en 1981, qui explorait les d&eacute;terminants sociaux de la sant&eacute; et encourageait les m&eacute;decins &agrave; jouer un r&ocirc;le plus actif dans l'&eacute;laboration des politiques publiques.</p>
+        <p>Durant la crise du VIH/sida des ann&eacute;es 1980, l'ICMP s'est impos&eacute;e comme une voix de premier plan en mati&egrave;re de communication scientifique en sant&eacute; publique. Alors que certaines autorit&eacute;s nationales ont &eacute;chou&eacute; dans leur r&eacute;ponse &agrave; l'&eacute;pid&eacute;mie, l'ICMP a mis sur pied des comit&eacute;s d'urgence, coordonn&eacute; ses actions avec les pays touch&eacute;s et lanc&eacute; l'un des premiers appels au financement international pour soutenir la recherche et les traitements. Elle a &eacute;galement &eacute;labor&eacute; des protocoles relatifs &agrave; la s&eacute;curit&eacute; des m&eacute;decins et &agrave; la confidentialit&eacute; des patients, qui ont servi de mod&egrave;les lors d'&eacute;pid&eacute;mies ult&eacute;rieures..</p>
+        <p>En 1990, l'ICMP &eacute;tait devenue une autorit&eacute; respect&eacute;e, dot&eacute;e du statut consultatif aupr&egrave;s des Nations Unies. Elle avait des bureaux permanents &agrave; Gen&egrave;ve, Washington D.C., Nairobi et Bangkok, et comptait plus de 100&nbsp;000 m&eacute;decins membres.</p>
+        </section></div>
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "087d95b2-b7ba-4b41-9a75-e36d32ec8543"
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\karthikeyan.kumaravel@altudo.co
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20251126T132518Z

@@ -1,0 +1,157 @@
+﻿---
+ID: "82bd4136-467b-408e-b5d3-cdb9792474ab"
+Parent: "dff0d9d1-8bc5-4b53-81ed-ade666f47218"
+Template: "e58b7dbf-2a15-4a94-ad45-9c250ac1ac68"
+Path: /sitecore/content/FastLaneTenant/fastlanewebsite/Home/About Us/Our Leadership/Data/Dr Sofia Kuznetsova
+SharedFields:
+- ID: "a4f985d9-98b3-4b52-aaaf-4344f6e747c6"
+  Hint: __Workflow
+  Value: "{9A1B3B33-17C0-4DAE-A533-CEC7FA11F68A}"
+- ID: "dbbbeca1-21c7-4906-9dd2-493c1efa59a2"
+  Hint: __Shared revision
+  Value: "c50f5af1-f5dc-4a2b-86db-a2a5a2987415"
+Languages:
+- Language: "ar-AE"
+  Fields:
+  - ID: "30e85e5d-e00a-4864-b358-7624d511deb4"
+    Hint: __Unversioned revision
+    Value: "1fe360fb-d75b-43ba-b6da-7ebdf87387b4"
+  - ID: "b5e02ad9-d56f-4c41-a065-a133db87bdeb"
+    Hint: __Display name
+    Value: 
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20250612T102139Z
+    - ID: "3e431de1-525e-47a3-b6b0-1ccbec3a8c98"
+      Hint: __Workflow state
+      Value: "{B71D5C66-667B-4CF1-BE66-342C8B59A4DB}"
+    - ID: "6128ed46-0b79-4d6a-87ad-ac6fe70c649c"
+      Hint: Category
+      Value: هذا مخصص
+    - ID: "78bd5b13-d9ab-44a4-bae4-c2dda0ad6133"
+      Hint: IntroText
+      Value: |
+        <p>الدكتورة صوفيا كوزنتسوفا هي طبيبة ومدرسة طب روسية الأصل متخصصة في ضمان الجودة السريرية. في ICMP، تقود جهود الاعتماد العالمي، وتقوم بمواءمة معايير التدريب وعمليات الاعتماد لضمان ممارسة طبية متسقة وقائمة على الأدلة عبر أنظمة الرعاية الصحية المتنوعة.<br />
+        &nbsp;
+        </p>
+    - ID: "7cba72f9-1513-41af-ba26-de761f138805"
+      Hint: Title
+      Value: الدكتورة صوفيا كوزنتسوفا، دكتوراه في الطب، ماجستير في التربية – مديرة المعايير الطبية والاعتماد، ICMP
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "1357defd-1fc4-4a53-81e2-bc0cdddcb6cf"
+    - ID: "ba41d59c-a2b6-4f14-8913-7734549cce04"
+      Hint: Image
+      Value: |
+        <image mediaid="{D9E524B5-42F3-4002-9677-5DE437C22F2A}" alt="Dr Sofia" height="" width="" hspace="" vspace="" />
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\karthikeyan.kumaravel@altudo.co
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20251106T114339Z
+    - ID: "f56d5ae9-cbca-48e1-b47e-e06a7561fc5d"
+      Hint: CalltoActionLinkMain
+      Value: |
+        <link text="تعرف على المزيد" anchor="" linktype="internal" class="" title="" target="" querystring="" id="{00840CD7-A51F-4023-B2E2-17FC4AA9EE72}" />
+- Language: en
+  Fields:
+  - ID: "30e85e5d-e00a-4864-b358-7624d511deb4"
+    Hint: __Unversioned revision
+    Value: "218f6e19-4bc7-473c-9421-02e956eaf487"
+  - ID: "b5e02ad9-d56f-4c41-a065-a133db87bdeb"
+    Hint: __Display name
+    Value: 
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "001dd393-96c5-490b-924a-b0f25cd9efd8"
+      Hint: __Lock
+      Value: <r />
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20250612T102139Z
+    - ID: "3e431de1-525e-47a3-b6b0-1ccbec3a8c98"
+      Hint: __Workflow state
+      Value: "{B71D5C66-667B-4CF1-BE66-342C8B59A4DB}"
+    - ID: "6128ed46-0b79-4d6a-87ad-ac6fe70c649c"
+      Hint: Category
+      Value: This is an earmark
+    - ID: "78bd5b13-d9ab-44a4-bae4-c2dda0ad6133"
+      Hint: IntroText
+      Value: |
+        <p>Dr. Sofia Kuznetsova is a Russian-born physician and medical educator specializing in clinical quality assurance. At ICMP, she leads global accreditation efforts, harmonizing training standards and certification processes to ensure consistent, evidence-based medical practice across diverse healthcare systems.<br />
+        &nbsp;
+        </p>
+    - ID: "7cba72f9-1513-41af-ba26-de761f138805"
+      Hint: Title
+      Value: Dr. Sofia Kuznetsova, MD, MEd – Director of Medical Standards and Accreditation, ICMP
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "44518e0c-53f8-47ae-a602-7a97e3b44a1a"
+    - ID: "ba41d59c-a2b6-4f14-8913-7734549cce04"
+      Hint: Image
+      Value: |
+        <image mediaid="{D9E524B5-42F3-4002-9677-5DE437C22F2A}" />
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\andy.cohen@altudo.co
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20250629T162243Z
+    - ID: "f56d5ae9-cbca-48e1-b47e-e06a7561fc5d"
+      Hint: CalltoActionLinkMain
+      Value: |
+        <link linktype="internal" id="00840cd7-a51f-4023-b2e2-17fc4aa9ee72" anchor="" querystring="" target="" class="" text="Learn More" title=""/>
+- Language: "fr-CA"
+  Fields:
+  - ID: "30e85e5d-e00a-4864-b358-7624d511deb4"
+    Hint: __Unversioned revision
+    Value: "615a6cb4-cb2e-4f5c-8fdd-b8f8653fecde"
+  - ID: "b5e02ad9-d56f-4c41-a065-a133db87bdeb"
+    Hint: __Display name
+    Value: 
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20250612T102139Z
+    - ID: "3e431de1-525e-47a3-b6b0-1ccbec3a8c98"
+      Hint: __Workflow state
+      Value: "{B71D5C66-667B-4CF1-BE66-342C8B59A4DB}"
+    - ID: "6128ed46-0b79-4d6a-87ad-ac6fe70c649c"
+      Hint: Category
+      Value: Il s'agit d'une affectation spéciale
+    - ID: "78bd5b13-d9ab-44a4-bae4-c2dda0ad6133"
+      Hint: IntroText
+      Value: |
+        <p>La Dre Sofia Kuznetsova est une m&eacute;decin et formatrice m&eacute;dicale d'origine russe, sp&eacute;cialis&eacute;e dans l'assurance qualit&eacute; clinique. &Agrave; l'ICMP, elle dirige les initiatives d'accr&eacute;ditation internationales, harmonisant les normes de formation et les processus de certification afin d'assurer une pratique m&eacute;dicale coh&eacute;rente et fond&eacute;e sur des donn&eacute;es probantes au sein de divers syst&egrave;mes de sant&eacute;.<br />
+        &nbsp;
+        </p>
+    - ID: "7cba72f9-1513-41af-ba26-de761f138805"
+      Hint: Title
+      Value: Dre Sofia Kuznetsova, MD, MEd – Directrice des normes médicales et de l’agrément, ICMP
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "914e76e7-e864-4539-8bd4-40d45d936881"
+    - ID: "ba41d59c-a2b6-4f14-8913-7734549cce04"
+      Hint: Image
+      Value: |
+        <image mediaid="{D9E524B5-42F3-4002-9677-5DE437C22F2A}" alt="DrSofia" height="" width="" hspace="" vspace="" />
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\karthikeyan.kumaravel@altudo.co
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20251126T133923Z
+    - ID: "f56d5ae9-cbca-48e1-b47e-e06a7561fc5d"
+      Hint: CalltoActionLinkMain
+      Value: |
+        <link text="Apprendre encore plus" anchor="" linktype="internal" class="" title="Apprendre encore plus" target="" querystring="" id="{00840CD7-A51F-4023-B2E2-17FC4AA9EE72}" />

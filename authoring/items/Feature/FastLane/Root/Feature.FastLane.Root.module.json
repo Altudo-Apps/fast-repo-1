@@ -1,0 +1,120 @@
+{
+    "$schema": "../../../../../.sitecore/schemas/ModuleFile.schema.json",
+    "namespace": "Feature.FastLane.Root",
+    "items": {
+        "path": "Root",
+        "includes": [
+            {
+                "name": "templates",
+                "path": "/sitecore/templates/Feature/FastLane",
+                "rules": [
+                    {
+                        "path": "/Renderings",
+                        "scope": "SingleItem"
+                    }
+                ]
+            },
+            {
+                "name": "branches",
+                "path": "/sitecore/templates/Branches/Feature/FastLane",
+                "rules": [
+                    {
+                        "path": "/Default Variants",
+                        "scope": "SingleItem"
+                    },
+                    {
+                        "path": "/Data/CTAButton Folder",
+                        "scope": "ignored"
+                    },
+                    {
+                        "path": "/Data/Link List Folder",
+                        "scope": "ignored"
+                    },
+                    {
+                        "path": "/Data/MegaNav Folder",
+                        "scope": "ignored"
+                    },
+                    {
+                        "path": "/Data/SocialLinks Folder",
+                        "scope": "ignored"
+                    },
+                    {
+                        "path": "/Data/SocialShare Folder",
+                        "scope": "ignored"
+                    }
+                ]
+            },
+			{
+                "name": "layout",
+                "path": "/sitecore/layout/Layouts/Feature/FastLane"
+            },
+            {
+                "name": "renderings",
+                "path": "/sitecore/layout/Renderings/Feature/FastLane",
+                "rules": [
+                    {
+                        "path": "/Renderings",
+                        "scope": "SingleItem"
+                    }                                 
+                ]
+            },
+			{
+                "name": "placeholders",
+                "path": "/sitecore/layout/Placeholder Settings/Feature/FastLane",
+                "rules": [
+                    {
+                        "path": "/MegaNav",
+                        "scope": "ignored"
+                    },
+                    {
+                        "path": "/modal",
+                        "scope": "ignored"
+                    },
+                    {
+                        "path": "/Tabs",
+                        "scope": "ignored"
+                    },                    
+                    {
+                        "path": "/Carousel",
+                        "scope": "ignored"
+                    },                    
+                    {
+                        "path": "/Accordion",
+                        "scope": "ignored"
+                    },                                     
+                    {
+                        "path": "/FLContainer",
+                        "scope": "ignored"
+                    },                                        
+                    {
+                        "path": "/SpotlightCarousel",
+                        "scope": "ignored"
+                    } ]
+            },
+            {
+                "name": "settings",
+                "path": "/sitecore/system/Settings/Feature/FastLane",
+                "rules": [
+                    {
+                        "path": "/Renderings",
+                        "scope": "SingleItem"
+                    },
+                    {
+                        "path": "/Data",
+                        "scope": "SingleItem"
+                    }                 
+                ]
+            },
+            {
+                "name": "settings-site-template",
+                "path": "/sitecore/system/Settings/Feature/JSS Experience Accelerator/FastLane Site Setup",
+                "rules": [               
+                ]
+            },
+            {
+                "name": "scripts-site-template",
+                "path": "/sitecore/system/Modules/PowerShell/Script Library/JSS SXA/FastLane Site"
+            }
+        ]
+    }
+}

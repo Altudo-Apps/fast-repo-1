@@ -1,0 +1,27 @@
+﻿---
+ID: "c15349f0-8dfb-4dd4-b317-235076403097"
+Parent: "ceedaa12-053b-4d73-8a43-6b6c0f6287c9"
+Template: "ceedaa12-053b-4d73-8a43-6b6c0f6287c9"
+Path: /sitecore/templates/Feature/FastLane/Renderings/ThemeSelector/Rendering Parameters/ThemeSelector/__Standard Values
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20211012T120926Z
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\JssImport
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "8b9d95e7-d1fc-41a1-9e09-e9b0509ae750"
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\andy.cohen@altudo.co
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20250621T111335Z

@@ -1,0 +1,28 @@
+# Branch Protection Configuration
+# This file documents the recommended branch protection settings for your repository
+# You'll need to configure these manually in GitHub's repository settings
+
+# Main Branch Protection Rules:
+# 1. Require a pull request before merging
+# 2. Require status checks to pass before merging
+# 3. Require branches to be up to date before merging
+# 4. Require conversation resolution before merging
+# 5. Require signed commits
+# 6. Require linear history
+# 7. Include administrators
+
+# Status Checks to Require:
+# - CI (test-and-build)
+# - Test Suite
+
+# Additional Settings:
+# - Restrict pushes that create files larger than 100 MB
+# - Require review from code owners
+# - Dismiss stale PR approvals when new commits are pushed
+# - Require review from at least 1 reviewer
+
+# To configure these settings:
+# 1. Go to your repository on GitHub
+# 2. Click Settings > Branches
+# 3. Click "Add rule" or edit existing rules
+# 4. Configure the settings as documented above 

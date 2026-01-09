@@ -1,0 +1,30 @@
+{
+    "$schema": "../../../../../.sitecore/schemas/ModuleFile.schema.json",
+    "namespace": "Feature.FastLane.Carousel",
+    "references": ["Feature.FastLane.Root"],
+    "items": {
+        "path": "Carousel",
+        "includes": [
+			{
+                "name": "templates",
+                "path": "/sitecore/templates/Feature/FastLane/Renderings/Carousel"
+            }, 
+			{
+                "name": "branches",
+                "path": "/sitecore/templates/Branches/Feature/FastLane/Default Variants/Carousel"
+            },
+			{
+                "name": "renderings",
+                "path": "/sitecore/layout/Renderings/Feature/FastLane/Renderings/Carousel"                
+            },
+			{
+                "name": "settings",
+                "path": "/sitecore/system/Settings/Feature/FastLane/Renderings/Carousel"
+            },
+            {
+                "name": "placeholders",
+                "path": "/sitecore/layout/Placeholder Settings/Feature/FastLane/Carousel"               
+            }	
+        ]
+    }
+}

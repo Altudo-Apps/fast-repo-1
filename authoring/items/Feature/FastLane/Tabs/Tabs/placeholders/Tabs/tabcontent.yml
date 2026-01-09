@@ -1,0 +1,68 @@
+﻿---
+ID: "33a5a55d-9a11-4148-bb1a-29ff164dbd92"
+Parent: "1891953e-7241-491b-912a-abdcae5c777f"
+Template: "5c547d4e-7111-4995-95b0-6b561751bf2e"
+Path: /sitecore/layout/Placeholder Settings/Feature/FastLane/Tabs/tabcontent
+SharedFields:
+- ID: "7256bdab-1fd2-49dd-b205-cb4873d2917c"
+  Hint: Placeholder Key
+  Value: "navtabcontent-{*}"
+- ID: "dbbbeca1-21c7-4906-9dd2-493c1efa59a2"
+  Hint: __Shared revision
+  Value: "567a08dd-3250-478e-8272-dcca68753514"
+- ID: "e391b526-d0c5-439d-803e-17512eae6222"
+  Hint: Allowed Controls
+  Value: |
+    {D425DB5D-FFB0-4574-852C-C17D904CC3E7}
+    {2AC9F9B4-0E80-4B4E-BC71-A52B5F1C8D9B}
+    {134267BF-7FD3-4CC1-B62B-E346D4A8F3F2}
+    {3467E307-F70A-48B1-A490-9BFCC410F3BA}
+    {6915491B-050A-4C0F-82E5-2554675A7163}
+    {4C6E445E-C204-4425-9C82-3868BDA442DC}
+    {77F24C3E-E31E-4671-8A9A-F77B63E7D8AE}
+    {1C264401-FDF8-4FC9-A240-793A93942B17}
+    {9C713ACF-85B9-43CB-A8B4-14947BCC442C}
+    {AB2EDBA0-3960-4F12-B765-579DC231894A}
+    {2492BAC4-DA07-4C86-87F0-9873D40E2276}
+    {3836D951-BB14-43AC-9231-649B7F245DC5}
+    {C5F905F8-FD1F-444E-A9E5-AC6B774FF0DE}
+    {15CABDFF-FFD9-48F4-826D-A4C3D7868D3A}
+    {7A1D9A21-B8D7-42F9-9B0B-92ABF8D1974F}
+    {5F6BF7C9-C80C-4BBD-AD78-8DA749B35206}
+    {FCE3D04D-AB74-458A-BE0D-66D370D341D4}
+    {ADA10EF4-9386-44F2-8ECD-5481C0E2D5FE}
+    {EDAD7047-7AA2-4C01-8530-2C3B46B02BE9}
+    {0901D932-0027-4B05-AA78-A8C8320936D5}
+    {500E62E0-58F8-4CB0-A1FD-A5D9F5F6BF47}
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "001dd393-96c5-490b-924a-b0f25cd9efd8"
+      Hint: __Lock
+      Value: <r />
+    - ID: "1b86697d-60ca-4d80-83fb-7555a2e6ce1c"
+      Hint: __Source
+      Value: 
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20250418T131330Z
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+      Hint: __Owner
+      Value: |
+        sitecore\andy.cohen@altudo.co
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\andy.cohen@altudo.co
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "9529057d-a43c-47dc-be9f-9bd1f8dfb616"
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\karthikeyan.kumaravel@altudo.co
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20250912T065950Z

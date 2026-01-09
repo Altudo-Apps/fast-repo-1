@@ -1,0 +1,41 @@
+﻿---
+ID: "f5ca3a80-0c24-4244-b0c9-5684b11b1d6f"
+Parent: "c89736da-73c9-4d27-8168-691116ff87ed"
+Template: "bfe61dab-2bb3-4884-91e8-0ffcfefde91e"
+Path: /sitecore/content/FastLaneTenant/fastlanewebsite/Data/BlogPostList/RelatedBlogPostList
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "1c92c2c5-d8fd-4bec-a57f-37d0eaa0aa98"
+      Hint: Title
+      Value: Blog Posts
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20251111T053857Z
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+      Hint: __Owner
+      Value: |
+        sitecore\karthikeyan.kumaravel@altudo.co
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\karthikeyan.kumaravel@altudo.co
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "b81ab467-c796-4e32-b997-890ac8f1d4cb"
+    - ID: "9e5be559-6238-4d46-ae03-0c948d62aa76"
+      Hint: RelatedBlogPosts
+      Value: |
+        {154CD8D8-EAF5-41B2-82B7-B23D5AEB5DAB}
+        {91159CE9-663C-47A2-B1BF-AC6DED7A6BB4}
+        {E1C11CDC-689A-46CB-AD10-D0912A9B3837}
+        {E623F1D0-8840-48F4-B012-8E1E81B85558}
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\karthikeyan.kumaravel@altudo.co
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20251111T055030Z

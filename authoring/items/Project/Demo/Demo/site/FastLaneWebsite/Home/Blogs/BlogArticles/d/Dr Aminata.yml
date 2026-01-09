@@ -1,0 +1,361 @@
+﻿---
+ID: "690bb3bc-fa02-4c65-8dec-11b639e1ad2b"
+Parent: "3fa14f8a-f453-4bf7-bc6a-9bafe6cff65f"
+Template: "350838af-2729-4435-accd-f1bdb79ef733"
+Path: /sitecore/content/FastLaneTenant/fastlanewebsite/Home/Blogs/BlogArticles/d/Dr Aminata
+BranchID: "85f6266a-c591-4ada-85cb-c6cdd8775f47"
+SharedFields:
+- ID: "39c4902e-9960-4469-aeef-e878e9c8218f"
+  Hint: __Hidden
+  Value: 
+- ID: "a4f985d9-98b3-4b52-aaaf-4344f6e747c6"
+  Hint: __Workflow
+  Value: "{CF913994-CC05-4D20-B38A-9CF1E73F5951}"
+- ID: "c9283d9e-7c29-4419-9c28-5a5c8ff53e84"
+  Hint: __Bucketable
+  Value: 
+- ID: "d312103c-b36c-4ca5-864a-c85f9abda503"
+  Hint: __Is Bucket
+  Value: 
+- ID: "dbbbeca1-21c7-4906-9dd2-493c1efa59a2"
+  Hint: __Shared revision
+  Value: "d990ea4c-50db-4ef5-8618-3b33da895679"
+- ID: "f6d8a61c-2f84-4401-bd24-52d2068172bc"
+  Hint: __Originator
+  Value: "{64A8D11E-D36B-4319-AEA1-E7C4976224D1}"
+- ID: "f7b94d8c-a842-49f8-ab7a-2169d00426b0"
+  Hint: __Should Not Organize In Bucket
+  Value: 
+Languages:
+- Language: "ar-AE"
+  Fields:
+  - ID: "30e85e5d-e00a-4864-b358-7624d511deb4"
+    Hint: __Unversioned revision
+    Value: "c2a5110e-ff2c-4367-a557-dac37ff4190a"
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "04bf00db-f5fb-41f7-8ab7-22408372a981"
+      Hint: __Final Renderings
+      Value: |
+        <r xmlns:p="p" xmlns:s="s"
+          p:p="1">
+          <d
+            id="{FE5D7FDF-89C0-4D99-9AA3-B5FBD009C9F3}">
+            <r
+              uid="{E6577B7B-5EEC-43F0-A751-6457290EBB0D}"
+              p:before="*"
+              s:id="{B7C649C8-C683-44CB-9A87-AEBEA3DA8EB3}"
+              s:par="GridParameters=%7BF61E01E9-711A-4C99-AE30-4E28463E1DF7%7D&amp;FieldNames=%7B129985C4-D854-49F5-9602-9E1D1B8DF899%7D&amp;BackgroundImage&amp;Styles=%7C%7B0D8280A3-A4C1-4AAD-8392-30B3080349C8%7D&amp;RenderingIdentifier&amp;CSSStyles&amp;DynamicPlaceholderId=1"
+              s:ph="headless-main" />
+            <r
+              uid="{ECCDC050-7EDE-47E9-ABE3-73295D3277CC}"
+              p:after="r[@uid='{E6577B7B-5EEC-43F0-A751-6457290EBB0D}']"
+              s:id="{F7295588-FA7F-448E-B222-F64005B22E8D}"
+              s:par="GridParameters=%7BF61E01E9-711A-4C99-AE30-4E28463E1DF7%7D&amp;ImageOrder&amp;FieldNames=%7BBAC81150-16BD-4AED-9DF5-6FB5C82E1B95%7D&amp;Styles=%7C%7BDA96D040-41DE-4486-A4D1-6CEDECA18E14%7D&amp;RenderingIdentifier&amp;CSSStyles&amp;DynamicPlaceholderId=3"
+              s:ph="headless-main" />
+            <r
+              uid="{9ADB19C9-8277-4F47-95DF-BDE94C39F41E}"
+              p:after="r[@uid='{ECCDC050-7EDE-47E9-ABE3-73295D3277CC}']"
+              s:id="{B7C649C8-C683-44CB-9A87-AEBEA3DA8EB3}"
+              s:par="GridParameters=%7BF61E01E9-711A-4C99-AE30-4E28463E1DF7%7D&amp;FieldNames=%7B129985C4-D854-49F5-9602-9E1D1B8DF899%7D&amp;BackgroundImage&amp;Styles=%7C%7B0D8280A3-A4C1-4AAD-8392-30B3080349C8%7D&amp;RenderingIdentifier&amp;CSSStyles&amp;DynamicPlaceholderId=4"
+              s:ph="headless-main" />
+            <r
+              uid="{392DA7C3-FB30-40FE-B216-ED447498DA55}"
+              p:after="r[@uid='{9ADB19C9-8277-4F47-95DF-BDE94C39F41E}']"
+              s:id="{D425DB5D-FFB0-4574-852C-C17D904CC3E7}"
+              s:par="GridParameters=%7BF61E01E9-711A-4C99-AE30-4E28463E1DF7%7D&amp;FieldNames=%7B6F83E0EE-E1C1-42D2-8B7B-DA86DFDD39DB%7D&amp;Styles=%7C%7B475E77AB-3D7F-4C96-A0C4-8164A8158C82%7D&amp;RenderingIdentifier&amp;CSSStyles&amp;DynamicPlaceholderId=2"
+              s:ph="/headless-main/container-1" />
+            <r
+              uid="{B64A8352-9D0E-4E24-9E95-5B8E8FB509E5}"
+              p:after="r[@uid='{392DA7C3-FB30-40FE-B216-ED447498DA55}']"
+              s:id="{1409AEA2-6E60-4EA9-8813-CB229DF0E3B7}"
+              s:par="GridParameters=%7BF61E01E9-711A-4C99-AE30-4E28463E1DF7%7D&amp;FieldNames=%7B0EFC83ED-6584-40A0-91D4-56B2091E359B%7D&amp;Styles=%7C%7B475E77AB-3D7F-4C96-A0C4-8164A8158C82%7D%7C%7BACA1D298-4F90-4EA9-8281-82D0BBB1E353%7D&amp;RenderingIdentifier&amp;CSSStyles&amp;DynamicPlaceholderId=6"
+              s:ph="/headless-main/container-4" />
+            <r
+              uid="{DF7ED226-7D1D-459D-A00C-0A001EB0A1B3}"
+              p:after="*[1=2]"
+              s:id="{C5F905F8-FD1F-444E-A9E5-AC6B774FF0DE}"
+              s:par="GridParameters=%7BF61E01E9-711A-4C99-AE30-4E28463E1DF7%7D&amp;Heading Tag&amp;FieldNames=%7B73D70018-AEEB-4FE5-A0F2-50B7BE67B1FF%7D&amp;Styles&amp;RenderingIdentifier&amp;CSSStyles&amp;DynamicPlaceholderId=5"
+              s:ph="/headless-main/container-4" />
+          </d>
+        </r>
+    - ID: "06890ecb-5786-4776-8d76-19250477a9bc"
+      Hint: MetaImage
+      Value: |
+        <image mediaid="{EEFD950C-55C1-4495-9FB3-F708E3ACD39A}" alt="DrAminata" height="" width="" hspace="" vspace="" />
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20251028T133940Z
+    - ID: "3e431de1-525e-47a3-b6b0-1ccbec3a8c98"
+      Hint: __Workflow state
+      Value: "{F7F71754-F47E-4605-AD5B-87F78974DD92}"
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+      Hint: __Owner
+      Value: |
+        sitecore\karthikeyan.kumaravel@altudo.co
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\karthikeyan.kumaravel@altudo.co
+    - ID: "6128ed46-0b79-4d6a-87ad-ac6fe70c649c"
+      Hint: Category
+      Value: Insights
+    - ID: "6fb03d9c-e0f6-4765-831d-d5627c4e0b67"
+      Hint: Content
+      Value: |
+        <div class="ck-content"><p>In a powerful address to the United Nations General Assembly's High-Level Meeting on Climate and Health, ICMP President Dr. Aminata Diouf delivered an impassioned call for urgent global action. Highlighting the devastating health consequences of climate change—from rising vector-borne diseases to extreme weather-induced mental health crises—she urged physician-led advocacy to drive transformative environmental health policies. As a Senegalese physician and global health leader, Dr. Diouf's speech underscored the moral imperative for the medical community to lead in this existential fight, blending scientific evidence with a vision for resilient, equitable health systems.</p><p><strong>The Intertwined Threats: Climate Change as a Health Emergency</strong><br />Climate change is no longer a distant environmental issue—it's a pressing public health catastrophe. In her 15-minute address, Dr. Diouf painted a stark picture: By 2050, climate-driven events could displace 200 million people, exacerbate malnutrition for 183 million children annually, and amplify antimicrobial resistance through disrupted ecosystems. Drawing from ICMP's recent Global Health Resilience Report, she cited data showing a 250% increase in dengue cases in Africa over the past decade, directly linked to warmer temperatures expanding mosquito habitats.<br />"We stand at a crossroads," Dr. Diouf declared. "Physicians, who witness these impacts daily in our clinics—from heatstroke victims in urban slums to respiratory distress in wildfire zones—must amplify our voices. Silence in the face of science is complicity."<br />Her speech resonated deeply, earning applause from delegates including WHO Director-General Dr. Tedros Adhanom Ghebreyesus and UN Climate Chief Simon Stiell, who praised her for bridging the gap between environmental policy and frontline care.</p><p>&nbsp;</p><p><strong>Key Calls to Action: Physician-Led Advocacy in Policy</strong><br />Dr. Diouf's address was not merely diagnostic; it was prescriptive. She outlined a roadmap for integrating health into climate agendas, emphasizing the unique role of physicians as trusted advocates:<br /><strong>1. Elevate Health in National Climate Plans</strong><br />Urged nations to incorporate health impact assessments into Nationally Determined Contributions (NDCs) under the Paris Agreement. "Every degree of warming costs lives—let's quantify it in policy," she said, referencing ICMP's advocacy toolkit for rapid assessments.<br /><strong>2. Build Climate-Resilient Health Infrastructure</strong><br />Called for investments in "green hospitals" with solar-powered facilities and early-warning systems for extreme events. In Senegal, where she leads national health initiatives, pilot programs have already reduced outage-related disruptions by 40%.<br /><strong>3. Empower Global Physician Networks</strong><br />Announced ICMP's launch of the Physicians for Planetary Health Alliance, a coalition of 5,000+ doctors worldwide committed to lobbying for carbon-neutral healthcare and biodiversity protection. This includes training modules on eco-anxiety counseling and sustainable prescribing practices.<br /><strong>4. Foster Equity in the Climate-Health Nexus</strong><br />Highlighted the disproportionate burden on low-income countries, where 99% of climate-related deaths occur despite minimal emissions. Dr. Diouf advocated for debt relief tied to green health investments and technology transfers from high emitters.<br />These recommendations align with the UN's "Health and Climate Change" resolution, but Dr. Diouf pushed for bolder timelines: "We need action by COP30, not COP50."</p><p><br /><strong>Voices from the Frontlines: Personal Stories of Impact</strong><br />To humanize the data, Dr. Diouf shared anecdotes from her career. In coastal Senegal, rising sea levels have flooded clinics, forcing evacuations during floods that coincide with peak malaria seasons. "I treated a child last year whose fever was fueled by both infection and immersion in contaminated waters—a dual crisis born of inaction."<br />She also spotlighted global partners: Indigenous healers in the Amazon integrating traditional knowledge with modern epidemiology to combat deforestation-linked outbreaks, and Pacific Island doctors rallying for sea-level rise adaptation funds.<br />&nbsp;</p><p><strong>A Unified Front: The Path Forward</strong><br />As the meeting concluded, Dr. Diouf left the assembly with a rallying cry: "The Hippocratic Oath binds us to 'do no harm'—but in this era, we must actively heal our planet to heal our patients."&nbsp; ICMP is mobilizing resources for the Alliance, inviting physicians to join via icmp.org/planetary-health.<br />This address marks a watershed moment, positioning the medical profession as indispensable allies in the climate fight. As Dr. Diouf concluded, "Our stethoscopes hear the pulse of the Earth—now, let's make it beat stronger for generations to come."</p><p><br />Explore more on environmental health at our blog archives or subscribe to the ICMP newsletter for advocacy updates.</p></div>
+    - ID: "78bd5b13-d9ab-44a4-bae4-c2dda0ad6133"
+      Hint: IntroText
+      Value: "In a powerful address to the United Nations, ICMP President Dr. Aminata Diouf urged urgent global action on the climate-health crisis, spotlighting its devastating consequences&mdash;from surging infectious diseases to mental health strains&mdash;and rallying physicians to lead advocacy for robust environmental health policies worldwide."
+    - ID: "7cba72f9-1513-41af-ba26-de761f138805"
+      Hint: Title
+      Value: الدكتورة أميناتا ضيوف تخاطب الأمم المتحدة بشأن أزمة الصحة المناخية
+    - ID: "85f5b648-1823-4509-b7fd-27deacdf2dff"
+      Hint: MetaDescription
+      Value: "ICMP President Dr. Aminata Diouf addresses the UN on the climate-health emergency, urging global action and physician advocacy to combat climate impacts on public health. Discover key recommendations for resilient, equitable systems."
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "6e6dc3a9-2c2e-45d3-87b9-0dfbd2b8f24e"
+    - ID: "92c233dc-a8b3-4fd0-bb3f-e82a8b49bed2"
+      Hint: MetaTitle
+      Value: "Dr. Aminata Diouf's UN Address on Climate-Health Crisis | Urgent Call for Physician-Led Action"
+    - ID: "9f4483ca-f858-45d1-86a5-0a69c9ab6207"
+      Hint: MetaKeywords
+      Value: "climate-health crisis, UN address, Dr. Aminata Diouf, physician advocacy, environmental health policy, ICMP, global climate action, planetary health, health resilience, climate change impacts"
+    - ID: "a667d11b-ca9f-4fbe-881f-2538eb51f432"
+      Hint: PublishedDate
+      Value: 20241130T000000Z
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\karthikeyan.kumaravel@altudo.co
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20251201T183251Z
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "001dd393-96c5-490b-924a-b0f25cd9efd8"
+      Hint: __Lock
+      Value: <r />
+    - ID: "04bf00db-f5fb-41f7-8ab7-22408372a981"
+      Hint: __Final Renderings
+      Value: |
+        <r xmlns:p="p" xmlns:s="s"
+          p:p="1">
+          <d
+            id="{FE5D7FDF-89C0-4D99-9AA3-B5FBD009C9F3}">
+            <r
+              uid="{E6577B7B-5EEC-43F0-A751-6457290EBB0D}"
+              p:before="*"
+              s:id="{B7C649C8-C683-44CB-9A87-AEBEA3DA8EB3}"
+              s:par="GridParameters=%7BF61E01E9-711A-4C99-AE30-4E28463E1DF7%7D&amp;FieldNames=%7B129985C4-D854-49F5-9602-9E1D1B8DF899%7D&amp;BackgroundImage&amp;Styles=%7C%7B0D8280A3-A4C1-4AAD-8392-30B3080349C8%7D&amp;RenderingIdentifier&amp;CSSStyles&amp;DynamicPlaceholderId=1"
+              s:ph="headless-main" />
+            <r
+              uid="{ECCDC050-7EDE-47E9-ABE3-73295D3277CC}"
+              p:after="r[@uid='{E6577B7B-5EEC-43F0-A751-6457290EBB0D}']"
+              s:id="{F7295588-FA7F-448E-B222-F64005B22E8D}"
+              s:par="GridParameters=%7BF61E01E9-711A-4C99-AE30-4E28463E1DF7%7D&amp;ImageOrder&amp;FieldNames=%7BBAC81150-16BD-4AED-9DF5-6FB5C82E1B95%7D&amp;Styles=%7C%7BDA96D040-41DE-4486-A4D1-6CEDECA18E14%7D&amp;RenderingIdentifier&amp;CSSStyles&amp;DynamicPlaceholderId=3"
+              s:ph="headless-main" />
+            <r
+              uid="{9ADB19C9-8277-4F47-95DF-BDE94C39F41E}"
+              p:after="r[@uid='{ECCDC050-7EDE-47E9-ABE3-73295D3277CC}']"
+              s:id="{B7C649C8-C683-44CB-9A87-AEBEA3DA8EB3}"
+              s:par="GridParameters=%7BF61E01E9-711A-4C99-AE30-4E28463E1DF7%7D&amp;FieldNames=%7B129985C4-D854-49F5-9602-9E1D1B8DF899%7D&amp;BackgroundImage&amp;Styles=%7C%7B0D8280A3-A4C1-4AAD-8392-30B3080349C8%7D&amp;RenderingIdentifier&amp;CSSStyles&amp;DynamicPlaceholderId=4"
+              s:ph="headless-main" />
+            <r
+              uid="{392DA7C3-FB30-40FE-B216-ED447498DA55}"
+              p:after="r[@uid='{9ADB19C9-8277-4F47-95DF-BDE94C39F41E}']"
+              s:id="{D425DB5D-FFB0-4574-852C-C17D904CC3E7}"
+              s:par="GridParameters=%7BF61E01E9-711A-4C99-AE30-4E28463E1DF7%7D&amp;FieldNames=%7B6F83E0EE-E1C1-42D2-8B7B-DA86DFDD39DB%7D&amp;Styles=%7C%7B475E77AB-3D7F-4C96-A0C4-8164A8158C82%7D&amp;RenderingIdentifier&amp;CSSStyles&amp;DynamicPlaceholderId=2"
+              s:ph="/headless-main/container-1" />
+            <r
+              uid="{B64A8352-9D0E-4E24-9E95-5B8E8FB509E5}"
+              p:after="r[@uid='{392DA7C3-FB30-40FE-B216-ED447498DA55}']"
+              s:id="{1409AEA2-6E60-4EA9-8813-CB229DF0E3B7}"
+              s:par="GridParameters=%7BF61E01E9-711A-4C99-AE30-4E28463E1DF7%7D&amp;FieldNames=%7B0EFC83ED-6584-40A0-91D4-56B2091E359B%7D&amp;Styles=%7C%7B475E77AB-3D7F-4C96-A0C4-8164A8158C82%7D%7C%7BACA1D298-4F90-4EA9-8281-82D0BBB1E353%7D&amp;RenderingIdentifier&amp;CSSStyles&amp;DynamicPlaceholderId=6"
+              s:ph="/headless-main/container-4" />
+            <r
+              uid="{DF7ED226-7D1D-459D-A00C-0A001EB0A1B3}"
+              p:after="*[1=2]"
+              s:id="{C5F905F8-FD1F-444E-A9E5-AC6B774FF0DE}"
+              s:par="GridParameters=%7BF61E01E9-711A-4C99-AE30-4E28463E1DF7%7D&amp;Heading Tag&amp;FieldNames=%7B73D70018-AEEB-4FE5-A0F2-50B7BE67B1FF%7D&amp;Styles&amp;RenderingIdentifier&amp;CSSStyles&amp;DynamicPlaceholderId=5"
+              s:ph="/headless-main/container-4" />
+          </d>
+        </r>
+    - ID: "06890ecb-5786-4776-8d76-19250477a9bc"
+      Hint: MetaImage
+      Value: |
+        <image mediaid="{EEFD950C-55C1-4495-9FB3-F708E3ACD39A}" />
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20251028T133940Z
+    - ID: "3e431de1-525e-47a3-b6b0-1ccbec3a8c98"
+      Hint: __Workflow state
+      Value: "{F7F71754-F47E-4605-AD5B-87F78974DD92}"
+    - ID: "4e0720e9-9d50-4ddc-87cf-ecd65e8e94c8"
+      Hint: NavigationTitle
+      Value: Dr Aminata Diouf Addresses UN on Climate Health Crisis
+    - ID: "6128ed46-0b79-4d6a-87ad-ac6fe70c649c"
+      Hint: Category
+      Value: Insights
+    - ID: "6fb03d9c-e0f6-4765-831d-d5627c4e0b67"
+      Hint: Content
+      Value: |
+        <div class="ck-content"><p>In a powerful address to the United Nations General Assembly's High-Level Meeting on Climate and Health, ICMP President Dr. Aminata Diouf delivered an impassioned call for urgent global action. Highlighting the devastating health consequences of climate change—from rising vector-borne diseases to extreme weather-induced mental health crises—she urged physician-led advocacy to drive transformative environmental health policies. As a Senegalese physician and global health leader, Dr. Diouf's speech underscored the moral imperative for the medical community to lead in this existential fight, blending scientific evidence with a vision for resilient, equitable health systems.</p><p><strong>The Intertwined Threats: Climate Change as a Health Emergency</strong><br />Climate change is no longer a distant environmental issue—it's a pressing public health catastrophe. In her 15-minute address, Dr. Diouf painted a stark picture: By 2050, climate-driven events could displace 200 million people, exacerbate malnutrition for 183 million children annually, and amplify antimicrobial resistance through disrupted ecosystems. Drawing from ICMP's recent Global Health Resilience Report, she cited data showing a 250% increase in dengue cases in Africa over the past decade, directly linked to warmer temperatures expanding mosquito habitats.<br />"We stand at a crossroads," Dr. Diouf declared. "Physicians, who witness these impacts daily in our clinics—from heatstroke victims in urban slums to respiratory distress in wildfire zones—must amplify our voices. Silence in the face of science is complicity."<br />Her speech resonated deeply, earning applause from delegates including WHO Director-General Dr. Tedros Adhanom Ghebreyesus and UN Climate Chief Simon Stiell, who praised her for bridging the gap between environmental policy and frontline care.</p><p>&nbsp;</p><p><strong>Key Calls to Action: Physician-Led Advocacy in Policy</strong><br />Dr. Diouf's address was not merely diagnostic; it was prescriptive. She outlined a roadmap for integrating health into climate agendas, emphasizing the unique role of physicians as trusted advocates:<br /><strong>1. Elevate Health in National Climate Plans</strong><br />Urged nations to incorporate health impact assessments into Nationally Determined Contributions (NDCs) under the Paris Agreement. "Every degree of warming costs lives—let's quantify it in policy," she said, referencing ICMP's advocacy toolkit for rapid assessments.<br /><strong>2. Build Climate-Resilient Health Infrastructure</strong><br />Called for investments in "green hospitals" with solar-powered facilities and early-warning systems for extreme events. In Senegal, where she leads national health initiatives, pilot programs have already reduced outage-related disruptions by 40%.<br /><strong>3. Empower Global Physician Networks</strong><br />Announced ICMP's launch of the Physicians for Planetary Health Alliance, a coalition of 5,000+ doctors worldwide committed to lobbying for carbon-neutral healthcare and biodiversity protection. This includes training modules on eco-anxiety counseling and sustainable prescribing practices.<br /><strong>4. Foster Equity in the Climate-Health Nexus</strong><br />Highlighted the disproportionate burden on low-income countries, where 99% of climate-related deaths occur despite minimal emissions. Dr. Diouf advocated for debt relief tied to green health investments and technology transfers from high emitters.<br />These recommendations align with the UN's "Health and Climate Change" resolution, but Dr. Diouf pushed for bolder timelines: "We need action by COP30, not COP50."</p><p><br /><strong>Voices from the Frontlines: Personal Stories of Impact</strong><br />To humanize the data, Dr. Diouf shared anecdotes from her career. In coastal Senegal, rising sea levels have flooded clinics, forcing evacuations during floods that coincide with peak malaria seasons. "I treated a child last year whose fever was fueled by both infection and immersion in contaminated waters—a dual crisis born of inaction."<br />She also spotlighted global partners: Indigenous healers in the Amazon integrating traditional knowledge with modern epidemiology to combat deforestation-linked outbreaks, and Pacific Island doctors rallying for sea-level rise adaptation funds.<br />&nbsp;</p><p><strong>A Unified Front: The Path Forward</strong><br />As the meeting concluded, Dr. Diouf left the assembly with a rallying cry: "The Hippocratic Oath binds us to 'do no harm'—but in this era, we must actively heal our planet to heal our patients."&nbsp; ICMP is mobilizing resources for the Alliance, inviting physicians to join via icmp.org/planetary-health.<br />This address marks a watershed moment, positioning the medical profession as indispensable allies in the climate fight. As Dr. Diouf concluded, "Our stethoscopes hear the pulse of the Earth—now, let's make it beat stronger for generations to come."</p><p><br />Explore more on environmental health at our blog archives or subscribe to the ICMP newsletter for advocacy updates.</p></div>
+    - ID: "78bd5b13-d9ab-44a4-bae4-c2dda0ad6133"
+      Hint: IntroText
+      Value: "In a powerful address to the United Nations, ICMP President Dr. Aminata Diouf urged urgent global action on the climate-health crisis, spotlighting its devastating consequences&mdash;from surging infectious diseases to mental health strains&mdash;and rallying physicians to lead advocacy for robust environmental health policies worldwide."
+    - ID: "7cba72f9-1513-41af-ba26-de761f138805"
+      Hint: Title
+      Value: Dr Aminata Diouf Addresses UN on Climate Health Crisis
+    - ID: "85f5b648-1823-4509-b7fd-27deacdf2dff"
+      Hint: MetaDescription
+      Value: "ICMP President Dr. Aminata Diouf addresses the UN on the climate-health emergency, urging global action and physician advocacy to combat climate impacts on public health. Discover key recommendations for resilient, equitable systems."
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "75138a3a-b432-47ca-9bd2-8306f1511f19"
+    - ID: "92c233dc-a8b3-4fd0-bb3f-e82a8b49bed2"
+      Hint: MetaTitle
+      Value: "Dr. Aminata Diouf's UN Address on Climate-Health Crisis | Urgent Call for Physician-Led Action"
+    - ID: "9f4483ca-f858-45d1-86a5-0a69c9ab6207"
+      Hint: MetaKeywords
+      Value: "climate-health crisis, UN address, Dr. Aminata Diouf, physician advocacy, environmental health policy, ICMP, global climate action, planetary health, health resilience, climate change impacts"
+    - ID: "a667d11b-ca9f-4fbe-881f-2538eb51f432"
+      Hint: PublishedDate
+      Value: 20241130T000000Z
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\karthikeyan.kumaravel@altudo.co
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20251201T183233Z
+- Language: "fr-CA"
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "04bf00db-f5fb-41f7-8ab7-22408372a981"
+      Hint: __Final Renderings
+      Value: |
+        <r xmlns:p="p" xmlns:s="s"
+          p:p="1">
+          <d
+            id="{FE5D7FDF-89C0-4D99-9AA3-B5FBD009C9F3}">
+            <r
+              uid="{E6577B7B-5EEC-43F0-A751-6457290EBB0D}"
+              p:before="*"
+              s:id="{B7C649C8-C683-44CB-9A87-AEBEA3DA8EB3}"
+              s:par="GridParameters=%7BF61E01E9-711A-4C99-AE30-4E28463E1DF7%7D&amp;FieldNames=%7B129985C4-D854-49F5-9602-9E1D1B8DF899%7D&amp;BackgroundImage&amp;Styles=%7C%7B0D8280A3-A4C1-4AAD-8392-30B3080349C8%7D&amp;RenderingIdentifier&amp;CSSStyles&amp;DynamicPlaceholderId=1"
+              s:ph="headless-main" />
+            <r
+              uid="{ECCDC050-7EDE-47E9-ABE3-73295D3277CC}"
+              p:after="r[@uid='{E6577B7B-5EEC-43F0-A751-6457290EBB0D}']"
+              s:id="{F7295588-FA7F-448E-B222-F64005B22E8D}"
+              s:par="GridParameters=%7BF61E01E9-711A-4C99-AE30-4E28463E1DF7%7D&amp;ImageOrder&amp;FieldNames=%7BBAC81150-16BD-4AED-9DF5-6FB5C82E1B95%7D&amp;Styles=%7C%7BDA96D040-41DE-4486-A4D1-6CEDECA18E14%7D&amp;RenderingIdentifier&amp;CSSStyles&amp;DynamicPlaceholderId=3"
+              s:ph="headless-main" />
+            <r
+              uid="{9ADB19C9-8277-4F47-95DF-BDE94C39F41E}"
+              p:after="r[@uid='{ECCDC050-7EDE-47E9-ABE3-73295D3277CC}']"
+              s:id="{B7C649C8-C683-44CB-9A87-AEBEA3DA8EB3}"
+              s:par="GridParameters=%7BF61E01E9-711A-4C99-AE30-4E28463E1DF7%7D&amp;FieldNames=%7B129985C4-D854-49F5-9602-9E1D1B8DF899%7D&amp;BackgroundImage&amp;Styles=%7C%7B0D8280A3-A4C1-4AAD-8392-30B3080349C8%7D&amp;RenderingIdentifier&amp;CSSStyles&amp;DynamicPlaceholderId=4"
+              s:ph="headless-main" />
+            <r
+              uid="{392DA7C3-FB30-40FE-B216-ED447498DA55}"
+              p:after="r[@uid='{9ADB19C9-8277-4F47-95DF-BDE94C39F41E}']"
+              s:id="{D425DB5D-FFB0-4574-852C-C17D904CC3E7}"
+              s:par="GridParameters=%7BF61E01E9-711A-4C99-AE30-4E28463E1DF7%7D&amp;FieldNames=%7B6F83E0EE-E1C1-42D2-8B7B-DA86DFDD39DB%7D&amp;Styles=%7C%7B475E77AB-3D7F-4C96-A0C4-8164A8158C82%7D&amp;RenderingIdentifier&amp;CSSStyles&amp;DynamicPlaceholderId=2"
+              s:ph="/headless-main/container-1" />
+            <r
+              uid="{B64A8352-9D0E-4E24-9E95-5B8E8FB509E5}"
+              p:after="r[@uid='{392DA7C3-FB30-40FE-B216-ED447498DA55}']"
+              s:id="{1409AEA2-6E60-4EA9-8813-CB229DF0E3B7}"
+              s:par="GridParameters=%7BF61E01E9-711A-4C99-AE30-4E28463E1DF7%7D&amp;FieldNames=%7B0EFC83ED-6584-40A0-91D4-56B2091E359B%7D&amp;Styles=%7C%7B475E77AB-3D7F-4C96-A0C4-8164A8158C82%7D%7C%7BACA1D298-4F90-4EA9-8281-82D0BBB1E353%7D&amp;RenderingIdentifier&amp;CSSStyles&amp;DynamicPlaceholderId=6"
+              s:ph="/headless-main/container-4" />
+            <r
+              uid="{DF7ED226-7D1D-459D-A00C-0A001EB0A1B3}"
+              p:after="*[1=2]"
+              s:id="{C5F905F8-FD1F-444E-A9E5-AC6B774FF0DE}"
+              s:par="GridParameters=%7BF61E01E9-711A-4C99-AE30-4E28463E1DF7%7D&amp;Heading Tag&amp;FieldNames=%7B73D70018-AEEB-4FE5-A0F2-50B7BE67B1FF%7D&amp;Styles&amp;RenderingIdentifier&amp;CSSStyles&amp;DynamicPlaceholderId=5"
+              s:ph="/headless-main/container-4" />
+          </d>
+        </r>
+    - ID: "06890ecb-5786-4776-8d76-19250477a9bc"
+      Hint: MetaImage
+      Value: |
+        <image mediaid="{EEFD950C-55C1-4495-9FB3-F708E3ACD39A}" alt="DrAminata" height="" width="" hspace="" vspace="" />
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20251028T133940Z
+    - ID: "3e431de1-525e-47a3-b6b0-1ccbec3a8c98"
+      Hint: __Workflow state
+      Value: "{F7F71754-F47E-4605-AD5B-87F78974DD92}"
+    - ID: "4e0720e9-9d50-4ddc-87cf-ecd65e8e94c8"
+      Hint: NavigationTitle
+      Value: La Dre Aminata Diouf parle aux Nations Unies sur la crise climatique et sanitaire
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+      Hint: __Owner
+      Value: |
+        sitecore\karthikeyan.kumaravel@altudo.co
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\karthikeyan.kumaravel@altudo.co
+    - ID: "6128ed46-0b79-4d6a-87ad-ac6fe70c649c"
+      Hint: Category
+      Value: Connaissances
+    - ID: "6fb03d9c-e0f6-4765-831d-d5627c4e0b67"
+      Hint: Content
+      Value: |
+        <div class="ck-content">
+        <p>Lors d'un discours poignant prononc&eacute; devant la R&eacute;union de haut niveau de l'Assembl&eacute;e g&eacute;n&eacute;rale des Nations Unies sur le climat et la sant&eacute;, la pr&eacute;sidente de l'ICMP, la Dre Aminata Diouf, a lanc&eacute; un appel vibrant &agrave; une action mondiale urgente. Soulignant les cons&eacute;quences d&eacute;vastatrices du changement climatique sur la sant&eacute; &ndash; de la recrudescence des maladies vectorielles aux crises de sant&eacute; mentale induites par les ph&eacute;nom&egrave;nes m&eacute;t&eacute;orologiques extr&ecirc;mes &ndash;, elle a exhort&eacute; les m&eacute;decins &agrave; mener un plaidoyer efficace pour impulser des politiques de sant&eacute; environnementale transformatrices. M&eacute;decin s&eacute;n&eacute;galaise et figure de proue de la sant&eacute; mondiale, la Dre Diouf a insist&eacute; sur l'imp&eacute;ratif moral pour la communaut&eacute; m&eacute;dicale de prendre la t&ecirc;te de ce combat existentiel, en conjuguant donn&eacute;es scientifiques et vision de syst&egrave;mes de sant&eacute; r&eacute;silients et &eacute;quitables.</p>
+        <p><strong>Les menaces inextricablement li&eacute;es&nbsp;: les changements climatiques, une urgence sanitaire</strong><br />
+        Le changement climatique n'est plus un probl&egrave;me environnemental lointain, mais une catastrophe de sant&eacute; publique qui se profile. Dans son allocution de 15 minutes, la Dre Diouf a dress&eacute; un tableau alarmant&nbsp;: d&rsquo;ici 2050, les &eacute;v&eacute;nements li&eacute;s aux changements climatiques pourraient d&eacute;placer 200 millions de personnes, aggraver la malnutrition de 183 millions d&rsquo;enfants chaque ann&eacute;e et amplifier la r&eacute;sistance aux antimicrobiens en raison de la perturbation des &eacute;cosyst&egrave;mes. S'appuyant sur le r&eacute;cent Rapport mondial sur la r&eacute;silience sanitaire de l'ICMP, elle a cit&eacute; des donn&eacute;es montrant une augmentation de 250 % des cas de dengue en Afrique au cours de la derni&egrave;re d&eacute;cennie, directement li&eacute;e &agrave; la hausse des temp&eacute;ratures qui favorise l'expansion des habitats des moustiques. &laquo;&nbsp;Nous sommes &agrave; la crois&eacute;e des chemins&nbsp;&raquo;, a d&eacute;clar&eacute; la Dre Diouf. Les m&eacute;decins, t&eacute;moins quotidiens de ces cons&eacute;quences dans nos cliniques &ndash; des victimes de coups de chaleur dans les bidonvilles urbains aux personnes souffrant de d&eacute;tresse respiratoire dans les zones ravag&eacute;es par les feux de for&ecirc;t &ndash; doivent faire entendre leur voix. Le silence face &agrave; la science est synonyme de complicit&eacute;.&nbsp;Son discours a profond&eacute;ment marqu&eacute; les esprits et a suscit&eacute; les applaudissements des d&eacute;l&eacute;gu&eacute;s, notamment du Dr Tedros Adhanom Ghebreyesus, directeur g&eacute;n&eacute;ral de l&rsquo;OMS, et de Simon Stiell, responsable du climat &agrave; l&rsquo;ONU, qui l&rsquo;ont f&eacute;licit&eacute;e d&rsquo;avoir fait le lien entre les politiques environnementales et les soins de premi&egrave;re ligne.
+        Appels &agrave; l&rsquo;action cl&eacute;s&nbsp;: Plaidoyer des m&eacute;decins dans les politiques publiques
+        L&rsquo;intervention du Dr Diouf n&rsquo;&eacute;tait pas un simple constat&nbsp;; elle proposait des solutions. Elle a esquiss&eacute; une feuille de route pour int&eacute;grer la sant&eacute; aux enjeux climatiques, en soulignant le r&ocirc;le unique des m&eacute;decins en tant que d&eacute;fenseurs de confiance&nbsp;:
+        1. Int&eacute;grer la sant&eacute; dans les plans nationaux de lutte contre les changements climatiques<br />
+        Elle a exhort&eacute; les nations &agrave; int&eacute;grer des &eacute;valuations d'impact sur la sant&eacute; dans leurs contributions d&eacute;termin&eacute;es au niveau national (CDN) en vertu de l'Accord de Paris. &laquo; Chaque degr&eacute; de r&eacute;chauffement co&ucirc;te des vies &ndash; quantifions-le dans nos politiques &raquo;, a-t-elle d&eacute;clar&eacute;, en faisant r&eacute;f&eacute;rence &agrave; la bo&icirc;te &agrave; outils de plaidoyer de l'ICMP pour les &eacute;valuations rapides.<br />
+        <strong>2. &Eacute;tablir une infrastructure de sant&eacute; r&eacute;siliente face au climat</strong><br />
+        Elle a plaid&eacute; pour des investissements dans des &laquo; h&ocirc;pitaux verts &raquo; dot&eacute;s d'installations aliment&eacute;es &agrave; l'&eacute;nergie solaire et de syst&egrave;mes d'alerte pr&eacute;coce aux &eacute;v&eacute;nements extr&ecirc;mes. Au S&eacute;n&eacute;gal, o&ugrave; elle dirige des initiatives nationales de sant&eacute;, des programmes pilotes ont d&eacute;j&agrave; permis de r&eacute;duire de 40 % les perturbations li&eacute;es aux pannes de courant.<br />
+        <strong>3. Renforcer les r&eacute;seaux mondiaux de m&eacute;decins</strong><br />
+        Elle a annonc&eacute; le lancement par l'ICMP de l'Alliance des m&eacute;decins pour la sant&eacute; plan&eacute;taire, une coalition de plus de 5&nbsp;000 m&eacute;decins &agrave; travers le monde, engag&eacute;s &agrave; promouvoir des soins de sant&eacute; neutres en carbone et la protection de la biodiversit&eacute;. Cela comprend des modules de formation sur le conseil en &eacute;co-anxi&eacute;t&eacute; et les pratiques de prescription durables.<br />
+        <strong>4. Promouvoir l'&eacute;quit&eacute; dans le lien climat-sant&eacute;</strong><br />
+        Le Dr Diouf a soulign&eacute; le fardeau disproportionn&eacute; qui p&egrave;se sur les pays &agrave; faible revenu, o&ugrave; surviennent 99 % des d&eacute;c&egrave;s li&eacute;s au climat malgr&eacute; des &eacute;missions minimales. Elle a plaid&eacute; pour un all&egrave;gement de la dette conditionn&eacute; &agrave; des investissements dans la sant&eacute; verte et &agrave; des transferts de technologies de la part des pays &agrave; forts &eacute;metteurs.<br />
+        Ces recommandations sont conformes &agrave; la r&eacute;solution des Nations Unies sur la &laquo;&nbsp;Sant&eacute; et les changements climatiques&nbsp;&raquo;, mais le Dr Diouf a insist&eacute; sur des &eacute;ch&eacute;ances plus ambitieuses&nbsp;: &laquo;&nbsp;Nous devons agir d'ici la COP30, et non la COP50.&nbsp;&raquo;</p>
+        <p><strong>T&eacute;moignages du terrain&nbsp;: Histoires personnelles d'impact</strong><br />
+        Pour donner un visage humain aux donn&eacute;es, le Dr Diouf a partag&eacute; des anecdotes tir&eacute;es de sa carri&egrave;re. Au S&eacute;n&eacute;gal, sur la c&ocirc;te, la mont&eacute;e des eaux a inond&eacute; des dispensaires, for&ccedil;ant des &eacute;vacuations lors des crues qui co&iuml;ncident avec les pics de la saison du paludisme. &laquo; L&rsquo;an dernier, j&rsquo;ai soign&eacute; un enfant dont la fi&egrave;vre &eacute;tait aliment&eacute;e par une infection et une immersion dans des eaux contamin&eacute;es &ndash; une double crise n&eacute;e de l&rsquo;inaction. &raquo;<br />
+        Elle a &eacute;galement mis en lumi&egrave;re des partenaires internationaux&nbsp;: des gu&eacute;risseurs autochtones d&rsquo;Amazonie qui int&egrave;grent les connaissances traditionnelles &agrave; l&rsquo;&eacute;pid&eacute;miologie moderne pour lutter contre les &eacute;pid&eacute;mies li&eacute;es &agrave; la d&eacute;forestation, et des m&eacute;decins des &icirc;les du Pacifique qui se mobilisent pour obtenir des fonds d&rsquo;adaptation &agrave; la mont&eacute;e du niveau de la mer.</p>
+        <p><strong>Un front uni&nbsp;: la voie &agrave; suivre</strong><br />
+        &Agrave; la fin de la r&eacute;union, le Dr Diouf a lanc&eacute; un appel &agrave; la mobilisation&nbsp;: &laquo;&nbsp;Le serment d&rsquo;Hippocrate nous engage &agrave; &ldquo;ne pas nuire&rdquo; &ndash; mais &agrave; notre &eacute;poque, nous devons activement soigner notre plan&egrave;te pour soigner nos patients.L&rsquo;ICMP mobilise des ressources pour l&rsquo;Alliance et invite les m&eacute;decins &agrave; se joindre &agrave; elle via icmp.org/planetary-health.<br />
+        Ce discours marque un tournant d&eacute;cisif, positionnant la profession m&eacute;dicale comme un alli&eacute; indispensable dans la lutte contre le changement climatique. Comme l'a conclu le Dr Diouf : &laquo; Nos st&eacute;thoscopes entendent le pouls de la Terre</p>
+        </div>
+    - ID: "78bd5b13-d9ab-44a4-bae4-c2dda0ad6133"
+      Hint: IntroText
+      Value: Dans un discours percutant prononc&eacute; devant les Nations Unies, la pr&eacute;sidente de l'ICMP, la Dre Aminata Diouf, a exhort&eacute; &agrave; une action mondiale urgente face &agrave; la crise climatique et sanitaire, soulignant ses cons&eacute;quences d&eacute;vastatrices &ndash; de la flamb&eacute;e des maladies infectieuses aux probl&egrave;mes de sant&eacute; mentale &ndash; et mobilisant les m&eacute;decins pour qu'ils m&egrave;nent le plaidoyer en faveur de politiques de sant&eacute; environnementale robustes dans le monde entier.
+    - ID: "7cba72f9-1513-41af-ba26-de761f138805"
+      Hint: Title
+      Value: La Dre Aminata Diouf parle aux Nations Unies sur la crise climatique et sanitaire
+    - ID: "85f5b648-1823-4509-b7fd-27deacdf2dff"
+      Hint: MetaDescription
+      Value: La présidente de l'ICMP, la Dre Aminata Diouf, s'adresse à l'ONU sur l'urgence climatique et sanitaire, appelant à une action mondiale et à un plaidoyer des médecins pour lutter contre les impacts du changement climatique sur la santé publique. Découvrez les recommandations clés pour des systèmes résilients et équitables.
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "cc3585ed-62ab-47f2-ab85-a7eb93445aa7"
+    - ID: "92c233dc-a8b3-4fd0-bb3f-e82a8b49bed2"
+      Hint: MetaTitle
+      Value: Discours de la Dre Aminata Diouf à l'ONU sur la crise climatique et sanitaire | Appel urgent à une action menée par les médecins
+    - ID: "9f4483ca-f858-45d1-86a5-0a69c9ab6207"
+      Hint: MetaKeywords
+      Value: Crise climatique et sanitaire, discours à l'ONU, Dre Aminata Diouf, plaidoyer des médecins, politique de santé environnementale, ICMP, action climatique mondiale, santé planétaire, résilience sanitaire, impacts du changement climatique
+    - ID: "a667d11b-ca9f-4fbe-881f-2538eb51f432"
+      Hint: PublishedDate
+      Value: 20241130T000000Z
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\karthikeyan.kumaravel@altudo.co
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20251201T183311Z

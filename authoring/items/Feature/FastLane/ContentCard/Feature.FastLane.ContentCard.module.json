@@ -1,0 +1,26 @@
+{
+    "$schema": "../../../../../.sitecore/schemas/ModuleFile.schema.json",
+    "namespace": "Feature.FastLane.ContentCard",
+    "references": ["Feature.FastLane.Root"],
+    "items": {
+        "path": "ContentCard",
+        "includes": [
+			{
+                "name": "templates",
+                "path": "/sitecore/templates/Feature/FastLane/Renderings/ContentCard"
+            },          
+			{
+                "name": "branches",
+                "path": "/sitecore/templates/Branches/Feature/FastLane/Default Variants/ContentCard"
+            },
+			{
+                "name": "renderings",
+                "path": "/sitecore/layout/Renderings/Feature/FastLane/Renderings/ContentCard"                
+            },
+			{
+                "name": "settings",
+                "path": "/sitecore/system/Settings/Feature/FastLane/Renderings/ContentCard"
+            }
+        ]
+    }
+}

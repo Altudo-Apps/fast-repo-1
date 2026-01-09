@@ -1,0 +1,27 @@
+{
+  "name": "fastlane",
+  "version": "1.0.0",
+  "description": "Extract Figma design tokens",
+  "main": "code.js",
+  "scripts": {
+    "build": "tsc -p tsconfig.json && npm run copy-manifest",
+    "watch": "tsc -p tsconfig.json --watch",
+    "dev": "npm run build && http-server -c-1 -p 3000",
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "generate-theme": "ts-node generate-figma-theme.ts",
+    "generate": "npm run generate-theme",
+    "generate-tailwind-config:legacy": "ts-node generate-tailwind-config.legacy.ts",
+    "copy-manifest": "node -e \"const fs = require('fs'); fs.mkdirSync('dist', { recursive: true }); fs.copyFileSync('manifest.json', 'dist/manifest.json'); fs.copyFileSync('ui.html', 'dist/ui.html');\""
+  },
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "@figma/plugin-typings": "^1.119.0",
+    "@types/node": "^24.10.0",
+    "ts-node": "^10.9.2",
+    "typescript": "^5.9.3"
+  },
+  "dependencies": {
+    "prettier": "^3.6.2"
+  }
+}

@@ -1,0 +1,140 @@
+﻿---
+ID: "bc4f5805-9d5f-4935-a169-412812851073"
+Parent: "1ca672c3-e41f-45e0-85c9-29ad7da178b5"
+Template: "c16a4c28-0a40-4d2c-9f19-20648c62b054"
+Path: /sitecore/content/FastLaneTenant/global/Data/SocialShare/LinkedIn
+BranchID: "c8547450-f5cc-4b84-9127-74215d27b7ba"
+SharedFields:
+- ID: "a4f985d9-98b3-4b52-aaaf-4344f6e747c6"
+  Hint: __Workflow
+  Value: "{9A1B3B33-17C0-4DAE-A533-CEC7FA11F68A}"
+- ID: "dbbbeca1-21c7-4906-9dd2-493c1efa59a2"
+  Hint: __Shared revision
+  Value: "44418bd9-58c1-4d79-a30e-2db7da8c4e08"
+- ID: "f6d8a61c-2f84-4401-bd24-52d2068172bc"
+  Hint: __Originator
+  Value: "{EE77FF48-8C38-41AE-A2F6-CDAC7BDCA5D9}"
+Languages:
+- Language: "ar-AE"
+  Fields:
+  - ID: "30e85e5d-e00a-4864-b358-7624d511deb4"
+    Hint: __Unversioned revision
+    Value: "44edfb6a-89a2-4b1b-94d4-669ea42f5b6d"
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20250629T172646Z
+    - ID: "3e431de1-525e-47a3-b6b0-1ccbec3a8c98"
+      Hint: __Workflow state
+      Value: "{B71D5C66-667B-4CF1-BE66-342C8B59A4DB}"
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+      Hint: __Owner
+      Value: |
+        sitecore\karthikeyan.kumaravel@altudo.co
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\andy.cohen@altudo.co
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "3c0efa26-f436-46d8-a1f2-db1fdfc8fb64"
+    - ID: "aa4e5f92-cbb0-4134-ba73-fe27fc4e2e7a"
+      Hint: SocialIcon
+      Value: |
+        <image mediaid="{7D243B9C-1E78-4841-9AF7-B4A4A71C68C1}" alt="" height="" width="" hspace="" vspace="" />
+    - ID: "ba0a52e5-b8a7-46fd-b24d-815c5d720b96"
+      Hint: Title
+      Value: LinkedIn
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\karthikeyan.kumaravel@altudo.co
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20251104T183244Z
+- Language: en
+  Fields:
+  - ID: "30e85e5d-e00a-4864-b358-7624d511deb4"
+    Hint: __Unversioned revision
+    Value: "b62c82dd-0c4c-4b79-b461-73df0b64639c"
+  - ID: "b5e02ad9-d56f-4c41-a065-a133db87bdeb"
+    Hint: __Display name
+    Value: 
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "001dd393-96c5-490b-924a-b0f25cd9efd8"
+      Hint: __Lock
+      Value: <r />
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20250629T172646Z
+    - ID: "3e431de1-525e-47a3-b6b0-1ccbec3a8c98"
+      Hint: __Workflow state
+      Value: "{B71D5C66-667B-4CF1-BE66-342C8B59A4DB}"
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+      Hint: __Owner
+      Value: |
+        sitecore\andy.cohen@altudo.co
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\andy.cohen@altudo.co
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "4dd185cd-ebda-45fc-93e9-451216b9dff7"
+    - ID: "aa4e5f92-cbb0-4134-ba73-fe27fc4e2e7a"
+      Hint: SocialIcon
+      Value: |
+        <image mediaid="{7D243B9C-1E78-4841-9AF7-B4A4A71C68C1}" alt="" height="" width="" hspace="" vspace="" />
+    - ID: "ba0a52e5-b8a7-46fd-b24d-815c5d720b96"
+      Hint: Title
+      Value: LinkedIn
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\andy.cohen@altudo.co
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20250629T173335Z
+- Language: "fr-CA"
+  Fields:
+  - ID: "30e85e5d-e00a-4864-b358-7624d511deb4"
+    Hint: __Unversioned revision
+    Value: "a7f4a5c8-e2bf-4b75-96dd-026752b93d65"
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20250629T172646Z
+    - ID: "3e431de1-525e-47a3-b6b0-1ccbec3a8c98"
+      Hint: __Workflow state
+      Value: "{B71D5C66-667B-4CF1-BE66-342C8B59A4DB}"
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+      Hint: __Owner
+      Value: |
+        sitecore\karthikeyan.kumaravel@altudo.co
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\andy.cohen@altudo.co
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "e844e92b-ddee-45d3-acb5-234aa7d3c31c"
+    - ID: "aa4e5f92-cbb0-4134-ba73-fe27fc4e2e7a"
+      Hint: SocialIcon
+      Value: |
+        <image mediaid="{7D243B9C-1E78-4841-9AF7-B4A4A71C68C1}" alt="" height="" width="" hspace="" vspace="" />
+    - ID: "ba0a52e5-b8a7-46fd-b24d-815c5d720b96"
+      Hint: Title
+      Value: LinkedIn
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\karthikeyan.kumaravel@altudo.co
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20251104T182722Z

@@ -1,0 +1,489 @@
+﻿---
+ID: "41faa3eb-737f-462b-a900-c2ed51fc1986"
+Parent: "0adfd485-e57c-417a-b2e4-de7a3d381dce"
+Template: "770fd597-ea0b-4ff3-944f-9248aedfe84a"
+Path: /sitecore/content/FastLaneTenant/fastlanewebsite/Home/About Us/Our History
+BranchID: "b9fb36f5-3b3a-4b06-8112-0066d0a2b7db"
+SharedFields:
+- ID: "1172f251-dad4-4efb-a329-0c63500e4f1e"
+  Hint: __Masters
+  Value: "{C14B6289-8AC2-439C-9E5B-40DE9F820C3F}"
+- ID: "24171bf1-c0e1-480e-be76-4c0a1876f916"
+  Hint: Page Design
+  Value: 
+- ID: "a4f985d9-98b3-4b52-aaaf-4344f6e747c6"
+  Hint: __Workflow
+  Value: "{CF913994-CC05-4D20-B38A-9CF1E73F5951}"
+- ID: "ba3f86a2-4a1c-4d78-b63d-91c2779c1b5e"
+  Hint: __Sortorder
+  Value: 100
+- ID: "c7c26117-dbb1-42b2-ab5e-f7223845cca3"
+  Hint: __Thumbnail
+  Value: 
+- ID: "dbbbeca1-21c7-4906-9dd2-493c1efa59a2"
+  Hint: __Shared revision
+  Value: "105677ff-3e22-49ad-bbfc-83815a9eaa2f"
+- ID: "f1a1fe9e-a60c-4ddb-a3a0-bb5b29fe732e"
+  Hint: __Renderings
+  Value: |
+    <r xmlns:p="p" xmlns:s="s"
+      p:p="1">
+      <d
+        id="{FE5D7FDF-89C0-4D99-9AA3-B5FBD009C9F3}">
+        <r
+          uid="{B13F6D5C-EFB5-43D3-B14B-9BCBBC471CF7}"
+          p:before="*"
+          s:ds="local:/Data/Text 1"
+          s:id="{0901D932-0027-4B05-AA78-A8C8320936D5}"
+          s:par="GridParameters=%7BF61E01E9-711A-4C99-AE30-4E28463E1DF7%7D&amp;FieldNames=%7BA4B2A62A-C9FA-43A3-B096-96F2D418AD5C%7D&amp;Styles&amp;RenderingIdentifier&amp;CSSStyles&amp;DynamicPlaceholderId=4"
+          s:ph="/headless-main/sxa-landing-page-with-sidebar/container-1/column-2-3/column-1-1" />
+        <r
+          uid="{C236AF47-1363-40D9-9D6F-DEB02AF225D0}"
+          p:after="r[@uid='{B13F6D5C-EFB5-43D3-B14B-9BCBBC471CF7}']"
+          s:ds="local:/Data/Image 1"
+          s:id="{AB2EDBA0-3960-4F12-B765-579DC231894A}"
+          s:par="GridParameters=%7BF61E01E9-711A-4C99-AE30-4E28463E1DF7%7D&amp;FieldNames=%7B75EC0D4C-10AC-4C23-B3F0-08EC0B3CD31C%7D&amp;Styles&amp;RenderingIdentifier&amp;CSSStyles&amp;DynamicPlaceholderId=5"
+          s:ph="/headless-main/sxa-landing-page-with-sidebar/container-1/column-2-3/column-2-1" />
+        <r
+          uid="{69592B3D-9492-4BD1-9EF6-8CE5AF0A4DA7}"
+          p:after="r[@uid='{C236AF47-1363-40D9-9D6F-DEB02AF225D0}']"
+          s:ds="local:/Data/Text 2"
+          s:id="{0901D932-0027-4B05-AA78-A8C8320936D5}"
+          s:par="GridParameters=%7BF61E01E9-711A-4C99-AE30-4E28463E1DF7%7D&amp;FieldNames=%7BA4B2A62A-C9FA-43A3-B096-96F2D418AD5C%7D&amp;Styles&amp;RenderingIdentifier&amp;CSSStyles&amp;DynamicPlaceholderId=6"
+          s:ph="/headless-main/sxa-landing-page-with-sidebar/container-1/column-2-3/column-1-2" />
+        <r
+          uid="{A102C208-3800-43DD-833F-963BE5AE001A}"
+          p:after="r[@uid='{69592B3D-9492-4BD1-9EF6-8CE5AF0A4DA7}']"
+          s:ds="local:/Data/Image 2"
+          s:id="{AB2EDBA0-3960-4F12-B765-579DC231894A}"
+          s:par="GridParameters=%7BF61E01E9-711A-4C99-AE30-4E28463E1DF7%7D&amp;FieldNames=%7B75EC0D4C-10AC-4C23-B3F0-08EC0B3CD31C%7D&amp;Styles&amp;RenderingIdentifier&amp;CSSStyles&amp;DynamicPlaceholderId=7"
+          s:ph="/headless-main/sxa-landing-page-with-sidebar/container-1/column-2-3/column-2-2" />
+        <r
+          uid="{C73AFAB3-6B98-40F6-96EA-7F81B59F341E}"
+          p:after="r[@uid='{A102C208-3800-43DD-833F-963BE5AE001A}']"
+          s:id="{15CABDFF-FFD9-48F4-826D-A4C3D7868D3A}"
+          s:par="ColumnWidth1=%7B666B8532-5B61-4D50-AE11-65A2F17617A5%7D%7C%7BF61E01E9-711A-4C99-AE30-4E28463E1DF7%7D%7C%7B37B8F625-37B3-41B9-BA85-D31AA5A44463%7D&amp;ColumnWidth2=%7B666B8532-5B61-4D50-AE11-65A2F17617A5%7D%7C%7BF61E01E9-711A-4C99-AE30-4E28463E1DF7%7D%7C%7B37B8F625-37B3-41B9-BA85-D31AA5A44463%7D&amp;ColumnWidth3&amp;ColumnWidth4&amp;ColumnWidth5&amp;ColumnWidth6&amp;ColumnWidth7&amp;ColumnWidth8&amp;GridParameters=%7BF61E01E9-711A-4C99-AE30-4E28463E1DF7%7D&amp;SplitterSize=2&amp;EnabledPlaceholders=1%2C2&amp;FieldNames&amp;Styles1&amp;Styles2&amp;Styles3&amp;Styles4&amp;Styles5&amp;Styles6&amp;Styles7&amp;Styles&amp;Styles8&amp;RenderingIdentifier&amp;CSSStyles&amp;DynamicPlaceholderId=1"
+          s:ph="/headless-main/sxa-landing-page-with-sidebar/container-1/column-2-3" />
+        <r
+          uid="{38E9AF7A-462A-40D6-B022-34A27D338927}"
+          p:after="r[@uid='{C73AFAB3-6B98-40F6-96EA-7F81B59F341E}']"
+          s:id="{15CABDFF-FFD9-48F4-826D-A4C3D7868D3A}"
+          s:par="ColumnWidth1=%7B666B8532-5B61-4D50-AE11-65A2F17617A5%7D%7C%7BF61E01E9-711A-4C99-AE30-4E28463E1DF7%7D%7C%7B37B8F625-37B3-41B9-BA85-D31AA5A44463%7D&amp;ColumnWidth2=%7B670536BF-55BC-4EBD-BBE5-00D9A5E9AF50%7D%7C%7B666B8532-5B61-4D50-AE11-65A2F17617A5%7D%7C%7B37B8F625-37B3-41B9-BA85-D31AA5A44463%7D&amp;ColumnWidth3&amp;ColumnWidth4&amp;ColumnWidth5&amp;ColumnWidth6&amp;ColumnWidth7&amp;ColumnWidth8&amp;GridParameters=%7BF61E01E9-711A-4C99-AE30-4E28463E1DF7%7D&amp;SplitterSize=2&amp;EnabledPlaceholders=1%2C2&amp;FieldNames&amp;Styles1&amp;Styles2&amp;Styles3&amp;Styles4&amp;Styles5&amp;Styles6&amp;Styles7&amp;Styles&amp;Styles8&amp;RenderingIdentifier&amp;CSSStyles&amp;DynamicPlaceholderId=3"
+          s:ph="/headless-main/sxa-landing-page-with-sidebar/container-1/column-2-3" />
+        <r
+          uid="{038CEE94-5D00-4F58-BF13-4C8D3C9818A3}"
+          p:after="r[@uid='{38E9AF7A-462A-40D6-B022-34A27D338927}']"
+          s:id="{15CABDFF-FFD9-48F4-826D-A4C3D7868D3A}"
+          s:par="ColumnWidth1=%7B666B8532-5B61-4D50-AE11-65A2F17617A5%7D%7C%7BF61E01E9-711A-4C99-AE30-4E28463E1DF7%7D%7C%7B37B8F625-37B3-41B9-BA85-D31AA5A44463%7D&amp;ColumnWidth2=%7B666B8532-5B61-4D50-AE11-65A2F17617A5%7D%7C%7BF61E01E9-711A-4C99-AE30-4E28463E1DF7%7D%7C%7B37B8F625-37B3-41B9-BA85-D31AA5A44463%7D&amp;ColumnWidth3&amp;ColumnWidth4&amp;ColumnWidth5&amp;ColumnWidth6&amp;ColumnWidth7&amp;ColumnWidth8&amp;GridParameters=%7BF61E01E9-711A-4C99-AE30-4E28463E1DF7%7D&amp;SplitterSize=2&amp;EnabledPlaceholders=1%2C2&amp;FieldNames&amp;Styles1&amp;Styles2&amp;Styles3&amp;Styles4&amp;Styles5&amp;Styles6&amp;Styles7&amp;Styles&amp;Styles8&amp;RenderingIdentifier&amp;CSSStyles&amp;DynamicPlaceholderId=2"
+          s:ph="/headless-main/sxa-landing-page-with-sidebar/container-1/column-2-3" />
+        <r
+          uid="{AF85B86B-1726-447D-80BF-71FFA31094A4}"
+          p:after="r[@uid='{038CEE94-5D00-4F58-BF13-4C8D3C9818A3}']"
+          s:ds="local:/Data/Image 3"
+          s:id="{AB2EDBA0-3960-4F12-B765-579DC231894A}"
+          s:par="GridParameters=%7BF61E01E9-711A-4C99-AE30-4E28463E1DF7%7D&amp;FieldNames=%7B75EC0D4C-10AC-4C23-B3F0-08EC0B3CD31C%7D&amp;Styles&amp;RenderingIdentifier&amp;CSSStyles&amp;DynamicPlaceholderId=8"
+          s:ph="/headless-main/sxa-landing-page-with-sidebar/container-1/column-2-3/column-1-3" />
+        <r
+          uid="{04729868-03CA-4452-A807-86F5D62F285C}"
+          p:after="r[@uid='{AF85B86B-1726-447D-80BF-71FFA31094A4}']"
+          s:ds="local:/Data/Text 3"
+          s:id="{0901D932-0027-4B05-AA78-A8C8320936D5}"
+          s:par="GridParameters=%7BF61E01E9-711A-4C99-AE30-4E28463E1DF7%7D&amp;FieldNames=%7BA4B2A62A-C9FA-43A3-B096-96F2D418AD5C%7D&amp;Styles&amp;RenderingIdentifier&amp;CSSStyles&amp;DynamicPlaceholderId=9"
+          s:ph="/headless-main/sxa-landing-page-with-sidebar/container-1/column-2-3/column-2-3" />
+        <r
+          uid="{09866F36-0909-4644-99F2-CF99ECE7F353}"
+          p:after="r[@uid='{04729868-03CA-4452-A807-86F5D62F285C}']"
+          s:id="{F7295588-FA7F-448E-B222-F64005B22E8D}"
+          s:par="GridParameters=%7BF61E01E9-711A-4C99-AE30-4E28463E1DF7%7D&amp;ImageOrder=right&amp;FieldNames=%7B8B1E9501-095A-48EE-A07B-8BE4A654CD03%7D&amp;Styles=%7BEF57264A-DE76-4138-8D84-E1C9D0817B1F%7D%7C%7BCC371879-3C7C-4284-BDD1-E567746F8059%7D%7C%7BC89F12C0-1C9B-468D-A613-A5B2ECE35DEC%7D%7C%7BB9987F84-3F44-4164-B67C-4358C72DA416%7D%7C%7BA7198BFC-02EC-4906-B92E-EDBD12BED619%7D%7C%7B87D3E96C-A4B5-49D7-A1D1-8891FE624EF2%7D%7C%7BA4F0BA41-0D86-412D-8293-96EE7FE1096F%7D%7C%7BABAB66E7-B2A7-45D5-8240-A9D4F0439C01%7D%7C%7BCE4890CA-AEDB-4109-AD9A-50073570D394%7D%7C%7B62046E34-8C5E-44C4-B092-537547D5E1CC%7D%7C%7B7BC5B335-BFB0-4B2D-9767-CF4B70E2B8EE%7D%7C%7B3695D896-A0DB-4B57-AE2D-11C49F1D0132%7D%7C%7BABDFECBD-593D-4966-9B44-8B10D2E83F24%7D%7C%7B498BD240-85CF-450D-B482-0B90A9047088%7D%7C%7BF3F87D63-70DC-4097-A67E-DE3224A24E9A%7D&amp;RenderingIdentifier&amp;CSSStyles&amp;DynamicPlaceholderId=10"
+          s:ph="/headless-main/sxa-landing-page-with-sidebar/container-6" />
+        <r
+          uid="{1E570A49-3EC0-4844-8A1D-DC4A7A4BBFE9}"
+          p:after="*[1=2]"
+          s:ds="local:/Data/Image 4"
+          s:id="{AB2EDBA0-3960-4F12-B765-579DC231894A}"
+          s:par="GridParameters=%7BF61E01E9-711A-4C99-AE30-4E28463E1DF7%7D&amp;FieldNames=%7B75EC0D4C-10AC-4C23-B3F0-08EC0B3CD31C%7D&amp;Styles&amp;RenderingIdentifier&amp;CSSStyles&amp;DynamicPlaceholderId=11"
+          s:ph="/headless-main/sxa-landing-page-with-sidebar/container-6/bannercontent-10" />
+      </d>
+    </r>
+- ID: "f6d8a61c-2f84-4401-bd24-52d2068172bc"
+  Hint: __Originator
+  Value: "{E24EEB6C-BCBC-44A6-B87E-9C0A19435F15}"
+Languages:
+- Language: "ar-AE"
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "06890ecb-5786-4776-8d76-19250477a9bc"
+      Hint: MetaImage
+      Value: |
+        <image mediaid="{F5F65A27-79C6-4F30-8686-973BBA63D44D}" alt="History_Image2" height="" width="" hspace="" vspace="" />
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20250612T083318Z
+    - ID: "3e431de1-525e-47a3-b6b0-1ccbec3a8c98"
+      Hint: __Workflow state
+      Value: "{F7F71754-F47E-4605-AD5B-87F78974DD92}"
+    - ID: "4aacfbea-b35f-43f6-be5c-de9fe7f00015"
+      Hint: CalltoActionLinkSecondary
+      Value: |
+        <link text="اشترك في أبحاثنا" linktype="external" url="https://www.altudo.co" anchor="" target="" />
+    - ID: "4e0720e9-9d50-4ddc-87cf-ecd65e8e94c8"
+      Hint: NavigationTitle
+      Value: تاريخنا
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+      Hint: __Owner
+      Value: |
+        sitecore\karthikeyan.kumaravel@altudo.co
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\karthikeyan.kumaravel@altudo.co
+    - ID: "6128ed46-0b79-4d6a-87ad-ac6fe70c649c"
+      Hint: Category
+      Value: من نحن
+    - ID: "78bd5b13-d9ab-44a4-bae4-c2dda0ad6133"
+      Hint: IntroText
+      Value: |
+        <div class="ck-content">
+        <p>منذ نشأتها في أعقاب الحرب العالمية الأولى وحتى دورها في تشكيل السياسة الصحية العالمية في القرن الحادي والعشرين، ظلت الكلية الدولية للمهنيين الطبيين ثابتة في التزامها بتوحيد الأطباء في السعي لتحقيق رعاية أخلاقية قائمة على الأدلة. وقد كانت بمثابة منتدى للمحادثات الصعبة، ومستودع للمعرفة المشتركة، وحصن ضد تسييس العلم.</p>
+        </div>
+    - ID: "7cba72f9-1513-41af-ba26-de761f138805"
+      Hint: Title
+      Value: تاريخنا
+    - ID: "85f5b648-1823-4509-b7fd-27deacdf2dff"
+      Hint: MetaDescription
+      Value: اكتشف تاريخ Fast Lane، منذ تأسيسها وحتى أصبحت رائدة في مجال إدارة محتوى XM Cloud وحلول التجربة الرقمية.
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "df53caa4-f9d7-4072-8d84-17a9a401edb6"
+    - ID: "92c233dc-a8b3-4fd0-bb3f-e82a8b49bed2"
+      Hint: MetaTitle
+      Value: "تاريخنا - رحلة Fast Lane في ابتكار XM Cloud"
+    - ID: "9f4483ca-f858-45d1-86a5-0a69c9ab6207"
+      Hint: MetaKeywords
+      Value: تاريخ Fast Lane، معالم XM Cloud، تطور إدارة المحتوى، رحلة التجربة الرقمية
+    - ID: "ba41d59c-a2b6-4f14-8913-7734549cce04"
+      Hint: Image
+      Value: |
+        <image alt="Our History Banner" mediaid="{2A350EE8-E1A7-4EA5-8CE1-A5F35F96B4F4}" />
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\karthikeyan.kumaravel@altudo.co
+    - ID: "c24e85bf-697a-4e60-92ce-c0d557ce510e"
+      Hint: NavigationDescription
+      Value: أنماط العناوين والفقرات والقوائم وما إلى ذلك.
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20251201T191318Z
+    - ID: "f56d5ae9-cbca-48e1-b47e-e06a7561fc5d"
+      Hint: CalltoActionLinkMain
+      Value: |
+        <link text="انظر ماذا تقول البيانات" linktype="external" url="https://www.altudo.co" anchor="" target="" />
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "001dd393-96c5-490b-924a-b0f25cd9efd8"
+      Hint: __Lock
+      Value: <r />
+    - ID: "04bf00db-f5fb-41f7-8ab7-22408372a981"
+      Hint: __Final Renderings
+      Value: |
+        <r xmlns:p="p" xmlns:s="s"
+          p:p="1">
+          <d
+            id="{FE5D7FDF-89C0-4D99-9AA3-B5FBD009C9F3}">
+            <r
+              uid="{B13F6D5C-EFB5-43D3-B14B-9BCBBC471CF7}"
+              p:before="*"
+              s:ds="local:/Data/Text 1"
+              s:id="{0901D932-0027-4B05-AA78-A8C8320936D5}"
+              s:par="GridParameters=%7BF61E01E9-711A-4C99-AE30-4E28463E1DF7%7D&amp;FieldNames=%7BA4B2A62A-C9FA-43A3-B096-96F2D418AD5C%7D&amp;Styles&amp;RenderingIdentifier&amp;CSSStyles&amp;DynamicPlaceholderId=4"
+              s:ph="/headless-main/sxa-landing-page-with-sidebar/container-1/column-2-3/column-1-1" />
+            <r
+              uid="{C236AF47-1363-40D9-9D6F-DEB02AF225D0}"
+              p:after="r[@uid='{B13F6D5C-EFB5-43D3-B14B-9BCBBC471CF7}']"
+              s:ds="local:/Data/Image 1"
+              s:id="{AB2EDBA0-3960-4F12-B765-579DC231894A}"
+              s:par="GridParameters=%7BF61E01E9-711A-4C99-AE30-4E28463E1DF7%7D&amp;FieldNames=%7B75EC0D4C-10AC-4C23-B3F0-08EC0B3CD31C%7D&amp;Styles&amp;RenderingIdentifier&amp;CSSStyles&amp;DynamicPlaceholderId=5"
+              s:ph="/headless-main/sxa-landing-page-with-sidebar/container-1/column-2-3/column-2-1" />
+            <r
+              uid="{69592B3D-9492-4BD1-9EF6-8CE5AF0A4DA7}"
+              p:after="r[@uid='{C236AF47-1363-40D9-9D6F-DEB02AF225D0}']"
+              s:ds="local:/Data/Text 2"
+              s:id="{0901D932-0027-4B05-AA78-A8C8320936D5}"
+              s:par="GridParameters=%7BF61E01E9-711A-4C99-AE30-4E28463E1DF7%7D&amp;FieldNames=%7BA4B2A62A-C9FA-43A3-B096-96F2D418AD5C%7D&amp;Styles&amp;RenderingIdentifier&amp;CSSStyles&amp;DynamicPlaceholderId=6"
+              s:ph="/headless-main/sxa-landing-page-with-sidebar/container-1/column-2-3/column-1-2" />
+            <r
+              uid="{A102C208-3800-43DD-833F-963BE5AE001A}"
+              p:after="r[@uid='{69592B3D-9492-4BD1-9EF6-8CE5AF0A4DA7}']"
+              s:ds="local:/Data/Image 2"
+              s:id="{AB2EDBA0-3960-4F12-B765-579DC231894A}"
+              s:par="GridParameters=%7BF61E01E9-711A-4C99-AE30-4E28463E1DF7%7D&amp;FieldNames=%7B75EC0D4C-10AC-4C23-B3F0-08EC0B3CD31C%7D&amp;Styles&amp;RenderingIdentifier&amp;CSSStyles&amp;DynamicPlaceholderId=7"
+              s:ph="/headless-main/sxa-landing-page-with-sidebar/container-1/column-2-3/column-2-2" />
+            <r
+              uid="{C73AFAB3-6B98-40F6-96EA-7F81B59F341E}"
+              p:after="r[@uid='{A102C208-3800-43DD-833F-963BE5AE001A}']"
+              s:id="{15CABDFF-FFD9-48F4-826D-A4C3D7868D3A}"
+              s:par="ColumnWidth1=%7B666B8532-5B61-4D50-AE11-65A2F17617A5%7D%7C%7BF61E01E9-711A-4C99-AE30-4E28463E1DF7%7D%7C%7B37B8F625-37B3-41B9-BA85-D31AA5A44463%7D&amp;ColumnWidth2=%7B666B8532-5B61-4D50-AE11-65A2F17617A5%7D%7C%7BF61E01E9-711A-4C99-AE30-4E28463E1DF7%7D%7C%7B37B8F625-37B3-41B9-BA85-D31AA5A44463%7D&amp;ColumnWidth3&amp;ColumnWidth4&amp;ColumnWidth5&amp;ColumnWidth6&amp;ColumnWidth7&amp;ColumnWidth8&amp;GridParameters=%7BF61E01E9-711A-4C99-AE30-4E28463E1DF7%7D&amp;SplitterSize=2&amp;EnabledPlaceholders=1%2C2&amp;FieldNames&amp;Styles1&amp;Styles2&amp;Styles3&amp;Styles4&amp;Styles5&amp;Styles6&amp;Styles7&amp;Styles&amp;Styles8&amp;RenderingIdentifier&amp;CSSStyles&amp;DynamicPlaceholderId=1"
+              s:ph="/headless-main/sxa-landing-page-with-sidebar/container-1/column-2-3" />
+            <r
+              uid="{38E9AF7A-462A-40D6-B022-34A27D338927}"
+              p:after="r[@uid='{C73AFAB3-6B98-40F6-96EA-7F81B59F341E}']"
+              s:id="{15CABDFF-FFD9-48F4-826D-A4C3D7868D3A}"
+              s:par="ColumnWidth1=%7B666B8532-5B61-4D50-AE11-65A2F17617A5%7D%7C%7BF61E01E9-711A-4C99-AE30-4E28463E1DF7%7D%7C%7B37B8F625-37B3-41B9-BA85-D31AA5A44463%7D&amp;ColumnWidth2=%7B670536BF-55BC-4EBD-BBE5-00D9A5E9AF50%7D%7C%7B666B8532-5B61-4D50-AE11-65A2F17617A5%7D%7C%7B37B8F625-37B3-41B9-BA85-D31AA5A44463%7D&amp;ColumnWidth3&amp;ColumnWidth4&amp;ColumnWidth5&amp;ColumnWidth6&amp;ColumnWidth7&amp;ColumnWidth8&amp;GridParameters=%7BF61E01E9-711A-4C99-AE30-4E28463E1DF7%7D&amp;SplitterSize=2&amp;EnabledPlaceholders=1%2C2&amp;FieldNames&amp;Styles1&amp;Styles2&amp;Styles3&amp;Styles4&amp;Styles5&amp;Styles6&amp;Styles7&amp;Styles&amp;Styles8&amp;RenderingIdentifier&amp;CSSStyles&amp;DynamicPlaceholderId=3"
+              s:ph="/headless-main/sxa-landing-page-with-sidebar/container-1/column-2-3" />
+            <r
+              uid="{038CEE94-5D00-4F58-BF13-4C8D3C9818A3}"
+              p:after="r[@uid='{38E9AF7A-462A-40D6-B022-34A27D338927}']"
+              s:id="{15CABDFF-FFD9-48F4-826D-A4C3D7868D3A}"
+              s:par="ColumnWidth1=%7B666B8532-5B61-4D50-AE11-65A2F17617A5%7D%7C%7BF61E01E9-711A-4C99-AE30-4E28463E1DF7%7D%7C%7B37B8F625-37B3-41B9-BA85-D31AA5A44463%7D&amp;ColumnWidth2=%7B666B8532-5B61-4D50-AE11-65A2F17617A5%7D%7C%7BF61E01E9-711A-4C99-AE30-4E28463E1DF7%7D%7C%7B37B8F625-37B3-41B9-BA85-D31AA5A44463%7D&amp;ColumnWidth3&amp;ColumnWidth4&amp;ColumnWidth5&amp;ColumnWidth6&amp;ColumnWidth7&amp;ColumnWidth8&amp;GridParameters=%7BF61E01E9-711A-4C99-AE30-4E28463E1DF7%7D&amp;SplitterSize=2&amp;EnabledPlaceholders=1%2C2&amp;FieldNames&amp;Styles1&amp;Styles2&amp;Styles3&amp;Styles4&amp;Styles5&amp;Styles6&amp;Styles7&amp;Styles&amp;Styles8&amp;RenderingIdentifier&amp;CSSStyles&amp;DynamicPlaceholderId=2"
+              s:ph="/headless-main/sxa-landing-page-with-sidebar/container-1/column-2-3" />
+            <r
+              uid="{AF85B86B-1726-447D-80BF-71FFA31094A4}"
+              p:after="r[@uid='{038CEE94-5D00-4F58-BF13-4C8D3C9818A3}']"
+              s:ds="local:/Data/Image 3"
+              s:id="{AB2EDBA0-3960-4F12-B765-579DC231894A}"
+              s:par="GridParameters=%7BF61E01E9-711A-4C99-AE30-4E28463E1DF7%7D&amp;FieldNames=%7B75EC0D4C-10AC-4C23-B3F0-08EC0B3CD31C%7D&amp;Styles&amp;RenderingIdentifier&amp;CSSStyles&amp;DynamicPlaceholderId=8"
+              s:ph="/headless-main/sxa-landing-page-with-sidebar/container-1/column-2-3/column-1-3" />
+            <r
+              uid="{04729868-03CA-4452-A807-86F5D62F285C}"
+              p:after="r[@uid='{AF85B86B-1726-447D-80BF-71FFA31094A4}']"
+              s:ds="local:/Data/Text 3"
+              s:id="{0901D932-0027-4B05-AA78-A8C8320936D5}"
+              s:par="GridParameters=%7BF61E01E9-711A-4C99-AE30-4E28463E1DF7%7D&amp;FieldNames=%7BA4B2A62A-C9FA-43A3-B096-96F2D418AD5C%7D&amp;Styles&amp;RenderingIdentifier&amp;CSSStyles&amp;DynamicPlaceholderId=9"
+              s:ph="/headless-main/sxa-landing-page-with-sidebar/container-1/column-2-3/column-2-3" />
+            <r
+              uid="{09866F36-0909-4644-99F2-CF99ECE7F353}"
+              p:after="r[@uid='{04729868-03CA-4452-A807-86F5D62F285C}']"
+              s:id="{F7295588-FA7F-448E-B222-F64005B22E8D}"
+              s:par="GridParameters=%7BF61E01E9-711A-4C99-AE30-4E28463E1DF7%7D&amp;ImageOrder=right&amp;FieldNames=%7B8B1E9501-095A-48EE-A07B-8BE4A654CD03%7D&amp;Styles=%7BEF57264A-DE76-4138-8D84-E1C9D0817B1F%7D%7C%7BCC371879-3C7C-4284-BDD1-E567746F8059%7D%7C%7BC89F12C0-1C9B-468D-A613-A5B2ECE35DEC%7D%7C%7BB9987F84-3F44-4164-B67C-4358C72DA416%7D%7C%7BA7198BFC-02EC-4906-B92E-EDBD12BED619%7D%7C%7B87D3E96C-A4B5-49D7-A1D1-8891FE624EF2%7D%7C%7BA4F0BA41-0D86-412D-8293-96EE7FE1096F%7D%7C%7BABAB66E7-B2A7-45D5-8240-A9D4F0439C01%7D%7C%7BCE4890CA-AEDB-4109-AD9A-50073570D394%7D%7C%7B62046E34-8C5E-44C4-B092-537547D5E1CC%7D%7C%7B7BC5B335-BFB0-4B2D-9767-CF4B70E2B8EE%7D%7C%7B3695D896-A0DB-4B57-AE2D-11C49F1D0132%7D%7C%7BABDFECBD-593D-4966-9B44-8B10D2E83F24%7D%7C%7B498BD240-85CF-450D-B482-0B90A9047088%7D%7C%7BF3F87D63-70DC-4097-A67E-DE3224A24E9A%7D&amp;RenderingIdentifier&amp;CSSStyles&amp;DynamicPlaceholderId=10"
+              s:ph="/headless-main/sxa-landing-page-with-sidebar/container-6" />
+            <r
+              uid="{1E570A49-3EC0-4844-8A1D-DC4A7A4BBFE9}"
+              p:after="*[1=2]"
+              s:ds="local:/Data/Image 4"
+              s:id="{AB2EDBA0-3960-4F12-B765-579DC231894A}"
+              s:par="GridParameters=%7BF61E01E9-711A-4C99-AE30-4E28463E1DF7%7D&amp;FieldNames=%7B75EC0D4C-10AC-4C23-B3F0-08EC0B3CD31C%7D&amp;Styles&amp;RenderingIdentifier&amp;CSSStyles&amp;DynamicPlaceholderId=11"
+              s:ph="/headless-main/sxa-landing-page-with-sidebar/container-6/bannercontent-10" />
+          </d>
+        </r>
+    - ID: "06890ecb-5786-4776-8d76-19250477a9bc"
+      Hint: MetaImage
+      Value: |
+        <image mediaid="{F5F65A27-79C6-4F30-8686-973BBA63D44D}" />
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20250612T083318Z
+    - ID: "3e431de1-525e-47a3-b6b0-1ccbec3a8c98"
+      Hint: __Workflow state
+      Value: "{F7F71754-F47E-4605-AD5B-87F78974DD92}"
+    - ID: "4aacfbea-b35f-43f6-be5c-de9fe7f00015"
+      Hint: CalltoActionLinkSecondary
+      Value: |
+        <link linktype="external" url="https://www.altudo.co" text="Subscribe to our research"/>
+    - ID: "4e0720e9-9d50-4ddc-87cf-ecd65e8e94c8"
+      Hint: NavigationTitle
+      Value: Our History
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+      Hint: __Owner
+      Value: |
+        sitecore\andy.cohen@altudo.co
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\karthikeyan.kumaravel@altudo.co
+    - ID: "6128ed46-0b79-4d6a-87ad-ac6fe70c649c"
+      Hint: Category
+      Value: About Us
+    - ID: "78bd5b13-d9ab-44a4-bae4-c2dda0ad6133"
+      Hint: IntroText
+      Value: |
+        <div class="ck-content"><p>From its origins in the aftermath of World War I to its role in shaping global health policy in the 21st century, the International Collegium of Medical Professionals has remained steadfast in its commitment to uniting physicians in the pursuit of ethical, evidence-based care. It has served as a forum for difficult conversations, a repository of shared knowledge, and a bulwark against the politicization of science.</p></div>
+    - ID: "7cba72f9-1513-41af-ba26-de761f138805"
+      Hint: Title
+      Value: Our History
+    - ID: "85f5b648-1823-4509-b7fd-27deacdf2dff"
+      Hint: MetaDescription
+      Value: Explore the history of Fast Lane, from its founding to becoming a leader in XM Cloud content management and digital experience solutions
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "8f1a90be-6cc0-4d17-852a-d4976c42b501"
+    - ID: "92c233dc-a8b3-4fd0-bb3f-e82a8b49bed2"
+      Hint: MetaTitle
+      Value: "Our History - Fast Lane's Journey in XM Cloud Innovation"
+    - ID: "9f4483ca-f858-45d1-86a5-0a69c9ab6207"
+      Hint: MetaKeywords
+      Value: Fast Lane history, XM Cloud milestones, content management evolution, digital experience journey
+    - ID: "ba41d59c-a2b6-4f14-8913-7734549cce04"
+      Hint: Image
+      Value: |
+        <image alt="Our History Banner" mediaid="{2A350EE8-E1A7-4EA5-8CE1-A5F35F96B4F4}" />
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\karthikeyan.kumaravel@altudo.co
+    - ID: "c24e85bf-697a-4e60-92ce-c0d557ce510e"
+      Hint: NavigationDescription
+      Value: Styles for headings, paragraphs, lists etc..
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20251201T191301Z
+    - ID: "f56d5ae9-cbca-48e1-b47e-e06a7561fc5d"
+      Hint: CalltoActionLinkMain
+      Value: |
+        <link text="See what the data says" linktype="external" url="https://www.altudo.co" anchor="" target="" />
+- Language: "fr-CA"
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "04bf00db-f5fb-41f7-8ab7-22408372a981"
+      Hint: __Final Renderings
+      Value: |
+        <r xmlns:p="p" xmlns:s="s"
+          p:p="1">
+          <d
+            id="{FE5D7FDF-89C0-4D99-9AA3-B5FBD009C9F3}">
+            <r
+              uid="{B13F6D5C-EFB5-43D3-B14B-9BCBBC471CF7}"
+              p:before="*"
+              s:ds="local:/Data/Text 1"
+              s:id="{0901D932-0027-4B05-AA78-A8C8320936D5}"
+              s:par="GridParameters=%7BF61E01E9-711A-4C99-AE30-4E28463E1DF7%7D&amp;FieldNames=%7BA4B2A62A-C9FA-43A3-B096-96F2D418AD5C%7D&amp;Styles&amp;RenderingIdentifier&amp;CSSStyles&amp;DynamicPlaceholderId=4"
+              s:ph="/headless-main/sxa-landing-page-with-sidebar/container-1/column-2-3/column-1-1" />
+            <r
+              uid="{C236AF47-1363-40D9-9D6F-DEB02AF225D0}"
+              p:after="r[@uid='{B13F6D5C-EFB5-43D3-B14B-9BCBBC471CF7}']"
+              s:ds="local:/Data/Image 1"
+              s:id="{AB2EDBA0-3960-4F12-B765-579DC231894A}"
+              s:par="GridParameters=%7BF61E01E9-711A-4C99-AE30-4E28463E1DF7%7D&amp;FieldNames=%7B75EC0D4C-10AC-4C23-B3F0-08EC0B3CD31C%7D&amp;Styles&amp;RenderingIdentifier&amp;CSSStyles&amp;DynamicPlaceholderId=5"
+              s:ph="/headless-main/sxa-landing-page-with-sidebar/container-1/column-2-3/column-2-1" />
+            <r
+              uid="{69592B3D-9492-4BD1-9EF6-8CE5AF0A4DA7}"
+              p:after="r[@uid='{C236AF47-1363-40D9-9D6F-DEB02AF225D0}']"
+              s:ds="local:/Data/Text 2"
+              s:id="{0901D932-0027-4B05-AA78-A8C8320936D5}"
+              s:par="GridParameters=%7BF61E01E9-711A-4C99-AE30-4E28463E1DF7%7D&amp;FieldNames=%7BA4B2A62A-C9FA-43A3-B096-96F2D418AD5C%7D&amp;Styles&amp;RenderingIdentifier&amp;CSSStyles&amp;DynamicPlaceholderId=6"
+              s:ph="/headless-main/sxa-landing-page-with-sidebar/container-1/column-2-3/column-1-2" />
+            <r
+              uid="{A102C208-3800-43DD-833F-963BE5AE001A}"
+              p:after="r[@uid='{69592B3D-9492-4BD1-9EF6-8CE5AF0A4DA7}']"
+              s:ds="local:/Data/Image 2"
+              s:id="{AB2EDBA0-3960-4F12-B765-579DC231894A}"
+              s:par="GridParameters=%7BF61E01E9-711A-4C99-AE30-4E28463E1DF7%7D&amp;FieldNames=%7B75EC0D4C-10AC-4C23-B3F0-08EC0B3CD31C%7D&amp;Styles&amp;RenderingIdentifier&amp;CSSStyles&amp;DynamicPlaceholderId=7"
+              s:ph="/headless-main/sxa-landing-page-with-sidebar/container-1/column-2-3/column-2-2" />
+            <r
+              uid="{C73AFAB3-6B98-40F6-96EA-7F81B59F341E}"
+              p:after="r[@uid='{A102C208-3800-43DD-833F-963BE5AE001A}']"
+              s:id="{15CABDFF-FFD9-48F4-826D-A4C3D7868D3A}"
+              s:par="ColumnWidth1=%7B666B8532-5B61-4D50-AE11-65A2F17617A5%7D%7C%7BF61E01E9-711A-4C99-AE30-4E28463E1DF7%7D%7C%7B37B8F625-37B3-41B9-BA85-D31AA5A44463%7D&amp;ColumnWidth2=%7B666B8532-5B61-4D50-AE11-65A2F17617A5%7D%7C%7BF61E01E9-711A-4C99-AE30-4E28463E1DF7%7D%7C%7B37B8F625-37B3-41B9-BA85-D31AA5A44463%7D&amp;ColumnWidth3&amp;ColumnWidth4&amp;ColumnWidth5&amp;ColumnWidth6&amp;ColumnWidth7&amp;ColumnWidth8&amp;GridParameters=%7BF61E01E9-711A-4C99-AE30-4E28463E1DF7%7D&amp;SplitterSize=2&amp;EnabledPlaceholders=1%2C2&amp;FieldNames&amp;Styles1&amp;Styles2&amp;Styles3&amp;Styles4&amp;Styles5&amp;Styles6&amp;Styles7&amp;Styles&amp;Styles8&amp;RenderingIdentifier&amp;CSSStyles&amp;DynamicPlaceholderId=1"
+              s:ph="/headless-main/sxa-landing-page-with-sidebar/container-1/column-2-3" />
+            <r
+              uid="{38E9AF7A-462A-40D6-B022-34A27D338927}"
+              p:after="r[@uid='{C73AFAB3-6B98-40F6-96EA-7F81B59F341E}']"
+              s:id="{15CABDFF-FFD9-48F4-826D-A4C3D7868D3A}"
+              s:par="ColumnWidth1=%7B666B8532-5B61-4D50-AE11-65A2F17617A5%7D%7C%7BF61E01E9-711A-4C99-AE30-4E28463E1DF7%7D%7C%7B37B8F625-37B3-41B9-BA85-D31AA5A44463%7D&amp;ColumnWidth2=%7B670536BF-55BC-4EBD-BBE5-00D9A5E9AF50%7D%7C%7B666B8532-5B61-4D50-AE11-65A2F17617A5%7D%7C%7B37B8F625-37B3-41B9-BA85-D31AA5A44463%7D&amp;ColumnWidth3&amp;ColumnWidth4&amp;ColumnWidth5&amp;ColumnWidth6&amp;ColumnWidth7&amp;ColumnWidth8&amp;GridParameters=%7BF61E01E9-711A-4C99-AE30-4E28463E1DF7%7D&amp;SplitterSize=2&amp;EnabledPlaceholders=1%2C2&amp;FieldNames&amp;Styles1&amp;Styles2&amp;Styles3&amp;Styles4&amp;Styles5&amp;Styles6&amp;Styles7&amp;Styles&amp;Styles8&amp;RenderingIdentifier&amp;CSSStyles&amp;DynamicPlaceholderId=3"
+              s:ph="/headless-main/sxa-landing-page-with-sidebar/container-1/column-2-3" />
+            <r
+              uid="{038CEE94-5D00-4F58-BF13-4C8D3C9818A3}"
+              p:after="r[@uid='{38E9AF7A-462A-40D6-B022-34A27D338927}']"
+              s:id="{15CABDFF-FFD9-48F4-826D-A4C3D7868D3A}"
+              s:par="ColumnWidth1=%7B666B8532-5B61-4D50-AE11-65A2F17617A5%7D%7C%7BF61E01E9-711A-4C99-AE30-4E28463E1DF7%7D%7C%7B37B8F625-37B3-41B9-BA85-D31AA5A44463%7D&amp;ColumnWidth2=%7B666B8532-5B61-4D50-AE11-65A2F17617A5%7D%7C%7BF61E01E9-711A-4C99-AE30-4E28463E1DF7%7D%7C%7B37B8F625-37B3-41B9-BA85-D31AA5A44463%7D&amp;ColumnWidth3&amp;ColumnWidth4&amp;ColumnWidth5&amp;ColumnWidth6&amp;ColumnWidth7&amp;ColumnWidth8&amp;GridParameters=%7BF61E01E9-711A-4C99-AE30-4E28463E1DF7%7D&amp;SplitterSize=2&amp;EnabledPlaceholders=1%2C2&amp;FieldNames&amp;Styles1&amp;Styles2&amp;Styles3&amp;Styles4&amp;Styles5&amp;Styles6&amp;Styles7&amp;Styles&amp;Styles8&amp;RenderingIdentifier&amp;CSSStyles&amp;DynamicPlaceholderId=2"
+              s:ph="/headless-main/sxa-landing-page-with-sidebar/container-1/column-2-3" />
+            <r
+              uid="{AF85B86B-1726-447D-80BF-71FFA31094A4}"
+              p:after="r[@uid='{038CEE94-5D00-4F58-BF13-4C8D3C9818A3}']"
+              s:ds="local:/Data/Image 3"
+              s:id="{AB2EDBA0-3960-4F12-B765-579DC231894A}"
+              s:par="GridParameters=%7BF61E01E9-711A-4C99-AE30-4E28463E1DF7%7D&amp;FieldNames=%7B75EC0D4C-10AC-4C23-B3F0-08EC0B3CD31C%7D&amp;Styles&amp;RenderingIdentifier&amp;CSSStyles&amp;DynamicPlaceholderId=8"
+              s:ph="/headless-main/sxa-landing-page-with-sidebar/container-1/column-2-3/column-1-3" />
+            <r
+              uid="{04729868-03CA-4452-A807-86F5D62F285C}"
+              p:after="r[@uid='{AF85B86B-1726-447D-80BF-71FFA31094A4}']"
+              s:ds="local:/Data/Text 3"
+              s:id="{0901D932-0027-4B05-AA78-A8C8320936D5}"
+              s:par="GridParameters=%7BF61E01E9-711A-4C99-AE30-4E28463E1DF7%7D&amp;FieldNames=%7BA4B2A62A-C9FA-43A3-B096-96F2D418AD5C%7D&amp;Styles&amp;RenderingIdentifier&amp;CSSStyles&amp;DynamicPlaceholderId=9"
+              s:ph="/headless-main/sxa-landing-page-with-sidebar/container-1/column-2-3/column-2-3" />
+            <r
+              uid="{09866F36-0909-4644-99F2-CF99ECE7F353}"
+              p:after="r[@uid='{04729868-03CA-4452-A807-86F5D62F285C}']"
+              s:id="{F7295588-FA7F-448E-B222-F64005B22E8D}"
+              s:par="GridParameters=%7BF61E01E9-711A-4C99-AE30-4E28463E1DF7%7D&amp;ImageOrder=right&amp;FieldNames=%7B8B1E9501-095A-48EE-A07B-8BE4A654CD03%7D&amp;Styles=%7BEF57264A-DE76-4138-8D84-E1C9D0817B1F%7D%7C%7BCC371879-3C7C-4284-BDD1-E567746F8059%7D%7C%7BC89F12C0-1C9B-468D-A613-A5B2ECE35DEC%7D%7C%7BB9987F84-3F44-4164-B67C-4358C72DA416%7D%7C%7BA7198BFC-02EC-4906-B92E-EDBD12BED619%7D%7C%7B87D3E96C-A4B5-49D7-A1D1-8891FE624EF2%7D%7C%7BA4F0BA41-0D86-412D-8293-96EE7FE1096F%7D%7C%7BABAB66E7-B2A7-45D5-8240-A9D4F0439C01%7D%7C%7BCE4890CA-AEDB-4109-AD9A-50073570D394%7D%7C%7B62046E34-8C5E-44C4-B092-537547D5E1CC%7D%7C%7B7BC5B335-BFB0-4B2D-9767-CF4B70E2B8EE%7D%7C%7B3695D896-A0DB-4B57-AE2D-11C49F1D0132%7D%7C%7BABDFECBD-593D-4966-9B44-8B10D2E83F24%7D%7C%7B498BD240-85CF-450D-B482-0B90A9047088%7D%7C%7BF3F87D63-70DC-4097-A67E-DE3224A24E9A%7D&amp;RenderingIdentifier&amp;CSSStyles&amp;DynamicPlaceholderId=10"
+              s:ph="/headless-main/sxa-landing-page-with-sidebar/container-6" />
+            <r
+              uid="{1E570A49-3EC0-4844-8A1D-DC4A7A4BBFE9}"
+              p:after="*[1=2]"
+              s:ds="local:/Data/Image 4"
+              s:id="{AB2EDBA0-3960-4F12-B765-579DC231894A}"
+              s:par="GridParameters=%7BF61E01E9-711A-4C99-AE30-4E28463E1DF7%7D&amp;FieldNames=%7B75EC0D4C-10AC-4C23-B3F0-08EC0B3CD31C%7D&amp;Styles&amp;RenderingIdentifier&amp;CSSStyles&amp;DynamicPlaceholderId=11"
+              s:ph="/headless-main/sxa-landing-page-with-sidebar/container-6/bannercontent-10" />
+          </d>
+        </r>
+    - ID: "06890ecb-5786-4776-8d76-19250477a9bc"
+      Hint: MetaImage
+      Value: |
+        <image mediaid="{F5F65A27-79C6-4F30-8686-973BBA63D44D}" alt="History_Image2" height="" width="" hspace="" vspace="" />
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20250612T083318Z
+    - ID: "3e431de1-525e-47a3-b6b0-1ccbec3a8c98"
+      Hint: __Workflow state
+      Value: "{F7F71754-F47E-4605-AD5B-87F78974DD92}"
+    - ID: "4aacfbea-b35f-43f6-be5c-de9fe7f00015"
+      Hint: CalltoActionLinkSecondary
+      Value: |
+        <link text="Abonnez-vous à nos recherches" linktype="external" url="https://www.altudo.co" anchor="" target="" />
+    - ID: "4e0720e9-9d50-4ddc-87cf-ecd65e8e94c8"
+      Hint: NavigationTitle
+      Value: Notre histoire
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+      Hint: __Owner
+      Value: |
+        sitecore\karthikeyan.kumaravel@altudo.co
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\karthikeyan.kumaravel@altudo.co
+    - ID: "6128ed46-0b79-4d6a-87ad-ac6fe70c649c"
+      Hint: Category
+      Value: À propos de nous
+    - ID: "78bd5b13-d9ab-44a4-bae4-c2dda0ad6133"
+      Hint: IntroText
+      Value: |
+        <div class="ck-content">
+        <p>Depuis sa cr&eacute;ation au lendemain de la Premi&egrave;re Guerre mondiale jusqu'&agrave; son r&ocirc;le dans l'&eacute;laboration des politiques de sant&eacute; mondiale au XXIe si&egrave;cle, le Coll&egrave;ge international des professionnels de la sant&eacute; est rest&eacute; fid&egrave;le &agrave; son engagement d'unir les m&eacute;decins dans la poursuite de soins &eacute;thiques et fond&eacute;s sur des donn&eacute;es probantes. Il a servi de forum pour des discussions difficiles, de lieu de partage des connaissances et de rempart contre la politisation de la science.</p>
+        </div>
+    - ID: "7cba72f9-1513-41af-ba26-de761f138805"
+      Hint: Title
+      Value: Notre histoire
+    - ID: "85f5b648-1823-4509-b7fd-27deacdf2dff"
+      Hint: MetaDescription
+      Value: Découvrez l'histoire de Fast Lane, de sa création à son statut de leader dans la gestion de contenu XM Cloud et les solutions d'expérience numérique.
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "47357e0b-1f20-42ee-8c68-e831ec32bc96"
+    - ID: "92c233dc-a8b3-4fd0-bb3f-e82a8b49bed2"
+      Hint: MetaTitle
+      Value: "Notre histoire - Le parcours de Fast Lane dans l'innovation infonuagique XM"
+    - ID: "9f4483ca-f858-45d1-86a5-0a69c9ab6207"
+      Hint: MetaKeywords
+      Value: Histoire de Fast Lane, étapes clés de XM Cloud, évolution de la gestion de contenu, parcours d'expérience numérique
+    - ID: "ba41d59c-a2b6-4f14-8913-7734549cce04"
+      Hint: Image
+      Value: |
+        <image alt="Our History Banner" mediaid="{2A350EE8-E1A7-4EA5-8CE1-A5F35F96B4F4}" />
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\karthikeyan.kumaravel@altudo.co
+    - ID: "c24e85bf-697a-4e60-92ce-c0d557ce510e"
+      Hint: NavigationDescription
+      Value: Styles pour les titres, les paragraphes, les listes, etc.
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20251201T191333Z
+    - ID: "f56d5ae9-cbca-48e1-b47e-e06a7561fc5d"
+      Hint: CalltoActionLinkMain
+      Value: |
+        <link text="Voyez ce que disent les données" linktype="external" url="https://www.altudo.co" anchor="" target="" />

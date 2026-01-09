@@ -1,0 +1,34 @@
+﻿---
+ID: "472b3cfd-16c6-4ac9-afab-b371895d3a08"
+Parent: "db9dcfbe-ce8f-4317-ada5-eee326d508ff"
+Template: "db9dcfbe-ce8f-4317-ada5-eee326d508ff"
+Path: /sitecore/templates/Feature/FastLane/Renderings/CTAButton/Rendering Paramters/CTAButton/__Standard Values
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20250224T141126Z
+    - ID: "2de3f24f-7a82-4367-867d-be859407b4ea"
+      Hint: ButtonStyle
+      Value: 
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+      Hint: __Owner
+      Value: |
+        sitecore\karthikeyan.kumaravel@altudo.co
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\karthikeyan.kumaravel@altudo.co
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "981202a4-bf45-4b6f-a17e-1de56d635153"
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\karthikeyan.kumaravel@altudo.co
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20250613T083641Z

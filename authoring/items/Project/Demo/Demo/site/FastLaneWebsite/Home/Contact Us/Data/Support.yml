@@ -1,0 +1,151 @@
+﻿---
+ID: "9f85c6f6-bc67-4660-bc12-5d095abf7c0a"
+Parent: "332d1ef7-2249-464b-a4d7-14fdf7e5c936"
+Template: "e58b7dbf-2a15-4a94-ad45-9c250ac1ac68"
+Path: /sitecore/content/FastLaneTenant/fastlanewebsite/Home/Contact Us/Data/Support
+SharedFields:
+- ID: "a4f985d9-98b3-4b52-aaaf-4344f6e747c6"
+  Hint: __Workflow
+  Value: "{9A1B3B33-17C0-4DAE-A533-CEC7FA11F68A}"
+- ID: "dbbbeca1-21c7-4906-9dd2-493c1efa59a2"
+  Hint: __Shared revision
+  Value: "007f68d7-4839-494f-bd3d-b8c1a89e733d"
+Languages:
+- Language: "ar-AE"
+  Fields:
+  - ID: "30e85e5d-e00a-4864-b358-7624d511deb4"
+    Hint: __Unversioned revision
+    Value: "5f9e9a18-4532-4bc9-a575-76c5d3126ed6"
+  - ID: "b5e02ad9-d56f-4c41-a065-a133db87bdeb"
+    Hint: __Display name
+    Value: 
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20250619T121619Z
+    - ID: "3e431de1-525e-47a3-b6b0-1ccbec3a8c98"
+      Hint: __Workflow state
+      Value: "{B71D5C66-667B-4CF1-BE66-342C8B59A4DB}"
+    - ID: "4aacfbea-b35f-43f6-be5c-de9fe7f00015"
+      Hint: CalltoActionLinkSecondary
+      Value: |
+        <link text="test" anchor="" linktype="internal" class="" title="" target="" querystring="" id="{0526E9AE-743A-423E-AE25-4F8AD7F3B68C}" />
+    - ID: "78bd5b13-d9ab-44a4-bae4-c2dda0ad6133"
+      Hint: IntroText
+      Value: قم بزيارة مركز الدعم الخاص بنا وتصفح قاعدة المعرفة لدينا.
+    - ID: "7cba72f9-1513-41af-ba26-de761f138805"
+      Hint: Title
+      Value: الدعم
+    - ID: "8c2b6bbe-34c6-4373-bf1b-3a9da4119dda"
+      Hint: Icon
+      Value: |
+        <image mediaid="{AC1D9E49-7F7E-4FA9-8B5A-0E8064E5DB95}" alt="BellRing" height="" width="" hspace="" vspace="" />
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "c2125184-470a-466a-8e04-d2018ff32da5"
+    - ID: "ba41d59c-a2b6-4f14-8913-7734549cce04"
+      Hint: Image
+      Value: |
+        <image mediaid="{A6FA4886-81F9-4320-8D66-FE66B0A0672E}" alt="Plans" height="" width="" hspace="" vspace="" />
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\karthikeyan.kumaravel@altudo.co
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20251106T132733Z
+- Language: en
+  Fields:
+  - ID: "30e85e5d-e00a-4864-b358-7624d511deb4"
+    Hint: __Unversioned revision
+    Value: "f7bfce49-f4df-4a01-a125-92bd9df3ba71"
+  - ID: "b5e02ad9-d56f-4c41-a065-a133db87bdeb"
+    Hint: __Display name
+    Value: 
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "001dd393-96c5-490b-924a-b0f25cd9efd8"
+      Hint: __Lock
+      Value: <r />
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20250619T121619Z
+    - ID: "3e431de1-525e-47a3-b6b0-1ccbec3a8c98"
+      Hint: __Workflow state
+      Value: "{B71D5C66-667B-4CF1-BE66-342C8B59A4DB}"
+    - ID: "4aacfbea-b35f-43f6-be5c-de9fe7f00015"
+      Hint: CalltoActionLinkSecondary
+      Value: |
+        <link linktype="internal" id="0526e9ae-743a-423e-ae25-4f8ad7f3b68c" anchor="" querystring="" target="" class="" text="test" title=""/>
+    - ID: "78bd5b13-d9ab-44a4-bae4-c2dda0ad6133"
+      Hint: IntroText
+      Value: Visit our support center and browse our knowledge base.
+    - ID: "7cba72f9-1513-41af-ba26-de761f138805"
+      Hint: Title
+      Value: Support
+    - ID: "8c2b6bbe-34c6-4373-bf1b-3a9da4119dda"
+      Hint: Icon
+      Value: |
+        <image mediaid="{AC1D9E49-7F7E-4FA9-8B5A-0E8064E5DB95}" />
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "a1078dcb-6bb3-4bfb-931a-a093be150fea"
+    - ID: "ba41d59c-a2b6-4f14-8913-7734549cce04"
+      Hint: Image
+      Value: |
+        <image mediaid="{A6FA4886-81F9-4320-8D66-FE66B0A0672E}" />
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\andy.cohen@altudo.co
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20250628T212839Z
+- Language: "fr-CA"
+  Fields:
+  - ID: "30e85e5d-e00a-4864-b358-7624d511deb4"
+    Hint: __Unversioned revision
+    Value: "5cfa40e8-74dc-465b-b6f2-54c0d32ac096"
+  - ID: "b5e02ad9-d56f-4c41-a065-a133db87bdeb"
+    Hint: __Display name
+    Value: 
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20250619T121619Z
+    - ID: "3e431de1-525e-47a3-b6b0-1ccbec3a8c98"
+      Hint: __Workflow state
+      Value: "{B71D5C66-667B-4CF1-BE66-342C8B59A4DB}"
+    - ID: "4aacfbea-b35f-43f6-be5c-de9fe7f00015"
+      Hint: CalltoActionLinkSecondary
+      Value: |
+        <link linktype="internal" id="0526e9ae-743a-423e-ae25-4f8ad7f3b68c" anchor="" querystring="" target="" class="" text="test" title=""/>
+    - ID: "78bd5b13-d9ab-44a4-bae4-c2dda0ad6133"
+      Hint: IntroText
+      Value: Visitez notre centre de soutien et parcourez notre base de connaissances.
+    - ID: "7cba72f9-1513-41af-ba26-de761f138805"
+      Hint: Title
+      Value: Support
+    - ID: "8c2b6bbe-34c6-4373-bf1b-3a9da4119dda"
+      Hint: Icon
+      Value: |
+        <image mediaid="{AC1D9E49-7F7E-4FA9-8B5A-0E8064E5DB95}" alt="BellRing" height="" width="" hspace="" vspace="" />
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "a4113de3-19a7-4a51-a4a2-c794aa16e2cb"
+    - ID: "ba41d59c-a2b6-4f14-8913-7734549cce04"
+      Hint: Image
+      Value: |
+        <image mediaid="{A6FA4886-81F9-4320-8D66-FE66B0A0672E}" />
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\karthikeyan.kumaravel@altudo.co
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20251127T102215Z

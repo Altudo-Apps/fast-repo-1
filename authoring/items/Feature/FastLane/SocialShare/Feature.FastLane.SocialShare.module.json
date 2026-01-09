@@ -1,0 +1,30 @@
+{
+    "$schema": "../../../../../.sitecore/schemas/ModuleFile.schema.json",
+    "namespace": "Feature.FastLane.SocialShare",
+    "references": ["Feature.FastLane.Root"],
+    "items": {
+        "path": "SocialShare",
+        "includes": [
+			{
+                "name": "templates",
+                "path": "/sitecore/templates/Feature/FastLane/Renderings/SocialShare"
+            },            
+			{
+                "name": "branches",
+                "path": "/sitecore/templates/Branches/Feature/FastLane/Default Variants/SocialShare"
+            },
+			{
+                "name": "branches-template-data",
+                "path": "/sitecore/templates/Branches/Feature/FastLane/Data/SocialShare Folder"
+            },
+			{
+                "name": "renderings",
+                "path": "/sitecore/layout/Renderings/Feature/FastLane/Renderings/SocialShare"                
+            },
+			{
+                "name": "settings",
+                "path": "/sitecore/system/Settings/Feature/FastLane/Renderings/SocialShare"  
+            }
+        ]
+    }
+}

@@ -1,0 +1,121 @@
+﻿---
+ID: "d3980fe3-f261-48e4-8f61-29e1f4aa1c51"
+Parent: "787855f5-ca1b-468e-848c-c91c8e96ac71"
+Template: "62b5c59b-7e55-433a-9316-e59c9e1d59f3"
+Path: /sitecore/content/FastLaneTenant/fastlanewebsite/Data/CTAButton/Header/Help Button
+SharedFields:
+- ID: "a4f985d9-98b3-4b52-aaaf-4344f6e747c6"
+  Hint: __Workflow
+  Value: "{9A1B3B33-17C0-4DAE-A533-CEC7FA11F68A}"
+- ID: "dbbbeca1-21c7-4906-9dd2-493c1efa59a2"
+  Hint: __Shared revision
+  Value: "5a15438b-0789-41be-92d4-93713de2b18e"
+Languages:
+- Language: "ar-AE"
+  Fields:
+  - ID: "30e85e5d-e00a-4864-b358-7624d511deb4"
+    Hint: __Unversioned revision
+    Value: "4b4c8c28-d6f2-4cb4-955e-9b069d1332e4"
+  - ID: "b5e02ad9-d56f-4c41-a065-a133db87bdeb"
+    Hint: __Display name
+    Value: 
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20250611T144828Z
+    - ID: "2935816d-1730-4e13-84d7-b955c6ef9182"
+      Hint: ButtonImage
+      Value: |
+        <image mediaid="e01629fd-b1c5-48a8-b8bd-7741a5ad4290" alt="Help Circle" />
+    - ID: "3e431de1-525e-47a3-b6b0-1ccbec3a8c98"
+      Hint: __Workflow state
+      Value: "{B71D5C66-667B-4CF1-BE66-342C8B59A4DB}"
+    - ID: "86b9ca26-1001-4abe-a53c-78aba66e478d"
+      Hint: ButtonLink
+      Value: |
+        <link text="المساعدة" anchor="" linktype="internal" class="" title="" target="" querystring="" id="{0526E9AE-743A-423E-AE25-4F8AD7F3B68C}" />
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "c119be4c-8093-43b7-80cd-e333779ef558"
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\karthikeyan.kumaravel@altudo.co
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20251106T075406Z
+- Language: en
+  Fields:
+  - ID: "30e85e5d-e00a-4864-b358-7624d511deb4"
+    Hint: __Unversioned revision
+    Value: "472d6606-3db2-4457-a441-0493110ecf4a"
+  - ID: "b5e02ad9-d56f-4c41-a065-a133db87bdeb"
+    Hint: __Display name
+    Value: 
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "001dd393-96c5-490b-924a-b0f25cd9efd8"
+      Hint: __Lock
+      Value: <r />
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20250611T144828Z
+    - ID: "2935816d-1730-4e13-84d7-b955c6ef9182"
+      Hint: ButtonImage
+      Value: |
+        <image mediaid="e01629fd-b1c5-48a8-b8bd-7741a5ad4290" alt="Help Circle" />
+    - ID: "3e431de1-525e-47a3-b6b0-1ccbec3a8c98"
+      Hint: __Workflow state
+      Value: "{B71D5C66-667B-4CF1-BE66-342C8B59A4DB}"
+    - ID: "86b9ca26-1001-4abe-a53c-78aba66e478d"
+      Hint: ButtonLink
+      Value: |
+        <link linktype="internal" id="0526e9ae-743a-423e-ae25-4f8ad7f3b68c" anchor="" querystring="" target="" class="" text="Help" title=""/>
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "33e013b9-0652-490b-bce0-aaeb1614ca8b"
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\karthikeyan.kumaravel@altudo.co
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20250916T114142Z
+- Language: "fr-CA"
+  Fields:
+  - ID: "30e85e5d-e00a-4864-b358-7624d511deb4"
+    Hint: __Unversioned revision
+    Value: "73701288-5aef-4145-897b-255dfbba88d7"
+  - ID: "b5e02ad9-d56f-4c41-a065-a133db87bdeb"
+    Hint: __Display name
+    Value: 
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20250611T144828Z
+    - ID: "2935816d-1730-4e13-84d7-b955c6ef9182"
+      Hint: ButtonImage
+      Value: |
+        <image mediaid="e01629fd-b1c5-48a8-b8bd-7741a5ad4290" alt="Help Circle" />
+    - ID: "3e431de1-525e-47a3-b6b0-1ccbec3a8c98"
+      Hint: __Workflow state
+      Value: "{B71D5C66-667B-4CF1-BE66-342C8B59A4DB}"
+    - ID: "86b9ca26-1001-4abe-a53c-78aba66e478d"
+      Hint: ButtonLink
+      Value: |
+        <link text="Aide" anchor="" linktype="internal" class="" title="" target="" querystring="" id="{0526E9AE-743A-423E-AE25-4F8AD7F3B68C}" />
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "6779b8b6-e883-4437-adcb-db24d0b25349"
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\karthikeyan.kumaravel@altudo.co
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20251106T075155Z

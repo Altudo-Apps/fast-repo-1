@@ -1,0 +1,30 @@
+﻿---
+ID: "a79e593f-0d37-4b84-84f3-cd22321366ab"
+Parent: "32f74c3d-f2b8-45d7-982d-6ba447d7c3b1"
+Template: "49c111d0-6867-4798-a724-1f103166e6e9"
+Path: /sitecore/templates/Branches/Feature/FastLane/Default Variants/FLNavigation/Default FLNavigation Variant/$name
+SharedFields:
+- ID: "06d5295c-ed2f-4a54-9bf2-26228d113318"
+  Hint: __Icon
+  Value: "/sitecore/media library/Project/FastLaneTenant/FastLaneWebsite/ComponentIcons/-/media/B25F3B689A6942D8975D6581C7320511.ashx?thn=1&db=master"
+- ID: "dbbbeca1-21c7-4906-9dd2-493c1efa59a2"
+  Hint: __Shared revision
+  Value: "a1676591-91f1-46c3-8f54-ba2179bba012"
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20211020T135004Z
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "81ec93eb-10c4-40fa-bd18-ad0296082398"
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\karthikeyan.kumaravel@altudo.co
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20250828T152008Z

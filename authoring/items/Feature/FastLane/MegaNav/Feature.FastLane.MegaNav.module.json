@@ -1,0 +1,38 @@
+{
+    "$schema": "../../../../../.sitecore/schemas/ModuleFile.schema.json",
+    "namespace": "Feature.FastLane.MegaNav",
+    "references": ["Feature.FastLane.Root"],
+    "items": {
+        "path": "MegaNav",
+        "includes": [
+			{
+                "name": "branches",
+                "path": "/sitecore/templates/Branches/Feature/FastLane/Default Variants/MegaNav"
+            },
+			{
+                "name": "templates",
+                "path": "/sitecore/templates/Feature/FastLane/Renderings/MegaNav"
+            },            
+			{
+                "name": "branches-template-data-linklists",
+                "path": "/sitecore/templates/Branches/Feature/FastLane/Data/Link List Folder"
+            },
+			{
+                "name": "branches-template-data-meganav",
+                "path": "/sitecore/templates/Branches/Feature/FastLane/Data/MegaNav Folder"
+            },
+			{
+                "name": "renderings",
+                "path": "/sitecore/layout/Renderings/Feature/FastLane/Renderings/MegaNav"                
+            },
+            {
+                "name": "placeholders",
+                "path": "/sitecore/layout/Placeholder Settings/Feature/FastLane/MegaNav"               
+            },	
+			{
+                "name": "settings",
+                "path": "/sitecore/system/Settings/Feature/FastLane/Renderings/MegaNav"
+            }
+        ]
+    }
+}

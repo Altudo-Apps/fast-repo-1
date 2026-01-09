@@ -1,0 +1,63 @@
+﻿---
+ID: "e1808074-37d0-4990-8e5e-61d66c53c5aa"
+Parent: "8bf200cd-2e71-4fba-a509-9555ed748a2d"
+Template: "f1828a2c-7e5d-4bbd-98ca-320474871548"
+Path: /sitecore/media library/Project/FastLane/shared/HeaderIcons/Search
+SharedFields:
+- ID: "06d5295c-ed2f-4a54-9bf2-26228d113318"
+  Hint: __Icon
+  Value: "-/media/E180807437D049908E5E61D66C53C5AA.ashx?h=16&thn=1&w=16"
+- ID: "22eac599-f13b-4607-a89d-c091763a467d"
+  Hint: Width
+  Value: 16
+- ID: "40e50ed9-ba07-4702-992e-a912738d32dc"
+  Hint: Blob
+  BlobID: "9b975dfe-abbb-4be9-a03c-2f84a42c0c8f"
+  Value: iVBORw0KGgoAAAANSUhEUgAAABAAAAARCAYAAADUryzEAAAACXBIWXMAAAsTAAALEwEAmpwYAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAGQSURBVHgBxZJfTsJAEMZnl0ogQNIb2BuIJ7C+mEpM6A2ANxPB1BNIb1CFB988gpgYRV8oJ0BPYI/QRAgI3R13FyUt8ufFxC/ptpmd/mb22wH4b5HlgG46+izLqmJnjyAYIuWNMO5/vLQ7WwE566xCaMpTUYQ+EgjnEDhAhIDh9HDSvQlWAgpHdRs1eid+vNLGtBn6XrjoynIMRnmPI8DOmO7H9xRAtx2dffKB2L8fPl07q1pVOVM+4ID+6LFV+4lTubAJs0W7RoRTD9Yo7Miq1CVAqtKnBAAIMcXaXz7fslJpUEaybGQmASA9w3fYonkXSSmAchtIcRsgV3JUDqa0MAEAzmVrxbxVNzcBKHJHGB0MHzw/ARh22z4g+kjobcY6NVZWFzMiOq2I+m48ri0+MFWTdw2Q7uWshguMve7M0kGUiYrC5LJ41PUSjrtxQGISv+fBQwpl4aoeywqRo0sIkbFLceSm6Nr9BYgrf+KY8h1pEEw6XrCIl86bEoIML0bPrbVzs1GFUqNaOK7b8Bf6Ar6nqHdZJak4AAAAAElFTkSuQmCC
+- ID: "6954b7c7-2487-423f-8600-436cb3b6dc0e"
+  Hint: Size
+  Value: 507
+- ID: "6f47a0a5-9c94-4b48-abeb-42d38def6054"
+  Hint: Mime Type
+  Value: image/png
+- ID: "c06867fe-9a43-4c7d-b739-48780492d06f"
+  Hint: Extension
+  Value: png
+- ID: "cb09946f-3218-4823-87d2-d5007c199a96"
+  Hint: Dimensions
+  Value: 16 x 17
+- ID: "dbbbeca1-21c7-4906-9dd2-493c1efa59a2"
+  Hint: __Shared revision
+  Value: "e6934553-3ee4-40c8-a10c-030704bf0d9b"
+- ID: "de2ca9e4-c117-4c8a-a139-1ff4b199d15a"
+  Hint: Height
+  Value: 17
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20250611T150409Z
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+      Hint: __Owner
+      Value: |
+        sitecore\karthikeyan.kumaravel@altudo.co
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\karthikeyan.kumaravel@altudo.co
+    - ID: "65885c44-8fcd-4a7f-94f1-ee63703fe193"
+      Hint: Alt
+      Value: Search
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "25368474-0b02-4d6e-904f-9227442d1449"
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\karthikeyan.kumaravel@altudo.co
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20250611T150415Z

@@ -1,0 +1,391 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+/* a[target='_blank']:after {
+    content: '\1F5D7';
+  } */
+
+/*
+    Hides Sitecore editor markup,
+    if you run the app in connected mode while the Sitecore cookies
+    are set to edit mode.
+  */
+.scChromeData,
+.scpm {
+  display: none !important;
+}
+
+/*
+    Styles for default JSS error components
+  */
+.sc-jss-editing-error,
+.sc-jss-placeholder-error {
+  padding: 1em;
+  background-color: lightyellow;
+}
+
+/* 
+    Style for default content block
+  */
+.contentTitle {
+  font-size: 3.5rem;
+  font-weight: 300;
+  line-height: 1.2;
+}
+
+a {
+  text-decoration: none;
+}
+
+a:hover {
+  @apply opacity-80;
+}
+.text-h1 {
+  @apply text-4xl font-extrabold tracking-tight lg:text-5xl leading-none;
+}
+.text-h2 {
+  @apply text-3xl font-semibold tracking-tight;
+}
+.text-h3 {
+  @apply text-2xl font-semibold tracking-tight;
+}
+.text-h4 {
+  @apply text-xl font-semibold tracking-tight;
+}
+.text-h5 {
+  font-size: 1.1rem;
+  font-weight: bold;
+}
+.text-h6 {
+  font-size: 1rem;
+  font-weight: bold;
+}
+.text-p {
+  font-size: 1rem;
+  font-weight: normal;
+}
+/* src/styles/globals.css */
+.slick-next {
+  @apply right-6 !important;
+}
+.slick-prev {
+  @apply left-6 z-10 !important;
+}
+@layer base {
+  :root,
+  .fastlanewebsite {
+    --accent: #f4f4f5;
+    --accent-foreground: #0c4a6e;
+    --background: #ffffff;
+    --border: #d4d4d8;
+    --card: #ffffff;
+    --card-foreground: #09090b;
+    --destructive: #dc2626;
+    --destructive-foreground: #fef2f2;
+    --foreground: #18181b;
+    --input: #e4e4e7;
+    --muted: #e4e4e7;
+    --muted-foreground: #71717a;
+    --popover: #ffffff;
+    --popover-foreground: #09090b;
+    --primary: #0c4a6e;
+    --primary-foreground: #fafafa;
+    --ring: #18181b;
+    --secondary: #e4e4e7;
+    --secondary-foreground: #18181b;
+    --chart-1: #2a9d90;
+    --chart-2: #e76e50;
+    --chart-3: #274754;
+    --chart-4: #e8c468;
+    --chart-5: #f4a462;
+    --sidebar-background: #fafafa;
+    --sidebar-foreground: #1D4ED8;
+    --sidebar-primary: #18181b;
+    --sidebar-primary-foreground: #fafafa;
+    --sidebar-accent: #f4f4f5;
+    --sidebar-accent-foreground: #18181b;
+    --sidebar-border: #e5e7eb;
+    --sidebar-ring: #a1a1aa;
+    --rounded-sm: 2px;
+    --rounded-md: 6px;
+    --rounded-lg: 8px;
+    --rounded-xl: 12px;
+    --rounded-full: 9999px;
+    --text-xs: 12px;
+    --leading-4: 16;
+    --text-sm: 14px;
+    --leading-5: 20;
+    --text-base: 16px;
+    --leading-6: 24;
+    --text-lg: 18px;
+    --leading-7: 28;
+    --text-xl: 20px;
+    --text-2xl: 24px;
+    --leading-8: 32;
+    --text-3xl: 30px;
+    --leading-9: 36;
+    --text-4xl: 36px;
+    --leading-10: 40;
+    --text-5xl: 48px;
+    --semibold: 600;
+    --tight: -0.4000000059604645;
+    --normal: 400;
+    --medium: 500;
+    --bold: 700;
+
+    /* Spacing */
+    --spacing-0: 0px;
+    --spacing-sm: 20px;
+    --spacing-md: 30px;
+    --spacing-lg: 50px;
+    --spacing-xl: 75px;
+
+     /* Height */
+     --height-41: 41px;
+     --height-137: 137px;
+     --height-387: 387px;
+     --height-600: 600px;
+
+     /* width */
+     --width-600: 600px;
+
+    /* Shadow */
+    --shadow-light: 0px 2px 6px rgba(0, 0, 0, 0.1);
+    --shadow-medium: 0px 4px 12px rgba(0, 0, 0, 0.2);
+    --shadow-heavy: 0px 8px 24px rgba(0, 0, 0, 0.3);
+    --slate: #f1f5f9;
+  }
+
+  .dark , .dark .fastlanewebsite {
+    --slate: #082f49;
+    --accent: #075985;
+    --accent-foreground: #fafafa;
+    --background: #082f49;
+    --border: #0369a1;
+    --card: #082f49;
+    --card-foreground: #fafafa;
+    --destructive: #7f1d1d;
+    --destructive-foreground: #fef2f2;
+    --foreground: #fafafa;
+    --input: #075985;
+    --muted: #075985;
+    --muted-foreground: #a1a1aa;
+    --popover: #09090b;
+    --popover-foreground: #fafafa;
+    --primary: #bae6fd;
+    --primary-foreground: #18181b;
+    --ring: #d4d4d8;
+    --secondary: #0369a1;
+    --secondary-foreground: #fafafa;
+    --chart-1: #2662d9;
+    --chart-2: #e23670;
+    --chart-3: #e88c30;
+    --chart-4: #af57db;
+    --chart-5: #2eb88a;
+    --sidebar-background: #18181b;
+    --sidebar-foreground: #f4f4f5;
+    --sidebar-primary: #1d4ed8;
+    --sidebar-primary-foreground: #ffffff;
+    --sidebar-accent: #27272a;
+    --sidebar-accent-foreground: #f4f4f5;
+    --sidebar-border: #27272a;
+    --sidebar-ring: #d4d4d8;
+  }
+  * {
+    @apply border-border font-satoshi;
+  }
+  body {
+    @apply bg-background text-foreground;
+  }
+  h1 {
+    @apply text-h1 font-Zodiak;
+  }
+  h2 {
+    @apply text-h2 font-Zodiak;
+  }
+  h3 {
+    @apply text-h3 font-Zodiak;
+  }
+  h4 {
+    @apply text-h4 font-Zodiak;
+  }
+  h5 {
+    @apply text-h5 font-Zodiak;
+  }
+  h6 {
+    @apply text-h6 font-Zodiak;
+  }
+  p {
+    @apply text-p font-satoshi;
+  }
+}
+.position-center,
+.position-left,
+.position-right {
+  @apply flex items-center;
+}
+.position-center {
+  @apply justify-center;
+}
+.position-left {
+  @apply justify-start;
+}
+.position-right {
+  @apply justify-end;
+}
+
+.grid-three-tile {
+  @apply grid-cols-1 sm:grid-cols-1 md:grid-cols-2 lg:grid-cols-3;
+}
+
+.grid-image-text-split,
+.grid-equal-split {
+  @apply grid-cols-1;
+}
+
+/* Common styles for both arrows */
+.slick-prev,
+.slick-next {
+  position: absolute;
+  top: 50%;
+  transform: translateY(-50%);
+  z-index: 10;
+  width: 40px;
+  height: 40px;
+  background: none;
+  border: none;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  cursor: pointer;
+  transition: opacity 0.3s ease;
+}
+
+/* Arrow icons */
+.slick-prev::before,
+.slick-next::before {
+  font-size: 20px;
+  color: white;
+  opacity: 0.8;
+}
+
+/* Left arrow */
+.slick-prev {
+  left: 10px;
+}
+
+.slick-prev::before {
+  content: '❮';
+}
+
+/* Right arrow */
+.slick-next {
+  right: 10px;
+}
+
+.slick-next::before {
+  content: '❯';
+}
+
+/* Hover effect */
+.slick-prev:hover::before,
+.slick-next:hover::before {
+  opacity: 1;
+}
+.slick-dots {
+  bottom: 25px;
+}
+.slick-dots li button:before,
+.slick-dots li.slick-active button:before {
+  @apply text-white;
+}
+.slick-dots li button:before {
+  @apply text-base;
+}
+@layer base {
+  @import 'plyr/dist/plyr.css';
+}
+.bottom-low-space {
+  @apply mb-5;
+}
+.bottom-medium-space {
+  @apply mb-10;
+}
+.bottom-large-space {
+  @apply mb-16;
+}
+.bottom-no-space {
+  @apply mb-0;
+}
+.top-low-space {
+  @apply mt-4;
+}
+.top-medium-space {
+  @apply mt-10;
+}
+.top-large-space {
+  @apply mt-16;
+}
+.top-no-space {
+  @apply mt-0;
+}
+.editing-mode .inside-editing-mode {
+  @apply opacity-100 visible pointer-events-auto;
+}
+
+.inside-editing-mode {
+  @apply opacity-0 invisible pointer-events-none;
+}
+.linklist:first-child ul a {
+  @apply text-lg font-semibold leading-7;
+}
+
+.linklist:nth-of-type(2) ul a {
+  @apply text-sm font-medium leading-none;
+}
+header .submenu:last-child ul {
+  right: 0;
+  left: auto;
+}
+header .row.component.column-splitter.basis-full .row {
+  @apply flex w-full;
+}
+header .row.component.column-splitter.basis-full .row .basis-full {
+  flex-basis: unset;
+}
+header .column-splitter [class~='basis-1/2']:nth-child(2) .row {
+@apply md:gap-6
+}
+.mega-nav-container .linklist a {
+  @apply text-secondary-foreground mix-blend-normal;
+}
+header .column-splitter [class~='basis-1/2']:nth-child(1) .row {
+  justify-content: flex-start;
+}
+.active-menu-item .meganav-item {
+  display: block;
+}
+
+/* Styling for Carousel */
+
+.editing-mode .carouselComponent .component-content {
+  display: none;
+}
+.editing-mode .carouselComponent .slick-slider .component-content {
+  display: block;
+}
+
+.carouselComponent.zoom-effect .slick-slide {
+  transition: transform 0.4s ease, opacity 0.4s ease;
+  opacity: 0.6;
+  transform: scale(0.9);
+}
+
+.carouselComponent.zoom-effect .slick-center {
+  opacity: 1;
+  transform: scale(1.05);
+  z-index: 2;
+}
+
+/*  */

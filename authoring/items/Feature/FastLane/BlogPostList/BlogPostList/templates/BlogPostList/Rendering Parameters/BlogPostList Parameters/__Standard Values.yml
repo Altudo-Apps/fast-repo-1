@@ -1,0 +1,27 @@
+﻿---
+ID: "37ac696d-6416-4398-b25e-c989b6e2cb16"
+Parent: "f5dfa98e-d0d7-4e33-b437-00a5d5575f64"
+Template: "f5dfa98e-d0d7-4e33-b437-00a5d5575f64"
+Path: /sitecore/templates/Feature/FastLane/Renderings/BlogPostList/Rendering Parameters/BlogPostList Parameters/__Standard Values
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20211012T120926Z
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\JssImport
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "32cbbef2-23f5-4e05-af25-164b513a8404"
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\karthikeyan.kumaravel@altudo.co
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20251111T053117Z

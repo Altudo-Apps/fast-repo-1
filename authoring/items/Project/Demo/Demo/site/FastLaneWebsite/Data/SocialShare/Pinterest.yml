@@ -1,0 +1,132 @@
+﻿---
+ID: "6b5a0fd8-dd89-49a4-b07e-6a6f5c0ece56"
+Parent: "846f0028-c858-4517-9e5d-6afe4f6bfcf7"
+Template: "c16a4c28-0a40-4d2c-9f19-20648c62b054"
+Path: /sitecore/content/FastLaneTenant/fastlanewebsite/Data/SocialShare/Pinterest
+SharedFields:
+- ID: "a4f985d9-98b3-4b52-aaaf-4344f6e747c6"
+  Hint: __Workflow
+  Value: "{9A1B3B33-17C0-4DAE-A533-CEC7FA11F68A}"
+- ID: "dbbbeca1-21c7-4906-9dd2-493c1efa59a2"
+  Hint: __Shared revision
+  Value: "e91c723d-69fb-4541-9665-bc307ca38a0e"
+Languages:
+- Language: "ar-AE"
+  Fields:
+  - ID: "30e85e5d-e00a-4864-b358-7624d511deb4"
+    Hint: __Unversioned revision
+    Value: "84ee0cf9-a96b-4ef4-bd30-51e7d2aedd39"
+  - ID: "b5e02ad9-d56f-4c41-a065-a133db87bdeb"
+    Hint: __Display name
+    Value: 
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "230e662b-b8f9-4368-b633-cbdb02f8755b"
+      Hint: Media
+      Value: |
+        <link linktype="external" url="https://media-hosting.imagekit.io//8decd61836e348a5/icons8-pinterest-48.png?Expires=1835018068&amp;Key-Pair-Id=K2ZIVPTIP2VGHC&amp;Signature=gWczP002ByRNI2gPyu2ojBNJ1R-dYEEWTxfo~jr0tEMTH309f6OhW9gMqMBntQdxX3~rzTDgoEmkJ3jovz-3H~q6NygMMnvJ0bquSiVcDArbyNDbL~nSYFkdAtJ-QkYg2T~4kcAmYMEhyWZsV6OZZ0S0mfaNiOFzxGUjakz52-57S5qohN33VF98swpGUfpwqk3txurd2seTWyUCa5zqTAinXVVbTF8-cyqHHujF-vtGN70ZSNL162G~ox-DAIOP3v1K6~J5JehkJrCygl5ANCUSaTTWAe5NdnzsX5quuWaGW3iOvUjrIB4L4N8e2dqHKTz2aiFy1LayYSaM1bcC8w__" anchor="" target="" />
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20250226T113650Z
+    - ID: "3e431de1-525e-47a3-b6b0-1ccbec3a8c98"
+      Hint: __Workflow state
+      Value: "{B71D5C66-667B-4CF1-BE66-342C8B59A4DB}"
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "c93426de-bd57-4c5c-9137-430932e99b61"
+    - ID: "aa4e5f92-cbb0-4134-ba73-fe27fc4e2e7a"
+      Hint: SocialIcon
+      Value: |
+        <image mediaid="{834D3543-AD2E-45F0-A5B4-7D2660F66B2A}" />
+    - ID: "ba0a52e5-b8a7-46fd-b24d-815c5d720b96"
+      Hint: Title
+      Value: Pinterest
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\karthikeyan.kumaravel@altudo.co
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20251104T182332Z
+- Language: en
+  Fields:
+  - ID: "30e85e5d-e00a-4864-b358-7624d511deb4"
+    Hint: __Unversioned revision
+    Value: "46b9cbca-d9e3-4944-a87d-1a26616c1cea"
+  - ID: "b5e02ad9-d56f-4c41-a065-a133db87bdeb"
+    Hint: __Display name
+    Value: 
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "230e662b-b8f9-4368-b633-cbdb02f8755b"
+      Hint: Media
+      Value: |
+        <link linktype="external" url="https://media-hosting.imagekit.io//8decd61836e348a5/icons8-pinterest-48.png?Expires=1835018068&amp;Key-Pair-Id=K2ZIVPTIP2VGHC&amp;Signature=gWczP002ByRNI2gPyu2ojBNJ1R-dYEEWTxfo~jr0tEMTH309f6OhW9gMqMBntQdxX3~rzTDgoEmkJ3jovz-3H~q6NygMMnvJ0bquSiVcDArbyNDbL~nSYFkdAtJ-QkYg2T~4kcAmYMEhyWZsV6OZZ0S0mfaNiOFzxGUjakz52-57S5qohN33VF98swpGUfpwqk3txurd2seTWyUCa5zqTAinXVVbTF8-cyqHHujF-vtGN70ZSNL162G~ox-DAIOP3v1K6~J5JehkJrCygl5ANCUSaTTWAe5NdnzsX5quuWaGW3iOvUjrIB4L4N8e2dqHKTz2aiFy1LayYSaM1bcC8w__" anchor="" target="" />
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20250226T113650Z
+    - ID: "3e431de1-525e-47a3-b6b0-1ccbec3a8c98"
+      Hint: __Workflow state
+      Value: "{B71D5C66-667B-4CF1-BE66-342C8B59A4DB}"
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "f0134ad9-84be-4f37-a14d-139220a71ff1"
+    - ID: "aa4e5f92-cbb0-4134-ba73-fe27fc4e2e7a"
+      Hint: SocialIcon
+      Value: |
+        <image mediaid="{834D3543-AD2E-45F0-A5B4-7D2660F66B2A}" />
+    - ID: "ba0a52e5-b8a7-46fd-b24d-815c5d720b96"
+      Hint: Title
+      Value: Pinterest
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\andy.cohen@altudo.co
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20250628T214043Z
+- Language: "fr-CA"
+  Fields:
+  - ID: "30e85e5d-e00a-4864-b358-7624d511deb4"
+    Hint: __Unversioned revision
+    Value: "de5a6f4c-ea8e-482d-8665-400a038797b1"
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "230e662b-b8f9-4368-b633-cbdb02f8755b"
+      Hint: Media
+      Value: |
+        <link linktype="external" url="https://media-hosting.imagekit.io//8decd61836e348a5/icons8-pinterest-48.png?Expires=1835018068&amp;Key-Pair-Id=K2ZIVPTIP2VGHC&amp;Signature=gWczP002ByRNI2gPyu2ojBNJ1R-dYEEWTxfo~jr0tEMTH309f6OhW9gMqMBntQdxX3~rzTDgoEmkJ3jovz-3H~q6NygMMnvJ0bquSiVcDArbyNDbL~nSYFkdAtJ-QkYg2T~4kcAmYMEhyWZsV6OZZ0S0mfaNiOFzxGUjakz52-57S5qohN33VF98swpGUfpwqk3txurd2seTWyUCa5zqTAinXVVbTF8-cyqHHujF-vtGN70ZSNL162G~ox-DAIOP3v1K6~J5JehkJrCygl5ANCUSaTTWAe5NdnzsX5quuWaGW3iOvUjrIB4L4N8e2dqHKTz2aiFy1LayYSaM1bcC8w__" anchor="" target="" />
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20250226T113650Z
+    - ID: "3e431de1-525e-47a3-b6b0-1ccbec3a8c98"
+      Hint: __Workflow state
+      Value: "{B71D5C66-667B-4CF1-BE66-342C8B59A4DB}"
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+      Hint: __Owner
+      Value: |
+        sitecore\karthikeyan.kumaravel@altudo.co
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\karthikeyan.kumaravel@altudo.co
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "9f1a3c29-49ca-4293-897f-77a286174ca2"
+    - ID: "aa4e5f92-cbb0-4134-ba73-fe27fc4e2e7a"
+      Hint: SocialIcon
+      Value: |
+        <image mediaid="{834D3543-AD2E-45F0-A5B4-7D2660F66B2A}" />
+    - ID: "ba0a52e5-b8a7-46fd-b24d-815c5d720b96"
+      Hint: Title
+      Value: Pinterest
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\karthikeyan.kumaravel@altudo.co
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20251104T181354Z

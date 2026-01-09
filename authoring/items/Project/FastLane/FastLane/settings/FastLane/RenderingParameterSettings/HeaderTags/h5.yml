@@ -1,0 +1,26 @@
+﻿---
+ID: "5c9466ec-cf21-48ba-b788-f5b200d61fff"
+Parent: "c90456ea-c89c-423f-982c-399c16f5010f"
+Template: "ff6f3c81-a2b9-400a-8bfb-1d324b208971"
+Path: /sitecore/system/Settings/Project/FastLane/RenderingParameterSettings/HeaderTags/h5
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20250203T140922Z
+    - ID: "84841c1f-5a17-4c6e-b704-008f868ca71c"
+      Hint: Header
+      Value: h5
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "068ae79e-8472-4726-92f9-f3630cc0149e"
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\karthikeyan.kumaravel@altudo.co
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20250203T140922Z

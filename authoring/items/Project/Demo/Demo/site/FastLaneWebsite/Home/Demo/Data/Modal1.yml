@@ -1,0 +1,97 @@
+﻿---
+ID: "d1cb3476-08cf-4d99-a8b8-35fb59d23a06"
+Parent: "f3c9b4eb-f564-4b70-9b94-ae20de5bb833"
+Template: "c9043bc8-3eeb-435e-9e46-cde436879a6c"
+Path: /sitecore/content/FastLaneTenant/fastlanewebsite/Home/Demo/Data/Modal1
+SharedFields:
+- ID: "a4f985d9-98b3-4b52-aaaf-4344f6e747c6"
+  Hint: __Workflow
+  Value: "{9A1B3B33-17C0-4DAE-A533-CEC7FA11F68A}"
+- ID: "dbbbeca1-21c7-4906-9dd2-493c1efa59a2"
+  Hint: __Shared revision
+  Value: "24913b90-e8fb-4f3a-8c3f-0901a1f50708"
+Languages:
+- Language: "ar-AE"
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "0742ab9e-fe62-47e8-aedd-a369e4bfceef"
+      Hint: Title
+      Value: تحرك بسرعة أكبر، واعمل بذكاء أكبر، وحفز النمو باستخدام الذكاء الاصطناعي والتنسيق عبر DXP
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20250305T174800Z
+    - ID: "3e431de1-525e-47a3-b6b0-1ccbec3a8c98"
+      Hint: __Workflow state
+      Value: "{B71D5C66-667B-4CF1-BE66-342C8B59A4DB}"
+    - ID: "658359ac-43bf-412f-a6c2-c78a4f8fb102"
+      Hint: ButtonText
+      Value: فتح نافذة منبثقة
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "d1ede1a8-45b9-4122-a340-874c7825b92d"
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\karthikeyan.kumaravel@altudo.co
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20251106T152025Z
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "001dd393-96c5-490b-924a-b0f25cd9efd8"
+      Hint: __Lock
+      Value: <r />
+    - ID: "0742ab9e-fe62-47e8-aedd-a369e4bfceef"
+      Hint: Title
+      Value: Move faster, work smarter, and drive growth with AI and orchestration across the DXP
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20250305T174800Z
+    - ID: "3e431de1-525e-47a3-b6b0-1ccbec3a8c98"
+      Hint: __Workflow state
+      Value: "{B71D5C66-667B-4CF1-BE66-342C8B59A4DB}"
+    - ID: "658359ac-43bf-412f-a6c2-c78a4f8fb102"
+      Hint: ButtonText
+      Value: Open Modal
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "2789d037-a821-4cbe-a0a4-4d61a0b25f5c"
+    - ID: "b801af3b-a1f0-4156-ae5a-f4cf44f35669"
+      Hint: CTAMainLink
+      Value: 
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\inam.hasan@altudo.co
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20250725T150319Z
+- Language: "fr-CA"
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "0742ab9e-fe62-47e8-aedd-a369e4bfceef"
+      Hint: Title
+      Value: Accélérez votre rythme, travaillez plus intelligemment et stimulez la croissance grâce à l'IA et à l'orchestration sur toute la plateforme d'expérience numérique (DXP).
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20250305T174800Z
+    - ID: "3e431de1-525e-47a3-b6b0-1ccbec3a8c98"
+      Hint: __Workflow state
+      Value: "{B71D5C66-667B-4CF1-BE66-342C8B59A4DB}"
+    - ID: "658359ac-43bf-412f-a6c2-c78a4f8fb102"
+      Hint: ButtonText
+      Value: Ouvrir la fenêtre modale
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "204c8878-8f23-4ee1-8d55-e112df39576a"
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\karthikeyan.kumaravel@altudo.co
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20251127T103041Z

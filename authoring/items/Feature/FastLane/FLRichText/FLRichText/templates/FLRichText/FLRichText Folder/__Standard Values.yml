@@ -1,0 +1,36 @@
+﻿---
+ID: "eaa8ab56-5f21-4323-9b7a-d77ce29eece6"
+Parent: "e537cec3-edd2-4d2b-a1ad-556099f21826"
+Template: "e537cec3-edd2-4d2b-a1ad-556099f21826"
+Path: /sitecore/templates/Feature/FastLane/Renderings/FLRichText/FLRichText Folder/__Standard Values
+SharedFields:
+- ID: "1172f251-dad4-4efb-a329-0c63500e4f1e"
+  Hint: __Masters
+  Value: |
+    {7A1BBA59-B42D-4390-8A9B-0843D7DC85C3}
+    {E537CEC3-EDD2-4D2B-A1AD-556099F21826}
+- ID: "dbbbeca1-21c7-4906-9dd2-493c1efa59a2"
+  Hint: __Shared revision
+  Value: "08c4a060-cca2-4700-8c22-01eab9f8b060"
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20120621T071628Z
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\admin
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "00dc8eeb-ece8-4a53-bd21-10d052cc82d1"
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\karthikeyan.kumaravel@altudo.co
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20250828T082755Z

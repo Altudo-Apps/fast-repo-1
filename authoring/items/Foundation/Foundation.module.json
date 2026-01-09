@@ -1,0 +1,26 @@
+{
+    "$schema": "../../../.sitecore/schemas/ModuleFile.schema.json",
+    "namespace": "Foundation",
+    "items": {
+        "path": "Foundation",
+        "includes": [
+             {
+                "name": "languages",
+                "path": "/sitecore/system/Languages",
+                "scope": "descendantsOnly",
+                "rules": [
+                    {
+                        "path": "/en",
+                        "scope": "ignored"
+                    }
+                ]
+            },
+            {
+                "name": "content",
+                "path": "/sitecore/content",
+                "scope": "singleItem",
+                "allowedPushOperations": "createAndUpdate"
+            }
+        ]
+    }
+}

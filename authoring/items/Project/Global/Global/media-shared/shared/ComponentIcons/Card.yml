@@ -1,0 +1,63 @@
+﻿---
+ID: "6cc403e3-f012-445e-a850-7adf537153b1"
+Parent: "3c310376-bb7f-4391-9b24-96707e69529c"
+Template: "f1828a2c-7e5d-4bbd-98ca-320474871548"
+Path: /sitecore/media library/Project/FastLane/shared/ComponentIcons/Card
+SharedFields:
+- ID: "06d5295c-ed2f-4a54-9bf2-26228d113318"
+  Hint: __Icon
+  Value: "-/media/6CC403E3F012445EA8507ADF537153B1.ashx?h=16&thn=1&w=16"
+- ID: "22eac599-f13b-4607-a89d-c091763a467d"
+  Hint: Width
+  Value: 128
+- ID: "40e50ed9-ba07-4702-992e-a912738d32dc"
+  Hint: Blob
+  BlobID: "dd0cdfed-9b6d-47e0-acfb-6e0771b418bf"
+  Value: iVBORw0KGgoAAAANSUhEUgAAAIAAAACACAYAAADDPmHLAAAACXBIWXMAACxLAAAsSwGlPZapAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAN4SURBVHgB7Z3RjeIwEIbN6QqADqADqACoAOgAOqAD6ACogBKACqAEOggdQAe5TO7hHm43YZE8JvzfJ82+JNLK9ocTO6NxKy8IIMuvANIggDgIIA4CiIMA4iCAOAggDgKIgwDiIIA4CCAOAoiDAOIggDgIIA4CiIMA4iCAOAggzu+QkMfjEXa7XbhcLuF2u5WhQLvdDv1+P0yn0zCZTEK32w3JyBOQZVk+Go0sGZUoYj6fl32SAncBttttXvwCGjVAHmF9Yn3jjasA6/W6UYOSIqyPPHETwOxu0kCkDM+ZwEUAe74x7T8f1lde7wQuAthLTpMG4B3CXpI9aNmfEBFb2vV6vQA/536/l0vGmETfCDqdTrX32Dr4fD6XDc7/zkofHYfD4am1v+2RRCePTN16v+iIvBj4XA1rs7U9JH4MRJ8Brtdr5fXNZhN9mntHrM37/b7yHo+d0ejvAK1Wq/J65H//1thWeKfTqbwndv8gQGJS9w9fA8VBAHEQQBwEEAcBxEEAcRBAHAQQBwHEQQBxEEAcBBAHAcRBAHEQQBwEEAcBxEEAcRBAHAQQBwHEQQBxEEAcBBAHAcRBAHEQQBwEEAcBxEEAcRBAnOQCWJEESEd0AeqKIdWVkPlk6gpoeZTOSS7AYrGQnAWszcvlsvIeqygem+gCjEajyutWCGkwGITj8RgUsIG38vjW5roiUFZOPjbRawQ9UwgJvibLsuhnCUSfAew5VjcLwP/M53OfgyRyBygW/bPwLBbtsgw0k1erVYDnsL5yO0Ymd6RoWGN+hanC+sgT9yNjNpsNj4MvwvrE+sabZIdGcYbAv7Ci0KkOjYq+DKzC1sG2/rcdMdsRVNkQsue7xXA4LDeDUhbLTioApIevgeIggDgIIA4CiIMA4iCAOAggjosAtuEzHo/LvAA7I4eojtls5nJiWEkeGT4FvxZen4SjCzCdThvV8e8UHgdHJj82Dr7HvhHYcboxcUkJg9fw+DgWXQCP1OZPxSMrmJfAN42PeQk0rCG8DD4/8J4JIuQDiMNOoDgIIA4CiIMA4iCAOAggDgKIQz4A+QBxYSv49R1B8gHEg3wAccgHEId8AHHIBxAO8gGEB558AHCDnUBxEEAcBBAHAcRBAHEQQBwEEAcBxEEAcRBAHAQQBwHEQQBxEEAcBBAHAcRBAHEQQBwEEOcPMJFPjf5kQS4AAAAASUVORK5CYII=
+- ID: "6954b7c7-2487-423f-8600-436cb3b6dc0e"
+  Hint: Size
+  Value: 995
+- ID: "6f47a0a5-9c94-4b48-abeb-42d38def6054"
+  Hint: Mime Type
+  Value: image/png
+- ID: "c06867fe-9a43-4c7d-b739-48780492d06f"
+  Hint: Extension
+  Value: png
+- ID: "cb09946f-3218-4823-87d2-d5007c199a96"
+  Hint: Dimensions
+  Value: 128 x 128
+- ID: "dbbbeca1-21c7-4906-9dd2-493c1efa59a2"
+  Hint: __Shared revision
+  Value: "5cd58ea0-ac81-48cd-aa5b-d919ebc07feb"
+- ID: "de2ca9e4-c117-4c8a-a139-1ff4b199d15a"
+  Hint: Height
+  Value: 128
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20250618T075538Z
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+      Hint: __Owner
+      Value: |
+        sitecore\karthikeyan.kumaravel@altudo.co
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\karthikeyan.kumaravel@altudo.co
+    - ID: "65885c44-8fcd-4a7f-94f1-ee63703fe193"
+      Hint: Alt
+      Value: Card
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "95c43d79-9dbd-4fb2-806a-5b5dd9a6062d"
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\karthikeyan.kumaravel@altudo.co
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20250618T075711Z

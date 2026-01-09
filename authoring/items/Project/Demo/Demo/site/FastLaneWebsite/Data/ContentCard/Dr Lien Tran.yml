@@ -1,0 +1,152 @@
+﻿---
+ID: "22de24eb-7e78-435e-acc0-fa84fe839442"
+Parent: "c19e263d-9f92-446d-aec3-6227a25f66e3"
+Template: "e58b7dbf-2a15-4a94-ad45-9c250ac1ac68"
+Path: /sitecore/content/FastLaneTenant/fastlanewebsite/Data/ContentCard/Dr Lien Tran
+SharedFields:
+- ID: "a4f985d9-98b3-4b52-aaaf-4344f6e747c6"
+  Hint: __Workflow
+  Value: "{9A1B3B33-17C0-4DAE-A533-CEC7FA11F68A}"
+- ID: "dbbbeca1-21c7-4906-9dd2-493c1efa59a2"
+  Hint: __Shared revision
+  Value: "9cda8e9e-802e-44fb-afa6-318e8e4eac41"
+Languages:
+- Language: "ar-AE"
+  Fields:
+  - ID: "30e85e5d-e00a-4864-b358-7624d511deb4"
+    Hint: __Unversioned revision
+    Value: "d8ad7ad0-5cb4-4af2-bc01-5012bcc5061e"
+  - ID: "b5e02ad9-d56f-4c41-a065-a133db87bdeb"
+    Hint: __Display name
+    Value: 
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20250612T102009Z
+    - ID: "3e431de1-525e-47a3-b6b0-1ccbec3a8c98"
+      Hint: __Workflow state
+      Value: "{467DF7DD-E09E-4429-A1AE-8C3F9FE6076E}"
+    - ID: "6128ed46-0b79-4d6a-87ad-ac6fe70c649c"
+      Hint: Category
+      Value: هذا مخصص
+    - ID: "78bd5b13-d9ab-44a4-bae4-c2dda0ad6133"
+      Hint: IntroText
+      Value: <p>الدكتورة لين تران هي طبيبة باطنية أمريكية من أصل فيتنامي واقتصادية صحية ذات خبرة في تمويل الصحة العالمية. بصفتها أمينة صندوق ICMP، تضمن الشفافية المالية والاستدامة في جميع البرامج الدولية. بفضل شهادتيها المزدوجتين في الطب والأعمال، توفر الدكتورة تران الإشراف الاستراتيجي على تخصيص الموارد وإدارة المنح والنمو التنظيمي طويل الأجل.</p>
+    - ID: "7cba72f9-1513-41af-ba26-de761f138805"
+      Hint: Title
+      Value: الدكتورة لين تران، دكتوراه في الطب، ماجستير في إدارة الأعمال – أمينة صندوق ICMP
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "aff55dbf-fd3a-4dbd-967c-9d3700a8f8b5"
+    - ID: "ba41d59c-a2b6-4f14-8913-7734549cce04"
+      Hint: Image
+      Value: |
+        <image mediaid="{E035D8C1-146F-4A44-A680-7144112D4297}" alt="DrLien" height="" width="" hspace="" vspace="" />
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\karthikeyan.kumaravel@altudo.co
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20251211T091439Z
+    - ID: "f56d5ae9-cbca-48e1-b47e-e06a7561fc5d"
+      Hint: CalltoActionLinkMain
+      Value: |
+        <link text="تعرف على المزيد" anchor="" linktype="internal" class="" title="" target="" querystring="" id="{67341E40-5141-4585-A1BF-6D04BB87FA8B}" />
+- Language: en
+  Fields:
+  - ID: "30e85e5d-e00a-4864-b358-7624d511deb4"
+    Hint: __Unversioned revision
+    Value: "0475dc3b-90d7-4269-9115-de011dffcab7"
+  - ID: "b5e02ad9-d56f-4c41-a065-a133db87bdeb"
+    Hint: __Display name
+    Value: 
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "001dd393-96c5-490b-924a-b0f25cd9efd8"
+      Hint: __Lock
+      Value: <r />
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20250612T102009Z
+    - ID: "3e431de1-525e-47a3-b6b0-1ccbec3a8c98"
+      Hint: __Workflow state
+      Value: "{B71D5C66-667B-4CF1-BE66-342C8B59A4DB}"
+    - ID: "6128ed46-0b79-4d6a-87ad-ac6fe70c649c"
+      Hint: Category
+      Value: Insights
+    - ID: "78bd5b13-d9ab-44a4-bae4-c2dda0ad6133"
+      Hint: IntroText
+      Value: |
+        <div class="ck-content">
+        <p>Dr. Lien Tran is a Vietnamese-American internist and health economist with expertise in global health financing. As Treasurer of ICMP, she ensures fiscal transparency and sustainability across international programs. With dual degrees in medicine and business, Dr. Tran brings strategic oversight to resource allocation, grant management, and long-term organizational growth.</p>
+        <p>With dual degrees in medicine and business, Dr. Tran brings strategic oversight to resource allocation, grant management, and long-term organizational growth.</p>
+        </div>
+    - ID: "7cba72f9-1513-41af-ba26-de761f138805"
+      Hint: Title
+      Value: Dr. Lien Tran, MD, MBA – Treasurer, ICMP
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "5d49a1d5-be83-4ca4-8729-61d079ce5d89"
+    - ID: "ba41d59c-a2b6-4f14-8913-7734549cce04"
+      Hint: Image
+      Value: |
+        <image mediaid="{E035D8C1-146F-4A44-A680-7144112D4297}" />
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\karthikeyan.kumaravel@altudo.co
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20251211T093019Z
+    - ID: "f56d5ae9-cbca-48e1-b47e-e06a7561fc5d"
+      Hint: CalltoActionLinkMain
+      Value: |
+        <link linktype="internal" id="67341e40-5141-4585-a1bf-6d04bb87fa8b" anchor="" querystring="" target="" class="" text="Learn More" title=""/>
+- Language: "fr-CA"
+  Fields:
+  - ID: "30e85e5d-e00a-4864-b358-7624d511deb4"
+    Hint: __Unversioned revision
+    Value: "31806094-bc3b-47e3-a984-f5b4556ec0d8"
+  - ID: "b5e02ad9-d56f-4c41-a065-a133db87bdeb"
+    Hint: __Display name
+    Value: 
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20250612T102009Z
+    - ID: "3e431de1-525e-47a3-b6b0-1ccbec3a8c98"
+      Hint: __Workflow state
+      Value: "{467DF7DD-E09E-4429-A1AE-8C3F9FE6076E}"
+    - ID: "6128ed46-0b79-4d6a-87ad-ac6fe70c649c"
+      Hint: Category
+      Value: Il s'agit d'une affectation spéciale
+    - ID: "78bd5b13-d9ab-44a4-bae4-c2dda0ad6133"
+      Hint: IntroText
+      Value: "<p>Le Dr Lien Tran est une interniste et &eacute;conomiste de la sant&eacute; am&eacute;ricano-vietnamienne sp&eacute;cialis&eacute;e dans le financement de la sant&eacute; mondiale. En tant que tr&eacute;sori&egrave;re de l'ICMP, elle assure la transparence et la viabilit&eacute; financi&egrave;re des programmes internationaux. Avec une double formation en m&eacute;decine et en commerce, le Dr Tran apporte une vision strat&eacute;gique &agrave; l'allocation des ressources, &agrave; la gestion des subventions et &agrave; la croissance &agrave; long terme de l'organisation.</p>"
+    - ID: "7cba72f9-1513-41af-ba26-de761f138805"
+      Hint: Title
+      Value: Dr Lien Tran, MD, MBA – Trésorière, ICMP
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "f1382636-22f3-4cd5-94dc-9fc2e1c2c6fb"
+    - ID: "ba41d59c-a2b6-4f14-8913-7734549cce04"
+      Hint: Image
+      Value: |
+        <image mediaid="{E035D8C1-146F-4A44-A680-7144112D4297}" alt="DrLienTran" height="" width="" hspace="" vspace="" />
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\karthikeyan.kumaravel@altudo.co
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20251211T091439Z
+    - ID: "f56d5ae9-cbca-48e1-b47e-e06a7561fc5d"
+      Hint: CalltoActionLinkMain
+      Value: |
+        <link text="Apprendre encore plus" anchor="" linktype="internal" class="" title="Apprendre encore plus" target="" querystring="" id="{67341E40-5141-4585-A1BF-6D04BB87FA8B}" />

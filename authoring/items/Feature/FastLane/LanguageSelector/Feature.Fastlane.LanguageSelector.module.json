@@ -1,0 +1,26 @@
+{
+    "$schema": "../../../../../.sitecore/schemas/ModuleFile.schema.json",
+    "namespace": "Feature.FastLane.LanguageSelector",
+    "references": ["Feature.FastLane.Root"],
+    "items": {
+        "path": "LanguageSelector",
+        "includes": [
+			{
+                "name": "templates",
+                "path": "/sitecore/templates/Feature/FastLane/Renderings/LanguageSelector"
+            },            
+			{
+                "name": "branches",
+                "path": "/sitecore/templates/Branches/Feature/FastLane/Default Variants/LanguageSelector"
+            },
+			{
+                "name": "renderings",
+                "path": "/sitecore/layout/Renderings/Feature/FastLane/Renderings/LanguageSelector"                
+            },
+			{
+                "name": "settings",
+                "path": "/sitecore/system/Settings/Feature/FastLane/Renderings/LanguageSelector"
+            }
+        ]
+    }
+}

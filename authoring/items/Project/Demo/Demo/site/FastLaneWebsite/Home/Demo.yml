@@ -1,0 +1,280 @@
+﻿---
+ID: "93dc4e1f-853b-4ad8-865e-17c3bfee1b16"
+Parent: "0526e9ae-743a-423e-ae25-4f8ad7f3b68c"
+Template: "f58dc353-b0b5-4015-9659-1bcd318bf36e"
+Path: /sitecore/content/FastLaneTenant/fastlanewebsite/Home/Demo
+BranchID: "c1d1e5b7-cf16-4bfa-afcd-db0dfcf3661f"
+SharedFields:
+- ID: "1172f251-dad4-4efb-a329-0c63500e4f1e"
+  Hint: __Masters
+  Value: "{C14B6289-8AC2-439C-9E5B-40DE9F820C3F}"
+- ID: "1fbc6a49-6281-48ee-87e9-a3970b145adb"
+  Hint: NavigationFilter
+  Value: 
+- ID: "24171bf1-c0e1-480e-be76-4c0a1876f916"
+  Hint: Page Design
+  Value: 
+- ID: "508c54c0-cd02-4266-8b68-d71f88de1aa9"
+  Hint: ChangeFrequency
+  Value: "{1C2878D9-80A6-4760-B7EB-DBADE16AE8C8}"
+- ID: "a4f985d9-98b3-4b52-aaaf-4344f6e747c6"
+  Hint: __Workflow
+  Value: "{CF913994-CC05-4D20-B38A-9CF1E73F5951}"
+- ID: "ba3f86a2-4a1c-4d78-b63d-91c2779c1b5e"
+  Hint: __Sortorder
+  Value: 100
+- ID: "c7c26117-dbb1-42b2-ab5e-f7223845cca3"
+  Hint: __Thumbnail
+  Value: 
+- ID: "dbbbeca1-21c7-4906-9dd2-493c1efa59a2"
+  Hint: __Shared revision
+  Value: "4b3d4887-bd41-4e86-91eb-66ec10bc134c"
+- ID: "f1a1fe9e-a60c-4ddb-a3a0-bb5b29fe732e"
+  Hint: __Renderings
+  Value: |
+    <r xmlns:p="p" xmlns:s="s"
+      p:p="1">
+      <d
+        id="{FE5D7FDF-89C0-4D99-9AA3-B5FBD009C9F3}">
+        <r
+          uid="{A6FEF5CC-5A4E-4146-B001-356505A4ECDC}"
+          p:before="*"
+          s:id="{B7C649C8-C683-44CB-9A87-AEBEA3DA8EB3}"
+          s:par="GridParameters=%7BF61E01E9-711A-4C99-AE30-4E28463E1DF7%7D&amp;FieldNames=%7B129985C4-D854-49F5-9602-9E1D1B8DF899%7D&amp;BackgroundImage&amp;Styles=%7B0D8280A3-A4C1-4AAD-8392-30B3080349C8%7D&amp;RenderingIdentifier&amp;CSSStyles&amp;DynamicPlaceholderId=36"
+          s:ph="headless-main" />
+        <r
+          uid="{65DDB0E0-2ABA-4EB7-8020-388124D6386B}"
+          p:after="r[@uid='{A6FEF5CC-5A4E-4146-B001-356505A4ECDC}']"
+          s:ds="{BC7AA3C0-0D19-4365-ACF6-3797CF221889}"
+          s:id="{76E2F3B2-FD41-4984-BEF0-F39ED93C577C}"
+          s:par="GridParameters=%7BF61E01E9-711A-4C99-AE30-4E28463E1DF7%7D&amp;FieldNames=%7BFD7EAADE-C6F5-4332-A3FC-81AA6501C989%7D&amp;Styles&amp;RenderingIdentifier&amp;CSSStyles&amp;DynamicPlaceholderId=35"
+          s:ph="/headless-main/container-36/navtab-21" />
+        <r
+          uid="{028418B2-4F46-46FA-91F2-2D4FF00C67FA}"
+          p:after="r[@uid='{65DDB0E0-2ABA-4EB7-8020-388124D6386B}']"
+          s:ds="3329782e-bdf3-4d94-b923-68e5b5e6a6f8"
+          s:id="{76E2F3B2-FD41-4984-BEF0-F39ED93C577C}"
+          s:par="GridParameters=%7BF61E01E9-711A-4C99-AE30-4E28463E1DF7%7D&amp;FieldNames&amp;Styles&amp;RenderingIdentifier&amp;CSSStyles&amp;DynamicPlaceholderId=22"
+          s:ph="/headless-main/container-36/navtab-21" />
+        <r
+          uid="{131CBCA3-07FB-4330-ACEF-7C1E56126774}"
+          p:after="r[@uid='{028418B2-4F46-46FA-91F2-2D4FF00C67FA}']"
+          s:ds="9958b85b-d02f-4e30-aa1a-bcea726735b2"
+          s:id="{76E2F3B2-FD41-4984-BEF0-F39ED93C577C}"
+          s:par="GridParameters=%7BF61E01E9-711A-4C99-AE30-4E28463E1DF7%7D&amp;FieldNames&amp;Styles&amp;RenderingIdentifier&amp;CSSStyles&amp;DynamicPlaceholderId=23"
+          s:ph="/headless-main/container-36/navtab-21" />
+        <r
+          uid="{1C54546B-023A-45F1-AC75-7D9D00DE6203}"
+          p:after="r[@uid='{131CBCA3-07FB-4330-ACEF-7C1E56126774}']"
+          s:ds="679569e2-c7e0-4f3c-9aaa-29847736291a"
+          s:id="{76E2F3B2-FD41-4984-BEF0-F39ED93C577C}"
+          s:par="GridParameters=%7BF61E01E9-711A-4C99-AE30-4E28463E1DF7%7D&amp;FieldNames&amp;Styles&amp;RenderingIdentifier&amp;CSSStyles&amp;DynamicPlaceholderId=24"
+          s:ph="/headless-main/container-36/navtab-21" />
+        <r
+          uid="{DC6D8AC5-BE43-4E92-BB9C-5135717E43CE}"
+          p:after="r[@uid='{1C54546B-023A-45F1-AC75-7D9D00DE6203}']"
+          s:ds="62ce4edb-1737-45f5-a695-5b3a3dd54b01"
+          s:id="{4C6E445E-C204-4425-9C82-3868BDA442DC}"
+          s:par="GridParameters=%7BF61E01E9-711A-4C99-AE30-4E28463E1DF7%7D&amp;FieldNames=%7BD7938C91-94E1-4F62-9A72-CA4F9F5631EE%7D&amp;Styles&amp;RenderingIdentifier&amp;CSSStyles&amp;DynamicPlaceholderId=32"
+          s:ph="/headless-main/container-36" />
+        <r
+          uid="{29F41554-919D-4CD5-80ED-62416029C7B0}"
+          p:after="r[@uid='{DC6D8AC5-BE43-4E92-BB9C-5135717E43CE}']"
+          s:ds="5cbc681f-fc2c-4e10-befd-3264f35e4efb"
+          s:id="{9C713ACF-85B9-43CB-A8B4-14947BCC442C}"
+          s:par="GridParameters=%7BF61E01E9-711A-4C99-AE30-4E28463E1DF7%7D&amp;FieldNames&amp;Styles&amp;RenderingIdentifier&amp;CSSStyles&amp;DynamicPlaceholderId=3"
+          s:ph="/headless-main/container-36" />
+        <r
+          uid="{EA393C4A-ECBA-4810-8A7C-22380D56B8BC}"
+          p:after="r[@uid='{29F41554-919D-4CD5-80ED-62416029C7B0}']"
+          s:ds="local:/Data/SampleTabs"
+          s:id="{FF0B24F0-F314-4933-8EF9-5475CEB7DECD}"
+          s:par="GridParameters=%7BF61E01E9-711A-4C99-AE30-4E28463E1DF7%7D&amp;FieldNames&amp;Styles&amp;RenderingIdentifier&amp;CSSStyles&amp;DynamicPlaceholderId=21"
+          s:ph="/headless-main/container-36" />
+        <r
+          uid="{BFC8162D-D7FB-4483-BB71-FC78E5EE04D3}"
+          p:after="r[@uid='{EA393C4A-ECBA-4810-8A7C-22380D56B8BC}']"
+          s:ds="local:/Data/Modal1"
+          s:id="{6915491B-050A-4C0F-82E5-2554675A7163}"
+          s:par="GridParameters=%7BF61E01E9-711A-4C99-AE30-4E28463E1DF7%7D&amp;FieldNames&amp;Styles=%7B59E906D8-32ED-476C-86B1-4861FCC18617%7D&amp;RenderingIdentifier&amp;CSSStyles&amp;DynamicPlaceholderId=7"
+          s:ph="/headless-main/container-36" />
+        <r
+          uid="{54434C87-F420-43DE-807F-F4C01DFFF194}"
+          p:after="r[@uid='{BFC8162D-D7FB-4483-BB71-FC78E5EE04D3}']"
+          s:ds="{846F0028-C858-4517-9E5D-6AFE4F6BFCF7}"
+          s:id="{1C264401-FDF8-4FC9-A240-793A93942B17}"
+          s:par="GridParameters=%7BF61E01E9-711A-4C99-AE30-4E28463E1DF7%7D&amp;FieldNames&amp;Styles=%7B59E906D8-32ED-476C-86B1-4861FCC18617%7D&amp;RenderingIdentifier&amp;CSSStyles&amp;DynamicPlaceholderId=5"
+          s:ph="/headless-main/container-36" />
+        <r
+          uid="{B5D4737F-4797-4D72-BE76-2920120A8EE2}"
+          p:after="r[@uid='{54434C87-F420-43DE-807F-F4C01DFFF194}']"
+          s:ds="0adfd485-e57c-417a-b2e4-de7a3d381dce"
+          s:id="{CAA0C742-F052-49FB-825B-A03494798DB7}"
+          s:par="ComponentName=asdfasdf&amp;ComponentConfiguration&amp;LibraryId=4EpThREAwL4BS7OPaIEBq1&amp;ComponentId=up1HS16oid&amp;ComponentVersion=responsive&amp;ComponentRevision=staged&amp;ComponentHostName=https%3A%2F%2Ffeaas.blob.core.windows.net&amp;ComponentInstanceId=4xOepAKMNlvYChX&amp;ComponentDataOverride&amp;ComponentHTMLOverride&amp;ComponentLabel=asdfasdf&amp;GridParameters=%7BF61E01E9-711A-4C99-AE30-4E28463E1DF7%7D&amp;FieldNames&amp;Styles&amp;RenderingIdentifier&amp;CSSStyles&amp;DynamicPlaceholderId=44"
+          s:ph="/headless-main/container-36" />
+        <r
+          uid="{AB0A5A62-0CC1-4B78-BBF3-7227D9F0FAA4}"
+          p:after="r[@uid='{B5D4737F-4797-4D72-BE76-2920120A8EE2}']"
+          s:ds="021a1de4-065d-43aa-a16c-371b87e9b641"
+          s:id="{77F24C3E-E31E-4671-8A9A-F77B63E7D8AE}"
+          s:par="GridParameters=%7BF61E01E9-711A-4C99-AE30-4E28463E1DF7%7D&amp;FieldNames&amp;Styles=%7BEF57264A-DE76-4138-8D84-E1C9D0817B1F%7D%7C%7BCC371879-3C7C-4284-BDD1-E567746F8059%7D%7C%7BC89F12C0-1C9B-468D-A613-A5B2ECE35DEC%7D%7C%7BB9987F84-3F44-4164-B67C-4358C72DA416%7D%7C%7BA7198BFC-02EC-4906-B92E-EDBD12BED619%7D%7C%7B87D3E96C-A4B5-49D7-A1D1-8891FE624EF2%7D%7C%7BA4F0BA41-0D86-412D-8293-96EE7FE1096F%7D%7C%7BABAB66E7-B2A7-45D5-8240-A9D4F0439C01%7D%7C%7BCE4890CA-AEDB-4109-AD9A-50073570D394%7D%7C%7B62046E34-8C5E-44C4-B092-537547D5E1CC%7D%7C%7B7BC5B335-BFB0-4B2D-9767-CF4B70E2B8EE%7D%7C%7B3695D896-A0DB-4B57-AE2D-11C49F1D0132%7D%7C%7BABDFECBD-593D-4966-9B44-8B10D2E83F24%7D%7C%7B498BD240-85CF-450D-B482-0B90A9047088%7D%7C%7B59E906D8-32ED-476C-86B1-4861FCC18617%7D&amp;RenderingIdentifier&amp;CSSStyles&amp;DynamicPlaceholderId=4"
+          s:ph="/headless-main/container-36" />
+        <r
+          uid="{B5D89B99-613F-4E72-B73B-DF594B11A8AD}"
+          p:after="r[@uid='{AB0A5A62-0CC1-4B78-BBF3-7227D9F0FAA4}']"
+          s:ds="f5901bca-2dea-4a06-b295-7e9fde7b6db7"
+          s:id="{77F58F88-9A26-47EE-872B-17EC38D41855}"
+          s:par="GridParameters=%7BF61E01E9-711A-4C99-AE30-4E28463E1DF7%7D&amp;FieldNames&amp;Styles&amp;RenderingIdentifier&amp;CSSStyles&amp;DynamicPlaceholderId=39"
+          s:ph="/headless-main/container-36/carouselslides-37" />
+        <r
+          uid="{5AB4F8E1-FB05-46E0-A4BE-718A9EB626C1}"
+          p:after="r[@uid='{B5D89B99-613F-4E72-B73B-DF594B11A8AD}']"
+          s:ds="f8188c5e-aa74-467a-993a-6ed061332df8"
+          s:id="{77F58F88-9A26-47EE-872B-17EC38D41855}"
+          s:par="GridParameters=%7BF61E01E9-711A-4C99-AE30-4E28463E1DF7%7D&amp;FieldNames&amp;Styles&amp;RenderingIdentifier&amp;CSSStyles&amp;DynamicPlaceholderId=38"
+          s:ph="/headless-main/container-36/carouselslides-37" />
+        <r
+          uid="{86CFE5E3-A5B4-4335-895A-2D1FEE50FB2A}"
+          p:after="r[@uid='{5AB4F8E1-FB05-46E0-A4BE-718A9EB626C1}']"
+          s:ds="local:/Data/Image 1"
+          s:id="{AB2EDBA0-3960-4F12-B765-579DC231894A}"
+          s:par="GridParameters=%7BF61E01E9-711A-4C99-AE30-4E28463E1DF7%7D&amp;FieldNames=%7B75EC0D4C-10AC-4C23-B3F0-08EC0B3CD31C%7D&amp;Styles&amp;RenderingIdentifier&amp;CSSStyles&amp;DynamicPlaceholderId=40"
+          s:ph="/headless-main/container-36/carouselslides-37/slide-39" />
+        <r
+          uid="{51D6C887-C625-4183-8CFF-8A089FF9170D}"
+          p:after="r[@uid='{86CFE5E3-A5B4-4335-895A-2D1FEE50FB2A}']"
+          s:ds="f5901bca-2dea-4a06-b295-7e9fde7b6db7"
+          s:id="{77F58F88-9A26-47EE-872B-17EC38D41855}"
+          s:par="GridParameters=%7BF61E01E9-711A-4C99-AE30-4E28463E1DF7%7D&amp;FieldNames&amp;Styles&amp;RenderingIdentifier&amp;CSSStyles&amp;DynamicPlaceholderId=43"
+          s:ph="/headless-main/container-36/carouselslides-41" />
+        <r
+          uid="{C484A123-3E1B-4F1C-AC88-87B3A83BAA2E}"
+          p:after="*[1=2]"
+          s:ds="f8188c5e-aa74-467a-993a-6ed061332df8"
+          s:id="{77F58F88-9A26-47EE-872B-17EC38D41855}"
+          s:par="GridParameters=%7BF61E01E9-711A-4C99-AE30-4E28463E1DF7%7D&amp;FieldNames&amp;Styles&amp;RenderingIdentifier&amp;CSSStyles&amp;DynamicPlaceholderId=42"
+          s:ph="/headless-main/container-36/carouselslides-41" />
+      </d>
+    </r>
+- ID: "f6d8a61c-2f84-4401-bd24-52d2068172bc"
+  Hint: __Originator
+  Value: "{4BD05DE9-C2E7-42D6-8D75-0E385EC8B584}"
+Languages:
+- Language: "ar-AE"
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20251104T152447Z
+    - ID: "3e431de1-525e-47a3-b6b0-1ccbec3a8c98"
+      Hint: __Workflow state
+      Value: "{F7F71754-F47E-4605-AD5B-87F78974DD92}"
+    - ID: "4e0720e9-9d50-4ddc-87cf-ecd65e8e94c8"
+      Hint: NavigationTitle
+      Value: عرض توضيحي
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+      Hint: __Owner
+      Value: |
+        sitecore\karthikeyan.kumaravel@altudo.co
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\karthikeyan.kumaravel@altudo.co
+    - ID: "7cba72f9-1513-41af-ba26-de761f138805"
+      Hint: Title
+      Value: عرض توضيحي
+    - ID: "85f5b648-1823-4509-b7fd-27deacdf2dff"
+      Hint: MetaDescription
+      Value: عرض توضيحي
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "f55c8d05-b2a8-4883-9bc7-3d7b31a1444d"
+    - ID: "92c233dc-a8b3-4fd0-bb3f-e82a8b49bed2"
+      Hint: MetaTitle
+      Value: عرض توضيحي
+    - ID: "9f4483ca-f858-45d1-86a5-0a69c9ab6207"
+      Hint: MetaKeywords
+      Value: عرض توضيحي
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\karthikeyan.kumaravel@altudo.co
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20251106T132259Z
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "001dd393-96c5-490b-924a-b0f25cd9efd8"
+      Hint: __Lock
+      Value: <r />
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20250617T102337Z
+    - ID: "3e431de1-525e-47a3-b6b0-1ccbec3a8c98"
+      Hint: __Workflow state
+      Value: "{F7F71754-F47E-4605-AD5B-87F78974DD92}"
+    - ID: "4e0720e9-9d50-4ddc-87cf-ecd65e8e94c8"
+      Hint: NavigationTitle
+      Value: Demo
+    - ID: "85f5b648-1823-4509-b7fd-27deacdf2dff"
+      Hint: MetaDescription
+      Value: Schedule a personalized demo of Fast Lane's XM Cloud content management platform to explore its innovative features and benefits
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "c814f063-b528-4dc1-b2a2-cb617a3c5a02"
+    - ID: "92c233dc-a8b3-4fd0-bb3f-e82a8b49bed2"
+      Hint: MetaTitle
+      Value: "Request a Demo - Experience Fast Lane XM Cloud Solutions"
+    - ID: "9f4483ca-f858-45d1-86a5-0a69c9ab6207"
+      Hint: MetaKeywords
+      Value: Fast Lane demo, XM Cloud platform demo, content management demo, schedule demo, digital experience solution
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\karthikeyan.kumaravel@altudo.co
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20251203T121322Z
+- Language: "fr-CA"
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20251104T152441Z
+    - ID: "3e431de1-525e-47a3-b6b0-1ccbec3a8c98"
+      Hint: __Workflow state
+      Value: "{F7F71754-F47E-4605-AD5B-87F78974DD92}"
+    - ID: "4e0720e9-9d50-4ddc-87cf-ecd65e8e94c8"
+      Hint: NavigationTitle
+      Value: Demandez une démonstration
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+      Hint: __Owner
+      Value: |
+        sitecore\karthikeyan.kumaravel@altudo.co
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\karthikeyan.kumaravel@altudo.co
+    - ID: "85f5b648-1823-4509-b7fd-27deacdf2dff"
+      Hint: MetaDescription
+      Value: Planifiez une démonstration personnalisée de la plateforme de gestion de contenu XM Cloud de Fast Lane pour découvrir ses fonctionnalités novatrices et ses avantages.
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "f3990b09-c6d3-4795-b2e0-ad4e8396d4b1"
+    - ID: "92c233dc-a8b3-4fd0-bb3f-e82a8b49bed2"
+      Hint: MetaTitle
+      Value: "Demandez une démonstration - Découvrez les solutions infonuagiques Fast Lane XM"
+    - ID: "9f4483ca-f858-45d1-86a5-0a69c9ab6207"
+      Hint: MetaKeywords
+      Value: Démonstration de Fast Lane, démonstration de la plateforme XM Cloud, démonstration de gestion de contenu, démonstration de planification, solution d'expérience numérique
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\karthikeyan.kumaravel@altudo.co
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20251127T102421Z

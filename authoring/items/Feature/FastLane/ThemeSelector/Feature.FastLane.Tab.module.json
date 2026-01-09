@@ -1,0 +1,26 @@
+{
+    "$schema": "../../../../../.sitecore/schemas/ModuleFile.schema.json",
+    "namespace": "Feature.FastLane.ThemeSelector",
+    "references": ["Feature.FastLane.Root"],
+    "items": {
+        "path": "ThemeSelector",
+        "includes": [
+			{
+                "name": "templates",
+                "path": "/sitecore/templates/Feature/FastLane/Renderings/ThemeSelector"
+            },            
+			{
+                "name": "branches",
+                "path": "/sitecore/templates/Branches/Feature/FastLane/Default Variants/ThemeSelector"
+            },
+			{
+                "name": "renderings",
+                "path": "/sitecore/layout/Renderings/Feature/FastLane/Renderings/ThemeSelector"
+            },
+			{
+                "name": "settings-rendering-variants",
+                "path": "/sitecore/system/Settings/Feature/FastLane/Renderings/ThemeSelector"
+            }
+        ]
+    }
+}

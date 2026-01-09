@@ -1,0 +1,51 @@
+﻿---
+ID: "9e9815c0-fedf-43b9-8a55-ca371cfa6c99"
+Parent: "83971454-a572-40e2-987b-6958bd9721e8"
+Template: "f1828a2c-7e5d-4bbd-98ca-320474871548"
+Path: "/sitecore/media library/Project/FastLane/shared/PageIcons/server-crash"
+SharedFields:
+- ID: "06d5295c-ed2f-4a54-9bf2-26228d113318"
+  Hint: __Icon
+  Value: "-/media/9E9815C0FEDF43B98A55CA371CFA6C99.ashx?h=16&thn=1&w=16"
+- ID: "40e50ed9-ba07-4702-992e-a912738d32dc"
+  Hint: Blob
+  BlobID: "381852b2-f97f-4319-a2db-e1ca5e312ed3"
+  Value: PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSIyNCIgaGVpZ2h0PSIyNCIgdmlld0JveD0iMCAwIDI0IDI0IiBmaWxsPSJub25lIiBzdHJva2U9ImN1cnJlbnRDb2xvciIgc3Ryb2tlLXdpZHRoPSIyIiBzdHJva2UtbGluZWNhcD0icm91bmQiIHN0cm9rZS1saW5lam9pbj0icm91bmQiIGNsYXNzPSJsdWNpZGUgbHVjaWRlLXNlcnZlci1jcmFzaC1pY29uIGx1Y2lkZS1zZXJ2ZXItY3Jhc2giPjxwYXRoIGQ9Ik02IDEwSDRhMiAyIDAgMCAxLTItMlY0YTIgMiAwIDAgMSAyLTJoMTZhMiAyIDAgMCAxIDIgMnY0YTIgMiAwIDAgMS0yIDJoLTIiLz48cGF0aCBkPSJNNiAxNEg0YTIgMiAwIDAgMC0yIDJ2NGEyIDIgMCAwIDAgMiAyaDE2YTIgMiAwIDAgMCAyLTJ2LTRhMiAyIDAgMCAwLTItMmgtMiIvPjxwYXRoIGQ9Ik02IDZoLjAxIi8+PHBhdGggZD0iTTYgMThoLjAxIi8+PHBhdGggZD0ibTEzIDYtNCA2aDZsLTQgNiIvPjwvc3ZnPg==
+- ID: "6954b7c7-2487-423f-8600-436cb3b6dc0e"
+  Hint: Size
+  Value: 487
+- ID: "6f47a0a5-9c94-4b48-abeb-42d38def6054"
+  Hint: Mime Type
+  Value: image/svg+xml
+- ID: "c06867fe-9a43-4c7d-b739-48780492d06f"
+  Hint: Extension
+  Value: svg
+- ID: "dbbbeca1-21c7-4906-9dd2-493c1efa59a2"
+  Hint: __Shared revision
+  Value: "ed890e80-7cf2-48f3-b754-9daced0e77cc"
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20250624T010742Z
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+      Hint: __Owner
+      Value: |
+        sitecore\andy.cohen@altudo.co
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\andy.cohen@altudo.co
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "d9f43446-eeae-4c60-924e-30a4e710ca75"
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\andy.cohen@altudo.co
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20250624T010742Z

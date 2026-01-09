@@ -1,0 +1,68 @@
+{
+    "$schema": "../../../../.sitecore/schemas/ModuleFile.schema.json",
+    "namespace": "Project.FastLane",
+    "references": [ "Foundation" ],
+    "items": {
+        "path": "FastLane",
+        "includes": [
+            {
+                "name": "settings",
+                "path": "/sitecore/system/settings/Project/FastLane"
+            },
+            {
+                "name": "templates",
+                "path": "/sitecore/templates/Project/FastLane"
+            },
+            {
+                "name": "branches",
+                "path": "/sitecore/templates/Branches/Project/FastLane"
+            },
+            {
+                "name": "media",
+                "path": "/sitecore/Media Library/Project/FastLane",
+                "rules": [
+                    {
+                        "path": "/shared",
+                        "scope": "SingleItem",
+                        "allowedPushOperations": "CreateOnly"
+                    },
+                    {
+                        "path": "*",
+                        "scope": "Ignored"
+                    }
+                ]
+            },           
+            {
+                "name": "renderings",
+                "path": "/sitecore/layout/Renderings/Project/FastLane"
+            },
+            {
+                "name": "placeholders",
+                "path": "/sitecore/layout/Placeholder Settings/Project/FastLane"
+            },
+            {
+                "name": "workflows",
+                "path": "/sitecore/system/Workflows",
+                "rules": [
+                    {
+                        "path": "/Datasource Workflow",
+                        "scope": "ItemAndDescendants"
+                    },
+                    {
+                        "path": "/Page Workflow",
+                        "scope": "ItemAndDescendants"
+                    },
+                    {
+                        "path": "*",
+                        "scope": "Ignored"
+                    }
+                ]
+            },
+            {
+                "name": "content",
+                "path": "/sitecore/content/FastLaneTenant",
+                "scope": "singleItem"
+            }
+        ]
+    }
+}

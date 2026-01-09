@@ -1,0 +1,63 @@
+﻿---
+ID: "62e507ef-2a38-4c83-9f0b-36de89ef3d65"
+Parent: "80c483a8-aa4e-4700-ba12-454f58171b84"
+Template: "f1828a2c-7e5d-4bbd-98ca-320474871548"
+Path: /sitecore/media library/Project/FastLane/shared/FooterLogos/Apple Store
+SharedFields:
+- ID: "06d5295c-ed2f-4a54-9bf2-26228d113318"
+  Hint: __Icon
+  Value: "-/media/62E507EF2A384C839F0B36DE89EF3D65.ashx?h=16&thn=1&w=16"
+- ID: "22eac599-f13b-4607-a89d-c091763a467d"
+  Hint: Width
+  Value: 120
+- ID: "40e50ed9-ba07-4702-992e-a912738d32dc"
+  Hint: Blob
+  BlobID: "973047be-d801-4a3f-8747-bacd9910efd5"
+  Value: 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
+- ID: "6954b7c7-2487-423f-8600-436cb3b6dc0e"
+  Hint: Size
+  Value: 2535
+- ID: "6f47a0a5-9c94-4b48-abeb-42d38def6054"
+  Hint: Mime Type
+  Value: image/png
+- ID: "c06867fe-9a43-4c7d-b739-48780492d06f"
+  Hint: Extension
+  Value: png
+- ID: "cb09946f-3218-4823-87d2-d5007c199a96"
+  Hint: Dimensions
+  Value: 120 x 40
+- ID: "dbbbeca1-21c7-4906-9dd2-493c1efa59a2"
+  Hint: __Shared revision
+  Value: "1b3aeee5-bcba-4abf-b9d7-749597582fcd"
+- ID: "de2ca9e4-c117-4c8a-a139-1ff4b199d15a"
+  Hint: Height
+  Value: 40
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20250528T071011Z
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+      Hint: __Owner
+      Value: |
+        sitecore\karthikeyan.kumaravel@altudo.co
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\karthikeyan.kumaravel@altudo.co
+    - ID: "65885c44-8fcd-4a7f-94f1-ee63703fe193"
+      Hint: Alt
+      Value: Apple Store
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "4bee9e76-2a50-4997-8316-a30e6922bafd"
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\karthikeyan.kumaravel@altudo.co
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20250528T071021Z

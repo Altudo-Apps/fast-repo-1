@@ -1,0 +1,143 @@
+﻿---
+ID: "3e1b8ceb-0e49-4348-803e-2d99ce4e59d4"
+Parent: "ee2d8dd6-8ca7-49a2-b9f8-4810487a0116"
+Template: "9b0ee820-703c-4649-9eef-684a1b297ffd"
+Path: /sitecore/content/FastLaneTenant/global/Data/SocialLinks/Instagram
+BranchID: "fe026ac2-9ee3-4e63-bd3d-1e5b1f4a7d69"
+SharedFields:
+- ID: "a4f985d9-98b3-4b52-aaaf-4344f6e747c6"
+  Hint: __Workflow
+  Value: "{9A1B3B33-17C0-4DAE-A533-CEC7FA11F68A}"
+- ID: "dbbbeca1-21c7-4906-9dd2-493c1efa59a2"
+  Hint: __Shared revision
+  Value: "e877e09b-3419-41b9-80c0-1131189038ec"
+- ID: "f6d8a61c-2f84-4401-bd24-52d2068172bc"
+  Hint: __Originator
+  Value: "{D8750F2E-523B-491A-B0C1-8A30549554EE}"
+Languages:
+- Language: "ar-AE"
+  Fields:
+  - ID: "30e85e5d-e00a-4864-b358-7624d511deb4"
+    Hint: __Unversioned revision
+    Value: "8a721269-e337-4aab-b0b0-25ca155e66fe"
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20250629T172640Z
+    - ID: "3e431de1-525e-47a3-b6b0-1ccbec3a8c98"
+      Hint: __Workflow state
+      Value: "{B71D5C66-667B-4CF1-BE66-342C8B59A4DB}"
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+      Hint: __Owner
+      Value: |
+        sitecore\karthikeyan.kumaravel@altudo.co
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\andy.cohen@altudo.co
+    - ID: "66c510fd-541a-4c84-8cd2-54dd2dfdc333"
+      Hint: SocialLink
+      Value: |
+        <link text="Instagram" linktype="external" url="https://www.instagram.com" anchor="" title="Instagram" target="_blank" />
+    - ID: "6c577ce5-422b-43f2-8d61-e67cda14391d"
+      Hint: SocialIcon
+      Value: |
+        <image mediaid="{9E079DA4-69DF-4A89-AF96-C7AC83737367}" />
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "9836aaef-7c2f-402c-b2e1-f50b010faa0c"
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\karthikeyan.kumaravel@altudo.co
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20251104T183241Z
+- Language: en
+  Fields:
+  - ID: "30e85e5d-e00a-4864-b358-7624d511deb4"
+    Hint: __Unversioned revision
+    Value: "d797ae76-ee05-4307-9a55-7670654ecdfe"
+  - ID: "b5e02ad9-d56f-4c41-a065-a133db87bdeb"
+    Hint: __Display name
+    Value: 
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "001dd393-96c5-490b-924a-b0f25cd9efd8"
+      Hint: __Lock
+      Value: <r />
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20250629T172640Z
+    - ID: "3e431de1-525e-47a3-b6b0-1ccbec3a8c98"
+      Hint: __Workflow state
+      Value: "{B71D5C66-667B-4CF1-BE66-342C8B59A4DB}"
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+      Hint: __Owner
+      Value: |
+        sitecore\andy.cohen@altudo.co
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\andy.cohen@altudo.co
+    - ID: "66c510fd-541a-4c84-8cd2-54dd2dfdc333"
+      Hint: SocialLink
+      Value: |
+        <link text="Instagram" linktype="external" url="https://www.instagram.com" anchor="" title="Instagram" target="_blank" />
+    - ID: "6c577ce5-422b-43f2-8d61-e67cda14391d"
+      Hint: SocialIcon
+      Value: |
+        <image mediaid="{9E079DA4-69DF-4A89-AF96-C7AC83737367}" />
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "ded9043c-64cc-43ea-9d25-70239d02cb6f"
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\andy.cohen@altudo.co
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20250629T173334Z
+- Language: "fr-CA"
+  Fields:
+  - ID: "30e85e5d-e00a-4864-b358-7624d511deb4"
+    Hint: __Unversioned revision
+    Value: "be536df7-ace4-4e91-be1c-59e5ecab45f9"
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20250629T172640Z
+    - ID: "3e431de1-525e-47a3-b6b0-1ccbec3a8c98"
+      Hint: __Workflow state
+      Value: "{B71D5C66-667B-4CF1-BE66-342C8B59A4DB}"
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+      Hint: __Owner
+      Value: |
+        sitecore\karthikeyan.kumaravel@altudo.co
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\andy.cohen@altudo.co
+    - ID: "66c510fd-541a-4c84-8cd2-54dd2dfdc333"
+      Hint: SocialLink
+      Value: |
+        <link text="Instagram" linktype="external" url="https://www.instagram.com" anchor="" title="Instagram" target="_blank" />
+    - ID: "6c577ce5-422b-43f2-8d61-e67cda14391d"
+      Hint: SocialIcon
+      Value: |
+        <image mediaid="{9E079DA4-69DF-4A89-AF96-C7AC83737367}" />
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "32e7132d-d597-4e7d-b44d-f0452f7cdebb"
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\karthikeyan.kumaravel@altudo.co
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20251104T182719Z

@@ -1,0 +1,41 @@
+﻿---
+ID: "788fe569-274e-451a-933c-f3c44c9e65d7"
+Parent: "a885d723-90c9-49e8-b10d-2d15f021bdeb"
+Template: "a885d723-90c9-49e8-b10d-2d15f021bdeb"
+Path: /sitecore/templates/Feature/FastLane/Renderings/Tabs/Tabs/__Standard Values
+SharedFields:
+- ID: "06d5295c-ed2f-4a54-9bf2-26228d113318"
+  Hint: __Icon
+  Value: "/sitecore/media library/Project/FastLaneTenant/shared/ComponentIcons/-/media/82765EB5B15D4977B04E50EFFC5E4152.ashx?thn=1&db=master"
+- ID: "1172f251-dad4-4efb-a329-0c63500e4f1e"
+  Hint: __Masters
+  Value: "{40588F73-B6D1-4345-8AFF-638137FFDBFC}"
+- ID: "dbbbeca1-21c7-4906-9dd2-493c1efa59a2"
+  Hint: __Shared revision
+  Value: "624d8b59-4ef2-434d-b8d5-b84fb18bfb23"
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20250417T183304Z
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+      Hint: __Owner
+      Value: |
+        sitecore\andy.cohen@altudo.co
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\andy.cohen@altudo.co
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "a632c702-e9e5-4d65-bc1b-9cad489cb4ce"
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\andy.cohen@altudo.co
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20250629T181440Z

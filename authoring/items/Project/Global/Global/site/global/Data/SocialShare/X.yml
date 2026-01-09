@@ -1,0 +1,140 @@
+﻿---
+ID: "bf646af5-2060-41b1-be86-b6ad4e2c83a3"
+Parent: "1ca672c3-e41f-45e0-85c9-29ad7da178b5"
+Template: "c16a4c28-0a40-4d2c-9f19-20648c62b054"
+Path: /sitecore/content/FastLaneTenant/global/Data/SocialShare/X
+BranchID: "c8547450-f5cc-4b84-9127-74215d27b7ba"
+SharedFields:
+- ID: "a4f985d9-98b3-4b52-aaaf-4344f6e747c6"
+  Hint: __Workflow
+  Value: "{9A1B3B33-17C0-4DAE-A533-CEC7FA11F68A}"
+- ID: "dbbbeca1-21c7-4906-9dd2-493c1efa59a2"
+  Hint: __Shared revision
+  Value: "9c49763e-dea4-4bca-a8a1-25f2ad46a470"
+- ID: "f6d8a61c-2f84-4401-bd24-52d2068172bc"
+  Hint: __Originator
+  Value: "{81AD4310-3689-4814-B7A3-731157303903}"
+Languages:
+- Language: "ar-AE"
+  Fields:
+  - ID: "30e85e5d-e00a-4864-b358-7624d511deb4"
+    Hint: __Unversioned revision
+    Value: "447df324-e44c-468d-9aac-a7e3a906d50a"
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20250629T172647Z
+    - ID: "3e431de1-525e-47a3-b6b0-1ccbec3a8c98"
+      Hint: __Workflow state
+      Value: "{B71D5C66-667B-4CF1-BE66-342C8B59A4DB}"
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+      Hint: __Owner
+      Value: |
+        sitecore\karthikeyan.kumaravel@altudo.co
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\andy.cohen@altudo.co
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "b6526e34-f382-43a2-bb15-84a562c5cbcc"
+    - ID: "aa4e5f92-cbb0-4134-ba73-fe27fc4e2e7a"
+      Hint: SocialIcon
+      Value: |
+        <image mediaid="{8F4207AF-DC45-4EE4-844E-EB14ECF227A1}" alt="X" height="" width="" hspace="" vspace="" />
+    - ID: "ba0a52e5-b8a7-46fd-b24d-815c5d720b96"
+      Hint: Title
+      Value: X
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\karthikeyan.kumaravel@altudo.co
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20251104T183245Z
+- Language: en
+  Fields:
+  - ID: "30e85e5d-e00a-4864-b358-7624d511deb4"
+    Hint: __Unversioned revision
+    Value: "b7460a91-abf2-4323-8a77-2b6a621ffa65"
+  - ID: "b5e02ad9-d56f-4c41-a065-a133db87bdeb"
+    Hint: __Display name
+    Value: 
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "001dd393-96c5-490b-924a-b0f25cd9efd8"
+      Hint: __Lock
+      Value: <r />
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20250629T172647Z
+    - ID: "3e431de1-525e-47a3-b6b0-1ccbec3a8c98"
+      Hint: __Workflow state
+      Value: "{B71D5C66-667B-4CF1-BE66-342C8B59A4DB}"
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+      Hint: __Owner
+      Value: |
+        sitecore\andy.cohen@altudo.co
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\andy.cohen@altudo.co
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "a52e32a9-3d3e-44d4-b439-17bcfcde4a8f"
+    - ID: "aa4e5f92-cbb0-4134-ba73-fe27fc4e2e7a"
+      Hint: SocialIcon
+      Value: |
+        <image mediaid="{8F4207AF-DC45-4EE4-844E-EB14ECF227A1}" alt="X" height="" width="" hspace="" vspace="" />
+    - ID: "ba0a52e5-b8a7-46fd-b24d-815c5d720b96"
+      Hint: Title
+      Value: X
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\andy.cohen@altudo.co
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20250629T173335Z
+- Language: "fr-CA"
+  Fields:
+  - ID: "30e85e5d-e00a-4864-b358-7624d511deb4"
+    Hint: __Unversioned revision
+    Value: "78bfcf07-681a-4b37-8f3d-9846d0308ac8"
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20250629T172647Z
+    - ID: "3e431de1-525e-47a3-b6b0-1ccbec3a8c98"
+      Hint: __Workflow state
+      Value: "{B71D5C66-667B-4CF1-BE66-342C8B59A4DB}"
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+      Hint: __Owner
+      Value: |
+        sitecore\karthikeyan.kumaravel@altudo.co
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\andy.cohen@altudo.co
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "39e3ccdf-d734-4f6d-9733-b0d068dcd84b"
+    - ID: "aa4e5f92-cbb0-4134-ba73-fe27fc4e2e7a"
+      Hint: SocialIcon
+      Value: |
+        <image mediaid="{8F4207AF-DC45-4EE4-844E-EB14ECF227A1}" alt="X" height="" width="" hspace="" vspace="" />
+    - ID: "ba0a52e5-b8a7-46fd-b24d-815c5d720b96"
+      Hint: Title
+      Value: X
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\karthikeyan.kumaravel@altudo.co
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20251104T182723Z

@@ -1,0 +1,41 @@
+﻿---
+ID: "ae475f20-44b3-49e2-a0e9-131aa5dcaae8"
+Parent: "03125946-ef5e-49cc-9b34-4e15329d25db"
+Template: "1b8efd56-13c3-4d05-9ab0-50e7ead70c5a"
+Path: /sitecore/templates/Branches/Feature/FastLane/Data/MegaNav Folder/MegaNav/Header/MegaNavHeader/Solutions
+SharedFields:
+- ID: "ba3f86a2-4a1c-4d78-b63d-91c2779c1b5e"
+  Hint: __Sortorder
+  Value: 50
+- ID: "dbbbeca1-21c7-4906-9dd2-493c1efa59a2"
+  Hint: __Shared revision
+  Value: "5488d211-ab6b-4f99-8cc8-c0e0a3b6b914"
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20250429T123254Z
+    - ID: "42a8a54d-39d0-4d90-abb6-73c5def9f2ba"
+      Hint: MegaNavTitle
+      Value: Solutions
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+      Hint: __Owner
+      Value: |
+        sitecore\karthikeyan.kumaravel@altudo.co
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\karthikeyan.kumaravel@altudo.co
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "aa9aa31e-ca4a-4932-8883-d90e02c7edfd"
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\andy.cohen@altudo.co
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20250618T155823Z

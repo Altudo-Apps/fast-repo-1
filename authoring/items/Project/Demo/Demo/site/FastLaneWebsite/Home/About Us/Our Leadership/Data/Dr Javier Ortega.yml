@@ -1,0 +1,148 @@
+﻿---
+ID: "be3040ac-d99e-49ca-b0c1-5dd3f8c01350"
+Parent: "dff0d9d1-8bc5-4b53-81ed-ade666f47218"
+Template: "e58b7dbf-2a15-4a94-ad45-9c250ac1ac68"
+Path: /sitecore/content/FastLaneTenant/fastlanewebsite/Home/About Us/Our Leadership/Data/Dr Javier Ortega
+SharedFields:
+- ID: "a4f985d9-98b3-4b52-aaaf-4344f6e747c6"
+  Hint: __Workflow
+  Value: "{9A1B3B33-17C0-4DAE-A533-CEC7FA11F68A}"
+- ID: "dbbbeca1-21c7-4906-9dd2-493c1efa59a2"
+  Hint: __Shared revision
+  Value: "b8ff1cd6-973d-4af5-8b3b-2b6418343c3d"
+Languages:
+- Language: "ar-AE"
+  Fields:
+  - ID: "30e85e5d-e00a-4864-b358-7624d511deb4"
+    Hint: __Unversioned revision
+    Value: "285bb474-5acd-4c88-81f2-906c709a2192"
+  - ID: "b5e02ad9-d56f-4c41-a065-a133db87bdeb"
+    Hint: __Display name
+    Value: 
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20250612T101830Z
+    - ID: "3e431de1-525e-47a3-b6b0-1ccbec3a8c98"
+      Hint: __Workflow state
+      Value: "{B71D5C66-667B-4CF1-BE66-342C8B59A4DB}"
+    - ID: "6128ed46-0b79-4d6a-87ad-ac6fe70c649c"
+      Hint: Category
+      Value: هذا مخصص
+    - ID: "78bd5b13-d9ab-44a4-bae4-c2dda0ad6133"
+      Hint: IntroText
+      Value: <p>الدكتور خافيير أورتيغا هو طبيب وعالم إسباني متخصص في علم الأورام الترجمي وأخلاقيات الطب. بصفته نائب رئيس ICMP، يقود مبادرات التعاون البحثي العالمي والمعايير السريرية. الدكتور أورتيغا، الأستاذ السابق في جامعة برشلونة، معروف بربطه بين الابتكار السريري والسياسات، ودفاعه عن المساواة في الوصول إلى التقنيات الطبية الناشئة.&nbsp;</p>
+    - ID: "7cba72f9-1513-41af-ba26-de761f138805"
+      Hint: Title
+      Value: الدكتور خافيير أورتيغا، دكتوراه في الطب – نائب رئيس ICMP
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "b9b184ca-f8f6-45d5-b97a-7b9a1d1b1b99"
+    - ID: "ba41d59c-a2b6-4f14-8913-7734549cce04"
+      Hint: Image
+      Value: |
+        <image mediaid="{3F761E8A-348F-4686-B2E9-69383A6F88A2}" alt="DrJavier" height="" width="" hspace="" vspace="" />
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\karthikeyan.kumaravel@altudo.co
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20251106T114800Z
+    - ID: "f56d5ae9-cbca-48e1-b47e-e06a7561fc5d"
+      Hint: CalltoActionLinkMain
+      Value: |
+        <link text="تعرف على المزيد" anchor="" linktype="internal" class="" title="" target="" querystring="" id="{86EB9D56-5738-4632-9FA9-4964B69CDB66}" />
+- Language: en
+  Fields:
+  - ID: "30e85e5d-e00a-4864-b358-7624d511deb4"
+    Hint: __Unversioned revision
+    Value: "1ffd7409-25c6-43b4-a2f1-d9263ca4b57e"
+  - ID: "b5e02ad9-d56f-4c41-a065-a133db87bdeb"
+    Hint: __Display name
+    Value: 
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "001dd393-96c5-490b-924a-b0f25cd9efd8"
+      Hint: __Lock
+      Value: <r />
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20250612T101830Z
+    - ID: "3e431de1-525e-47a3-b6b0-1ccbec3a8c98"
+      Hint: __Workflow state
+      Value: "{B71D5C66-667B-4CF1-BE66-342C8B59A4DB}"
+    - ID: "6128ed46-0b79-4d6a-87ad-ac6fe70c649c"
+      Hint: Category
+      Value: This is an earmark
+    - ID: "78bd5b13-d9ab-44a4-bae4-c2dda0ad6133"
+      Hint: IntroText
+      Value: "<p>Dr. Javier Ortega is a Spanish physician-scientist specializing in translational oncology and medical ethics. As Vice President of ICMP, he leads initiatives on global research collaboration and clinical standards. A former professor at the University of Barcelona, Dr. Ortega is known for bridging clinical innovation with policy, advocating for equitable access to emerging medical technologies.&nbsp;</p>"
+    - ID: "7cba72f9-1513-41af-ba26-de761f138805"
+      Hint: Title
+      Value: Dr. Javier Ortega, MD, PhD – Vice President, ICMP
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "6aed7428-8431-4746-af08-7eab7299d6f8"
+    - ID: "ba41d59c-a2b6-4f14-8913-7734549cce04"
+      Hint: Image
+      Value: |
+        <image mediaid="{3F761E8A-348F-4686-B2E9-69383A6F88A2}" />
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\andy.cohen@altudo.co
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20250629T162205Z
+    - ID: "f56d5ae9-cbca-48e1-b47e-e06a7561fc5d"
+      Hint: CalltoActionLinkMain
+      Value: |
+        <link linktype="internal" id="86eb9d56-5738-4632-9fa9-4964b69cdb66" anchor="" querystring="" target="" class="" text="Learn More" title=""/>
+- Language: "fr-CA"
+  Fields:
+  - ID: "30e85e5d-e00a-4864-b358-7624d511deb4"
+    Hint: __Unversioned revision
+    Value: "9367cae9-e048-40b4-90b1-7dd6509a650c"
+  - ID: "b5e02ad9-d56f-4c41-a065-a133db87bdeb"
+    Hint: __Display name
+    Value: 
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20250612T101830Z
+    - ID: "3e431de1-525e-47a3-b6b0-1ccbec3a8c98"
+      Hint: __Workflow state
+      Value: "{B71D5C66-667B-4CF1-BE66-342C8B59A4DB}"
+    - ID: "6128ed46-0b79-4d6a-87ad-ac6fe70c649c"
+      Hint: Category
+      Value: Il s'agit d'une affectation spéciale
+    - ID: "78bd5b13-d9ab-44a4-bae4-c2dda0ad6133"
+      Hint: IntroText
+      Value: "<p>Le Dr Javier Ortega est un m&eacute;decin-chercheur espagnol sp&eacute;cialis&eacute; en oncologie translationnelle et en &eacute;thique m&eacute;dicale. En tant que vice-pr&eacute;sident de l'ICMP, il pilote des initiatives de collaboration internationale en mati&egrave;re de recherche et de normes cliniques. Ancien professeur &agrave; l'Universit&eacute; de Barcelone, le Dr Ortega est reconnu pour son r&ocirc;le de catalyseur de l'innovation clinique et des politiques de sant&eacute;, et pour son plaidoyer en faveur d'un acc&egrave;s &eacute;quitable aux nouvelles technologies m&eacute;dicales.&nbsp;</p>"
+    - ID: "7cba72f9-1513-41af-ba26-de761f138805"
+      Hint: Title
+      Value: "Dr Javier Ortega, MD, PhD – Vice-président, ICMP"
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "08123b21-4557-4ae4-aacb-253c5f7af259"
+    - ID: "ba41d59c-a2b6-4f14-8913-7734549cce04"
+      Hint: Image
+      Value: |
+        <image mediaid="{3F761E8A-348F-4686-B2E9-69383A6F88A2}" alt="DrJavier" height="" width="" hspace="" vspace="" />
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\karthikeyan.kumaravel@altudo.co
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20251126T133708Z
+    - ID: "f56d5ae9-cbca-48e1-b47e-e06a7561fc5d"
+      Hint: CalltoActionLinkMain
+      Value: |
+        <link text="Apprendre encore plus" anchor="" linktype="internal" class="" title="Apprendre encore plus" target="" querystring="" id="{86EB9D56-5738-4632-9FA9-4964B69CDB66}" />

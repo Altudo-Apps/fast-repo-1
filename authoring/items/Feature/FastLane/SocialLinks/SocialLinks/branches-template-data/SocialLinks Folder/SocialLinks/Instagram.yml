@@ -1,0 +1,38 @@
+﻿---
+ID: "d8750f2e-523b-491a-b0c1-8a30549554ee"
+Parent: "41be8339-1100-4c64-a7b5-679d311a982e"
+Template: "9b0ee820-703c-4649-9eef-684a1b297ffd"
+Path: /sitecore/templates/Branches/Feature/FastLane/Data/SocialLinks Folder/SocialLinks/Instagram
+Languages:
+- Language: en
+  Fields:
+  - ID: "30e85e5d-e00a-4864-b358-7624d511deb4"
+    Hint: __Unversioned revision
+    Value: "2274e40d-cf4f-4a7a-a04f-c5d10907f7fb"
+  - ID: "b5e02ad9-d56f-4c41-a065-a133db87bdeb"
+    Hint: __Display name
+    Value: 
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20250224T121241Z
+    - ID: "66c510fd-541a-4c84-8cd2-54dd2dfdc333"
+      Hint: SocialLink
+      Value: |
+        <link text="Instagram" linktype="external" url="https://www.instagram.com" anchor="" title="Instagram" target="_blank" />
+    - ID: "6c577ce5-422b-43f2-8d61-e67cda14391d"
+      Hint: SocialIcon
+      Value: |
+        <image mediaid="{9E079DA4-69DF-4A89-AF96-C7AC83737367}" />
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "326f87e8-5b12-4532-800d-c4519589b3e9"
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\andy.cohen@altudo.co
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20250625T160410Z

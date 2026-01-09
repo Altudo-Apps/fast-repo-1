@@ -1,0 +1,143 @@
+﻿---
+ID: "6b193633-69e0-4f73-bdea-b037b967d551"
+Parent: "ee2d8dd6-8ca7-49a2-b9f8-4810487a0116"
+Template: "9b0ee820-703c-4649-9eef-684a1b297ffd"
+Path: /sitecore/content/FastLaneTenant/global/Data/SocialLinks/Youtube
+BranchID: "fe026ac2-9ee3-4e63-bd3d-1e5b1f4a7d69"
+SharedFields:
+- ID: "a4f985d9-98b3-4b52-aaaf-4344f6e747c6"
+  Hint: __Workflow
+  Value: "{9A1B3B33-17C0-4DAE-A533-CEC7FA11F68A}"
+- ID: "dbbbeca1-21c7-4906-9dd2-493c1efa59a2"
+  Hint: __Shared revision
+  Value: "67e302bb-4882-480b-9770-453efd045ee4"
+- ID: "f6d8a61c-2f84-4401-bd24-52d2068172bc"
+  Hint: __Originator
+  Value: "{AE6A3F91-EDF1-4183-8E4D-B5A460917F83}"
+Languages:
+- Language: "ar-AE"
+  Fields:
+  - ID: "30e85e5d-e00a-4864-b358-7624d511deb4"
+    Hint: __Unversioned revision
+    Value: "b7ec2f84-bab8-4b49-bb7d-b40b72930507"
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20250629T172641Z
+    - ID: "3e431de1-525e-47a3-b6b0-1ccbec3a8c98"
+      Hint: __Workflow state
+      Value: "{B71D5C66-667B-4CF1-BE66-342C8B59A4DB}"
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+      Hint: __Owner
+      Value: |
+        sitecore\karthikeyan.kumaravel@altudo.co
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\andy.cohen@altudo.co
+    - ID: "66c510fd-541a-4c84-8cd2-54dd2dfdc333"
+      Hint: SocialLink
+      Value: |
+        <link text="Youtube" linktype="external" url="https://www.youtube.com" anchor="" title="Youtube" target="_blank" />
+    - ID: "6c577ce5-422b-43f2-8d61-e67cda14391d"
+      Hint: SocialIcon
+      Value: |
+        <image mediaid="{0D23D121-8CB6-485D-BBAE-34A74777B605}" alt="" />
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "d93d4675-5ea6-4fdd-804d-de268ecb7a28"
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\karthikeyan.kumaravel@altudo.co
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20251104T183243Z
+- Language: en
+  Fields:
+  - ID: "30e85e5d-e00a-4864-b358-7624d511deb4"
+    Hint: __Unversioned revision
+    Value: "c739f19d-3edc-40d6-ae88-10db86684230"
+  - ID: "b5e02ad9-d56f-4c41-a065-a133db87bdeb"
+    Hint: __Display name
+    Value: 
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "001dd393-96c5-490b-924a-b0f25cd9efd8"
+      Hint: __Lock
+      Value: <r />
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20250629T172641Z
+    - ID: "3e431de1-525e-47a3-b6b0-1ccbec3a8c98"
+      Hint: __Workflow state
+      Value: "{B71D5C66-667B-4CF1-BE66-342C8B59A4DB}"
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+      Hint: __Owner
+      Value: |
+        sitecore\andy.cohen@altudo.co
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\andy.cohen@altudo.co
+    - ID: "66c510fd-541a-4c84-8cd2-54dd2dfdc333"
+      Hint: SocialLink
+      Value: |
+        <link text="Youtube" linktype="external" url="https://www.youtube.com" anchor="" title="Youtube" target="_blank" />
+    - ID: "6c577ce5-422b-43f2-8d61-e67cda14391d"
+      Hint: SocialIcon
+      Value: |
+        <image mediaid="{0D23D121-8CB6-485D-BBAE-34A74777B605}" alt="" />
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "272f44ad-7a0e-401e-ba7a-c96826b8cf8a"
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\andy.cohen@altudo.co
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20250629T173334Z
+- Language: "fr-CA"
+  Fields:
+  - ID: "30e85e5d-e00a-4864-b358-7624d511deb4"
+    Hint: __Unversioned revision
+    Value: "7184b2b6-a9da-48a6-a4db-027ce8736bea"
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20250629T172641Z
+    - ID: "3e431de1-525e-47a3-b6b0-1ccbec3a8c98"
+      Hint: __Workflow state
+      Value: "{B71D5C66-667B-4CF1-BE66-342C8B59A4DB}"
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+      Hint: __Owner
+      Value: |
+        sitecore\karthikeyan.kumaravel@altudo.co
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\andy.cohen@altudo.co
+    - ID: "66c510fd-541a-4c84-8cd2-54dd2dfdc333"
+      Hint: SocialLink
+      Value: |
+        <link text="Youtube" linktype="external" url="https://www.youtube.com" anchor="" title="Youtube" target="_blank" />
+    - ID: "6c577ce5-422b-43f2-8d61-e67cda14391d"
+      Hint: SocialIcon
+      Value: |
+        <image mediaid="{0D23D121-8CB6-485D-BBAE-34A74777B605}" alt="" />
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "a6a74878-ec6f-44a9-92fb-b90e32ec2349"
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\karthikeyan.kumaravel@altudo.co
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20251104T182721Z

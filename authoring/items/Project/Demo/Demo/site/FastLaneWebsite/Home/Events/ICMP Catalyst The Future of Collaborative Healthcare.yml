@@ -1,0 +1,1000 @@
+﻿---
+ID: "4ba7f959-06ca-462a-8d21-ed87f81b10d6"
+Parent: "431964b0-6101-419b-8f26-baa3644a25ea"
+Template: "6429bd7b-c674-4249-a95b-e382a2672901"
+Path: /sitecore/content/FastLaneTenant/fastlanewebsite/Home/Events/ICMP Catalyst The Future of Collaborative Healthcare
+BranchID: "cb76d74b-9353-4b42-98a7-1d258629f596"
+SharedFields:
+- ID: "24171bf1-c0e1-480e-be76-4c0a1876f916"
+  Hint: Page Design
+  Value: 
+- ID: "a4f985d9-98b3-4b52-aaaf-4344f6e747c6"
+  Hint: __Workflow
+  Value: "{CF913994-CC05-4D20-B38A-9CF1E73F5951}"
+- ID: "ba3f86a2-4a1c-4d78-b63d-91c2779c1b5e"
+  Hint: __Sortorder
+  Value: 550
+- ID: "c7c26117-dbb1-42b2-ab5e-f7223845cca3"
+  Hint: __Thumbnail
+  Value: 
+- ID: "dbbbeca1-21c7-4906-9dd2-493c1efa59a2"
+  Hint: __Shared revision
+  Value: "0e6b49a1-b81f-4e96-9856-ba67ec05ff10"
+- ID: "f1a1fe9e-a60c-4ddb-a3a0-bb5b29fe732e"
+  Hint: __Renderings
+  Value: |
+    <r xmlns:p="p" xmlns:s="s"
+      p:p="1">
+      <d
+        id="{FE5D7FDF-89C0-4D99-9AA3-B5FBD009C9F3}">
+        <r
+          uid="{1723C83B-BA1A-4AD5-99CA-69D0DD29A20D}"
+          p:before="*"
+          s:id="{F7295588-FA7F-448E-B222-F64005B22E8D}"
+          s:par="GridParameters&amp;ImageOrder&amp;FieldNames&amp;Styles=%7BEF57264A-DE76-4138-8D84-E1C9D0817B1F%7D%7C%7BCC371879-3C7C-4284-BDD1-E567746F8059%7D%7C%7BC89F12C0-1C9B-468D-A613-A5B2ECE35DEC%7D%7C%7BB9987F84-3F44-4164-B67C-4358C72DA416%7D%7C%7BA7198BFC-02EC-4906-B92E-EDBD12BED619%7D%7C%7B87D3E96C-A4B5-49D7-A1D1-8891FE624EF2%7D%7C%7BA4F0BA41-0D86-412D-8293-96EE7FE1096F%7D%7C%7BABAB66E7-B2A7-45D5-8240-A9D4F0439C01%7D%7C%7BCE4890CA-AEDB-4109-AD9A-50073570D394%7D%7C%7B62046E34-8C5E-44C4-B092-537547D5E1CC%7D%7C%7B7BC5B335-BFB0-4B2D-9767-CF4B70E2B8EE%7D%7C%7B3695D896-A0DB-4B57-AE2D-11C49F1D0132%7D%7C%7BABDFECBD-593D-4966-9B44-8B10D2E83F24%7D%7C%7B498BD240-85CF-450D-B482-0B90A9047088%7D%7C%7BACA1D298-4F90-4EA9-8281-82D0BBB1E353%7D&amp;RenderingIdentifier&amp;CSSStyles&amp;DynamicPlaceholderId=1"
+          s:ph="/headless-main/sxa-newsarticlepage/container-1/column-1-3/container-4" />
+        <r
+          uid="{B5B91E36-B86A-4E82-8A53-27302636B6B8}"
+          p:after="r[@uid='{1723C83B-BA1A-4AD5-99CA-69D0DD29A20D}']"
+          s:id="{B7C649C8-C683-44CB-9A87-AEBEA3DA8EB3}"
+          s:par="GridParameters=%7BF61E01E9-711A-4C99-AE30-4E28463E1DF7%7D&amp;FieldNames=%7B129985C4-D854-49F5-9602-9E1D1B8DF899%7D&amp;BackgroundImage&amp;Styles&amp;RenderingIdentifier&amp;CSSStyles&amp;DynamicPlaceholderId=18"
+          s:ph="/headless-main/sxa-newsarticlepage/container-1/column-1-3/container-4" />
+        <r
+          uid="{7398E804-9FD5-430C-AD91-6ECE1091DA19}"
+          p:after="r[@uid='{B5B91E36-B86A-4E82-8A53-27302636B6B8}']"
+          s:ds="local:/Data/EventTabs/Continuing Education"
+          s:id="{76E2F3B2-FD41-4984-BEF0-F39ED93C577C}"
+          s:par="GridParameters=%7BF61E01E9-711A-4C99-AE30-4E28463E1DF7%7D&amp;FieldNames=%7BFD7EAADE-C6F5-4332-A3FC-81AA6501C989%7D&amp;Styles&amp;RenderingIdentifier&amp;CSSStyles&amp;DynamicPlaceholderId=5"
+          s:ph="/headless-main/sxa-newsarticlepage/container-1/column-1-3/container-4/container-18/navtab-4" />
+        <r
+          uid="{0162E08A-8FB3-4582-8419-09B309E2E9A1}"
+          p:after="r[@uid='{7398E804-9FD5-430C-AD91-6ECE1091DA19}']"
+          s:ds="local:/Data/EventTabs/Venue"
+          s:id="{76E2F3B2-FD41-4984-BEF0-F39ED93C577C}"
+          s:par="GridParameters=%7BF61E01E9-711A-4C99-AE30-4E28463E1DF7%7D&amp;FieldNames=%7BFD7EAADE-C6F5-4332-A3FC-81AA6501C989%7D&amp;Styles&amp;RenderingIdentifier&amp;CSSStyles&amp;DynamicPlaceholderId=6"
+          s:ph="/headless-main/sxa-newsarticlepage/container-1/column-1-3/container-4/container-18/navtab-4" />
+        <r
+          uid="{206295F1-2C6D-48F1-8B2B-F62CF8ED690A}"
+          p:after="r[@uid='{0162E08A-8FB3-4582-8419-09B309E2E9A1}']"
+          s:ds="local:/Data/EventTabs/Admission Discounts"
+          s:id="{76E2F3B2-FD41-4984-BEF0-F39ED93C577C}"
+          s:par="GridParameters=%7BF61E01E9-711A-4C99-AE30-4E28463E1DF7%7D&amp;FieldNames=%7BFD7EAADE-C6F5-4332-A3FC-81AA6501C989%7D&amp;Styles&amp;RenderingIdentifier&amp;CSSStyles&amp;DynamicPlaceholderId=8"
+          s:ph="/headless-main/sxa-newsarticlepage/container-1/column-1-3/container-4/container-18/navtab-4" />
+        <r
+          uid="{4F25E3A4-7187-4755-A917-EA09B57266CB}"
+          p:after="r[@uid='{206295F1-2C6D-48F1-8B2B-F62CF8ED690A}']"
+          s:ds="local:/Data/EventTabs/Pre-Event Workshops"
+          s:id="{76E2F3B2-FD41-4984-BEF0-F39ED93C577C}"
+          s:par="GridParameters=%7BF61E01E9-711A-4C99-AE30-4E28463E1DF7%7D&amp;FieldNames=%7BFD7EAADE-C6F5-4332-A3FC-81AA6501C989%7D&amp;Styles&amp;RenderingIdentifier&amp;CSSStyles&amp;DynamicPlaceholderId=7"
+          s:ph="/headless-main/sxa-newsarticlepage/container-1/column-1-3/container-4/container-18/navtab-4" />
+        <r
+          uid="{7D15DD13-D3FF-4765-AD3F-56F2A5EFB61F}"
+          p:after="r[@uid='{4F25E3A4-7187-4755-A917-EA09B57266CB}']"
+          s:id="{15CABDFF-FFD9-48F4-826D-A4C3D7868D3A}"
+          s:par="ColumnWidth1=%7B670536BF-55BC-4EBD-BBE5-00D9A5E9AF50%7D&amp;ColumnWidth2=%7B670536BF-55BC-4EBD-BBE5-00D9A5E9AF50%7D&amp;ColumnWidth3&amp;ColumnWidth4&amp;ColumnWidth5&amp;ColumnWidth6&amp;ColumnWidth7&amp;ColumnWidth8&amp;GridParameters=%7BF61E01E9-711A-4C99-AE30-4E28463E1DF7%7D&amp;SplitterSize=2&amp;EnabledPlaceholders=1%2C2&amp;FieldNames&amp;Styles1&amp;Styles2&amp;Styles3&amp;Styles4&amp;Styles5&amp;Styles6&amp;Styles7&amp;Styles&amp;Styles8&amp;RenderingIdentifier&amp;CSSStyles&amp;DynamicPlaceholderId=11"
+          s:ph="/headless-main/sxa-newsarticlepage/container-1/column-1-3/container-4/container-18/navtab-4/navtabcontent-5" />
+        <r
+          uid="{F2B27A14-6567-4CBD-9755-92B717E1FB81}"
+          p:after="r[@uid='{7D15DD13-D3FF-4765-AD3F-56F2A5EFB61F}']"
+          s:ds="local:/Data/Text 3"
+          s:id="{0901D932-0027-4B05-AA78-A8C8320936D5}"
+          s:par="GridParameters=%7BF61E01E9-711A-4C99-AE30-4E28463E1DF7%7D&amp;FieldNames=%7BA4B2A62A-C9FA-43A3-B096-96F2D418AD5C%7D&amp;Styles&amp;RenderingIdentifier&amp;CSSStyles&amp;DynamicPlaceholderId=12"
+          s:ph="/headless-main/sxa-newsarticlepage/container-1/column-1-3/container-4/container-18/navtab-4/navtabcontent-5/column-1-11" />
+        <r
+          uid="{1179C0BF-B4F3-44FD-8524-34AF3BF69266}"
+          p:after="r[@uid='{F2B27A14-6567-4CBD-9755-92B717E1FB81}']"
+          s:ds="local:/Data/Text 4"
+          s:id="{0901D932-0027-4B05-AA78-A8C8320936D5}"
+          s:par="GridParameters=%7BF61E01E9-711A-4C99-AE30-4E28463E1DF7%7D&amp;FieldNames=%7BA4B2A62A-C9FA-43A3-B096-96F2D418AD5C%7D&amp;Styles&amp;RenderingIdentifier&amp;CSSStyles&amp;DynamicPlaceholderId=13"
+          s:ph="/headless-main/sxa-newsarticlepage/container-1/column-2-3" />
+        <r
+          uid="{7335002F-274C-4FDD-B03E-C01A04893172}"
+          p:after="r[@uid='{1179C0BF-B4F3-44FD-8524-34AF3BF69266}']"
+          s:ds="local:/Data/Event1"
+          s:id="{2AC9F9B4-0E80-4B4E-BC71-A52B5F1C8D9B}"
+          s:par="CTAButton=1&amp;CardOrientation=vertical&amp;ImageOrder&amp;HeaderTag&amp;LinkType=Button&amp;GridParameters=%7BF61E01E9-711A-4C99-AE30-4E28463E1DF7%7D&amp;FieldNames=%7B3427D6A0-EB73-4CB7-A24F-FBE8CD8FB35A%7D&amp;Styles=%7BEF57264A-DE76-4138-8D84-E1C9D0817B1F%7D%7C%7BCC371879-3C7C-4284-BDD1-E567746F8059%7D%7C%7BC89F12C0-1C9B-468D-A613-A5B2ECE35DEC%7D%7C%7BB9987F84-3F44-4164-B67C-4358C72DA416%7D%7C%7BA7198BFC-02EC-4906-B92E-EDBD12BED619%7D%7C%7B87D3E96C-A4B5-49D7-A1D1-8891FE624EF2%7D%7C%7BA4F0BA41-0D86-412D-8293-96EE7FE1096F%7D%7C%7BABAB66E7-B2A7-45D5-8240-A9D4F0439C01%7D%7C%7BCE4890CA-AEDB-4109-AD9A-50073570D394%7D%7C%7B62046E34-8C5E-44C4-B092-537547D5E1CC%7D%7C%7B7BC5B335-BFB0-4B2D-9767-CF4B70E2B8EE%7D%7C%7B3695D896-A0DB-4B57-AE2D-11C49F1D0132%7D%7C%7BABDFECBD-593D-4966-9B44-8B10D2E83F24%7D%7C%7B498BD240-85CF-450D-B482-0B90A9047088%7D%7C%7BACA1D298-4F90-4EA9-8281-82D0BBB1E353%7D&amp;RenderingIdentifier&amp;CSSStyles&amp;DynamicPlaceholderId=14"
+          s:ph="/headless-main/sxa-newsarticlepage/container-1/column-2-3" />
+        <r
+          uid="{DF9DC9B3-597B-4A09-B078-1669A454686A}"
+          p:after="r[@uid='{7335002F-274C-4FDD-B03E-C01A04893172}']"
+          s:ds="local:/Data/Event2"
+          s:id="{2AC9F9B4-0E80-4B4E-BC71-A52B5F1C8D9B}"
+          s:par="CTAButton=1&amp;CardOrientation=vertical&amp;ImageOrder&amp;HeaderTag&amp;LinkType=Button&amp;GridParameters=%7BF61E01E9-711A-4C99-AE30-4E28463E1DF7%7D&amp;FieldNames=%7B3427D6A0-EB73-4CB7-A24F-FBE8CD8FB35A%7D&amp;Styles=%7BEF57264A-DE76-4138-8D84-E1C9D0817B1F%7D%7C%7BCC371879-3C7C-4284-BDD1-E567746F8059%7D%7C%7BC89F12C0-1C9B-468D-A613-A5B2ECE35DEC%7D%7C%7BB9987F84-3F44-4164-B67C-4358C72DA416%7D%7C%7BA7198BFC-02EC-4906-B92E-EDBD12BED619%7D%7C%7B87D3E96C-A4B5-49D7-A1D1-8891FE624EF2%7D%7C%7BA4F0BA41-0D86-412D-8293-96EE7FE1096F%7D%7C%7BABAB66E7-B2A7-45D5-8240-A9D4F0439C01%7D%7C%7BCE4890CA-AEDB-4109-AD9A-50073570D394%7D%7C%7B62046E34-8C5E-44C4-B092-537547D5E1CC%7D%7C%7B7BC5B335-BFB0-4B2D-9767-CF4B70E2B8EE%7D%7C%7B3695D896-A0DB-4B57-AE2D-11C49F1D0132%7D%7C%7BABDFECBD-593D-4966-9B44-8B10D2E83F24%7D%7C%7B498BD240-85CF-450D-B482-0B90A9047088%7D%7C%7BACA1D298-4F90-4EA9-8281-82D0BBB1E353%7D&amp;RenderingIdentifier&amp;CSSStyles&amp;DynamicPlaceholderId=15"
+          s:ph="/headless-main/sxa-newsarticlepage/container-1/column-2-3" />
+        <r
+          uid="{05DBFD80-E541-4D81-A42D-0C2CF0E063A0}"
+          p:after="r[@uid='{DF9DC9B3-597B-4A09-B078-1669A454686A}']"
+          s:ds="local:/Data/Event3"
+          s:id="{2AC9F9B4-0E80-4B4E-BC71-A52B5F1C8D9B}"
+          s:par="CTAButton=1&amp;CardOrientation=vertical&amp;ImageOrder&amp;HeaderTag&amp;LinkType=Button&amp;GridParameters=%7BF61E01E9-711A-4C99-AE30-4E28463E1DF7%7D&amp;FieldNames=%7B3427D6A0-EB73-4CB7-A24F-FBE8CD8FB35A%7D&amp;Styles=%7BEF57264A-DE76-4138-8D84-E1C9D0817B1F%7D%7C%7BCC371879-3C7C-4284-BDD1-E567746F8059%7D%7C%7BC89F12C0-1C9B-468D-A613-A5B2ECE35DEC%7D%7C%7BB9987F84-3F44-4164-B67C-4358C72DA416%7D%7C%7BA7198BFC-02EC-4906-B92E-EDBD12BED619%7D%7C%7B87D3E96C-A4B5-49D7-A1D1-8891FE624EF2%7D%7C%7BA4F0BA41-0D86-412D-8293-96EE7FE1096F%7D%7C%7BABAB66E7-B2A7-45D5-8240-A9D4F0439C01%7D%7C%7BCE4890CA-AEDB-4109-AD9A-50073570D394%7D%7C%7B62046E34-8C5E-44C4-B092-537547D5E1CC%7D%7C%7B7BC5B335-BFB0-4B2D-9767-CF4B70E2B8EE%7D%7C%7B3695D896-A0DB-4B57-AE2D-11C49F1D0132%7D%7C%7BABDFECBD-593D-4966-9B44-8B10D2E83F24%7D%7C%7B498BD240-85CF-450D-B482-0B90A9047088%7D%7C%7BACA1D298-4F90-4EA9-8281-82D0BBB1E353%7D&amp;RenderingIdentifier&amp;CSSStyles&amp;DynamicPlaceholderId=16"
+          s:ph="/headless-main/sxa-newsarticlepage/container-1/column-2-3" />
+        <r
+          uid="{7A306F90-A2E9-4E5E-B490-AB0DD2D3EABD}"
+          p:after="r[@uid='{05DBFD80-E541-4D81-A42D-0C2CF0E063A0}']"
+          s:ds="local:/Data/Event4"
+          s:id="{2AC9F9B4-0E80-4B4E-BC71-A52B5F1C8D9B}"
+          s:par="CTAButton=1&amp;CardOrientation=vertical&amp;ImageOrder&amp;HeaderTag&amp;LinkType=Button&amp;GridParameters=%7BF61E01E9-711A-4C99-AE30-4E28463E1DF7%7D&amp;FieldNames=%7B3427D6A0-EB73-4CB7-A24F-FBE8CD8FB35A%7D&amp;Styles=%7BEF57264A-DE76-4138-8D84-E1C9D0817B1F%7D%7C%7BCC371879-3C7C-4284-BDD1-E567746F8059%7D%7C%7BC89F12C0-1C9B-468D-A613-A5B2ECE35DEC%7D%7C%7BB9987F84-3F44-4164-B67C-4358C72DA416%7D%7C%7BA7198BFC-02EC-4906-B92E-EDBD12BED619%7D%7C%7B87D3E96C-A4B5-49D7-A1D1-8891FE624EF2%7D%7C%7BA4F0BA41-0D86-412D-8293-96EE7FE1096F%7D%7C%7BABAB66E7-B2A7-45D5-8240-A9D4F0439C01%7D%7C%7BCE4890CA-AEDB-4109-AD9A-50073570D394%7D%7C%7B62046E34-8C5E-44C4-B092-537547D5E1CC%7D%7C%7B7BC5B335-BFB0-4B2D-9767-CF4B70E2B8EE%7D%7C%7B3695D896-A0DB-4B57-AE2D-11C49F1D0132%7D%7C%7BABDFECBD-593D-4966-9B44-8B10D2E83F24%7D%7C%7B498BD240-85CF-450D-B482-0B90A9047088%7D%7C%7BACA1D298-4F90-4EA9-8281-82D0BBB1E353%7D&amp;RenderingIdentifier&amp;CSSStyles&amp;DynamicPlaceholderId=17"
+          s:ph="/headless-main/sxa-newsarticlepage/container-1/column-2-3" />
+        <r
+          uid="{A5C3C698-FA48-4397-9012-A05AC9AC805B}"
+          p:after="r[@uid='{7A306F90-A2E9-4E5E-B490-AB0DD2D3EABD}']"
+          s:id="{1409AEA2-6E60-4EA9-8813-CB229DF0E3B7}"
+          s:par="GridParameters=%7BF61E01E9-711A-4C99-AE30-4E28463E1DF7%7D&amp;FieldNames=%7B0EFC83ED-6584-40A0-91D4-56B2091E359B%7D&amp;Styles=%7BEF57264A-DE76-4138-8D84-E1C9D0817B1F%7D%7C%7BCC371879-3C7C-4284-BDD1-E567746F8059%7D%7C%7BC89F12C0-1C9B-468D-A613-A5B2ECE35DEC%7D%7C%7BB9987F84-3F44-4164-B67C-4358C72DA416%7D%7C%7BA7198BFC-02EC-4906-B92E-EDBD12BED619%7D%7C%7B87D3E96C-A4B5-49D7-A1D1-8891FE624EF2%7D%7C%7BA4F0BA41-0D86-412D-8293-96EE7FE1096F%7D%7C%7BABAB66E7-B2A7-45D5-8240-A9D4F0439C01%7D%7C%7BCE4890CA-AEDB-4109-AD9A-50073570D394%7D%7C%7B62046E34-8C5E-44C4-B092-537547D5E1CC%7D%7C%7B7BC5B335-BFB0-4B2D-9767-CF4B70E2B8EE%7D%7C%7B3695D896-A0DB-4B57-AE2D-11C49F1D0132%7D%7C%7BABDFECBD-593D-4966-9B44-8B10D2E83F24%7D%7C%7B498BD240-85CF-450D-B482-0B90A9047088%7D%7C%7B68B2FB88-7AE9-4FB4-9D14-09285E051552%7D&amp;RenderingIdentifier&amp;CSSStyles&amp;DynamicPlaceholderId=2"
+          s:ph="/headless-main/sxa-newsarticlepage/container-1/column-1-3/container-4/container-18" />
+        <r
+          uid="{89DA13B2-DBBC-4732-B21E-4DD3C388AE5A}"
+          p:after="r[@uid='{A5C3C698-FA48-4397-9012-A05AC9AC805B}']"
+          s:id="{C5F905F8-FD1F-444E-A9E5-AC6B774FF0DE}"
+          s:par="GridParameters=%7BF61E01E9-711A-4C99-AE30-4E28463E1DF7%7D&amp;Heading Tag&amp;FieldNames=%7B73D70018-AEEB-4FE5-A0F2-50B7BE67B1FF%7D&amp;Styles=%7BEF57264A-DE76-4138-8D84-E1C9D0817B1F%7D%7C%7BCC371879-3C7C-4284-BDD1-E567746F8059%7D%7C%7BC89F12C0-1C9B-468D-A613-A5B2ECE35DEC%7D%7C%7BB9987F84-3F44-4164-B67C-4358C72DA416%7D%7C%7BA7198BFC-02EC-4906-B92E-EDBD12BED619%7D%7C%7B87D3E96C-A4B5-49D7-A1D1-8891FE624EF2%7D%7C%7BA4F0BA41-0D86-412D-8293-96EE7FE1096F%7D%7C%7BABAB66E7-B2A7-45D5-8240-A9D4F0439C01%7D%7C%7BCE4890CA-AEDB-4109-AD9A-50073570D394%7D%7C%7B62046E34-8C5E-44C4-B092-537547D5E1CC%7D%7C%7B7BC5B335-BFB0-4B2D-9767-CF4B70E2B8EE%7D%7C%7B3695D896-A0DB-4B57-AE2D-11C49F1D0132%7D%7C%7BABDFECBD-593D-4966-9B44-8B10D2E83F24%7D%7C%7B498BD240-85CF-450D-B482-0B90A9047088%7D%7C%7B41FA3007-BE1A-4CA2-9449-E0A5742D4858%7D%7C%7B7DFD8E38-D109-4F3A-81AC-F01D057FAB02%7D&amp;RenderingIdentifier&amp;CSSStyles&amp;DynamicPlaceholderId=19"
+          s:ph="/headless-main/sxa-newsarticlepage/container-1/column-1-3/container-4/container-18" />
+        <r
+          uid="{95641015-3CF8-48F6-86CE-73A6CDC06C3B}"
+          p:after="r[@uid='{89DA13B2-DBBC-4732-B21E-4DD3C388AE5A}']"
+          s:ds="local:/Data/EventTabs"
+          s:id="{FF0B24F0-F314-4933-8EF9-5475CEB7DECD}"
+          s:par="GridParameters=%7BF61E01E9-711A-4C99-AE30-4E28463E1DF7%7D&amp;FieldNames=%7B21DB9279-023F-41C1-AFAA-01477375DFD0%7D&amp;Styles=%7BEF57264A-DE76-4138-8D84-E1C9D0817B1F%7D%7C%7BCC371879-3C7C-4284-BDD1-E567746F8059%7D%7C%7BC89F12C0-1C9B-468D-A613-A5B2ECE35DEC%7D%7C%7BB9987F84-3F44-4164-B67C-4358C72DA416%7D%7C%7BA7198BFC-02EC-4906-B92E-EDBD12BED619%7D%7C%7B87D3E96C-A4B5-49D7-A1D1-8891FE624EF2%7D%7C%7BA4F0BA41-0D86-412D-8293-96EE7FE1096F%7D%7C%7BABAB66E7-B2A7-45D5-8240-A9D4F0439C01%7D%7C%7BCE4890CA-AEDB-4109-AD9A-50073570D394%7D%7C%7B62046E34-8C5E-44C4-B092-537547D5E1CC%7D%7C%7B7BC5B335-BFB0-4B2D-9767-CF4B70E2B8EE%7D%7C%7B3695D896-A0DB-4B57-AE2D-11C49F1D0132%7D%7C%7BABDFECBD-593D-4966-9B44-8B10D2E83F24%7D%7C%7B498BD240-85CF-450D-B482-0B90A9047088%7D%7C%7BACA1D298-4F90-4EA9-8281-82D0BBB1E353%7D&amp;RenderingIdentifier&amp;CSSStyles&amp;DynamicPlaceholderId=4"
+          s:ph="/headless-main/sxa-newsarticlepage/container-1/column-1-3/container-4/container-18" />
+        <r
+          uid="{77506E42-1926-442A-8425-A686D5554468}"
+          p:after="r[@uid='{95641015-3CF8-48F6-86CE-73A6CDC06C3B}']"
+          s:ds="local:/Data/Text 2"
+          s:id="{0901D932-0027-4B05-AA78-A8C8320936D5}"
+          s:par="GridParameters=%7BF61E01E9-711A-4C99-AE30-4E28463E1DF7%7D&amp;FieldNames=%7BA4B2A62A-C9FA-43A3-B096-96F2D418AD5C%7D&amp;Styles=%7BEF57264A-DE76-4138-8D84-E1C9D0817B1F%7D%7C%7BCC371879-3C7C-4284-BDD1-E567746F8059%7D%7C%7BC89F12C0-1C9B-468D-A613-A5B2ECE35DEC%7D%7C%7BB9987F84-3F44-4164-B67C-4358C72DA416%7D%7C%7BA7198BFC-02EC-4906-B92E-EDBD12BED619%7D%7C%7B87D3E96C-A4B5-49D7-A1D1-8891FE624EF2%7D%7C%7BA4F0BA41-0D86-412D-8293-96EE7FE1096F%7D%7C%7BABAB66E7-B2A7-45D5-8240-A9D4F0439C01%7D%7C%7BCE4890CA-AEDB-4109-AD9A-50073570D394%7D%7C%7B62046E34-8C5E-44C4-B092-537547D5E1CC%7D%7C%7B7BC5B335-BFB0-4B2D-9767-CF4B70E2B8EE%7D%7C%7B3695D896-A0DB-4B57-AE2D-11C49F1D0132%7D%7C%7BABDFECBD-593D-4966-9B44-8B10D2E83F24%7D%7C%7B498BD240-85CF-450D-B482-0B90A9047088%7D%7C%7B7EA3C9E6-A3DE-4E6F-A243-7633C8F95840%7D&amp;RenderingIdentifier&amp;CSSStyles&amp;DynamicPlaceholderId=9"
+          s:ph="/headless-main/sxa-newsarticlepage/container-1/column-1-3/container-4/container-18" />
+        <r
+          uid="{D1534418-0B4C-4700-B342-9A310D5A3DAD}"
+          p:after="r[@uid='{77506E42-1926-442A-8425-A686D5554468}']"
+          s:id="{F7295588-FA7F-448E-B222-F64005B22E8D}"
+          s:par="GridParameters=%7BF61E01E9-711A-4C99-AE30-4E28463E1DF7%7D&amp;ImageOrder&amp;FieldNames=%7BBAC81150-16BD-4AED-9DF5-6FB5C82E1B95%7D&amp;Styles&amp;RenderingIdentifier&amp;CSSStyles&amp;DynamicPlaceholderId=20"
+          s:ph="/headless-main/sxa-newsarticlepage/container-1/column-1-3" />
+        <r
+          uid="{9D7C1E4F-B535-4C1C-A2CA-F8AF2DF624FC}"
+          p:after="r[@uid='{D1534418-0B4C-4700-B342-9A310D5A3DAD}']"
+          s:id="{1409AEA2-6E60-4EA9-8813-CB229DF0E3B7}"
+          s:par="GridParameters=%7BF61E01E9-711A-4C99-AE30-4E28463E1DF7%7D&amp;FieldNames=%7B0EFC83ED-6584-40A0-91D4-56B2091E359B%7D&amp;Styles=%7C%7BACA1D298-4F90-4EA9-8281-82D0BBB1E353%7D%7C%7B475E77AB-3D7F-4C96-A0C4-8164A8158C82%7D&amp;RenderingIdentifier&amp;CSSStyles&amp;DynamicPlaceholderId=21"
+          s:ph="/headless-main/sxa-newsarticlepage/container-1/column-1-3" />
+        <r
+          uid="{A2059F09-E691-4700-9CC9-349A68EFD0A0}"
+          p:after="r[@uid='{9D7C1E4F-B535-4C1C-A2CA-F8AF2DF624FC}']"
+          s:id="{C5F905F8-FD1F-444E-A9E5-AC6B774FF0DE}"
+          s:par="GridParameters=%7BF61E01E9-711A-4C99-AE30-4E28463E1DF7%7D&amp;Heading Tag&amp;FieldNames=%7B73D70018-AEEB-4FE5-A0F2-50B7BE67B1FF%7D&amp;Styles&amp;RenderingIdentifier&amp;CSSStyles&amp;DynamicPlaceholderId=22"
+          s:ph="/headless-main/sxa-newsarticlepage/container-1/column-1-3" />
+        <r
+          uid="{B6C83B6D-A374-45B8-ABBA-28D0EE74AF5D}"
+          p:after="r[@uid='{A2059F09-E691-4700-9CC9-349A68EFD0A0}']"
+          s:ds="local:/Data/EventTabs"
+          s:id="{FF0B24F0-F314-4933-8EF9-5475CEB7DECD}"
+          s:par="GridParameters=%7BF61E01E9-711A-4C99-AE30-4E28463E1DF7%7D&amp;FieldNames=%7B21DB9279-023F-41C1-AFAA-01477375DFD0%7D&amp;Styles&amp;RenderingIdentifier&amp;CSSStyles&amp;DynamicPlaceholderId=23"
+          s:ph="/headless-main/sxa-newsarticlepage/container-1/column-1-3" />
+        <r
+          uid="{738C2E5C-944C-4904-9F3F-3E9FF6DA0B26}"
+          p:after="r[@uid='{B6C83B6D-A374-45B8-ABBA-28D0EE74AF5D}']"
+          s:ds="local:/Data/Text 2"
+          s:id="{0901D932-0027-4B05-AA78-A8C8320936D5}"
+          s:par="GridParameters=%7BF61E01E9-711A-4C99-AE30-4E28463E1DF7%7D&amp;FieldNames=%7BA4B2A62A-C9FA-43A3-B096-96F2D418AD5C%7D&amp;Styles&amp;RenderingIdentifier&amp;CSSStyles&amp;DynamicPlaceholderId=28"
+          s:ph="/headless-main/sxa-newsarticlepage/container-1/column-1-3" />
+        <r
+          uid="{C1DE946C-79C6-44E1-A311-66C9182767EE}"
+          p:after="r[@uid='{738C2E5C-944C-4904-9F3F-3E9FF6DA0B26}']"
+          s:ds="local:/Data/EventAccordion"
+          s:id="{FCE3D04D-AB74-458A-BE0D-66D370D341D4}"
+          s:par="GridParameters=%7BF61E01E9-711A-4C99-AE30-4E28463E1DF7%7D&amp;FieldNames=%7B3D14B69B-70CF-4F9F-A584-B8C60E88B08D%7D&amp;Styles&amp;RenderingIdentifier&amp;CSSStyles&amp;DynamicPlaceholderId=29"
+          s:ph="/headless-main/sxa-newsarticlepage/container-1/column-1-3" />
+        <r
+          uid="{F015FA70-B183-4CDF-8D3E-D3D5C1BF1FDF}"
+          p:after="r[@uid='{C1DE946C-79C6-44E1-A311-66C9182767EE}']"
+          s:ds="local:/Data/EventTabs/Continuing Education"
+          s:id="{76E2F3B2-FD41-4984-BEF0-F39ED93C577C}"
+          s:par="GridParameters=%7BF61E01E9-711A-4C99-AE30-4E28463E1DF7%7D&amp;FieldNames=%7BFD7EAADE-C6F5-4332-A3FC-81AA6501C989%7D&amp;Styles&amp;RenderingIdentifier&amp;CSSStyles&amp;DynamicPlaceholderId=27"
+          s:ph="/headless-main/sxa-newsarticlepage/container-1/column-1-3/navtab-23" />
+        <r
+          uid="{D1178918-7308-4376-B5E0-D9D8AC50F75E}"
+          p:after="r[@uid='{F015FA70-B183-4CDF-8D3E-D3D5C1BF1FDF}']"
+          s:ds="local:/Data/EventTabs/Venue"
+          s:id="{76E2F3B2-FD41-4984-BEF0-F39ED93C577C}"
+          s:par="GridParameters=%7BF61E01E9-711A-4C99-AE30-4E28463E1DF7%7D&amp;FieldNames=%7BFD7EAADE-C6F5-4332-A3FC-81AA6501C989%7D&amp;Styles&amp;RenderingIdentifier&amp;CSSStyles&amp;DynamicPlaceholderId=26"
+          s:ph="/headless-main/sxa-newsarticlepage/container-1/column-1-3/navtab-23" />
+        <r
+          uid="{27E15EA7-3346-4135-94F0-392EF471592F}"
+          p:after="r[@uid='{D1178918-7308-4376-B5E0-D9D8AC50F75E}']"
+          s:ds="local:/Data/EventTabs/Pre-Event Workshops"
+          s:id="{76E2F3B2-FD41-4984-BEF0-F39ED93C577C}"
+          s:par="GridParameters=%7BF61E01E9-711A-4C99-AE30-4E28463E1DF7%7D&amp;FieldNames=%7BFD7EAADE-C6F5-4332-A3FC-81AA6501C989%7D&amp;Styles&amp;RenderingIdentifier&amp;CSSStyles&amp;DynamicPlaceholderId=25"
+          s:ph="/headless-main/sxa-newsarticlepage/container-1/column-1-3/navtab-23" />
+        <r
+          uid="{911C3979-9B0F-4F08-8E39-95A7B42BB180}"
+          p:after="r[@uid='{27E15EA7-3346-4135-94F0-392EF471592F}']"
+          s:ds="local:/Data/EventTabs/Admission Discounts"
+          s:id="{76E2F3B2-FD41-4984-BEF0-F39ED93C577C}"
+          s:par="GridParameters=%7BF61E01E9-711A-4C99-AE30-4E28463E1DF7%7D&amp;FieldNames=%7BFD7EAADE-C6F5-4332-A3FC-81AA6501C989%7D&amp;Styles&amp;RenderingIdentifier&amp;CSSStyles&amp;DynamicPlaceholderId=24"
+          s:ph="/headless-main/sxa-newsarticlepage/container-1/column-1-3/navtab-23" />
+        <r
+          uid="{F1F54848-1CE3-4C3E-BF88-4B11CC30F3FD}"
+          p:after="r[@uid='{911C3979-9B0F-4F08-8E39-95A7B42BB180}']"
+          s:ds="local:/Data/EventAccordion/Who should attend the ICMP Catalyst conference"
+          s:id="{ADA10EF4-9386-44F2-8ECD-5481C0E2D5FE}"
+          s:par="GridParameters=%7BF61E01E9-711A-4C99-AE30-4E28463E1DF7%7D&amp;FieldNames&amp;Styles&amp;RenderingIdentifier&amp;CSSStyles&amp;DynamicPlaceholderId=38"
+          s:ph="/headless-main/sxa-newsarticlepage/container-1/column-1-3/accord-29" />
+        <r
+          uid="{51C34FEF-310D-406A-8BF4-ED52EBB09538}"
+          p:after="r[@uid='{F1F54848-1CE3-4C3E-BF88-4B11CC30F3FD}']"
+          s:ds="local:/Data/EventAccordion/What topics and themes will the conference cover"
+          s:id="{ADA10EF4-9386-44F2-8ECD-5481C0E2D5FE}"
+          s:par="GridParameters=%7BF61E01E9-711A-4C99-AE30-4E28463E1DF7%7D&amp;FieldNames&amp;Styles&amp;RenderingIdentifier&amp;CSSStyles&amp;DynamicPlaceholderId=40"
+          s:ph="/headless-main/sxa-newsarticlepage/container-1/column-1-3/accord-29" />
+        <r
+          uid="{0E2FFE8C-D757-4CC9-9B51-55CF2F8EAD9E}"
+          p:after="r[@uid='{51C34FEF-310D-406A-8BF4-ED52EBB09538}']"
+          s:ds="local:/Data/EventAccordion/Will there be opportunities for networking and collaboration"
+          s:id="{ADA10EF4-9386-44F2-8ECD-5481C0E2D5FE}"
+          s:par="GridParameters=%7BF61E01E9-711A-4C99-AE30-4E28463E1DF7%7D&amp;FieldNames&amp;Styles&amp;RenderingIdentifier&amp;CSSStyles&amp;DynamicPlaceholderId=44"
+          s:ph="/headless-main/sxa-newsarticlepage/container-1/column-1-3/accord-29" />
+        <r
+          uid="{06C73A72-37DF-43F3-B549-76A7D1E178C1}"
+          p:after="r[@uid='{0E2FFE8C-D757-4CC9-9B51-55CF2F8EAD9E}']"
+          s:ds="local:/Data/EventAccordion/Is the conference available virtually or only in person"
+          s:id="{ADA10EF4-9386-44F2-8ECD-5481C0E2D5FE}"
+          s:par="GridParameters=%7BF61E01E9-711A-4C99-AE30-4E28463E1DF7%7D&amp;FieldNames&amp;Styles&amp;RenderingIdentifier&amp;CSSStyles&amp;DynamicPlaceholderId=46"
+          s:ph="/headless-main/sxa-newsarticlepage/container-1/column-1-3/accord-29" />
+        <r
+          uid="{38210FC6-AD89-413C-8394-8A23C2584F20}"
+          p:after="r[@uid='{06C73A72-37DF-43F3-B549-76A7D1E178C1}']"
+          s:ds="local:/Data/Text 6"
+          s:id="{0901D932-0027-4B05-AA78-A8C8320936D5}"
+          s:par="GridParameters=%7BF61E01E9-711A-4C99-AE30-4E28463E1DF7%7D&amp;FieldNames=%7BA4B2A62A-C9FA-43A3-B096-96F2D418AD5C%7D&amp;Styles&amp;RenderingIdentifier&amp;CSSStyles&amp;DynamicPlaceholderId=39"
+          s:ph="/headless-main/sxa-newsarticlepage/container-1/column-1-3/accord-29/accordcontent-38" />
+        <r
+          uid="{D386C3D3-0DDA-43FF-A033-33290A196FF1}"
+          p:after="r[@uid='{38210FC6-AD89-413C-8394-8A23C2584F20}']"
+          s:ds="local:/Data/Text 7"
+          s:id="{0901D932-0027-4B05-AA78-A8C8320936D5}"
+          s:par="GridParameters=%7BF61E01E9-711A-4C99-AE30-4E28463E1DF7%7D&amp;FieldNames=%7BA4B2A62A-C9FA-43A3-B096-96F2D418AD5C%7D&amp;Styles&amp;RenderingIdentifier&amp;CSSStyles&amp;DynamicPlaceholderId=41"
+          s:ph="/headless-main/sxa-newsarticlepage/container-1/column-1-3/accord-29/accordcontent-40" />
+        <r
+          uid="{EA80A49C-5A05-486D-8E9D-807AD6FE6C90}"
+          p:after="r[@uid='{D386C3D3-0DDA-43FF-A033-33290A196FF1}']"
+          s:ds="local:/Data/Text 8"
+          s:id="{0901D932-0027-4B05-AA78-A8C8320936D5}"
+          s:par="GridParameters=%7BF61E01E9-711A-4C99-AE30-4E28463E1DF7%7D&amp;FieldNames=%7BA4B2A62A-C9FA-43A3-B096-96F2D418AD5C%7D&amp;Styles&amp;RenderingIdentifier&amp;CSSStyles&amp;DynamicPlaceholderId=43"
+          s:ph="/headless-main/sxa-newsarticlepage/container-1/column-1-3/accord-29/accordcontent-40/accordcontent-42" />
+        <r
+          uid="{1BB57663-E922-498B-B540-FE0DDBD73CE4}"
+          p:after="r[@uid='{EA80A49C-5A05-486D-8E9D-807AD6FE6C90}']"
+          s:ds="local:/Data/Text 8"
+          s:id="{0901D932-0027-4B05-AA78-A8C8320936D5}"
+          s:par="GridParameters=%7BF61E01E9-711A-4C99-AE30-4E28463E1DF7%7D&amp;FieldNames=%7BA4B2A62A-C9FA-43A3-B096-96F2D418AD5C%7D&amp;Styles&amp;RenderingIdentifier&amp;CSSStyles&amp;DynamicPlaceholderId=45"
+          s:ph="/headless-main/sxa-newsarticlepage/container-1/column-1-3/accord-29/accordcontent-44" />
+        <r
+          uid="{31209FD4-3D8B-4BE2-B8CD-2F271E6AD567}"
+          p:after="*[1=2]"
+          s:ds="local:/Data/Text 9"
+          s:id="{0901D932-0027-4B05-AA78-A8C8320936D5}"
+          s:par="GridParameters=%7BF61E01E9-711A-4C99-AE30-4E28463E1DF7%7D&amp;FieldNames=%7BA4B2A62A-C9FA-43A3-B096-96F2D418AD5C%7D&amp;Styles&amp;RenderingIdentifier&amp;CSSStyles&amp;DynamicPlaceholderId=47"
+          s:ph="/headless-main/sxa-newsarticlepage/container-1/column-1-3/accord-29/accordcontent-46" />
+      </d>
+    </r>
+- ID: "f6d8a61c-2f84-4401-bd24-52d2068172bc"
+  Hint: __Originator
+  Value: "{31F96AE3-69B0-4C0B-8F6A-0BD68B1AAADB}"
+Languages:
+- Language: "ar-AE"
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "04bf00db-f5fb-41f7-8ab7-22408372a981"
+      Hint: __Final Renderings
+      Value: |
+        <r xmlns:p="p" xmlns:s="s"
+          p:p="1">
+          <d
+            id="{FE5D7FDF-89C0-4D99-9AA3-B5FBD009C9F3}">
+            <r
+              uid="{1723C83B-BA1A-4AD5-99CA-69D0DD29A20D}"
+              p:before="*"
+              s:id="{F7295588-FA7F-448E-B222-F64005B22E8D}"
+              s:par="GridParameters&amp;ImageOrder&amp;FieldNames&amp;Styles=%7BEF57264A-DE76-4138-8D84-E1C9D0817B1F%7D%7C%7BCC371879-3C7C-4284-BDD1-E567746F8059%7D%7C%7BC89F12C0-1C9B-468D-A613-A5B2ECE35DEC%7D%7C%7BB9987F84-3F44-4164-B67C-4358C72DA416%7D%7C%7BA7198BFC-02EC-4906-B92E-EDBD12BED619%7D%7C%7B87D3E96C-A4B5-49D7-A1D1-8891FE624EF2%7D%7C%7BA4F0BA41-0D86-412D-8293-96EE7FE1096F%7D%7C%7BABAB66E7-B2A7-45D5-8240-A9D4F0439C01%7D%7C%7BCE4890CA-AEDB-4109-AD9A-50073570D394%7D%7C%7B62046E34-8C5E-44C4-B092-537547D5E1CC%7D%7C%7B7BC5B335-BFB0-4B2D-9767-CF4B70E2B8EE%7D%7C%7B3695D896-A0DB-4B57-AE2D-11C49F1D0132%7D%7C%7BABDFECBD-593D-4966-9B44-8B10D2E83F24%7D%7C%7B498BD240-85CF-450D-B482-0B90A9047088%7D%7C%7BACA1D298-4F90-4EA9-8281-82D0BBB1E353%7D&amp;RenderingIdentifier&amp;CSSStyles&amp;DynamicPlaceholderId=1"
+              s:ph="/headless-main/sxa-newsarticlepage/container-1/column-1-3/container-4" />
+            <r
+              uid="{B5B91E36-B86A-4E82-8A53-27302636B6B8}"
+              p:after="r[@uid='{1723C83B-BA1A-4AD5-99CA-69D0DD29A20D}']"
+              s:id="{B7C649C8-C683-44CB-9A87-AEBEA3DA8EB3}"
+              s:par="GridParameters=%7BF61E01E9-711A-4C99-AE30-4E28463E1DF7%7D&amp;FieldNames=%7B129985C4-D854-49F5-9602-9E1D1B8DF899%7D&amp;BackgroundImage&amp;Styles&amp;RenderingIdentifier&amp;CSSStyles&amp;DynamicPlaceholderId=18"
+              s:ph="/headless-main/sxa-newsarticlepage/container-1/column-1-3/container-4" />
+            <r
+              uid="{7398E804-9FD5-430C-AD91-6ECE1091DA19}"
+              p:after="r[@uid='{B5B91E36-B86A-4E82-8A53-27302636B6B8}']"
+              s:ds="local:/Data/EventTabs/Continuing Education"
+              s:id="{76E2F3B2-FD41-4984-BEF0-F39ED93C577C}"
+              s:par="GridParameters=%7BF61E01E9-711A-4C99-AE30-4E28463E1DF7%7D&amp;FieldNames=%7BFD7EAADE-C6F5-4332-A3FC-81AA6501C989%7D&amp;Styles&amp;RenderingIdentifier&amp;CSSStyles&amp;DynamicPlaceholderId=5"
+              s:ph="/headless-main/sxa-newsarticlepage/container-1/column-1-3/container-4/container-18/navtab-4" />
+            <r
+              uid="{0162E08A-8FB3-4582-8419-09B309E2E9A1}"
+              p:after="r[@uid='{7398E804-9FD5-430C-AD91-6ECE1091DA19}']"
+              s:ds="local:/Data/EventTabs/Venue"
+              s:id="{76E2F3B2-FD41-4984-BEF0-F39ED93C577C}"
+              s:par="GridParameters=%7BF61E01E9-711A-4C99-AE30-4E28463E1DF7%7D&amp;FieldNames=%7BFD7EAADE-C6F5-4332-A3FC-81AA6501C989%7D&amp;Styles&amp;RenderingIdentifier&amp;CSSStyles&amp;DynamicPlaceholderId=6"
+              s:ph="/headless-main/sxa-newsarticlepage/container-1/column-1-3/container-4/container-18/navtab-4" />
+            <r
+              uid="{206295F1-2C6D-48F1-8B2B-F62CF8ED690A}"
+              p:after="r[@uid='{0162E08A-8FB3-4582-8419-09B309E2E9A1}']"
+              s:ds="local:/Data/EventTabs/Admission Discounts"
+              s:id="{76E2F3B2-FD41-4984-BEF0-F39ED93C577C}"
+              s:par="GridParameters=%7BF61E01E9-711A-4C99-AE30-4E28463E1DF7%7D&amp;FieldNames=%7BFD7EAADE-C6F5-4332-A3FC-81AA6501C989%7D&amp;Styles&amp;RenderingIdentifier&amp;CSSStyles&amp;DynamicPlaceholderId=8"
+              s:ph="/headless-main/sxa-newsarticlepage/container-1/column-1-3/container-4/container-18/navtab-4" />
+            <r
+              uid="{4F25E3A4-7187-4755-A917-EA09B57266CB}"
+              p:after="r[@uid='{206295F1-2C6D-48F1-8B2B-F62CF8ED690A}']"
+              s:ds="local:/Data/EventTabs/Pre-Event Workshops"
+              s:id="{76E2F3B2-FD41-4984-BEF0-F39ED93C577C}"
+              s:par="GridParameters=%7BF61E01E9-711A-4C99-AE30-4E28463E1DF7%7D&amp;FieldNames=%7BFD7EAADE-C6F5-4332-A3FC-81AA6501C989%7D&amp;Styles&amp;RenderingIdentifier&amp;CSSStyles&amp;DynamicPlaceholderId=7"
+              s:ph="/headless-main/sxa-newsarticlepage/container-1/column-1-3/container-4/container-18/navtab-4" />
+            <r
+              uid="{7D15DD13-D3FF-4765-AD3F-56F2A5EFB61F}"
+              p:after="r[@uid='{4F25E3A4-7187-4755-A917-EA09B57266CB}']"
+              s:id="{15CABDFF-FFD9-48F4-826D-A4C3D7868D3A}"
+              s:par="ColumnWidth1=%7B670536BF-55BC-4EBD-BBE5-00D9A5E9AF50%7D&amp;ColumnWidth2=%7B670536BF-55BC-4EBD-BBE5-00D9A5E9AF50%7D&amp;ColumnWidth3&amp;ColumnWidth4&amp;ColumnWidth5&amp;ColumnWidth6&amp;ColumnWidth7&amp;ColumnWidth8&amp;GridParameters=%7BF61E01E9-711A-4C99-AE30-4E28463E1DF7%7D&amp;SplitterSize=2&amp;EnabledPlaceholders=1%2C2&amp;FieldNames&amp;Styles1&amp;Styles2&amp;Styles3&amp;Styles4&amp;Styles5&amp;Styles6&amp;Styles7&amp;Styles&amp;Styles8&amp;RenderingIdentifier&amp;CSSStyles&amp;DynamicPlaceholderId=11"
+              s:ph="/headless-main/sxa-newsarticlepage/container-1/column-1-3/container-4/container-18/navtab-4/navtabcontent-5" />
+            <r
+              uid="{F2B27A14-6567-4CBD-9755-92B717E1FB81}"
+              p:after="r[@uid='{7D15DD13-D3FF-4765-AD3F-56F2A5EFB61F}']"
+              s:ds="local:/Data/Text 3"
+              s:id="{0901D932-0027-4B05-AA78-A8C8320936D5}"
+              s:par="GridParameters=%7BF61E01E9-711A-4C99-AE30-4E28463E1DF7%7D&amp;FieldNames=%7BA4B2A62A-C9FA-43A3-B096-96F2D418AD5C%7D&amp;Styles&amp;RenderingIdentifier&amp;CSSStyles&amp;DynamicPlaceholderId=12"
+              s:ph="/headless-main/sxa-newsarticlepage/container-1/column-1-3/container-4/container-18/navtab-4/navtabcontent-5/column-1-11" />
+            <r
+              uid="{1179C0BF-B4F3-44FD-8524-34AF3BF69266}"
+              p:after="r[@uid='{F2B27A14-6567-4CBD-9755-92B717E1FB81}']"
+              s:ds="local:/Data/Text 4"
+              s:id="{0901D932-0027-4B05-AA78-A8C8320936D5}"
+              s:par="GridParameters=%7BF61E01E9-711A-4C99-AE30-4E28463E1DF7%7D&amp;FieldNames=%7BA4B2A62A-C9FA-43A3-B096-96F2D418AD5C%7D&amp;Styles&amp;RenderingIdentifier&amp;CSSStyles&amp;DynamicPlaceholderId=13"
+              s:ph="/headless-main/sxa-newsarticlepage/container-1/column-2-3" />
+            <r
+              uid="{7335002F-274C-4FDD-B03E-C01A04893172}"
+              p:after="r[@uid='{1179C0BF-B4F3-44FD-8524-34AF3BF69266}']"
+              s:ds="local:/Data/Event1"
+              s:id="{2AC9F9B4-0E80-4B4E-BC71-A52B5F1C8D9B}"
+              s:par="CTAButton=1&amp;CardOrientation=vertical&amp;ImageOrder&amp;HeaderTag&amp;LinkType=Button&amp;GridParameters=%7BF61E01E9-711A-4C99-AE30-4E28463E1DF7%7D&amp;FieldNames=%7B3427D6A0-EB73-4CB7-A24F-FBE8CD8FB35A%7D&amp;Styles=%7BEF57264A-DE76-4138-8D84-E1C9D0817B1F%7D%7C%7BCC371879-3C7C-4284-BDD1-E567746F8059%7D%7C%7BC89F12C0-1C9B-468D-A613-A5B2ECE35DEC%7D%7C%7BB9987F84-3F44-4164-B67C-4358C72DA416%7D%7C%7BA7198BFC-02EC-4906-B92E-EDBD12BED619%7D%7C%7B87D3E96C-A4B5-49D7-A1D1-8891FE624EF2%7D%7C%7BA4F0BA41-0D86-412D-8293-96EE7FE1096F%7D%7C%7BABAB66E7-B2A7-45D5-8240-A9D4F0439C01%7D%7C%7BCE4890CA-AEDB-4109-AD9A-50073570D394%7D%7C%7B62046E34-8C5E-44C4-B092-537547D5E1CC%7D%7C%7B7BC5B335-BFB0-4B2D-9767-CF4B70E2B8EE%7D%7C%7B3695D896-A0DB-4B57-AE2D-11C49F1D0132%7D%7C%7BABDFECBD-593D-4966-9B44-8B10D2E83F24%7D%7C%7B498BD240-85CF-450D-B482-0B90A9047088%7D%7C%7BACA1D298-4F90-4EA9-8281-82D0BBB1E353%7D&amp;RenderingIdentifier&amp;CSSStyles&amp;DynamicPlaceholderId=14"
+              s:ph="/headless-main/sxa-newsarticlepage/container-1/column-2-3" />
+            <r
+              uid="{DF9DC9B3-597B-4A09-B078-1669A454686A}"
+              p:after="r[@uid='{7335002F-274C-4FDD-B03E-C01A04893172}']"
+              s:ds="local:/Data/Event2"
+              s:id="{2AC9F9B4-0E80-4B4E-BC71-A52B5F1C8D9B}"
+              s:par="CTAButton=1&amp;CardOrientation=vertical&amp;ImageOrder&amp;HeaderTag&amp;LinkType=Button&amp;GridParameters=%7BF61E01E9-711A-4C99-AE30-4E28463E1DF7%7D&amp;FieldNames=%7B3427D6A0-EB73-4CB7-A24F-FBE8CD8FB35A%7D&amp;Styles=%7BEF57264A-DE76-4138-8D84-E1C9D0817B1F%7D%7C%7BCC371879-3C7C-4284-BDD1-E567746F8059%7D%7C%7BC89F12C0-1C9B-468D-A613-A5B2ECE35DEC%7D%7C%7BB9987F84-3F44-4164-B67C-4358C72DA416%7D%7C%7BA7198BFC-02EC-4906-B92E-EDBD12BED619%7D%7C%7B87D3E96C-A4B5-49D7-A1D1-8891FE624EF2%7D%7C%7BA4F0BA41-0D86-412D-8293-96EE7FE1096F%7D%7C%7BABAB66E7-B2A7-45D5-8240-A9D4F0439C01%7D%7C%7BCE4890CA-AEDB-4109-AD9A-50073570D394%7D%7C%7B62046E34-8C5E-44C4-B092-537547D5E1CC%7D%7C%7B7BC5B335-BFB0-4B2D-9767-CF4B70E2B8EE%7D%7C%7B3695D896-A0DB-4B57-AE2D-11C49F1D0132%7D%7C%7BABDFECBD-593D-4966-9B44-8B10D2E83F24%7D%7C%7B498BD240-85CF-450D-B482-0B90A9047088%7D%7C%7BACA1D298-4F90-4EA9-8281-82D0BBB1E353%7D&amp;RenderingIdentifier&amp;CSSStyles&amp;DynamicPlaceholderId=15"
+              s:ph="/headless-main/sxa-newsarticlepage/container-1/column-2-3" />
+            <r
+              uid="{05DBFD80-E541-4D81-A42D-0C2CF0E063A0}"
+              p:after="r[@uid='{DF9DC9B3-597B-4A09-B078-1669A454686A}']"
+              s:ds="local:/Data/Event3"
+              s:id="{2AC9F9B4-0E80-4B4E-BC71-A52B5F1C8D9B}"
+              s:par="CTAButton=1&amp;CardOrientation=vertical&amp;ImageOrder&amp;HeaderTag&amp;LinkType=Button&amp;GridParameters=%7BF61E01E9-711A-4C99-AE30-4E28463E1DF7%7D&amp;FieldNames=%7B3427D6A0-EB73-4CB7-A24F-FBE8CD8FB35A%7D&amp;Styles=%7BEF57264A-DE76-4138-8D84-E1C9D0817B1F%7D%7C%7BCC371879-3C7C-4284-BDD1-E567746F8059%7D%7C%7BC89F12C0-1C9B-468D-A613-A5B2ECE35DEC%7D%7C%7BB9987F84-3F44-4164-B67C-4358C72DA416%7D%7C%7BA7198BFC-02EC-4906-B92E-EDBD12BED619%7D%7C%7B87D3E96C-A4B5-49D7-A1D1-8891FE624EF2%7D%7C%7BA4F0BA41-0D86-412D-8293-96EE7FE1096F%7D%7C%7BABAB66E7-B2A7-45D5-8240-A9D4F0439C01%7D%7C%7BCE4890CA-AEDB-4109-AD9A-50073570D394%7D%7C%7B62046E34-8C5E-44C4-B092-537547D5E1CC%7D%7C%7B7BC5B335-BFB0-4B2D-9767-CF4B70E2B8EE%7D%7C%7B3695D896-A0DB-4B57-AE2D-11C49F1D0132%7D%7C%7BABDFECBD-593D-4966-9B44-8B10D2E83F24%7D%7C%7B498BD240-85CF-450D-B482-0B90A9047088%7D%7C%7BACA1D298-4F90-4EA9-8281-82D0BBB1E353%7D&amp;RenderingIdentifier&amp;CSSStyles&amp;DynamicPlaceholderId=16"
+              s:ph="/headless-main/sxa-newsarticlepage/container-1/column-2-3" />
+            <r
+              uid="{7A306F90-A2E9-4E5E-B490-AB0DD2D3EABD}"
+              p:after="r[@uid='{05DBFD80-E541-4D81-A42D-0C2CF0E063A0}']"
+              s:ds="local:/Data/Event4"
+              s:id="{2AC9F9B4-0E80-4B4E-BC71-A52B5F1C8D9B}"
+              s:par="CTAButton=1&amp;CardOrientation=vertical&amp;ImageOrder&amp;HeaderTag&amp;LinkType=Button&amp;GridParameters=%7BF61E01E9-711A-4C99-AE30-4E28463E1DF7%7D&amp;FieldNames=%7B3427D6A0-EB73-4CB7-A24F-FBE8CD8FB35A%7D&amp;Styles=%7BEF57264A-DE76-4138-8D84-E1C9D0817B1F%7D%7C%7BCC371879-3C7C-4284-BDD1-E567746F8059%7D%7C%7BC89F12C0-1C9B-468D-A613-A5B2ECE35DEC%7D%7C%7BB9987F84-3F44-4164-B67C-4358C72DA416%7D%7C%7BA7198BFC-02EC-4906-B92E-EDBD12BED619%7D%7C%7B87D3E96C-A4B5-49D7-A1D1-8891FE624EF2%7D%7C%7BA4F0BA41-0D86-412D-8293-96EE7FE1096F%7D%7C%7BABAB66E7-B2A7-45D5-8240-A9D4F0439C01%7D%7C%7BCE4890CA-AEDB-4109-AD9A-50073570D394%7D%7C%7B62046E34-8C5E-44C4-B092-537547D5E1CC%7D%7C%7B7BC5B335-BFB0-4B2D-9767-CF4B70E2B8EE%7D%7C%7B3695D896-A0DB-4B57-AE2D-11C49F1D0132%7D%7C%7BABDFECBD-593D-4966-9B44-8B10D2E83F24%7D%7C%7B498BD240-85CF-450D-B482-0B90A9047088%7D%7C%7BACA1D298-4F90-4EA9-8281-82D0BBB1E353%7D&amp;RenderingIdentifier&amp;CSSStyles&amp;DynamicPlaceholderId=17"
+              s:ph="/headless-main/sxa-newsarticlepage/container-1/column-2-3" />
+            <r
+              uid="{A5C3C698-FA48-4397-9012-A05AC9AC805B}"
+              p:after="r[@uid='{7A306F90-A2E9-4E5E-B490-AB0DD2D3EABD}']"
+              s:id="{1409AEA2-6E60-4EA9-8813-CB229DF0E3B7}"
+              s:par="GridParameters=%7BF61E01E9-711A-4C99-AE30-4E28463E1DF7%7D&amp;FieldNames=%7B0EFC83ED-6584-40A0-91D4-56B2091E359B%7D&amp;Styles=%7BEF57264A-DE76-4138-8D84-E1C9D0817B1F%7D%7C%7BCC371879-3C7C-4284-BDD1-E567746F8059%7D%7C%7BC89F12C0-1C9B-468D-A613-A5B2ECE35DEC%7D%7C%7BB9987F84-3F44-4164-B67C-4358C72DA416%7D%7C%7BA7198BFC-02EC-4906-B92E-EDBD12BED619%7D%7C%7B87D3E96C-A4B5-49D7-A1D1-8891FE624EF2%7D%7C%7BA4F0BA41-0D86-412D-8293-96EE7FE1096F%7D%7C%7BABAB66E7-B2A7-45D5-8240-A9D4F0439C01%7D%7C%7BCE4890CA-AEDB-4109-AD9A-50073570D394%7D%7C%7B62046E34-8C5E-44C4-B092-537547D5E1CC%7D%7C%7B7BC5B335-BFB0-4B2D-9767-CF4B70E2B8EE%7D%7C%7B3695D896-A0DB-4B57-AE2D-11C49F1D0132%7D%7C%7BABDFECBD-593D-4966-9B44-8B10D2E83F24%7D%7C%7B498BD240-85CF-450D-B482-0B90A9047088%7D%7C%7B68B2FB88-7AE9-4FB4-9D14-09285E051552%7D&amp;RenderingIdentifier&amp;CSSStyles&amp;DynamicPlaceholderId=2"
+              s:ph="/headless-main/sxa-newsarticlepage/container-1/column-1-3/container-4/container-18" />
+            <r
+              uid="{89DA13B2-DBBC-4732-B21E-4DD3C388AE5A}"
+              p:after="r[@uid='{A5C3C698-FA48-4397-9012-A05AC9AC805B}']"
+              s:id="{C5F905F8-FD1F-444E-A9E5-AC6B774FF0DE}"
+              s:par="GridParameters=%7BF61E01E9-711A-4C99-AE30-4E28463E1DF7%7D&amp;Heading Tag&amp;FieldNames=%7B73D70018-AEEB-4FE5-A0F2-50B7BE67B1FF%7D&amp;Styles=%7BEF57264A-DE76-4138-8D84-E1C9D0817B1F%7D%7C%7BCC371879-3C7C-4284-BDD1-E567746F8059%7D%7C%7BC89F12C0-1C9B-468D-A613-A5B2ECE35DEC%7D%7C%7BB9987F84-3F44-4164-B67C-4358C72DA416%7D%7C%7BA7198BFC-02EC-4906-B92E-EDBD12BED619%7D%7C%7B87D3E96C-A4B5-49D7-A1D1-8891FE624EF2%7D%7C%7BA4F0BA41-0D86-412D-8293-96EE7FE1096F%7D%7C%7BABAB66E7-B2A7-45D5-8240-A9D4F0439C01%7D%7C%7BCE4890CA-AEDB-4109-AD9A-50073570D394%7D%7C%7B62046E34-8C5E-44C4-B092-537547D5E1CC%7D%7C%7B7BC5B335-BFB0-4B2D-9767-CF4B70E2B8EE%7D%7C%7B3695D896-A0DB-4B57-AE2D-11C49F1D0132%7D%7C%7BABDFECBD-593D-4966-9B44-8B10D2E83F24%7D%7C%7B498BD240-85CF-450D-B482-0B90A9047088%7D%7C%7B41FA3007-BE1A-4CA2-9449-E0A5742D4858%7D%7C%7B7DFD8E38-D109-4F3A-81AC-F01D057FAB02%7D&amp;RenderingIdentifier&amp;CSSStyles&amp;DynamicPlaceholderId=19"
+              s:ph="/headless-main/sxa-newsarticlepage/container-1/column-1-3/container-4/container-18" />
+            <r
+              uid="{95641015-3CF8-48F6-86CE-73A6CDC06C3B}"
+              p:after="r[@uid='{89DA13B2-DBBC-4732-B21E-4DD3C388AE5A}']"
+              s:ds="local:/Data/EventTabs"
+              s:id="{FF0B24F0-F314-4933-8EF9-5475CEB7DECD}"
+              s:par="GridParameters=%7BF61E01E9-711A-4C99-AE30-4E28463E1DF7%7D&amp;FieldNames=%7B21DB9279-023F-41C1-AFAA-01477375DFD0%7D&amp;Styles=%7BEF57264A-DE76-4138-8D84-E1C9D0817B1F%7D%7C%7BCC371879-3C7C-4284-BDD1-E567746F8059%7D%7C%7BC89F12C0-1C9B-468D-A613-A5B2ECE35DEC%7D%7C%7BB9987F84-3F44-4164-B67C-4358C72DA416%7D%7C%7BA7198BFC-02EC-4906-B92E-EDBD12BED619%7D%7C%7B87D3E96C-A4B5-49D7-A1D1-8891FE624EF2%7D%7C%7BA4F0BA41-0D86-412D-8293-96EE7FE1096F%7D%7C%7BABAB66E7-B2A7-45D5-8240-A9D4F0439C01%7D%7C%7BCE4890CA-AEDB-4109-AD9A-50073570D394%7D%7C%7B62046E34-8C5E-44C4-B092-537547D5E1CC%7D%7C%7B7BC5B335-BFB0-4B2D-9767-CF4B70E2B8EE%7D%7C%7B3695D896-A0DB-4B57-AE2D-11C49F1D0132%7D%7C%7BABDFECBD-593D-4966-9B44-8B10D2E83F24%7D%7C%7B498BD240-85CF-450D-B482-0B90A9047088%7D%7C%7BACA1D298-4F90-4EA9-8281-82D0BBB1E353%7D&amp;RenderingIdentifier&amp;CSSStyles&amp;DynamicPlaceholderId=4"
+              s:ph="/headless-main/sxa-newsarticlepage/container-1/column-1-3/container-4/container-18" />
+            <r
+              uid="{77506E42-1926-442A-8425-A686D5554468}"
+              p:after="r[@uid='{95641015-3CF8-48F6-86CE-73A6CDC06C3B}']"
+              s:ds="local:/Data/Text 2"
+              s:id="{0901D932-0027-4B05-AA78-A8C8320936D5}"
+              s:par="GridParameters=%7BF61E01E9-711A-4C99-AE30-4E28463E1DF7%7D&amp;FieldNames=%7BA4B2A62A-C9FA-43A3-B096-96F2D418AD5C%7D&amp;Styles=%7BEF57264A-DE76-4138-8D84-E1C9D0817B1F%7D%7C%7BCC371879-3C7C-4284-BDD1-E567746F8059%7D%7C%7BC89F12C0-1C9B-468D-A613-A5B2ECE35DEC%7D%7C%7BB9987F84-3F44-4164-B67C-4358C72DA416%7D%7C%7BA7198BFC-02EC-4906-B92E-EDBD12BED619%7D%7C%7B87D3E96C-A4B5-49D7-A1D1-8891FE624EF2%7D%7C%7BA4F0BA41-0D86-412D-8293-96EE7FE1096F%7D%7C%7BABAB66E7-B2A7-45D5-8240-A9D4F0439C01%7D%7C%7BCE4890CA-AEDB-4109-AD9A-50073570D394%7D%7C%7B62046E34-8C5E-44C4-B092-537547D5E1CC%7D%7C%7B7BC5B335-BFB0-4B2D-9767-CF4B70E2B8EE%7D%7C%7B3695D896-A0DB-4B57-AE2D-11C49F1D0132%7D%7C%7BABDFECBD-593D-4966-9B44-8B10D2E83F24%7D%7C%7B498BD240-85CF-450D-B482-0B90A9047088%7D%7C%7B7EA3C9E6-A3DE-4E6F-A243-7633C8F95840%7D&amp;RenderingIdentifier&amp;CSSStyles&amp;DynamicPlaceholderId=9"
+              s:ph="/headless-main/sxa-newsarticlepage/container-1/column-1-3/container-4/container-18" />
+            <r
+              uid="{D1534418-0B4C-4700-B342-9A310D5A3DAD}"
+              p:after="r[@uid='{77506E42-1926-442A-8425-A686D5554468}']"
+              s:id="{F7295588-FA7F-448E-B222-F64005B22E8D}"
+              s:par="GridParameters=%7BF61E01E9-711A-4C99-AE30-4E28463E1DF7%7D&amp;ImageOrder&amp;FieldNames=%7BBAC81150-16BD-4AED-9DF5-6FB5C82E1B95%7D&amp;Styles&amp;RenderingIdentifier&amp;CSSStyles&amp;DynamicPlaceholderId=20"
+              s:ph="/headless-main/sxa-newsarticlepage/container-1/column-1-3" />
+            <r
+              uid="{9D7C1E4F-B535-4C1C-A2CA-F8AF2DF624FC}"
+              p:after="r[@uid='{D1534418-0B4C-4700-B342-9A310D5A3DAD}']"
+              s:id="{1409AEA2-6E60-4EA9-8813-CB229DF0E3B7}"
+              s:par="GridParameters=%7BF61E01E9-711A-4C99-AE30-4E28463E1DF7%7D&amp;FieldNames=%7B0EFC83ED-6584-40A0-91D4-56B2091E359B%7D&amp;Styles=%7C%7BACA1D298-4F90-4EA9-8281-82D0BBB1E353%7D%7C%7B475E77AB-3D7F-4C96-A0C4-8164A8158C82%7D&amp;RenderingIdentifier&amp;CSSStyles&amp;DynamicPlaceholderId=21"
+              s:ph="/headless-main/sxa-newsarticlepage/container-1/column-1-3" />
+            <r
+              uid="{A2059F09-E691-4700-9CC9-349A68EFD0A0}"
+              p:after="r[@uid='{9D7C1E4F-B535-4C1C-A2CA-F8AF2DF624FC}']"
+              s:id="{C5F905F8-FD1F-444E-A9E5-AC6B774FF0DE}"
+              s:par="GridParameters=%7BF61E01E9-711A-4C99-AE30-4E28463E1DF7%7D&amp;Heading Tag&amp;FieldNames=%7B73D70018-AEEB-4FE5-A0F2-50B7BE67B1FF%7D&amp;Styles&amp;RenderingIdentifier&amp;CSSStyles&amp;DynamicPlaceholderId=22"
+              s:ph="/headless-main/sxa-newsarticlepage/container-1/column-1-3" />
+            <r
+              uid="{B6C83B6D-A374-45B8-ABBA-28D0EE74AF5D}"
+              p:after="r[@uid='{A2059F09-E691-4700-9CC9-349A68EFD0A0}']"
+              s:ds="local:/Data/EventTabs"
+              s:id="{FF0B24F0-F314-4933-8EF9-5475CEB7DECD}"
+              s:par="GridParameters=%7BF61E01E9-711A-4C99-AE30-4E28463E1DF7%7D&amp;FieldNames=%7B21DB9279-023F-41C1-AFAA-01477375DFD0%7D&amp;Styles&amp;RenderingIdentifier&amp;CSSStyles&amp;DynamicPlaceholderId=23"
+              s:ph="/headless-main/sxa-newsarticlepage/container-1/column-1-3" />
+            <r
+              uid="{738C2E5C-944C-4904-9F3F-3E9FF6DA0B26}"
+              p:after="r[@uid='{B6C83B6D-A374-45B8-ABBA-28D0EE74AF5D}']"
+              s:ds="local:/Data/Text 2"
+              s:id="{0901D932-0027-4B05-AA78-A8C8320936D5}"
+              s:par="GridParameters=%7BF61E01E9-711A-4C99-AE30-4E28463E1DF7%7D&amp;FieldNames=%7BA4B2A62A-C9FA-43A3-B096-96F2D418AD5C%7D&amp;Styles&amp;RenderingIdentifier&amp;CSSStyles&amp;DynamicPlaceholderId=28"
+              s:ph="/headless-main/sxa-newsarticlepage/container-1/column-1-3" />
+            <r
+              uid="{C1DE946C-79C6-44E1-A311-66C9182767EE}"
+              p:after="r[@uid='{738C2E5C-944C-4904-9F3F-3E9FF6DA0B26}']"
+              s:ds="local:/Data/EventAccordion"
+              s:id="{FCE3D04D-AB74-458A-BE0D-66D370D341D4}"
+              s:par="GridParameters=%7BF61E01E9-711A-4C99-AE30-4E28463E1DF7%7D&amp;FieldNames=%7B3D14B69B-70CF-4F9F-A584-B8C60E88B08D%7D&amp;Styles&amp;RenderingIdentifier&amp;CSSStyles&amp;DynamicPlaceholderId=29"
+              s:ph="/headless-main/sxa-newsarticlepage/container-1/column-1-3" />
+            <r
+              uid="{F015FA70-B183-4CDF-8D3E-D3D5C1BF1FDF}"
+              p:after="r[@uid='{C1DE946C-79C6-44E1-A311-66C9182767EE}']"
+              s:ds="local:/Data/EventTabs/Continuing Education"
+              s:id="{76E2F3B2-FD41-4984-BEF0-F39ED93C577C}"
+              s:par="GridParameters=%7BF61E01E9-711A-4C99-AE30-4E28463E1DF7%7D&amp;FieldNames=%7BFD7EAADE-C6F5-4332-A3FC-81AA6501C989%7D&amp;Styles&amp;RenderingIdentifier&amp;CSSStyles&amp;DynamicPlaceholderId=27"
+              s:ph="/headless-main/sxa-newsarticlepage/container-1/column-1-3/navtab-23" />
+            <r
+              uid="{D1178918-7308-4376-B5E0-D9D8AC50F75E}"
+              p:after="r[@uid='{F015FA70-B183-4CDF-8D3E-D3D5C1BF1FDF}']"
+              s:ds="local:/Data/EventTabs/Venue"
+              s:id="{76E2F3B2-FD41-4984-BEF0-F39ED93C577C}"
+              s:par="GridParameters=%7BF61E01E9-711A-4C99-AE30-4E28463E1DF7%7D&amp;FieldNames=%7BFD7EAADE-C6F5-4332-A3FC-81AA6501C989%7D&amp;Styles&amp;RenderingIdentifier&amp;CSSStyles&amp;DynamicPlaceholderId=26"
+              s:ph="/headless-main/sxa-newsarticlepage/container-1/column-1-3/navtab-23" />
+            <r
+              uid="{27E15EA7-3346-4135-94F0-392EF471592F}"
+              p:after="r[@uid='{D1178918-7308-4376-B5E0-D9D8AC50F75E}']"
+              s:ds="local:/Data/EventTabs/Pre-Event Workshops"
+              s:id="{76E2F3B2-FD41-4984-BEF0-F39ED93C577C}"
+              s:par="GridParameters=%7BF61E01E9-711A-4C99-AE30-4E28463E1DF7%7D&amp;FieldNames=%7BFD7EAADE-C6F5-4332-A3FC-81AA6501C989%7D&amp;Styles&amp;RenderingIdentifier&amp;CSSStyles&amp;DynamicPlaceholderId=25"
+              s:ph="/headless-main/sxa-newsarticlepage/container-1/column-1-3/navtab-23" />
+            <r
+              uid="{911C3979-9B0F-4F08-8E39-95A7B42BB180}"
+              p:after="r[@uid='{27E15EA7-3346-4135-94F0-392EF471592F}']"
+              s:ds="local:/Data/EventTabs/Admission Discounts"
+              s:id="{76E2F3B2-FD41-4984-BEF0-F39ED93C577C}"
+              s:par="GridParameters=%7BF61E01E9-711A-4C99-AE30-4E28463E1DF7%7D&amp;FieldNames=%7BFD7EAADE-C6F5-4332-A3FC-81AA6501C989%7D&amp;Styles&amp;RenderingIdentifier&amp;CSSStyles&amp;DynamicPlaceholderId=24"
+              s:ph="/headless-main/sxa-newsarticlepage/container-1/column-1-3/navtab-23" />
+            <r
+              uid="{F1F54848-1CE3-4C3E-BF88-4B11CC30F3FD}"
+              p:after="r[@uid='{911C3979-9B0F-4F08-8E39-95A7B42BB180}']"
+              s:ds="local:/Data/EventAccordion/Who should attend the ICMP Catalyst conference"
+              s:id="{ADA10EF4-9386-44F2-8ECD-5481C0E2D5FE}"
+              s:par="GridParameters=%7BF61E01E9-711A-4C99-AE30-4E28463E1DF7%7D&amp;FieldNames&amp;Styles&amp;RenderingIdentifier&amp;CSSStyles&amp;DynamicPlaceholderId=38"
+              s:ph="/headless-main/sxa-newsarticlepage/container-1/column-1-3/accord-29" />
+            <r
+              uid="{51C34FEF-310D-406A-8BF4-ED52EBB09538}"
+              p:after="r[@uid='{F1F54848-1CE3-4C3E-BF88-4B11CC30F3FD}']"
+              s:ds="local:/Data/EventAccordion/What topics and themes will the conference cover"
+              s:id="{ADA10EF4-9386-44F2-8ECD-5481C0E2D5FE}"
+              s:par="GridParameters=%7BF61E01E9-711A-4C99-AE30-4E28463E1DF7%7D&amp;FieldNames&amp;Styles&amp;RenderingIdentifier&amp;CSSStyles&amp;DynamicPlaceholderId=40"
+              s:ph="/headless-main/sxa-newsarticlepage/container-1/column-1-3/accord-29" />
+            <r
+              uid="{0E2FFE8C-D757-4CC9-9B51-55CF2F8EAD9E}"
+              p:after="r[@uid='{51C34FEF-310D-406A-8BF4-ED52EBB09538}']"
+              s:ds="local:/Data/EventAccordion/Will there be opportunities for networking and collaboration"
+              s:id="{ADA10EF4-9386-44F2-8ECD-5481C0E2D5FE}"
+              s:par="GridParameters=%7BF61E01E9-711A-4C99-AE30-4E28463E1DF7%7D&amp;FieldNames&amp;Styles&amp;RenderingIdentifier&amp;CSSStyles&amp;DynamicPlaceholderId=44"
+              s:ph="/headless-main/sxa-newsarticlepage/container-1/column-1-3/accord-29" />
+            <r
+              uid="{06C73A72-37DF-43F3-B549-76A7D1E178C1}"
+              p:after="r[@uid='{0E2FFE8C-D757-4CC9-9B51-55CF2F8EAD9E}']"
+              s:ds="local:/Data/EventAccordion/Is the conference available virtually or only in person"
+              s:id="{ADA10EF4-9386-44F2-8ECD-5481C0E2D5FE}"
+              s:par="GridParameters=%7BF61E01E9-711A-4C99-AE30-4E28463E1DF7%7D&amp;FieldNames&amp;Styles&amp;RenderingIdentifier&amp;CSSStyles&amp;DynamicPlaceholderId=46"
+              s:ph="/headless-main/sxa-newsarticlepage/container-1/column-1-3/accord-29" />
+            <r
+              uid="{38210FC6-AD89-413C-8394-8A23C2584F20}"
+              p:after="r[@uid='{06C73A72-37DF-43F3-B549-76A7D1E178C1}']"
+              s:ds="local:/Data/Text 6"
+              s:id="{0901D932-0027-4B05-AA78-A8C8320936D5}"
+              s:par="GridParameters=%7BF61E01E9-711A-4C99-AE30-4E28463E1DF7%7D&amp;FieldNames=%7BA4B2A62A-C9FA-43A3-B096-96F2D418AD5C%7D&amp;Styles&amp;RenderingIdentifier&amp;CSSStyles&amp;DynamicPlaceholderId=39"
+              s:ph="/headless-main/sxa-newsarticlepage/container-1/column-1-3/accord-29/accordcontent-38" />
+            <r
+              uid="{D386C3D3-0DDA-43FF-A033-33290A196FF1}"
+              p:after="r[@uid='{38210FC6-AD89-413C-8394-8A23C2584F20}']"
+              s:ds="local:/Data/Text 7"
+              s:id="{0901D932-0027-4B05-AA78-A8C8320936D5}"
+              s:par="GridParameters=%7BF61E01E9-711A-4C99-AE30-4E28463E1DF7%7D&amp;FieldNames=%7BA4B2A62A-C9FA-43A3-B096-96F2D418AD5C%7D&amp;Styles&amp;RenderingIdentifier&amp;CSSStyles&amp;DynamicPlaceholderId=41"
+              s:ph="/headless-main/sxa-newsarticlepage/container-1/column-1-3/accord-29/accordcontent-40" />
+            <r
+              uid="{EA80A49C-5A05-486D-8E9D-807AD6FE6C90}"
+              p:after="r[@uid='{D386C3D3-0DDA-43FF-A033-33290A196FF1}']"
+              s:ds="local:/Data/Text 8"
+              s:id="{0901D932-0027-4B05-AA78-A8C8320936D5}"
+              s:par="GridParameters=%7BF61E01E9-711A-4C99-AE30-4E28463E1DF7%7D&amp;FieldNames=%7BA4B2A62A-C9FA-43A3-B096-96F2D418AD5C%7D&amp;Styles&amp;RenderingIdentifier&amp;CSSStyles&amp;DynamicPlaceholderId=43"
+              s:ph="/headless-main/sxa-newsarticlepage/container-1/column-1-3/accord-29/accordcontent-40/accordcontent-42" />
+            <r
+              uid="{1BB57663-E922-498B-B540-FE0DDBD73CE4}"
+              p:after="r[@uid='{EA80A49C-5A05-486D-8E9D-807AD6FE6C90}']"
+              s:ds="local:/Data/Text 8"
+              s:id="{0901D932-0027-4B05-AA78-A8C8320936D5}"
+              s:par="GridParameters=%7BF61E01E9-711A-4C99-AE30-4E28463E1DF7%7D&amp;FieldNames=%7BA4B2A62A-C9FA-43A3-B096-96F2D418AD5C%7D&amp;Styles&amp;RenderingIdentifier&amp;CSSStyles&amp;DynamicPlaceholderId=45"
+              s:ph="/headless-main/sxa-newsarticlepage/container-1/column-1-3/accord-29/accordcontent-44" />
+            <r
+              uid="{31209FD4-3D8B-4BE2-B8CD-2F271E6AD567}"
+              p:after="*[1=2]"
+              s:ds="local:/Data/Text 9"
+              s:id="{0901D932-0027-4B05-AA78-A8C8320936D5}"
+              s:par="GridParameters=%7BF61E01E9-711A-4C99-AE30-4E28463E1DF7%7D&amp;FieldNames=%7BA4B2A62A-C9FA-43A3-B096-96F2D418AD5C%7D&amp;Styles&amp;RenderingIdentifier&amp;CSSStyles&amp;DynamicPlaceholderId=47"
+              s:ph="/headless-main/sxa-newsarticlepage/container-1/column-1-3/accord-29/accordcontent-46" />
+          </d>
+        </r>
+    - ID: "06890ecb-5786-4776-8d76-19250477a9bc"
+      Hint: MetaImage
+      Value: |
+        <image mediaid="{E9185578-D542-4202-A666-D27B56F2E233}" alt="medical_bill" height="" width="" hspace="" vspace="" />
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20250625T141843Z
+    - ID: "3e431de1-525e-47a3-b6b0-1ccbec3a8c98"
+      Hint: __Workflow state
+      Value: 
+    - ID: "4e0720e9-9d50-4ddc-87cf-ecd65e8e94c8"
+      Hint: NavigationTitle
+      Value: الأحداث
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+      Hint: __Owner
+      Value: |
+        sitecore\karthikeyan.kumaravel@altudo.co
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\karthikeyan.kumaravel@altudo.co
+    - ID: "6128ed46-0b79-4d6a-87ad-ac6fe70c649c"
+      Hint: Category
+      Value: أخبار الشركة
+    - ID: "6fb03d9c-e0f6-4765-831d-d5627c4e0b67"
+      Hint: Content
+      Value: |
+        <p>ICMP Catalyst هو حدث سنوي رائد يجمع قادة الرعاية الصحية والمبتكرين والأطباء وصانعي السياسات والتقنيين لاستكشاف مستقبل تقديم الرعاية الصحية. يركز المؤتمر على الاستراتيجيات القابلة للتنفيذ لتوسيع نطاق التحول الرقمي وتحسين الكفاءة التشغيلية وتحقيق نتائج عادلة للمرضى. من خلال ورش العمل التفاعلية واللجان القائمة على الحالات ومختبرات الحلول، سيشارك الحاضرون في إنشاء الجيل التالي من أنظمة الرعاية الصحية المصممة لتحقيق المرونة والشمولية والتأثير القابل للقياس.<br />
+        <br />
+        <strong>المسارات الرئيسية:</strong><br />
+        الذكاء الاصطناعي ودعم اتخاذ القرارات السريرية<br />
+        إعادة تصميم نماذج الرعاية الافتراضية والمختلطة<br />
+        المساواة في الرعاية الصحية من خلال التصميم<br />
+        الذكاء التشغيلي وتحويل البيانات<br />
+        الأمن السيبراني والثقة في الصحة الرقمية<br />
+        مرونة القوى العاملة واعتماد التكنولوجيا<br />
+        <br />
+        <strong>الميزات الفريدة:</strong><br />
+        صندوق الابتكار: عروض توضيحية عملية للتقنيات الناشئة<br />
+        مختبر السياسات التعاونية: تخطيط السيناريوهات مع المنظمين والمزودين<br />
+        البحوث السريعة: عروض قصيرة عالية التأثير من الميدان<br />
+        جوائز وكلاء التغيير: تكريم القادة الذين أحدثوا فرقًا ملموسًا</p>
+    - ID: "78bd5b13-d9ab-44a4-bae4-c2dda0ad6133"
+      Hint: IntroText
+      Value: "&ldquo;من الرؤية إلى التأثير: توسيع نطاق الابتكار في الرعاية المركزة على المريض&rdquo;"
+    - ID: "7cba72f9-1513-41af-ba26-de761f138805"
+      Hint: Title
+      Value: "23 يوليو 2025 — ICMP Catalyst: مستقبل الرعاية الصحية التعاونية"
+    - ID: "85f5b648-1823-4509-b7fd-27deacdf2dff"
+      Hint: MetaDescription
+      Value: انضم إلى فعالية ICMP Catalyst التي تستضيفها Fast Lane، والتي تركز على التطورات والتعاون في مجال الرعاية الصحية المدعومة بحلول إدارة المحتوى XM Cloud.
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "f9993cee-ee6f-4474-9468-749238a4f9eb"
+    - ID: "92c233dc-a8b3-4fd0-bb3f-e82a8b49bed2"
+      Hint: MetaTitle
+      Value: "حدث ICMP Catalyst - مستقبل الرعاية الصحية التعاونية | Fast Lane XM Cloud"
+    - ID: "9f4483ca-f858-45d1-86a5-0a69c9ab6207"
+      Hint: MetaKeywords
+      Value: ICMP Catalyst، التعاون في مجال الرعاية الصحية، حدث XM Cloud، أحداث Fast Lane، حلول الرعاية الصحية الرقمية
+    - ID: "a667d11b-ca9f-4fbe-881f-2538eb51f432"
+      Hint: PublishedDate
+      Value: 20250723T000000Z
+    - ID: "ba41d59c-a2b6-4f14-8913-7734549cce04"
+      Hint: Image
+      Value: |
+        <image mediaid="{E9185578-D542-4202-A666-D27B56F2E233}" alt="ICMPEvents" height="" width="" hspace="" vspace="" />
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\karthikeyan.kumaravel@altudo.co
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20251201T182155Z
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "001dd393-96c5-490b-924a-b0f25cd9efd8"
+      Hint: __Lock
+      Value: <r />
+    - ID: "06890ecb-5786-4776-8d76-19250477a9bc"
+      Hint: MetaImage
+      Value: |
+        <image mediaid="{E9185578-D542-4202-A666-D27B56F2E233}" />
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20250625T141843Z
+    - ID: "4e0720e9-9d50-4ddc-87cf-ecd65e8e94c8"
+      Hint: NavigationTitle
+      Value: Events
+    - ID: "6128ed46-0b79-4d6a-87ad-ac6fe70c649c"
+      Hint: Category
+      Value: Company News
+    - ID: "6fb03d9c-e0f6-4765-831d-d5627c4e0b67"
+      Hint: Content
+      Value: "<p>ICMP Catalyst is an annual flagship event bringing together healthcare leaders, innovators, clinicians, policymakers, and technologists to explore the future of care delivery. The conference focuses on actionable strategies for scaling digital transformation, improving operational efficiency, and achieving equitable patient outcomes. Through immersive workshops, case-based panels, and solution labs, attendees will co-create the next generation of healthcare systems—designed for agility, inclusion, and measurable impact.<br /><br /><strong>Key Tracks:</strong><br />AI &amp; Clinical Decision Support<br />Redesigning Virtual &amp; Hybrid Care Models<br />Health Equity by Design<br />Operational Intelligence &amp; Data Transformation<br />Cybersecurity &amp; Trust in Digital Health<br />Workforce Resilience and Tech Adoption<br /><br /><strong>Unique Features:</strong><br />Innovation Sandbox: Hands-on demos of emerging technologies<br />Collaborative Policy Lab: Scenario planning with regulators and providers<br />Rapid-Fire Research: Short, high-impact presentations from the field<br />Change Agent Awards: Recognizing leaders making a measurable difference</p>"
+    - ID: "78bd5b13-d9ab-44a4-bae4-c2dda0ad6133"
+      Hint: IntroText
+      Value: "&ldquo;From Vision to Impact: Scaling Innovation in Patient-Centered Care&rdquo;"
+    - ID: "7cba72f9-1513-41af-ba26-de761f138805"
+      Hint: Title
+      Value: "July 23, 2025 — ICMP Catalyst: The Future of Collaborative Healthcare"
+    - ID: "85f5b648-1823-4509-b7fd-27deacdf2dff"
+      Hint: MetaDescription
+      Value: Join the ICMP Catalyst event hosted by Fast Lane, focusing on advancements and collaboration in healthcare powered by XM Cloud content management solutions
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "5f080e49-1f25-42f7-9128-4124b8d4ff24"
+    - ID: "92c233dc-a8b3-4fd0-bb3f-e82a8b49bed2"
+      Hint: MetaTitle
+      Value: "ICMP Catalyst Event - The Future of Collaborative Healthcare | Fast Lane XM Cloud"
+    - ID: "9f4483ca-f858-45d1-86a5-0a69c9ab6207"
+      Hint: MetaKeywords
+      Value: ICMP Catalyst, healthcare collaboration, XM Cloud event, Fast Lane events, digital healthcare solutions
+    - ID: "a667d11b-ca9f-4fbe-881f-2538eb51f432"
+      Hint: PublishedDate
+      Value: 20250723T000000Z
+    - ID: "ba41d59c-a2b6-4f14-8913-7734549cce04"
+      Hint: Image
+      Value: |
+        <image mediaid="{E9185578-D542-4202-A666-D27B56F2E233}" />
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\karthikeyan.kumaravel@altudo.co
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20251201T182126Z
+    - ID: "f56d5ae9-cbca-48e1-b47e-e06a7561fc5d"
+      Hint: CalltoActionLinkMain
+      Value: 
+- Language: "fr-CA"
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "04bf00db-f5fb-41f7-8ab7-22408372a981"
+      Hint: __Final Renderings
+      Value: |
+        <r xmlns:p="p" xmlns:s="s"
+          p:p="1">
+          <d
+            id="{FE5D7FDF-89C0-4D99-9AA3-B5FBD009C9F3}">
+            <r
+              uid="{1723C83B-BA1A-4AD5-99CA-69D0DD29A20D}"
+              p:before="*"
+              s:id="{F7295588-FA7F-448E-B222-F64005B22E8D}"
+              s:par="GridParameters&amp;ImageOrder&amp;FieldNames&amp;Styles=%7BEF57264A-DE76-4138-8D84-E1C9D0817B1F%7D%7C%7BCC371879-3C7C-4284-BDD1-E567746F8059%7D%7C%7BC89F12C0-1C9B-468D-A613-A5B2ECE35DEC%7D%7C%7BB9987F84-3F44-4164-B67C-4358C72DA416%7D%7C%7BA7198BFC-02EC-4906-B92E-EDBD12BED619%7D%7C%7B87D3E96C-A4B5-49D7-A1D1-8891FE624EF2%7D%7C%7BA4F0BA41-0D86-412D-8293-96EE7FE1096F%7D%7C%7BABAB66E7-B2A7-45D5-8240-A9D4F0439C01%7D%7C%7BCE4890CA-AEDB-4109-AD9A-50073570D394%7D%7C%7B62046E34-8C5E-44C4-B092-537547D5E1CC%7D%7C%7B7BC5B335-BFB0-4B2D-9767-CF4B70E2B8EE%7D%7C%7B3695D896-A0DB-4B57-AE2D-11C49F1D0132%7D%7C%7BABDFECBD-593D-4966-9B44-8B10D2E83F24%7D%7C%7B498BD240-85CF-450D-B482-0B90A9047088%7D%7C%7BACA1D298-4F90-4EA9-8281-82D0BBB1E353%7D&amp;RenderingIdentifier&amp;CSSStyles&amp;DynamicPlaceholderId=1"
+              s:ph="/headless-main/sxa-newsarticlepage/container-1/column-1-3/container-4" />
+            <r
+              uid="{B5B91E36-B86A-4E82-8A53-27302636B6B8}"
+              p:after="r[@uid='{1723C83B-BA1A-4AD5-99CA-69D0DD29A20D}']"
+              s:id="{B7C649C8-C683-44CB-9A87-AEBEA3DA8EB3}"
+              s:par="GridParameters=%7BF61E01E9-711A-4C99-AE30-4E28463E1DF7%7D&amp;FieldNames=%7B129985C4-D854-49F5-9602-9E1D1B8DF899%7D&amp;BackgroundImage&amp;Styles&amp;RenderingIdentifier&amp;CSSStyles&amp;DynamicPlaceholderId=18"
+              s:ph="/headless-main/sxa-newsarticlepage/container-1/column-1-3/container-4" />
+            <r
+              uid="{7398E804-9FD5-430C-AD91-6ECE1091DA19}"
+              p:after="r[@uid='{B5B91E36-B86A-4E82-8A53-27302636B6B8}']"
+              s:ds="local:/Data/EventTabs/Continuing Education"
+              s:id="{76E2F3B2-FD41-4984-BEF0-F39ED93C577C}"
+              s:par="GridParameters=%7BF61E01E9-711A-4C99-AE30-4E28463E1DF7%7D&amp;FieldNames=%7BFD7EAADE-C6F5-4332-A3FC-81AA6501C989%7D&amp;Styles&amp;RenderingIdentifier&amp;CSSStyles&amp;DynamicPlaceholderId=5"
+              s:ph="/headless-main/sxa-newsarticlepage/container-1/column-1-3/container-4/container-18/navtab-4" />
+            <r
+              uid="{0162E08A-8FB3-4582-8419-09B309E2E9A1}"
+              p:after="r[@uid='{7398E804-9FD5-430C-AD91-6ECE1091DA19}']"
+              s:ds="local:/Data/EventTabs/Venue"
+              s:id="{76E2F3B2-FD41-4984-BEF0-F39ED93C577C}"
+              s:par="GridParameters=%7BF61E01E9-711A-4C99-AE30-4E28463E1DF7%7D&amp;FieldNames=%7BFD7EAADE-C6F5-4332-A3FC-81AA6501C989%7D&amp;Styles&amp;RenderingIdentifier&amp;CSSStyles&amp;DynamicPlaceholderId=6"
+              s:ph="/headless-main/sxa-newsarticlepage/container-1/column-1-3/container-4/container-18/navtab-4" />
+            <r
+              uid="{206295F1-2C6D-48F1-8B2B-F62CF8ED690A}"
+              p:after="r[@uid='{0162E08A-8FB3-4582-8419-09B309E2E9A1}']"
+              s:ds="local:/Data/EventTabs/Admission Discounts"
+              s:id="{76E2F3B2-FD41-4984-BEF0-F39ED93C577C}"
+              s:par="GridParameters=%7BF61E01E9-711A-4C99-AE30-4E28463E1DF7%7D&amp;FieldNames=%7BFD7EAADE-C6F5-4332-A3FC-81AA6501C989%7D&amp;Styles&amp;RenderingIdentifier&amp;CSSStyles&amp;DynamicPlaceholderId=8"
+              s:ph="/headless-main/sxa-newsarticlepage/container-1/column-1-3/container-4/container-18/navtab-4" />
+            <r
+              uid="{4F25E3A4-7187-4755-A917-EA09B57266CB}"
+              p:after="r[@uid='{206295F1-2C6D-48F1-8B2B-F62CF8ED690A}']"
+              s:ds="local:/Data/EventTabs/Pre-Event Workshops"
+              s:id="{76E2F3B2-FD41-4984-BEF0-F39ED93C577C}"
+              s:par="GridParameters=%7BF61E01E9-711A-4C99-AE30-4E28463E1DF7%7D&amp;FieldNames=%7BFD7EAADE-C6F5-4332-A3FC-81AA6501C989%7D&amp;Styles&amp;RenderingIdentifier&amp;CSSStyles&amp;DynamicPlaceholderId=7"
+              s:ph="/headless-main/sxa-newsarticlepage/container-1/column-1-3/container-4/container-18/navtab-4" />
+            <r
+              uid="{7D15DD13-D3FF-4765-AD3F-56F2A5EFB61F}"
+              p:after="r[@uid='{4F25E3A4-7187-4755-A917-EA09B57266CB}']"
+              s:id="{15CABDFF-FFD9-48F4-826D-A4C3D7868D3A}"
+              s:par="ColumnWidth1=%7B670536BF-55BC-4EBD-BBE5-00D9A5E9AF50%7D&amp;ColumnWidth2=%7B670536BF-55BC-4EBD-BBE5-00D9A5E9AF50%7D&amp;ColumnWidth3&amp;ColumnWidth4&amp;ColumnWidth5&amp;ColumnWidth6&amp;ColumnWidth7&amp;ColumnWidth8&amp;GridParameters=%7BF61E01E9-711A-4C99-AE30-4E28463E1DF7%7D&amp;SplitterSize=2&amp;EnabledPlaceholders=1%2C2&amp;FieldNames&amp;Styles1&amp;Styles2&amp;Styles3&amp;Styles4&amp;Styles5&amp;Styles6&amp;Styles7&amp;Styles&amp;Styles8&amp;RenderingIdentifier&amp;CSSStyles&amp;DynamicPlaceholderId=11"
+              s:ph="/headless-main/sxa-newsarticlepage/container-1/column-1-3/container-4/container-18/navtab-4/navtabcontent-5" />
+            <r
+              uid="{F2B27A14-6567-4CBD-9755-92B717E1FB81}"
+              p:after="r[@uid='{7D15DD13-D3FF-4765-AD3F-56F2A5EFB61F}']"
+              s:ds="local:/Data/Text 3"
+              s:id="{0901D932-0027-4B05-AA78-A8C8320936D5}"
+              s:par="GridParameters=%7BF61E01E9-711A-4C99-AE30-4E28463E1DF7%7D&amp;FieldNames=%7BA4B2A62A-C9FA-43A3-B096-96F2D418AD5C%7D&amp;Styles&amp;RenderingIdentifier&amp;CSSStyles&amp;DynamicPlaceholderId=12"
+              s:ph="/headless-main/sxa-newsarticlepage/container-1/column-1-3/container-4/container-18/navtab-4/navtabcontent-5/column-1-11" />
+            <r
+              uid="{1179C0BF-B4F3-44FD-8524-34AF3BF69266}"
+              p:after="r[@uid='{F2B27A14-6567-4CBD-9755-92B717E1FB81}']"
+              s:ds="local:/Data/Text 4"
+              s:id="{0901D932-0027-4B05-AA78-A8C8320936D5}"
+              s:par="GridParameters=%7BF61E01E9-711A-4C99-AE30-4E28463E1DF7%7D&amp;FieldNames=%7BA4B2A62A-C9FA-43A3-B096-96F2D418AD5C%7D&amp;Styles&amp;RenderingIdentifier&amp;CSSStyles&amp;DynamicPlaceholderId=13"
+              s:ph="/headless-main/sxa-newsarticlepage/container-1/column-2-3" />
+            <r
+              uid="{7335002F-274C-4FDD-B03E-C01A04893172}"
+              p:after="r[@uid='{1179C0BF-B4F3-44FD-8524-34AF3BF69266}']"
+              s:ds="local:/Data/Event1"
+              s:id="{2AC9F9B4-0E80-4B4E-BC71-A52B5F1C8D9B}"
+              s:par="CTAButton=1&amp;CardOrientation=vertical&amp;ImageOrder&amp;HeaderTag&amp;LinkType=Button&amp;GridParameters=%7BF61E01E9-711A-4C99-AE30-4E28463E1DF7%7D&amp;FieldNames=%7B3427D6A0-EB73-4CB7-A24F-FBE8CD8FB35A%7D&amp;Styles=%7BEF57264A-DE76-4138-8D84-E1C9D0817B1F%7D%7C%7BCC371879-3C7C-4284-BDD1-E567746F8059%7D%7C%7BC89F12C0-1C9B-468D-A613-A5B2ECE35DEC%7D%7C%7BB9987F84-3F44-4164-B67C-4358C72DA416%7D%7C%7BA7198BFC-02EC-4906-B92E-EDBD12BED619%7D%7C%7B87D3E96C-A4B5-49D7-A1D1-8891FE624EF2%7D%7C%7BA4F0BA41-0D86-412D-8293-96EE7FE1096F%7D%7C%7BABAB66E7-B2A7-45D5-8240-A9D4F0439C01%7D%7C%7BCE4890CA-AEDB-4109-AD9A-50073570D394%7D%7C%7B62046E34-8C5E-44C4-B092-537547D5E1CC%7D%7C%7B7BC5B335-BFB0-4B2D-9767-CF4B70E2B8EE%7D%7C%7B3695D896-A0DB-4B57-AE2D-11C49F1D0132%7D%7C%7BABDFECBD-593D-4966-9B44-8B10D2E83F24%7D%7C%7B498BD240-85CF-450D-B482-0B90A9047088%7D%7C%7BACA1D298-4F90-4EA9-8281-82D0BBB1E353%7D&amp;RenderingIdentifier&amp;CSSStyles&amp;DynamicPlaceholderId=14"
+              s:ph="/headless-main/sxa-newsarticlepage/container-1/column-2-3" />
+            <r
+              uid="{DF9DC9B3-597B-4A09-B078-1669A454686A}"
+              p:after="r[@uid='{7335002F-274C-4FDD-B03E-C01A04893172}']"
+              s:ds="local:/Data/Event2"
+              s:id="{2AC9F9B4-0E80-4B4E-BC71-A52B5F1C8D9B}"
+              s:par="CTAButton=1&amp;CardOrientation=vertical&amp;ImageOrder&amp;HeaderTag&amp;LinkType=Button&amp;GridParameters=%7BF61E01E9-711A-4C99-AE30-4E28463E1DF7%7D&amp;FieldNames=%7B3427D6A0-EB73-4CB7-A24F-FBE8CD8FB35A%7D&amp;Styles=%7BEF57264A-DE76-4138-8D84-E1C9D0817B1F%7D%7C%7BCC371879-3C7C-4284-BDD1-E567746F8059%7D%7C%7BC89F12C0-1C9B-468D-A613-A5B2ECE35DEC%7D%7C%7BB9987F84-3F44-4164-B67C-4358C72DA416%7D%7C%7BA7198BFC-02EC-4906-B92E-EDBD12BED619%7D%7C%7B87D3E96C-A4B5-49D7-A1D1-8891FE624EF2%7D%7C%7BA4F0BA41-0D86-412D-8293-96EE7FE1096F%7D%7C%7BABAB66E7-B2A7-45D5-8240-A9D4F0439C01%7D%7C%7BCE4890CA-AEDB-4109-AD9A-50073570D394%7D%7C%7B62046E34-8C5E-44C4-B092-537547D5E1CC%7D%7C%7B7BC5B335-BFB0-4B2D-9767-CF4B70E2B8EE%7D%7C%7B3695D896-A0DB-4B57-AE2D-11C49F1D0132%7D%7C%7BABDFECBD-593D-4966-9B44-8B10D2E83F24%7D%7C%7B498BD240-85CF-450D-B482-0B90A9047088%7D%7C%7BACA1D298-4F90-4EA9-8281-82D0BBB1E353%7D&amp;RenderingIdentifier&amp;CSSStyles&amp;DynamicPlaceholderId=15"
+              s:ph="/headless-main/sxa-newsarticlepage/container-1/column-2-3" />
+            <r
+              uid="{05DBFD80-E541-4D81-A42D-0C2CF0E063A0}"
+              p:after="r[@uid='{DF9DC9B3-597B-4A09-B078-1669A454686A}']"
+              s:ds="local:/Data/Event3"
+              s:id="{2AC9F9B4-0E80-4B4E-BC71-A52B5F1C8D9B}"
+              s:par="CTAButton=1&amp;CardOrientation=vertical&amp;ImageOrder&amp;HeaderTag&amp;LinkType=Button&amp;GridParameters=%7BF61E01E9-711A-4C99-AE30-4E28463E1DF7%7D&amp;FieldNames=%7B3427D6A0-EB73-4CB7-A24F-FBE8CD8FB35A%7D&amp;Styles=%7BEF57264A-DE76-4138-8D84-E1C9D0817B1F%7D%7C%7BCC371879-3C7C-4284-BDD1-E567746F8059%7D%7C%7BC89F12C0-1C9B-468D-A613-A5B2ECE35DEC%7D%7C%7BB9987F84-3F44-4164-B67C-4358C72DA416%7D%7C%7BA7198BFC-02EC-4906-B92E-EDBD12BED619%7D%7C%7B87D3E96C-A4B5-49D7-A1D1-8891FE624EF2%7D%7C%7BA4F0BA41-0D86-412D-8293-96EE7FE1096F%7D%7C%7BABAB66E7-B2A7-45D5-8240-A9D4F0439C01%7D%7C%7BCE4890CA-AEDB-4109-AD9A-50073570D394%7D%7C%7B62046E34-8C5E-44C4-B092-537547D5E1CC%7D%7C%7B7BC5B335-BFB0-4B2D-9767-CF4B70E2B8EE%7D%7C%7B3695D896-A0DB-4B57-AE2D-11C49F1D0132%7D%7C%7BABDFECBD-593D-4966-9B44-8B10D2E83F24%7D%7C%7B498BD240-85CF-450D-B482-0B90A9047088%7D%7C%7BACA1D298-4F90-4EA9-8281-82D0BBB1E353%7D&amp;RenderingIdentifier&amp;CSSStyles&amp;DynamicPlaceholderId=16"
+              s:ph="/headless-main/sxa-newsarticlepage/container-1/column-2-3" />
+            <r
+              uid="{7A306F90-A2E9-4E5E-B490-AB0DD2D3EABD}"
+              p:after="r[@uid='{05DBFD80-E541-4D81-A42D-0C2CF0E063A0}']"
+              s:ds="local:/Data/Event4"
+              s:id="{2AC9F9B4-0E80-4B4E-BC71-A52B5F1C8D9B}"
+              s:par="CTAButton=1&amp;CardOrientation=vertical&amp;ImageOrder&amp;HeaderTag&amp;LinkType=Button&amp;GridParameters=%7BF61E01E9-711A-4C99-AE30-4E28463E1DF7%7D&amp;FieldNames=%7B3427D6A0-EB73-4CB7-A24F-FBE8CD8FB35A%7D&amp;Styles=%7BEF57264A-DE76-4138-8D84-E1C9D0817B1F%7D%7C%7BCC371879-3C7C-4284-BDD1-E567746F8059%7D%7C%7BC89F12C0-1C9B-468D-A613-A5B2ECE35DEC%7D%7C%7BB9987F84-3F44-4164-B67C-4358C72DA416%7D%7C%7BA7198BFC-02EC-4906-B92E-EDBD12BED619%7D%7C%7B87D3E96C-A4B5-49D7-A1D1-8891FE624EF2%7D%7C%7BA4F0BA41-0D86-412D-8293-96EE7FE1096F%7D%7C%7BABAB66E7-B2A7-45D5-8240-A9D4F0439C01%7D%7C%7BCE4890CA-AEDB-4109-AD9A-50073570D394%7D%7C%7B62046E34-8C5E-44C4-B092-537547D5E1CC%7D%7C%7B7BC5B335-BFB0-4B2D-9767-CF4B70E2B8EE%7D%7C%7B3695D896-A0DB-4B57-AE2D-11C49F1D0132%7D%7C%7BABDFECBD-593D-4966-9B44-8B10D2E83F24%7D%7C%7B498BD240-85CF-450D-B482-0B90A9047088%7D%7C%7BACA1D298-4F90-4EA9-8281-82D0BBB1E353%7D&amp;RenderingIdentifier&amp;CSSStyles&amp;DynamicPlaceholderId=17"
+              s:ph="/headless-main/sxa-newsarticlepage/container-1/column-2-3" />
+            <r
+              uid="{A5C3C698-FA48-4397-9012-A05AC9AC805B}"
+              p:after="r[@uid='{7A306F90-A2E9-4E5E-B490-AB0DD2D3EABD}']"
+              s:id="{1409AEA2-6E60-4EA9-8813-CB229DF0E3B7}"
+              s:par="GridParameters=%7BF61E01E9-711A-4C99-AE30-4E28463E1DF7%7D&amp;FieldNames=%7B0EFC83ED-6584-40A0-91D4-56B2091E359B%7D&amp;Styles=%7BEF57264A-DE76-4138-8D84-E1C9D0817B1F%7D%7C%7BCC371879-3C7C-4284-BDD1-E567746F8059%7D%7C%7BC89F12C0-1C9B-468D-A613-A5B2ECE35DEC%7D%7C%7BB9987F84-3F44-4164-B67C-4358C72DA416%7D%7C%7BA7198BFC-02EC-4906-B92E-EDBD12BED619%7D%7C%7B87D3E96C-A4B5-49D7-A1D1-8891FE624EF2%7D%7C%7BA4F0BA41-0D86-412D-8293-96EE7FE1096F%7D%7C%7BABAB66E7-B2A7-45D5-8240-A9D4F0439C01%7D%7C%7BCE4890CA-AEDB-4109-AD9A-50073570D394%7D%7C%7B62046E34-8C5E-44C4-B092-537547D5E1CC%7D%7C%7B7BC5B335-BFB0-4B2D-9767-CF4B70E2B8EE%7D%7C%7B3695D896-A0DB-4B57-AE2D-11C49F1D0132%7D%7C%7BABDFECBD-593D-4966-9B44-8B10D2E83F24%7D%7C%7B498BD240-85CF-450D-B482-0B90A9047088%7D%7C%7B68B2FB88-7AE9-4FB4-9D14-09285E051552%7D&amp;RenderingIdentifier&amp;CSSStyles&amp;DynamicPlaceholderId=2"
+              s:ph="/headless-main/sxa-newsarticlepage/container-1/column-1-3/container-4/container-18" />
+            <r
+              uid="{89DA13B2-DBBC-4732-B21E-4DD3C388AE5A}"
+              p:after="r[@uid='{A5C3C698-FA48-4397-9012-A05AC9AC805B}']"
+              s:id="{C5F905F8-FD1F-444E-A9E5-AC6B774FF0DE}"
+              s:par="GridParameters=%7BF61E01E9-711A-4C99-AE30-4E28463E1DF7%7D&amp;Heading Tag&amp;FieldNames=%7B73D70018-AEEB-4FE5-A0F2-50B7BE67B1FF%7D&amp;Styles=%7BEF57264A-DE76-4138-8D84-E1C9D0817B1F%7D%7C%7BCC371879-3C7C-4284-BDD1-E567746F8059%7D%7C%7BC89F12C0-1C9B-468D-A613-A5B2ECE35DEC%7D%7C%7BB9987F84-3F44-4164-B67C-4358C72DA416%7D%7C%7BA7198BFC-02EC-4906-B92E-EDBD12BED619%7D%7C%7B87D3E96C-A4B5-49D7-A1D1-8891FE624EF2%7D%7C%7BA4F0BA41-0D86-412D-8293-96EE7FE1096F%7D%7C%7BABAB66E7-B2A7-45D5-8240-A9D4F0439C01%7D%7C%7BCE4890CA-AEDB-4109-AD9A-50073570D394%7D%7C%7B62046E34-8C5E-44C4-B092-537547D5E1CC%7D%7C%7B7BC5B335-BFB0-4B2D-9767-CF4B70E2B8EE%7D%7C%7B3695D896-A0DB-4B57-AE2D-11C49F1D0132%7D%7C%7BABDFECBD-593D-4966-9B44-8B10D2E83F24%7D%7C%7B498BD240-85CF-450D-B482-0B90A9047088%7D%7C%7B41FA3007-BE1A-4CA2-9449-E0A5742D4858%7D%7C%7B7DFD8E38-D109-4F3A-81AC-F01D057FAB02%7D&amp;RenderingIdentifier&amp;CSSStyles&amp;DynamicPlaceholderId=19"
+              s:ph="/headless-main/sxa-newsarticlepage/container-1/column-1-3/container-4/container-18" />
+            <r
+              uid="{95641015-3CF8-48F6-86CE-73A6CDC06C3B}"
+              p:after="r[@uid='{89DA13B2-DBBC-4732-B21E-4DD3C388AE5A}']"
+              s:ds="local:/Data/EventTabs"
+              s:id="{FF0B24F0-F314-4933-8EF9-5475CEB7DECD}"
+              s:par="GridParameters=%7BF61E01E9-711A-4C99-AE30-4E28463E1DF7%7D&amp;FieldNames=%7B21DB9279-023F-41C1-AFAA-01477375DFD0%7D&amp;Styles=%7BEF57264A-DE76-4138-8D84-E1C9D0817B1F%7D%7C%7BCC371879-3C7C-4284-BDD1-E567746F8059%7D%7C%7BC89F12C0-1C9B-468D-A613-A5B2ECE35DEC%7D%7C%7BB9987F84-3F44-4164-B67C-4358C72DA416%7D%7C%7BA7198BFC-02EC-4906-B92E-EDBD12BED619%7D%7C%7B87D3E96C-A4B5-49D7-A1D1-8891FE624EF2%7D%7C%7BA4F0BA41-0D86-412D-8293-96EE7FE1096F%7D%7C%7BABAB66E7-B2A7-45D5-8240-A9D4F0439C01%7D%7C%7BCE4890CA-AEDB-4109-AD9A-50073570D394%7D%7C%7B62046E34-8C5E-44C4-B092-537547D5E1CC%7D%7C%7B7BC5B335-BFB0-4B2D-9767-CF4B70E2B8EE%7D%7C%7B3695D896-A0DB-4B57-AE2D-11C49F1D0132%7D%7C%7BABDFECBD-593D-4966-9B44-8B10D2E83F24%7D%7C%7B498BD240-85CF-450D-B482-0B90A9047088%7D%7C%7BACA1D298-4F90-4EA9-8281-82D0BBB1E353%7D&amp;RenderingIdentifier&amp;CSSStyles&amp;DynamicPlaceholderId=4"
+              s:ph="/headless-main/sxa-newsarticlepage/container-1/column-1-3/container-4/container-18" />
+            <r
+              uid="{77506E42-1926-442A-8425-A686D5554468}"
+              p:after="r[@uid='{95641015-3CF8-48F6-86CE-73A6CDC06C3B}']"
+              s:ds="local:/Data/Text 2"
+              s:id="{0901D932-0027-4B05-AA78-A8C8320936D5}"
+              s:par="GridParameters=%7BF61E01E9-711A-4C99-AE30-4E28463E1DF7%7D&amp;FieldNames=%7BA4B2A62A-C9FA-43A3-B096-96F2D418AD5C%7D&amp;Styles=%7BEF57264A-DE76-4138-8D84-E1C9D0817B1F%7D%7C%7BCC371879-3C7C-4284-BDD1-E567746F8059%7D%7C%7BC89F12C0-1C9B-468D-A613-A5B2ECE35DEC%7D%7C%7BB9987F84-3F44-4164-B67C-4358C72DA416%7D%7C%7BA7198BFC-02EC-4906-B92E-EDBD12BED619%7D%7C%7B87D3E96C-A4B5-49D7-A1D1-8891FE624EF2%7D%7C%7BA4F0BA41-0D86-412D-8293-96EE7FE1096F%7D%7C%7BABAB66E7-B2A7-45D5-8240-A9D4F0439C01%7D%7C%7BCE4890CA-AEDB-4109-AD9A-50073570D394%7D%7C%7B62046E34-8C5E-44C4-B092-537547D5E1CC%7D%7C%7B7BC5B335-BFB0-4B2D-9767-CF4B70E2B8EE%7D%7C%7B3695D896-A0DB-4B57-AE2D-11C49F1D0132%7D%7C%7BABDFECBD-593D-4966-9B44-8B10D2E83F24%7D%7C%7B498BD240-85CF-450D-B482-0B90A9047088%7D%7C%7B7EA3C9E6-A3DE-4E6F-A243-7633C8F95840%7D&amp;RenderingIdentifier&amp;CSSStyles&amp;DynamicPlaceholderId=9"
+              s:ph="/headless-main/sxa-newsarticlepage/container-1/column-1-3/container-4/container-18" />
+            <r
+              uid="{D1534418-0B4C-4700-B342-9A310D5A3DAD}"
+              p:after="r[@uid='{77506E42-1926-442A-8425-A686D5554468}']"
+              s:id="{F7295588-FA7F-448E-B222-F64005B22E8D}"
+              s:par="GridParameters=%7BF61E01E9-711A-4C99-AE30-4E28463E1DF7%7D&amp;ImageOrder&amp;FieldNames=%7BBAC81150-16BD-4AED-9DF5-6FB5C82E1B95%7D&amp;Styles&amp;RenderingIdentifier&amp;CSSStyles&amp;DynamicPlaceholderId=20"
+              s:ph="/headless-main/sxa-newsarticlepage/container-1/column-1-3" />
+            <r
+              uid="{9D7C1E4F-B535-4C1C-A2CA-F8AF2DF624FC}"
+              p:after="r[@uid='{D1534418-0B4C-4700-B342-9A310D5A3DAD}']"
+              s:id="{1409AEA2-6E60-4EA9-8813-CB229DF0E3B7}"
+              s:par="GridParameters=%7BF61E01E9-711A-4C99-AE30-4E28463E1DF7%7D&amp;FieldNames=%7B0EFC83ED-6584-40A0-91D4-56B2091E359B%7D&amp;Styles=%7C%7BACA1D298-4F90-4EA9-8281-82D0BBB1E353%7D%7C%7B475E77AB-3D7F-4C96-A0C4-8164A8158C82%7D&amp;RenderingIdentifier&amp;CSSStyles&amp;DynamicPlaceholderId=21"
+              s:ph="/headless-main/sxa-newsarticlepage/container-1/column-1-3" />
+            <r
+              uid="{A2059F09-E691-4700-9CC9-349A68EFD0A0}"
+              p:after="r[@uid='{9D7C1E4F-B535-4C1C-A2CA-F8AF2DF624FC}']"
+              s:id="{C5F905F8-FD1F-444E-A9E5-AC6B774FF0DE}"
+              s:par="GridParameters=%7BF61E01E9-711A-4C99-AE30-4E28463E1DF7%7D&amp;Heading Tag&amp;FieldNames=%7B73D70018-AEEB-4FE5-A0F2-50B7BE67B1FF%7D&amp;Styles&amp;RenderingIdentifier&amp;CSSStyles&amp;DynamicPlaceholderId=22"
+              s:ph="/headless-main/sxa-newsarticlepage/container-1/column-1-3" />
+            <r
+              uid="{B6C83B6D-A374-45B8-ABBA-28D0EE74AF5D}"
+              p:after="r[@uid='{A2059F09-E691-4700-9CC9-349A68EFD0A0}']"
+              s:ds="local:/Data/EventTabs"
+              s:id="{FF0B24F0-F314-4933-8EF9-5475CEB7DECD}"
+              s:par="GridParameters=%7BF61E01E9-711A-4C99-AE30-4E28463E1DF7%7D&amp;FieldNames=%7B21DB9279-023F-41C1-AFAA-01477375DFD0%7D&amp;Styles&amp;RenderingIdentifier&amp;CSSStyles&amp;DynamicPlaceholderId=23"
+              s:ph="/headless-main/sxa-newsarticlepage/container-1/column-1-3" />
+            <r
+              uid="{738C2E5C-944C-4904-9F3F-3E9FF6DA0B26}"
+              p:after="r[@uid='{B6C83B6D-A374-45B8-ABBA-28D0EE74AF5D}']"
+              s:ds="local:/Data/Text 2"
+              s:id="{0901D932-0027-4B05-AA78-A8C8320936D5}"
+              s:par="GridParameters=%7BF61E01E9-711A-4C99-AE30-4E28463E1DF7%7D&amp;FieldNames=%7BA4B2A62A-C9FA-43A3-B096-96F2D418AD5C%7D&amp;Styles&amp;RenderingIdentifier&amp;CSSStyles&amp;DynamicPlaceholderId=28"
+              s:ph="/headless-main/sxa-newsarticlepage/container-1/column-1-3" />
+            <r
+              uid="{C1DE946C-79C6-44E1-A311-66C9182767EE}"
+              p:after="r[@uid='{738C2E5C-944C-4904-9F3F-3E9FF6DA0B26}']"
+              s:ds="local:/Data/EventAccordion"
+              s:id="{FCE3D04D-AB74-458A-BE0D-66D370D341D4}"
+              s:par="GridParameters=%7BF61E01E9-711A-4C99-AE30-4E28463E1DF7%7D&amp;FieldNames=%7B3D14B69B-70CF-4F9F-A584-B8C60E88B08D%7D&amp;Styles&amp;RenderingIdentifier&amp;CSSStyles&amp;DynamicPlaceholderId=29"
+              s:ph="/headless-main/sxa-newsarticlepage/container-1/column-1-3" />
+            <r
+              uid="{F015FA70-B183-4CDF-8D3E-D3D5C1BF1FDF}"
+              p:after="r[@uid='{C1DE946C-79C6-44E1-A311-66C9182767EE}']"
+              s:ds="local:/Data/EventTabs/Continuing Education"
+              s:id="{76E2F3B2-FD41-4984-BEF0-F39ED93C577C}"
+              s:par="GridParameters=%7BF61E01E9-711A-4C99-AE30-4E28463E1DF7%7D&amp;FieldNames=%7BFD7EAADE-C6F5-4332-A3FC-81AA6501C989%7D&amp;Styles&amp;RenderingIdentifier&amp;CSSStyles&amp;DynamicPlaceholderId=27"
+              s:ph="/headless-main/sxa-newsarticlepage/container-1/column-1-3/navtab-23" />
+            <r
+              uid="{D1178918-7308-4376-B5E0-D9D8AC50F75E}"
+              p:after="r[@uid='{F015FA70-B183-4CDF-8D3E-D3D5C1BF1FDF}']"
+              s:ds="local:/Data/EventTabs/Venue"
+              s:id="{76E2F3B2-FD41-4984-BEF0-F39ED93C577C}"
+              s:par="GridParameters=%7BF61E01E9-711A-4C99-AE30-4E28463E1DF7%7D&amp;FieldNames=%7BFD7EAADE-C6F5-4332-A3FC-81AA6501C989%7D&amp;Styles&amp;RenderingIdentifier&amp;CSSStyles&amp;DynamicPlaceholderId=26"
+              s:ph="/headless-main/sxa-newsarticlepage/container-1/column-1-3/navtab-23" />
+            <r
+              uid="{27E15EA7-3346-4135-94F0-392EF471592F}"
+              p:after="r[@uid='{D1178918-7308-4376-B5E0-D9D8AC50F75E}']"
+              s:ds="local:/Data/EventTabs/Pre-Event Workshops"
+              s:id="{76E2F3B2-FD41-4984-BEF0-F39ED93C577C}"
+              s:par="GridParameters=%7BF61E01E9-711A-4C99-AE30-4E28463E1DF7%7D&amp;FieldNames=%7BFD7EAADE-C6F5-4332-A3FC-81AA6501C989%7D&amp;Styles&amp;RenderingIdentifier&amp;CSSStyles&amp;DynamicPlaceholderId=25"
+              s:ph="/headless-main/sxa-newsarticlepage/container-1/column-1-3/navtab-23" />
+            <r
+              uid="{911C3979-9B0F-4F08-8E39-95A7B42BB180}"
+              p:after="r[@uid='{27E15EA7-3346-4135-94F0-392EF471592F}']"
+              s:ds="local:/Data/EventTabs/Admission Discounts"
+              s:id="{76E2F3B2-FD41-4984-BEF0-F39ED93C577C}"
+              s:par="GridParameters=%7BF61E01E9-711A-4C99-AE30-4E28463E1DF7%7D&amp;FieldNames=%7BFD7EAADE-C6F5-4332-A3FC-81AA6501C989%7D&amp;Styles&amp;RenderingIdentifier&amp;CSSStyles&amp;DynamicPlaceholderId=24"
+              s:ph="/headless-main/sxa-newsarticlepage/container-1/column-1-3/navtab-23" />
+            <r
+              uid="{F1F54848-1CE3-4C3E-BF88-4B11CC30F3FD}"
+              p:after="r[@uid='{911C3979-9B0F-4F08-8E39-95A7B42BB180}']"
+              s:ds="local:/Data/EventAccordion/Who should attend the ICMP Catalyst conference"
+              s:id="{ADA10EF4-9386-44F2-8ECD-5481C0E2D5FE}"
+              s:par="GridParameters=%7BF61E01E9-711A-4C99-AE30-4E28463E1DF7%7D&amp;FieldNames&amp;Styles&amp;RenderingIdentifier&amp;CSSStyles&amp;DynamicPlaceholderId=38"
+              s:ph="/headless-main/sxa-newsarticlepage/container-1/column-1-3/accord-29" />
+            <r
+              uid="{51C34FEF-310D-406A-8BF4-ED52EBB09538}"
+              p:after="r[@uid='{F1F54848-1CE3-4C3E-BF88-4B11CC30F3FD}']"
+              s:ds="local:/Data/EventAccordion/What topics and themes will the conference cover"
+              s:id="{ADA10EF4-9386-44F2-8ECD-5481C0E2D5FE}"
+              s:par="GridParameters=%7BF61E01E9-711A-4C99-AE30-4E28463E1DF7%7D&amp;FieldNames&amp;Styles&amp;RenderingIdentifier&amp;CSSStyles&amp;DynamicPlaceholderId=40"
+              s:ph="/headless-main/sxa-newsarticlepage/container-1/column-1-3/accord-29" />
+            <r
+              uid="{0E2FFE8C-D757-4CC9-9B51-55CF2F8EAD9E}"
+              p:after="r[@uid='{51C34FEF-310D-406A-8BF4-ED52EBB09538}']"
+              s:ds="local:/Data/EventAccordion/Will there be opportunities for networking and collaboration"
+              s:id="{ADA10EF4-9386-44F2-8ECD-5481C0E2D5FE}"
+              s:par="GridParameters=%7BF61E01E9-711A-4C99-AE30-4E28463E1DF7%7D&amp;FieldNames&amp;Styles&amp;RenderingIdentifier&amp;CSSStyles&amp;DynamicPlaceholderId=44"
+              s:ph="/headless-main/sxa-newsarticlepage/container-1/column-1-3/accord-29" />
+            <r
+              uid="{06C73A72-37DF-43F3-B549-76A7D1E178C1}"
+              p:after="r[@uid='{0E2FFE8C-D757-4CC9-9B51-55CF2F8EAD9E}']"
+              s:ds="local:/Data/EventAccordion/Is the conference available virtually or only in person"
+              s:id="{ADA10EF4-9386-44F2-8ECD-5481C0E2D5FE}"
+              s:par="GridParameters=%7BF61E01E9-711A-4C99-AE30-4E28463E1DF7%7D&amp;FieldNames&amp;Styles&amp;RenderingIdentifier&amp;CSSStyles&amp;DynamicPlaceholderId=46"
+              s:ph="/headless-main/sxa-newsarticlepage/container-1/column-1-3/accord-29" />
+            <r
+              uid="{38210FC6-AD89-413C-8394-8A23C2584F20}"
+              p:after="r[@uid='{06C73A72-37DF-43F3-B549-76A7D1E178C1}']"
+              s:ds="local:/Data/Text 6"
+              s:id="{0901D932-0027-4B05-AA78-A8C8320936D5}"
+              s:par="GridParameters=%7BF61E01E9-711A-4C99-AE30-4E28463E1DF7%7D&amp;FieldNames=%7BA4B2A62A-C9FA-43A3-B096-96F2D418AD5C%7D&amp;Styles&amp;RenderingIdentifier&amp;CSSStyles&amp;DynamicPlaceholderId=39"
+              s:ph="/headless-main/sxa-newsarticlepage/container-1/column-1-3/accord-29/accordcontent-38" />
+            <r
+              uid="{D386C3D3-0DDA-43FF-A033-33290A196FF1}"
+              p:after="r[@uid='{38210FC6-AD89-413C-8394-8A23C2584F20}']"
+              s:ds="local:/Data/Text 7"
+              s:id="{0901D932-0027-4B05-AA78-A8C8320936D5}"
+              s:par="GridParameters=%7BF61E01E9-711A-4C99-AE30-4E28463E1DF7%7D&amp;FieldNames=%7BA4B2A62A-C9FA-43A3-B096-96F2D418AD5C%7D&amp;Styles&amp;RenderingIdentifier&amp;CSSStyles&amp;DynamicPlaceholderId=41"
+              s:ph="/headless-main/sxa-newsarticlepage/container-1/column-1-3/accord-29/accordcontent-40" />
+            <r
+              uid="{EA80A49C-5A05-486D-8E9D-807AD6FE6C90}"
+              p:after="r[@uid='{D386C3D3-0DDA-43FF-A033-33290A196FF1}']"
+              s:ds="local:/Data/Text 8"
+              s:id="{0901D932-0027-4B05-AA78-A8C8320936D5}"
+              s:par="GridParameters=%7BF61E01E9-711A-4C99-AE30-4E28463E1DF7%7D&amp;FieldNames=%7BA4B2A62A-C9FA-43A3-B096-96F2D418AD5C%7D&amp;Styles&amp;RenderingIdentifier&amp;CSSStyles&amp;DynamicPlaceholderId=43"
+              s:ph="/headless-main/sxa-newsarticlepage/container-1/column-1-3/accord-29/accordcontent-40/accordcontent-42" />
+            <r
+              uid="{1BB57663-E922-498B-B540-FE0DDBD73CE4}"
+              p:after="r[@uid='{EA80A49C-5A05-486D-8E9D-807AD6FE6C90}']"
+              s:ds="local:/Data/Text 8"
+              s:id="{0901D932-0027-4B05-AA78-A8C8320936D5}"
+              s:par="GridParameters=%7BF61E01E9-711A-4C99-AE30-4E28463E1DF7%7D&amp;FieldNames=%7BA4B2A62A-C9FA-43A3-B096-96F2D418AD5C%7D&amp;Styles&amp;RenderingIdentifier&amp;CSSStyles&amp;DynamicPlaceholderId=45"
+              s:ph="/headless-main/sxa-newsarticlepage/container-1/column-1-3/accord-29/accordcontent-44" />
+            <r
+              uid="{31209FD4-3D8B-4BE2-B8CD-2F271E6AD567}"
+              p:after="*[1=2]"
+              s:ds="local:/Data/Text 9"
+              s:id="{0901D932-0027-4B05-AA78-A8C8320936D5}"
+              s:par="GridParameters=%7BF61E01E9-711A-4C99-AE30-4E28463E1DF7%7D&amp;FieldNames=%7BA4B2A62A-C9FA-43A3-B096-96F2D418AD5C%7D&amp;Styles&amp;RenderingIdentifier&amp;CSSStyles&amp;DynamicPlaceholderId=47"
+              s:ph="/headless-main/sxa-newsarticlepage/container-1/column-1-3/accord-29/accordcontent-46" />
+          </d>
+        </r>
+    - ID: "06890ecb-5786-4776-8d76-19250477a9bc"
+      Hint: MetaImage
+      Value: |
+        <image mediaid="{E9185578-D542-4202-A666-D27B56F2E233}" alt="medical_bill" height="" width="" hspace="" vspace="" />
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20250625T141843Z
+    - ID: "3e431de1-525e-47a3-b6b0-1ccbec3a8c98"
+      Hint: __Workflow state
+      Value: 
+    - ID: "4e0720e9-9d50-4ddc-87cf-ecd65e8e94c8"
+      Hint: NavigationTitle
+      Value: Événement ICMP Catalyst
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+      Hint: __Owner
+      Value: |
+        sitecore\karthikeyan.kumaravel@altudo.co
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\karthikeyan.kumaravel@altudo.co
+    - ID: "6128ed46-0b79-4d6a-87ad-ac6fe70c649c"
+      Hint: Category
+      Value: Nouvelles de l'entreprise
+    - ID: "6fb03d9c-e0f6-4765-831d-d5627c4e0b67"
+      Hint: Content
+      Value: |
+        ICMP Catalyst est un &eacute;v&eacute;nement phare annuel qui rassemble des leaders, des innovateurs, des cliniciens, des d&eacute;cideurs politiques et des technologues du secteur de la sant&eacute; afin d'explorer l'avenir des soins. La conf&eacute;rence met l'accent sur des strat&eacute;gies concr&egrave;tes pour acc&eacute;l&eacute;rer la transformation num&eacute;rique, am&eacute;liorer l'efficacit&eacute; op&eacute;rationnelle et assurer l'&eacute;quit&eacute; des soins pour les patients. Gr&acirc;ce &agrave; des ateliers immersifs, des panels d'&eacute;tudes de cas et des laboratoires de solutions, les participants co-cr&eacute;eront la prochaine g&eacute;n&eacute;ration de syst&egrave;mes de sant&eacute;, con&ccedil;us pour l'agilit&eacute;, l'inclusion et un impact mesurable.<br />
+        <br />
+        <strong>Principaux th&egrave;mes&nbsp;:</strong><br />
+        Intelligence artificielle et aide &agrave; la d&eacute;cision clinique<br />
+        Repenser les mod&egrave;les de soins virtuels et hybrides<br />
+        &Eacute;quit&eacute; en sant&eacute; d&egrave;s la conception<br />
+        Intelligence op&eacute;rationnelle et transformation des donn&eacute;es<br />
+        Cybers&eacute;curit&eacute; et confiance en la sant&eacute; num&eacute;rique<br />
+        R&eacute;silience de la main-d'&oelig;uvre et adoption des technologies<br />
+        <br />
+        <strong>Caract&eacute;ristiques uniques&nbsp;:</strong><br />
+        Bac &agrave; sable d'innovation&nbsp;: D&eacute;monstrations pratiques des technologies &eacute;mergentes<br />
+        Laboratoire de politiques collaboratives&nbsp;: Planification de sc&eacute;narios avec les organismes de r&eacute;glementation et les fournisseurs de soins<br />
+        Recherche rapide&nbsp;: Pr&eacute;sentations br&egrave;ves et percutantes du terrain<br />
+        Prix des agents du changement&nbsp;: Reconnaissance des leaders qui font une diff&eacute;rence mesurable
+        <p>&nbsp;</p>
+    - ID: "78bd5b13-d9ab-44a4-bae4-c2dda0ad6133"
+      Hint: IntroText
+      Value: "&laquo; De la vision &agrave; l&rsquo;impact : d&eacute;ployer l&rsquo;innovation dans les soins centr&eacute;s sur le patient &raquo;"
+    - ID: "7cba72f9-1513-41af-ba26-de761f138805"
+      Hint: Title
+      Value: "23 juillet 2025 — ICMP Catalyst : L’avenir des soins de santé collaboratifs"
+    - ID: "85f5b648-1823-4509-b7fd-27deacdf2dff"
+      Hint: MetaDescription
+      Value: Participez à l'événement ICMP Catalyst organisé par Fast Lane, axé sur les avancées et la collaboration dans le domaine de la santé grâce aux solutions de gestion de contenu XM Cloud.
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "e0608819-7a4e-4b3e-894c-83c675894e13"
+    - ID: "92c233dc-a8b3-4fd0-bb3f-e82a8b49bed2"
+      Hint: MetaTitle
+      Value: "Événement ICMP Catalyst - L'avenir des soins de santé collaboratifs | Fast Lane XM Cloud"
+    - ID: "9f4483ca-f858-45d1-86a5-0a69c9ab6207"
+      Hint: MetaKeywords
+      Value: ICMP Catalyst, collaboration dans le secteur de la santé, événement XM Cloud, événements Fast Lane, solutions de santé numérique
+    - ID: "a667d11b-ca9f-4fbe-881f-2538eb51f432"
+      Hint: PublishedDate
+      Value: 20250723T000000Z
+    - ID: "ba41d59c-a2b6-4f14-8913-7734549cce04"
+      Hint: Image
+      Value: |
+        <image mediaid="{E9185578-D542-4202-A666-D27B56F2E233}" alt="ICMP Catalyst" height="" width="" hspace="" vspace="" />
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\karthikeyan.kumaravel@altudo.co
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20251201T182219Z

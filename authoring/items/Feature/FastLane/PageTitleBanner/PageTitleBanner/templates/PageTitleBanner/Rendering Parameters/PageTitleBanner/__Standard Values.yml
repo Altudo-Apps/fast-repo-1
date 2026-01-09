@@ -1,0 +1,30 @@
+﻿---
+ID: "480f5980-3e27-4aee-87ed-dde44aa601fb"
+Parent: "424668f6-56e1-4a2e-90e8-8e82284c2413"
+Template: "424668f6-56e1-4a2e-90e8-8e82284c2413"
+Path: /sitecore/templates/Feature/FastLane/Renderings/PageTitleBanner/Rendering Parameters/PageTitleBanner/__Standard Values
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20211012T120926Z
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\JssImport
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "e4b6b0f2-acee-4d76-a760-c25baf6e2890"
+    - ID: "a026e9a2-fc17-4562-801a-f4d9ed1558f7"
+      Hint: ImageOrder
+      Value: 
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\karthikeyan.kumaravel@altudo.co
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20250613T083732Z

@@ -1,0 +1,26 @@
+{
+    "$schema": "../../../../../.sitecore/schemas/ModuleFile.schema.json",
+    "namespace": "Feature.FastLane.Breadcrumb",
+    "references": ["Feature.FastLane.Root"],
+    "items": {
+        "path": "Breadcrumb",
+        "includes": [			         
+			{
+                "name": "branches",
+                "path": "/sitecore/templates/Branches/Feature/FastLane/Default Variants/Breadcrumb"
+            },
+            {
+                "name": "templates",
+                "path": "/sitecore/templates/Feature/FastLane/Renderings/Breadcrumb"
+            },            
+			{
+                "name": "renderings",
+                "path": "/sitecore/layout/Renderings/Feature/FastLane/Renderings/Breadcrumb"                
+            },
+			{
+                "name": "settings",
+                "path": "/sitecore/system/Settings/Feature/FastLane/Renderings/Breadcrumb"
+            }
+        ]
+    }
+}

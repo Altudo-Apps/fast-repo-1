@@ -1,0 +1,63 @@
+﻿---
+ID: "df5c6039-c4cb-4f74-94d9-9666f0f7836a"
+Parent: "3c310376-bb7f-4391-9b24-96707e69529c"
+Template: "f1828a2c-7e5d-4bbd-98ca-320474871548"
+Path: /sitecore/media library/Project/FastLane/shared/ComponentIcons/Link List
+SharedFields:
+- ID: "06d5295c-ed2f-4a54-9bf2-26228d113318"
+  Hint: __Icon
+  Value: "-/media/DF5C6039C4CB4F7494D99666F0F7836A.ashx?h=16&thn=1&w=16"
+- ID: "22eac599-f13b-4607-a89d-c091763a467d"
+  Hint: Width
+  Value: 128
+- ID: "40e50ed9-ba07-4702-992e-a912738d32dc"
+  Hint: Blob
+  BlobID: "69456b6d-2a74-4273-a151-7841d66a9c06"
+  Value: iVBORw0KGgoAAAANSUhEUgAAAIAAAACACAYAAADDPmHLAAAACXBIWXMAACxLAAAsSwGlPZapAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAJmSURBVHgB7dyxTcNQFEDRF0SdHgkmgAWgRsA4MIGBBWAPxAKIMQCJGqT0WQD4RZpAonwr31jv3lNSPMn2xXEsvUy+foSwdkJoBgBnAHAGAGcAcAYAZwBwBgBnAHAGAGcAcAYAZwBwBgBnAHAGAGcAcAYAZwBwBgBnAHAGAGcAcAYAZwBwBgBnAHAGAGcAcAYAZwBwBgBnAHAGAGcAcLsxgI+Pz7i8vIqXl9eYz+dxcnIc9/d3cXCwH30sz8vm4uI8bm9vep+fGpPWPxJVLtbp6dmvCzWdTuPx8SGOjg6jxqp52ZTz8/z81DyC5h8BXdf9ebHK37ruOmqtmpdNOcZyl2ut+R1gb299wbPZZ2xzXiblLvD+/hYtNb8DlIMY87wxG+JO1zyAdZ/x5WFwm/OyKQ+Drf3rQ2CfhxwfArer+R2gHEA5kEXN5cDKf375BtDn4JbnZbM4P0Nc/GLibwWz+SYQzgDgDADOAOAMAM4A4AwAzgDgDADOAOAMAM4A4AwAzgDgDADOvYARci+gx7xs3AuonJeNewE952XiXsAA88bMvYDKedm4F1AxLxv3Ajacl417ARqUbwLhDADOAOAMAM4A4AwAzgDgDADOAOAMAM4A4AwAzgDgDADOAODcCxgh9wJ6zMvGvYDKedm4F9BzXibuBQwwb8zcC6icl417ARXzsnEvYMN52bgXoEH5JhDOAOAMAM4A4AwAzgDgDADOAOAMAM4A4AwAzgDgDADOAOAMAM4A4AwAzgDgDADOAOAMAM4A4AwAzgDgDADOAOAMAM4A4AwAzgDgDADOAOAMAM4A4AwA7htgN2dBUEAwtgAAAABJRU5ErkJggg==
+- ID: "6954b7c7-2487-423f-8600-436cb3b6dc0e"
+  Hint: Size
+  Value: 721
+- ID: "6f47a0a5-9c94-4b48-abeb-42d38def6054"
+  Hint: Mime Type
+  Value: image/png
+- ID: "c06867fe-9a43-4c7d-b739-48780492d06f"
+  Hint: Extension
+  Value: png
+- ID: "cb09946f-3218-4823-87d2-d5007c199a96"
+  Hint: Dimensions
+  Value: 128 x 128
+- ID: "dbbbeca1-21c7-4906-9dd2-493c1efa59a2"
+  Hint: __Shared revision
+  Value: "a804d22b-9be0-40d2-bfd1-a695bdca6ed2"
+- ID: "de2ca9e4-c117-4c8a-a139-1ff4b199d15a"
+  Hint: Height
+  Value: 128
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20250618T184815Z
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+      Hint: __Owner
+      Value: |
+        sitecore\karthikeyan.kumaravel@altudo.co
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\karthikeyan.kumaravel@altudo.co
+    - ID: "65885c44-8fcd-4a7f-94f1-ee63703fe193"
+      Hint: Alt
+      Value: Link List
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "f7e0e5ed-f787-4913-95fe-79e6ed3e33d5"
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\karthikeyan.kumaravel@altudo.co
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20250618T184823Z

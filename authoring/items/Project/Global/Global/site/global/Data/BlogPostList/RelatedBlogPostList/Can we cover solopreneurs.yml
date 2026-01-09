@@ -1,0 +1,40 @@
+﻿---
+ID: "9c176a31-3095-42e9-a71c-0737164e63a9"
+Parent: "7cbcf8b9-ba69-43ce-b10b-1a8856fb0e55"
+Template: "67e51aca-745b-4251-a749-cae42832d061"
+Path: /sitecore/content/FastLaneTenant/global/Data/BlogPostList/RelatedBlogPostList/Can we cover solopreneurs
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20251111T054340Z
+    - ID: "6128ed46-0b79-4d6a-87ad-ac6fe70c649c"
+      Hint: Category
+      Value: This is an earmark
+    - ID: "78bd5b13-d9ab-44a4-bae4-c2dda0ad6133"
+      Hint: IntroText
+      Value: Lets have a decent paragraph description here around the content of the card, and what we wanna say
+    - ID: "7cba72f9-1513-41af-ba26-de761f138805"
+      Hint: Title
+      Value: Can we cover solopreneurs
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "05264ebe-dcf1-4ff7-8e60-76809a0f674a"
+    - ID: "ba41d59c-a2b6-4f14-8913-7734549cce04"
+      Hint: Image
+      Value: |
+        <image mediaid="{CDC51EAF-5FD0-49ED-A9C5-0C593468723F}" />
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\karthikeyan.kumaravel@altudo.co
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20251111T054540Z
+    - ID: "f56d5ae9-cbca-48e1-b47e-e06a7561fc5d"
+      Hint: CalltoActionLinkMain
+      Value: |
+        <link text="Learn More" linktype="external" url="https://www.altudo.co" anchor="" target="" />

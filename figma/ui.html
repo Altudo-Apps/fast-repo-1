@@ -1,0 +1,1230 @@
+<!doctype html>
+<html lang="en">
+  <head>
+    <meta charset="utf-8" />
+    <title>Design Tokens Extractor</title>
+  </head>
+  <body class="figma-dark">
+    <div class="wrapper">
+      <header>
+        <h1 class="type--large">Design Tokens Extractor</h1>
+        <p class="type--small">
+          Extract variables and styles from your Figma document as JSON
+        </p>
+      </header>
+
+      <div class="tabs">
+        <button
+          id="tab-variables"
+          class="tab-button tab-button--active"
+          data-tab="variables"
+        >
+          Variables
+        </button>
+        <button id="tab-styles" class="tab-button" data-tab="styles">
+          Styles
+        </button>
+        <button id="tab-frames" class="tab-button" data-tab="frames">
+          Frame Analysis
+        </button>
+      </div>
+
+      <div id="variables-panel" class="tab-panel tab-panel--active">
+        <div class="panel-header">
+          <h2 class="type--medium">Variables</h2>
+          <div class="panel-actions">
+            <button id="extract-variables" class="button button--primary">
+              Extract Variables
+            </button>
+            <button id="get-tailwind-config" class="button button--primary">
+              Get Tailwind Config
+            </button>
+          </div>
+        </div>
+        <div id="variables-list" class="tokens-list"></div>
+      </div>
+
+      <div id="styles-panel" class="tab-panel">
+        <div class="panel-header">
+          <h2 class="type--medium">Styles</h2>
+          <button id="extract-styles" class="button button--primary">
+            Extract Styles
+          </button>
+        </div>
+        <div id="styles-list" class="tokens-list"></div>
+      </div>
+
+      <div id="frames-panel" class="tab-panel">
+        <div class="panel-header">
+          <h2 class="type--medium">Layer Analysis</h2>
+          <button
+            id="export-frame-analysis"
+            class="button button--primary"
+            disabled
+          >
+            Export Styles & Variables
+          </button>
+        </div>
+
+        <div id="selection-info" class="selection-info">
+          <p class="empty-state">No layer selected</p>
+        </div>
+
+        <div class="analyze-button-container">
+          <button id="analyze-button" class="button button--primary">
+            Analyze Selected Layer
+          </button>
+        </div>
+
+        <div id="debug-messages" class="debug-messages">
+          <div class="debug-header">
+            <h4 class="type--small">Debug Messages</h4>
+            <button id="clear-debug" class="button button--small">Clear</button>
+          </div>
+          <div id="debug-log" class="debug-log"></div>
+        </div>
+
+        <div class="frame-preview-container">
+          <div id="selected-node-info" class="selected-node-info">
+            <p class="empty-state">
+              Select any layer in the Layers panel to view details
+            </p>
+          </div>
+          <div id="frame-preview" class="frame-preview">
+            <p class="empty-state">
+              Select any layer in the Layers panel to view preview
+            </p>
+          </div>
+        </div>
+
+        <div class="panel-section">
+          <h3 class="type--small section-title">Styles Used</h3>
+          <div id="frame-styles-list" class="tokens-list">
+            <p class="empty-state">
+              Select any layer in the Layers panel to view styles
+            </p>
+          </div>
+        </div>
+
+        <div class="panel-section">
+          <h3 class="type--small section-title">Variables Used</h3>
+          <div id="frame-variables-list" class="tokens-list">
+            <p class="empty-state">
+              Select any layer in the Layers panel to view variables
+            </p>
+          </div>
+        </div>
+      </div>
+    </div>
+
+    <script>
+      // Tab switching logic
+      document.querySelectorAll('.tab-button').forEach((button) => {
+        button.addEventListener('click', () => {
+          // Deactivate all tabs and panels
+          document.querySelectorAll('.tab-button').forEach((btn) => {
+            btn.classList.remove('tab-button--active');
+          });
+          document.querySelectorAll('.tab-panel').forEach((panel) => {
+            panel.classList.remove('tab-panel--active');
+          });
+
+          // Activate the clicked tab and corresponding panel
+          button.classList.add('tab-button--active');
+          const tabName = button.getAttribute('data-tab');
+          document
+            .getElementById(`${tabName}-panel`)
+            .classList.add('tab-panel--active');
+
+          console.log(`Switched to tab: ${tabName}`);
+        });
+      });
+
+      document.getElementById('extract-variables').onclick = () => {
+        parent.postMessage(
+          { pluginMessage: { type: 'extract-variables' } },
+          '*'
+        );
+      };
+
+      document.getElementById('get-tailwind-config').onclick = () => {
+        parent.postMessage(
+          { pluginMessage: { type: 'get-tailwind-config' } },
+          '*'
+        );
+      };
+
+      document.getElementById('extract-styles').onclick = () => {
+        parent.postMessage({ pluginMessage: { type: 'extract-styles' } }, '*');
+      };
+
+      // Add debug message handler
+      document.getElementById('clear-debug').onclick = () => {
+        document.getElementById('debug-log').innerHTML = '';
+      };
+
+      // Function to add debug message
+      function addDebugMessage(message) {
+        const debugLog = document.getElementById('debug-log');
+        const messageElement = document.createElement('div');
+        messageElement.className = 'debug-message';
+        const time = new Date().toLocaleTimeString();
+        messageElement.innerHTML = `<span class="debug-time">${time}</span> ${message}`;
+        debugLog.appendChild(messageElement);
+        debugLog.scrollTop = debugLog.scrollHeight;
+      }
+
+      // Handle analyze button click
+      document.getElementById('analyze-button').onclick = () => {
+        console.log('Analyze button clicked');
+
+        // First clear the debug log
+        document.getElementById('debug-log').innerHTML = '';
+
+        addDebugMessage(
+          'Analyze button clicked, clearing previous results and starting new analysis...'
+        );
+
+        // Clear previous results
+        document.getElementById('selected-node-info').innerHTML =
+          '<p class="empty-state">Analyzing...</p>';
+        document.getElementById('frame-preview').innerHTML =
+          '<p class="empty-state">Loading preview...</p>';
+        document.getElementById('frame-styles-list').innerHTML =
+          '<p class="empty-state">Loading styles...</p>';
+        document.getElementById('frame-variables-list').innerHTML =
+          '<p class="empty-state">Loading variables...</p>';
+
+        // Add some visual focus to the debug panel
+        const debugMessages = document.getElementById('debug-messages');
+        debugMessages.style.border = '2px solid var(--figma-color-primary)';
+        setTimeout(() => {
+          debugMessages.style.border = '1px solid var(--figma-color-border)';
+        }, 3000);
+
+        // Send analyze request
+        addDebugMessage('Sending analyze-selection message to plugin...');
+
+        // Create a timestamp to track request time
+        window.lastAnalysisRequestTime = Date.now();
+
+        parent.postMessage(
+          { pluginMessage: { type: 'analyze-selection' } },
+          '*'
+        );
+
+        // Start a timer to check if we got a response
+        setTimeout(() => {
+          const elapsed = Date.now() - window.lastAnalysisRequestTime;
+          if (elapsed > 1900) {
+            addDebugMessage(
+              'WARNING: No response received from plugin after 2 seconds'
+            );
+            addDebugMessage(
+              'Check Figma Developer Console (Ctrl+Alt+I or Cmd+Option+I) for errors'
+            );
+          }
+        }, 2000);
+      };
+
+      // Add export frame analysis button handler
+      document.getElementById('export-frame-analysis').onclick = () => {
+        console.log('Export frame analysis button clicked');
+        addDebugMessage('Exporting styles and variables for selected layer...');
+
+        parent.postMessage(
+          { pluginMessage: { type: 'export-frame-analysis' } },
+          '*'
+        );
+      };
+
+      // Keep track of image data that might come separately
+      let currentNodeImage = null;
+      let currentNodeId = null;
+
+      // Listen for messages from the plugin code
+      window.onmessage = (event) => {
+        const message = event.data.pluginMessage;
+        console.log('Received message from plugin:', message?.type, message);
+
+        // Debug every message received
+        if (message && message.type) {
+          addDebugMessage(`MESSAGE RECEIVED: ${message.type}`);
+        }
+
+        // Initial checks - if message is null, the plugin might not be connected
+        if (!message) {
+          addDebugMessage(
+            'ERROR: No message received from plugin. Plugin might not be properly loaded.'
+          );
+          return;
+        }
+
+        // Handle debug messages first
+        if (message.type === 'debug-message') {
+          addDebugMessage(`PLUGIN DEBUG: ${message.message}`);
+          return;
+        }
+
+        // Handle different message types
+
+        // Plugin loaded notification
+        if (message.type === 'plugin-loaded') {
+          addDebugMessage('Plugin loaded successfully: ' + message.message);
+        }
+
+        // Echo reply - confirms plugin received our message
+        else if (message.type === 'echo-reply') {
+          addDebugMessage(
+            'Plugin confirmed receiving message: ' + message.originalMessage
+          );
+        }
+
+        // Ping/pong test
+        else if (message.type === 'pong') {
+          addDebugMessage('Received pong from plugin - communication working!');
+        }
+
+        // Simple analysis results
+        else if (message.type === 'simple-analysis') {
+          addDebugMessage(
+            `Received analysis for ${message.nodeName} (${message.nodeType})`
+          );
+
+          // Display node info
+          document.getElementById('selected-node-info').innerHTML = `
+            <div class="node-info">
+              <span class="node-name">${message.nodeName || 'Unknown'}</span>
+              <span class="node-type-badge">${
+                message.nodeType || 'Unknown'
+              }</span>
+            </div>
+          `;
+
+          // Display image if available
+          const framePreview = document.getElementById('frame-preview');
+          if (message.hasImage && message.imageData) {
+            addDebugMessage('Image data received, displaying it');
+            framePreview.innerHTML = `<img src="${message.imageData}" alt="Layer preview" class="frame-image">`;
+          } else {
+            addDebugMessage('No image available for this node');
+            framePreview.innerHTML =
+              '<p class="empty-state">No preview available for this layer type</p>';
+          }
+
+          // Display styles if available
+          if (message.styles && message.styles.length > 0) {
+            addDebugMessage(`Displaying ${message.styles.length} styles`);
+            displayStyles(message.styles);
+          } else {
+            addDebugMessage('No styles found for this node');
+            document.getElementById('frame-styles-list').innerHTML =
+              '<p class="empty-state">No styles found in this layer</p>';
+          }
+
+          // Display variables if available
+          if (message.variables && message.variables.length > 0) {
+            addDebugMessage(`Displaying ${message.variables.length} variables`);
+            displayVariables(message.variables);
+          } else {
+            addDebugMessage('No variables found for this node');
+            document.getElementById('frame-variables-list').innerHTML =
+              '<p class="empty-state">No variables found in this layer</p>';
+          }
+        }
+
+        // Simple analysis error
+        else if (message.type === 'simple-analysis-error') {
+          addDebugMessage('Analysis error: ' + message.message);
+
+          document.getElementById('selected-node-info').innerHTML = `
+            <div class="node-info">
+              <span class="node-name">Error</span>
+              <span class="node-type-badge error-badge">Failed</span>
+            </div>
+          `;
+
+          const framePreview = document.getElementById('frame-preview');
+          framePreview.innerHTML = `<p class="empty-state error-message">${message.message}</p>`;
+
+          document.getElementById('frame-styles-list').innerHTML =
+            '<p class="empty-state">No styles available</p>';
+          document.getElementById('frame-variables-list').innerHTML =
+            '<p class="empty-state">No variables available</p>';
+        }
+
+        // Plugin errors
+        else if (message.type === 'plugin-error') {
+          addDebugMessage('PLUGIN ERROR: ' + message.error);
+
+          document.getElementById('selected-node-info').innerHTML = `
+            <div class="node-info">
+              <span class="node-name">Plugin Error</span>
+              <span class="node-type-badge error-badge">Error</span>
+            </div>
+          `;
+
+          const framePreview = document.getElementById('frame-preview');
+          framePreview.innerHTML = `<p class="empty-state error-message">An error occurred in the plugin: ${message.error}</p>`;
+
+          document.getElementById('frame-styles-list').innerHTML =
+            '<p class="empty-state">Error processing styles</p>';
+          document.getElementById('frame-variables-list').innerHTML =
+            '<p class="empty-state">Error processing variables</p>';
+        }
+
+        // Selection changed notification
+        else if (
+          message.type === 'selection-changed' ||
+          message.type === 'initial-selection'
+        ) {
+          const eventType =
+            message.type === 'initial-selection'
+              ? 'Initial selection'
+              : 'Selection changed';
+          addDebugMessage(
+            `${eventType}: ${message.selectionCount} items selected`
+          );
+
+          const selectionInfo = document.getElementById('selection-info');
+
+          if (!message.hasSelection) {
+            selectionInfo.innerHTML =
+              '<p class="empty-state">No layer selected</p>';
+            document.getElementById('analyze-button').disabled = true;
+            document.getElementById('export-frame-analysis').disabled = true;
+          } else if (message.selectionCount === 1) {
+            selectionInfo.innerHTML = `
+              <div class="current-selection">
+                <span class="selection-label">Currently selected:</span>
+                <div class="selected-item">
+                  <span class="selected-name">1 item</span>
+                  <span class="selected-type">${message.selectionTypes[0]}</span>
+                </div>
+                <span class="selection-hint">Click 'Analyze' to see details</span>
+              </div>
+            `;
+            document.getElementById('analyze-button').disabled = false;
+            document.getElementById('export-frame-analysis').disabled = false;
+          } else {
+            selectionInfo.innerHTML = `
+              <p class="empty-state">Multiple layers selected (${message.selectionCount}). Please select only one layer.</p>
+            `;
+            document.getElementById('analyze-button').disabled = true;
+            document.getElementById('export-frame-analysis').disabled = true;
+          }
+        }
+
+        // Variables data
+        else if (message.type === 'variables-data') {
+          const variablesList = document.getElementById('variables-list');
+          variablesList.innerHTML = '';
+
+          if (message.variables.length === 0) {
+            variablesList.innerHTML =
+              '<p class="empty-state">No variables found in this document</p>';
+            return;
+          }
+
+          message.variables.forEach((variable) => {
+            const div = document.createElement('div');
+            div.className = 'token-item';
+            div.innerHTML = `
+              <div class="token-item-header">
+                <span class="token-name">${variable.name}</span>
+                <span class="token-badge">${variable.type}</span>
+              </div>
+              <div class="token-item-details">
+                <span class="token-detail">Collection: ${variable.collectionName}</span>
+              </div>
+            `;
+            variablesList.appendChild(div);
+          });
+        }
+
+        // Styles data
+        else if (message.type === 'styles-data') {
+          const stylesList = document.getElementById('styles-list');
+          stylesList.innerHTML = '';
+
+          if (message.styles.length === 0) {
+            stylesList.innerHTML =
+              '<p class="empty-state">No styles found in this document</p>';
+            return;
+          }
+
+          message.styles.forEach((style) => {
+            const div = document.createElement('div');
+            div.className = 'token-item';
+
+            // Different display for color vs text styles
+            if (style.type === 'PAINT') {
+              let colorPreview = '';
+              if (style.hexColor) {
+                colorPreview = `<span class="color-preview" style="background-color: ${style.hexColor}"></span>`;
+              }
+
+              div.innerHTML = `
+                <div class="token-item-header">
+                  ${colorPreview}
+                  <span class="token-name">${style.name}</span>
+                  <span class="token-badge">Color</span>
+                </div>
+                <div class="token-item-details">
+                  ${
+                    style.hexColor
+                      ? `<span class="token-detail">Hex: ${style.hexColor}</span>`
+                      : '<span class="token-detail">Complex paint style</span>'
+                  }
+                </div>
+              `;
+            } else if (style.type === 'TEXT') {
+              div.innerHTML = `
+                <div class="token-item-header">
+                  <span class="token-name">${style.name}</span>
+                  <span class="token-badge">Typography</span>
+                </div>
+                <div class="token-item-details">
+                  <span class="token-detail">Font: ${
+                    style.fontName?.family || 'Unknown'
+                  } ${style.fontName?.style || ''}</span>
+                  <span class="token-detail">Size: ${
+                    style.fontSize || 'Unknown'
+                  }</span>
+                </div>
+              `;
+            }
+
+            stylesList.appendChild(div);
+          });
+        }
+
+        // Handle download file
+        else if (message.type === 'download-file') {
+          addDebugMessage(`Downloading file: ${message.filename}`);
+          // Create a blob and download link
+          const blob = new Blob([message.content], {
+            type: 'application/json',
+          });
+          const url = URL.createObjectURL(blob);
+          const a = document.createElement('a');
+          a.href = url;
+          a.download = message.filename;
+          document.body.appendChild(a);
+          a.click();
+          document.body.removeChild(a);
+          URL.revokeObjectURL(url);
+          addDebugMessage(`File download completed`);
+        }
+
+        // Error messages
+        else if (
+          message.type === 'variables-error' ||
+          message.type === 'styles-error' ||
+          message.type === 'extract-error'
+        ) {
+          addDebugMessage(`Error: ${message.message}`);
+        }
+
+        // Handle any old message types for backward compatibility
+        else {
+          addDebugMessage(`Received unknown message type: ${message.type}`);
+        }
+      };
+
+      // Helper function to display styles
+      function displayStyles(styles) {
+        const frameStylesList = document.getElementById('frame-styles-list');
+        if (styles && styles.length > 0) {
+          console.log(`Displaying ${styles.length} styles`);
+          frameStylesList.innerHTML = '';
+
+          styles.forEach((style) => {
+            const div = document.createElement('div');
+            div.className = 'token-item';
+
+            // Different display for different style types
+            if (style.type === 'PAINT') {
+              let colorPreview = '';
+              if (style.hexColor) {
+                colorPreview = `<span class="color-preview" style="background-color: ${style.hexColor}"></span>`;
+              }
+
+              div.innerHTML = `
+                <div class="token-item-header">
+                  ${colorPreview}
+                  <span class="token-name">${style.name}</span>
+                  <span class="token-badge">Color Style</span>
+                </div>
+                <div class="token-item-details">
+                  ${
+                    style.hexColor
+                      ? `<span class="token-detail">Hex: ${style.hexColor}</span>`
+                      : '<span class="token-detail">Complex paint style</span>'
+                  }
+                </div>
+              `;
+            } else if (style.type === 'DIRECT_COLOR') {
+              // Direct color (not a style)
+              const varBadge = style.usesVariable
+                ? `<span class="token-badge variable-badge">Variable</span>`
+                : '';
+
+              div.innerHTML = `
+                <div class="token-item-header">
+                  <span class="color-preview" style="background-color: ${
+                    style.hexColor
+                  }"></span>
+                  <span class="token-name">${style.name}</span>
+                  <span class="token-badge">Color</span>
+                  ${varBadge}
+                </div>
+                <div class="token-item-details">
+                  <span class="token-detail">Hex: ${style.hexColor}</span>
+                  <span class="token-detail">Opacity: ${style.opacity}</span>
+                  <span class="token-detail">RGB: ${style.rgbValue}</span>
+                  ${renderVariableInfo(style)}
+                </div>
+              `;
+            } else if (style.type === 'DIRECT_STROKE') {
+              // Direct stroke color (not a style)
+              const varBadge = style.usesVariable
+                ? `<span class="token-badge variable-badge">Variable</span>`
+                : '';
+
+              div.innerHTML = `
+                <div class="token-item-header">
+                  <span class="color-preview" style="background-color: ${
+                    style.hexColor
+                  }"></span>
+                  <span class="token-name">${style.name}</span>
+                  <span class="token-badge">Stroke</span>
+                  ${varBadge}
+                </div>
+                <div class="token-item-details">
+                  <span class="token-detail">Hex: ${style.hexColor}</span>
+                  <span class="token-detail">Opacity: ${style.opacity}</span>
+                  ${renderVariableInfo(style)}
+                </div>
+              `;
+            } else if (style.type === 'TEXT') {
+              div.innerHTML = `
+                <div class="token-item-header">
+                  <span class="token-name">${style.name}</span>
+                  <span class="token-badge">Typography</span>
+                </div>
+                <div class="token-item-details">
+                  <span class="token-detail">Font: ${
+                    style.fontName?.family || 'Unknown'
+                  } ${style.fontName?.style || ''}</span>
+                  <span class="token-detail">Size: ${
+                    style.fontSize || 'Unknown'
+                  }</span>
+                </div>
+              `;
+            } else {
+              // Other style types
+              div.innerHTML = `
+                <div class="token-item-header">
+                  <span class="token-name">${style.name}</span>
+                  <span class="token-badge">${style.type}</span>
+                </div>
+                <div class="token-item-details">
+                  <span class="token-detail">Type: ${style.type}</span>
+                </div>
+              `;
+            }
+
+            frameStylesList.appendChild(div);
+          });
+        } else {
+          console.log('No styles to display');
+          frameStylesList.innerHTML =
+            '<p class="empty-state">No styles found in this layer</p>';
+        }
+      }
+
+      // Helper function to render variable information
+      function renderVariableInfo(style) {
+        if (
+          !style.usesVariable ||
+          !style.variableInfo ||
+          style.variableInfo.length === 0
+        ) {
+          return '';
+        }
+
+        let result = '<div class="variable-info">';
+
+        style.variableInfo.forEach((varInfo) => {
+          result += `
+            <div class="variable-item">
+              <span class="variable-property">${varInfo.property}:</span>
+              <span class="variable-name">${varInfo.name}</span>
+              <span class="variable-collection">${varInfo.collectionName}</span>
+            </div>
+          `;
+        });
+
+        result += '</div>';
+        return result;
+      }
+
+      // Helper function to display variables
+      function displayVariables(variables) {
+        const frameVariablesList = document.getElementById(
+          'frame-variables-list'
+        );
+        if (variables && variables.length > 0) {
+          console.log(`Displaying ${variables.length} variables`);
+          frameVariablesList.innerHTML = '';
+
+          variables.forEach((variable) => {
+            const div = document.createElement('div');
+            div.className = 'token-item';
+
+            // Different display based on variable type
+            if (variable.type === 'COLOR') {
+              div.innerHTML = `
+                <div class="token-item-header">
+                  <span class="token-name">${variable.name}</span>
+                  <span class="token-badge">Color Variable</span>
+                </div>
+                <div class="token-item-details">
+                  <span class="token-detail">Collection: ${variable.collectionName}</span>
+                  <span class="token-detail">Property: ${variable.property}</span>
+                </div>
+              `;
+            } else if (variable.type === 'FLOAT') {
+              div.innerHTML = `
+                <div class="token-item-header">
+                  <span class="token-name">${variable.name}</span>
+                  <span class="token-badge">Number Variable</span>
+                </div>
+                <div class="token-item-details">
+                  <span class="token-detail">Collection: ${variable.collectionName}</span>
+                  <span class="token-detail">Property: ${variable.property}</span>
+                </div>
+              `;
+            } else {
+              div.innerHTML = `
+                <div class="token-item-header">
+                  <span class="token-name">${variable.name}</span>
+                  <span class="token-badge">${variable.type}</span>
+                </div>
+                <div class="token-item-details">
+                  <span class="token-detail">Collection: ${variable.collectionName}</span>
+                  <span class="token-detail">Property: ${variable.property}</span>
+                </div>
+              `;
+            }
+
+            frameVariablesList.appendChild(div);
+          });
+        } else {
+          console.log('No variables to display');
+          frameVariablesList.innerHTML =
+            '<p class="empty-state">No variables found in this layer</p>';
+        }
+      }
+    </script>
+
+    <style>
+      /* Figma design system colors and variables */
+      :root {
+        --figma-color-bg: #ffffff;
+        --figma-color-bg-hover: #f5f5f5;
+        --figma-color-bg-active: #e5e5e5;
+        --figma-color-border: #e5e5e5;
+        --figma-color-border-strong: #d9d9d9;
+        --figma-color-icon: #333333;
+        --figma-color-text: #333333;
+        --figma-color-text-secondary: #7f7f7f;
+        --figma-color-text-disabled: #b3b3b3;
+        --figma-color-primary: #18a0fb;
+        --figma-color-primary-hover: #0d8ce0;
+        --figma-color-primary-pressed: #0670b3;
+        --figma-color-primary-text: #ffffff;
+        --figma-color-secondary: #f5f5f5;
+        --figma-color-secondary-hover: #e5e5e5;
+        --figma-color-secondary-pressed: #d9d9d9;
+        --figma-color-danger: #f24822;
+        --figma-color-danger-hover: #df4320;
+        --figma-color-danger-pressed: #c23b1c;
+        --figma-color-success: #14ae5c;
+        --figma-color-warning: #ffb800;
+        --figma-color-info: #18a0fb;
+
+        --figma-border-radius: 6px;
+        --figma-shadow: 0 1px 2px rgba(0, 0, 0, 0.05);
+      }
+
+      /* Dark mode colors */
+      .figma-dark {
+        --figma-color-bg: #2c2c2c;
+        --figma-color-bg-hover: #3e3e3e;
+        --figma-color-bg-active: #4b4b4b;
+        --figma-color-border: #444444;
+        --figma-color-border-strong: #5f5f5f;
+        --figma-color-icon: #ebebeb;
+        --figma-color-text: #ebebeb;
+        --figma-color-text-secondary: #9a9a9a;
+        --figma-color-text-disabled: #6b6b6b;
+      }
+
+      /* Typography */
+      .type--xlarge {
+        font-size: 20px;
+        font-weight: 500;
+        line-height: 1.4;
+      }
+
+      .type--large {
+        font-size: 16px;
+        font-weight: 500;
+        line-height: 1.5;
+      }
+
+      .type--medium {
+        font-size: 14px;
+        font-weight: 500;
+        line-height: 1.5;
+      }
+
+      .type--small {
+        font-size: 12px;
+        font-weight: 400;
+        line-height: 1.5;
+        color: var(--figma-color-text-secondary);
+      }
+
+      /* General styles */
+      * {
+        box-sizing: border-box;
+        margin: 0;
+        padding: 0;
+      }
+
+      body {
+        font-family:
+          Inter,
+          -apple-system,
+          BlinkMacSystemFont,
+          'Segoe UI',
+          Roboto,
+          Helvetica,
+          Arial,
+          sans-serif;
+        background-color: var(--figma-color-bg);
+        color: var(--figma-color-text);
+        margin: 0;
+        padding: 0;
+        overflow-x: hidden;
+        font-size: 14px;
+        line-height: 1.5;
+      }
+
+      .wrapper {
+        max-width: 100%;
+        margin: 0;
+        padding: 16px;
+      }
+
+      header {
+        margin-bottom: 24px;
+      }
+
+      /* Tab system */
+      .tabs {
+        display: flex;
+        margin-bottom: 16px;
+        border-bottom: 1px solid var(--figma-color-border);
+      }
+
+      .tab-button {
+        padding: 8px 16px;
+        background: transparent;
+        border: none;
+        border-bottom: 2px solid transparent;
+        color: var(--figma-color-text-secondary);
+        font-size: 14px;
+        font-weight: 500;
+        cursor: pointer;
+        transition: all 0.2s ease;
+      }
+
+      .tab-button:hover {
+        color: var(--figma-color-text);
+      }
+
+      .tab-button--active {
+        color: var(--figma-color-primary);
+        border-bottom-color: var(--figma-color-primary);
+      }
+
+      /* Tab Panels */
+      .tab-panel {
+        display: none;
+        padding: 16px;
+        background: var(--figma-color-bg-hover);
+        border-radius: var(--figma-border-radius);
+        margin-bottom: 16px;
+      }
+
+      .tab-panel--active {
+        display: block;
+      }
+
+      .panel-header {
+        display: flex;
+        justify-content: space-between;
+        align-items: center;
+        margin-bottom: 16px;
+      }
+
+      .panel-actions {
+        display: flex;
+        gap: 8px;
+      }
+
+      .panel-section {
+        margin-top: 24px;
+      }
+
+      .section-title {
+        margin-bottom: 12px;
+        font-weight: 500;
+        color: var(--figma-color-text);
+      }
+
+      /* Frame Analysis specific styles */
+      .frame-selector {
+        margin-bottom: 16px;
+      }
+
+      .select-input {
+        width: 100%;
+        padding: 8px 12px;
+        border-radius: var(--figma-border-radius);
+        border: 1px solid var(--figma-color-border);
+        background-color: var(--figma-color-bg);
+        color: var(--figma-color-text);
+        font-size: 14px;
+        margin-top: 4px;
+      }
+
+      .frame-preview-container {
+        margin-bottom: 16px;
+      }
+
+      .frame-preview {
+        width: 100%;
+        min-height: 200px;
+        max-height: 300px;
+        display: flex;
+        align-items: center;
+        justify-content: center;
+        background-color: var(--figma-color-bg);
+        border: 1px solid var(--figma-color-border);
+        border-radius: var(--figma-border-radius);
+        overflow: hidden;
+        margin-top: 8px;
+      }
+
+      .frame-image {
+        max-width: 100%;
+        max-height: 300px;
+        object-fit: contain;
+        display: block;
+      }
+
+      /* Tokens list and items */
+      .tokens-list {
+        display: flex;
+        flex-direction: column;
+        gap: 8px;
+      }
+
+      .token-item {
+        padding: 10px;
+        background: var(--figma-color-bg);
+        border-radius: var(--figma-border-radius);
+        border: 1px solid var(--figma-color-border);
+      }
+
+      .token-item-header {
+        display: flex;
+        align-items: center;
+        margin-bottom: 8px;
+      }
+
+      .token-name {
+        font-weight: 500;
+        margin-right: 8px;
+      }
+
+      .token-badge {
+        display: inline-block;
+        padding: 2px 6px;
+        font-size: 11px;
+        font-weight: 500;
+        background: var(--figma-color-secondary);
+        color: var(--figma-color-text-secondary);
+        border-radius: 4px;
+      }
+
+      .token-item-details {
+        display: flex;
+        flex-direction: column;
+        gap: 4px;
+      }
+
+      .token-detail {
+        font-size: 12px;
+        color: var(--figma-color-text-secondary);
+      }
+
+      .color-preview {
+        display: inline-block;
+        width: 16px;
+        height: 16px;
+        border-radius: 4px;
+        border: 1px solid var(--figma-color-border-strong);
+        margin-right: 8px;
+      }
+
+      .empty-state {
+        text-align: center;
+        color: var(--figma-color-text-secondary);
+        padding: 16px;
+      }
+
+      /* Buttons */
+      .button {
+        display: inline-flex;
+        align-items: center;
+        justify-content: center;
+        padding: 8px 12px;
+        border-radius: var(--figma-border-radius);
+        font-size: 13px;
+        font-weight: 500;
+        cursor: pointer;
+        border: none;
+        transition: background-color 0.15s ease-in-out;
+      }
+
+      .button--primary {
+        background-color: var(--figma-color-primary);
+        color: var(--figma-color-primary-text);
+      }
+
+      .button--primary:hover {
+        background-color: var(--figma-color-primary-hover);
+      }
+
+      .button--primary:active {
+        background-color: var(--figma-color-primary-pressed);
+      }
+
+      .button--secondary {
+        background-color: var(--figma-color-secondary);
+        color: var(--figma-color-text);
+      }
+
+      .button--secondary:hover {
+        background-color: var(--figma-color-secondary-hover);
+      }
+
+      .button--secondary:active {
+        background-color: var(--figma-color-secondary-pressed);
+      }
+
+      .button:disabled {
+        opacity: 0.5;
+        cursor: not-allowed;
+      }
+
+      /* Frame Analysis specific styles */
+      .selected-node-info {
+        margin-bottom: 12px;
+      }
+
+      .node-info {
+        display: flex;
+        align-items: center;
+        gap: 8px;
+        padding: 8px;
+        background-color: var(--figma-color-bg);
+        border: 1px solid var(--figma-color-border);
+        border-radius: var(--figma-border-radius);
+      }
+
+      .node-name {
+        font-weight: 500;
+      }
+
+      .node-type-badge {
+        display: inline-block;
+        padding: 2px 6px;
+        font-size: 11px;
+        background: var(--figma-color-primary);
+        color: white;
+        border-radius: 4px;
+      }
+
+      /* Selection info styles */
+      .selection-info {
+        margin-bottom: 16px;
+        padding: 12px;
+        background-color: var(--figma-color-bg-hover);
+        border-radius: var(--figma-border-radius);
+      }
+
+      .current-selection {
+        display: flex;
+        flex-direction: column;
+        gap: 4px;
+      }
+
+      .selection-label {
+        font-size: 12px;
+        color: var(--figma-color-text-secondary);
+      }
+
+      .selected-item {
+        display: flex;
+        align-items: center;
+        gap: 8px;
+      }
+
+      .selected-name {
+        font-weight: 500;
+        font-size: 14px;
+      }
+
+      .selected-type {
+        font-size: 11px;
+        padding: 2px 6px;
+        background-color: var(--figma-color-bg);
+        border-radius: 4px;
+        color: var(--figma-color-text-secondary);
+      }
+
+      .selection-hint {
+        font-size: 11px;
+        color: var(--figma-color-text-secondary);
+        font-style: italic;
+        margin-top: 4px;
+      }
+
+      .analyze-button-container {
+        margin-bottom: 16px;
+        display: flex;
+        justify-content: center;
+      }
+
+      .error-message {
+        color: var(--figma-color-danger);
+      }
+
+      .analyzing-badge {
+        display: inline-block;
+        padding: 2px 6px;
+        font-size: 11px;
+        background-color: var(--figma-color-warning);
+        color: black;
+        border-radius: 4px;
+        margin-left: 8px;
+      }
+
+      .error-badge {
+        background-color: var(--figma-color-danger);
+        color: white;
+      }
+
+      /* Debug messages */
+      .debug-messages {
+        margin-bottom: 16px;
+        background-color: #f8f8f8;
+        border: 1px solid var(--figma-color-border);
+        border-radius: var(--figma-border-radius);
+        padding: 8px;
+      }
+
+      .debug-header {
+        display: flex;
+        justify-content: space-between;
+        align-items: center;
+        margin-bottom: 8px;
+      }
+
+      .debug-log {
+        max-height: 120px;
+        overflow-y: auto;
+        font-family: monospace;
+        font-size: 11px;
+        line-height: 1.4;
+        color: #333;
+        background-color: #f0f0f0;
+        border-radius: 4px;
+        padding: 8px;
+      }
+
+      .debug-message {
+        margin-bottom: 4px;
+        word-break: break-word;
+      }
+
+      .debug-time {
+        color: #666;
+        margin-right: 6px;
+      }
+
+      .button--small {
+        padding: 4px 8px;
+        font-size: 11px;
+      }
+
+      /* Variable display styles */
+      .variable-badge {
+        background-color: var(--figma-color-info);
+        color: white;
+        margin-left: 4px;
+      }
+
+      .variable-info {
+        margin-top: 6px;
+        padding-top: 6px;
+        border-top: 1px dashed var(--figma-color-border);
+      }
+
+      .variable-item {
+        display: flex;
+        align-items: center;
+        gap: 6px;
+        margin-bottom: 4px;
+        padding: 2px 0;
+      }
+
+      .variable-property {
+        font-weight: 500;
+        font-size: 11px;
+        color: var(--figma-color-text);
+      }
+
+      .variable-name {
+        font-size: 11px;
+        font-weight: 500;
+        color: var(--figma-color-primary);
+      }
+
+      .variable-collection {
+        font-size: 10px;
+        color: var(--figma-color-text-secondary);
+        background-color: var(--figma-color-bg);
+        padding: 1px 4px;
+        border-radius: 3px;
+      }
+    </style>
+  </body>
+</html>

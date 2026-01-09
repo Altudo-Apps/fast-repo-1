@@ -1,0 +1,342 @@
+﻿---
+ID: "0a1c1cb9-3b6e-453e-a69b-407f4fb28c8f"
+Parent: "6f8af16c-8165-4e94-b6c0-2a3abbd31b4c"
+Template: "350838af-2729-4435-accd-f1bdb79ef733"
+Path: /sitecore/content/FastLaneTenant/fastlanewebsite/Home/Blogs/BlogArticles/i/ICMP Launches
+BranchID: "85f6266a-c591-4ada-85cb-c6cdd8775f47"
+SharedFields:
+- ID: "a4f985d9-98b3-4b52-aaaf-4344f6e747c6"
+  Hint: __Workflow
+  Value: "{CF913994-CC05-4D20-B38A-9CF1E73F5951}"
+- ID: "dbbbeca1-21c7-4906-9dd2-493c1efa59a2"
+  Hint: __Shared revision
+  Value: "694112ec-53fa-4051-8247-a2deece16886"
+- ID: "f6d8a61c-2f84-4401-bd24-52d2068172bc"
+  Hint: __Originator
+  Value: "{64A8D11E-D36B-4319-AEA1-E7C4976224D1}"
+Languages:
+- Language: "ar-AE"
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "04bf00db-f5fb-41f7-8ab7-22408372a981"
+      Hint: __Final Renderings
+      Value: |
+        <r xmlns:p="p" xmlns:s="s"
+          p:p="1">
+          <d
+            id="{FE5D7FDF-89C0-4D99-9AA3-B5FBD009C9F3}">
+            <r
+              uid="{E6577B7B-5EEC-43F0-A751-6457290EBB0D}"
+              p:before="*"
+              s:id="{B7C649C8-C683-44CB-9A87-AEBEA3DA8EB3}"
+              s:par="GridParameters=%7BF61E01E9-711A-4C99-AE30-4E28463E1DF7%7D&amp;FieldNames=%7B129985C4-D854-49F5-9602-9E1D1B8DF899%7D&amp;BackgroundImage&amp;Styles=%7C%7B0D8280A3-A4C1-4AAD-8392-30B3080349C8%7D&amp;RenderingIdentifier&amp;CSSStyles&amp;DynamicPlaceholderId=1"
+              s:ph="headless-main" />
+            <r
+              uid="{ECCDC050-7EDE-47E9-ABE3-73295D3277CC}"
+              p:after="r[@uid='{E6577B7B-5EEC-43F0-A751-6457290EBB0D}']"
+              s:id="{F7295588-FA7F-448E-B222-F64005B22E8D}"
+              s:par="GridParameters=%7BF61E01E9-711A-4C99-AE30-4E28463E1DF7%7D&amp;ImageOrder&amp;FieldNames=%7BBAC81150-16BD-4AED-9DF5-6FB5C82E1B95%7D&amp;Styles=%7C%7BDA96D040-41DE-4486-A4D1-6CEDECA18E14%7D&amp;RenderingIdentifier&amp;CSSStyles&amp;DynamicPlaceholderId=3"
+              s:ph="headless-main" />
+            <r
+              uid="{9ADB19C9-8277-4F47-95DF-BDE94C39F41E}"
+              p:after="r[@uid='{ECCDC050-7EDE-47E9-ABE3-73295D3277CC}']"
+              s:id="{B7C649C8-C683-44CB-9A87-AEBEA3DA8EB3}"
+              s:par="GridParameters=%7BF61E01E9-711A-4C99-AE30-4E28463E1DF7%7D&amp;FieldNames=%7B129985C4-D854-49F5-9602-9E1D1B8DF899%7D&amp;BackgroundImage&amp;Styles=%7C%7B0D8280A3-A4C1-4AAD-8392-30B3080349C8%7D&amp;RenderingIdentifier&amp;CSSStyles&amp;DynamicPlaceholderId=4"
+              s:ph="headless-main" />
+            <r
+              uid="{392DA7C3-FB30-40FE-B216-ED447498DA55}"
+              p:after="r[@uid='{9ADB19C9-8277-4F47-95DF-BDE94C39F41E}']"
+              s:id="{D425DB5D-FFB0-4574-852C-C17D904CC3E7}"
+              s:par="GridParameters=%7BF61E01E9-711A-4C99-AE30-4E28463E1DF7%7D&amp;FieldNames=%7B6F83E0EE-E1C1-42D2-8B7B-DA86DFDD39DB%7D&amp;Styles=%7C%7B475E77AB-3D7F-4C96-A0C4-8164A8158C82%7D&amp;RenderingIdentifier&amp;CSSStyles&amp;DynamicPlaceholderId=2"
+              s:ph="/headless-main/container-1" />
+            <r
+              uid="{949DBA3C-3BD8-43AE-8C03-A9ACAF8DCA64}"
+              p:after="r[@uid='{392DA7C3-FB30-40FE-B216-ED447498DA55}']"
+              s:id="{1409AEA2-6E60-4EA9-8813-CB229DF0E3B7}"
+              s:par="GridParameters=%7BF61E01E9-711A-4C99-AE30-4E28463E1DF7%7D&amp;FieldNames=%7B0EFC83ED-6584-40A0-91D4-56B2091E359B%7D&amp;Styles=%7C%7B475E77AB-3D7F-4C96-A0C4-8164A8158C82%7D%7C%7BACA1D298-4F90-4EA9-8281-82D0BBB1E353%7D&amp;RenderingIdentifier&amp;CSSStyles&amp;DynamicPlaceholderId=6"
+              s:ph="/headless-main/container-4" />
+            <r
+              uid="{B705FA95-41D3-41BF-9F01-74F62C364CB8}"
+              p:after="*[1=2]"
+              s:id="{C5F905F8-FD1F-444E-A9E5-AC6B774FF0DE}"
+              s:par="GridParameters=%7BF61E01E9-711A-4C99-AE30-4E28463E1DF7%7D&amp;Heading Tag&amp;FieldNames=%7B73D70018-AEEB-4FE5-A0F2-50B7BE67B1FF%7D&amp;Styles&amp;RenderingIdentifier&amp;CSSStyles&amp;DynamicPlaceholderId=5"
+              s:ph="/headless-main/container-4" />
+          </d>
+        </r>
+    - ID: "06890ecb-5786-4776-8d76-19250477a9bc"
+      Hint: MetaImage
+      Value: |
+        <image mediaid="{91CD5DFA-8BC0-48B5-943A-E7689E560172}" alt="Telemedicine" height="" width="" hspace="" vspace="" />
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20251028T125300Z
+    - ID: "3e431de1-525e-47a3-b6b0-1ccbec3a8c98"
+      Hint: __Workflow state
+      Value: "{F7F71754-F47E-4605-AD5B-87F78974DD92}"
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+      Hint: __Owner
+      Value: |
+        sitecore\karthikeyan.kumaravel@altudo.co
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\karthikeyan.kumaravel@altudo.co
+    - ID: "6128ed46-0b79-4d6a-87ad-ac6fe70c649c"
+      Hint: Category
+      Value: Insights
+    - ID: "6fb03d9c-e0f6-4765-831d-d5627c4e0b67"
+      Hint: Content
+      Value: |
+        <div class="ck-content"><p>In an era where virtual consultations are bridging healthcare gaps worldwide, the International Council for Medical Proficiency (ICMP) is setting a new standard with the launch of the world's first global accreditation program for telemedicine providers. This groundbreaking initiative aims to ensure safe, ethical, and standardized virtual care delivery across borders and platforms, fostering trust in digital health services while addressing regulatory fragmentation in an increasingly interconnected world.</p><p>&nbsp;</p><p><strong>Revolutionizing Virtual Care: The Need for Global Standards</strong><br />Telemedicine has surged in adoption, with over 80% of healthcare systems incorporating virtual visits post-pandemic. Yet, inconsistencies in licensing, data privacy, and clinical protocols have created silos that hinder cross-border care. Enter ICMP's Global Telemedicine Accreditation Program (GTAP)—a comprehensive framework designed to unify these disparate elements into a cohesive, internationally recognized credential.<br />Launched today at the annual Global Health Innovation Summit in Geneva, GTAP targets medical providers, platforms, and institutions offering remote services. By establishing benchmarks for quality, ethics, and interoperability, the program empowers practitioners to deliver care seamlessly, whether consulting a patient in rural Kenya from a clinic in New York or integrating AI-driven diagnostics across EU and Asian networks.</p><p><br />&nbsp;<strong>Core Pillars of the GTAP Framework</strong><br />The program's architecture is built on four interconnected pillars, each informed by input from over 500 global stakeholders, including regulators, ethicists, and frontline clinicians:<br /><strong>Safety and Clinical Excellence:&nbsp;</strong>Accredited providers must demonstrate proficiency in virtual diagnostics, emergency triage, and follow-up protocols. This includes mandatory training on secure video platforms and real-time data encryption to mitigate risks like misdiagnosis or cyber threats.<br /><strong>Ethical Practices and Equity:</strong>&nbsp;Emphasizing patient-centered care, GTAP requires adherence to universal ethical guidelines, such as informed consent in multilingual settings and equitable access for underserved populations. Bias audits for AI-assisted tools are a key requirement, ensuring no demographic is left behind.<br /><strong>Standardization Across Borders:</strong>&nbsp;To tackle jurisdictional hurdles, the program introduces a "Universal Telemedicine Passport"—a digital credential verifiable via blockchain, allowing accredited providers to operate compliantly in participating countries without redundant certifications.<br /><strong>Continuous Innovation and Compliance:</strong>&nbsp;Providers commit to annual audits and upskilling modules on emerging technologies, like augmented reality for remote surgeries. ICMP's oversight board, comprising representatives from WHO and regional health authorities, ensures ongoing relevance.<br />Early adopters, including major platforms like Teladoc and Amwell, have already enrolled, with pilot certifications expected by Q1 2026. Initial projections suggest GTAP could standardize care for up to 50 million virtual visits annually within its first three years.</p><p><br /><strong>Real-World Applications: Bridging Gaps in Global Health</strong><br />Imagine a specialist in Tokyo guiding a surgical procedure for a child in rural Bolivia via augmented reality overlays—now made possible with GTAP's interoperability standards. Or consider the story of Dr. Aisha Rahman, a family physician in Lagos, Nigeria. Through the program, she gained accreditation that unlocked partnerships with U.S.-based insurers, expanding her virtual clinic to serve expatriates and locals alike. "GTAP isn't just a badge; it's a lifeline for equitable care," Dr. Rahman notes.<br />In conflict zones and remote islands, where physical access is limited, this accreditation promises to elevate telemedicine from a patchwork solution to a robust ecosystem. By harmonizing standards, ICMP is not only safeguarding patients but also accelerating innovation, such as integrating wearable data streams for proactive chronic disease management.</p><p><br /><strong>Challenges and Commitments: Navigating the Road Ahead</strong><br />No initiative of this scale is without hurdles. Regulatory alignment across 190+ countries remains complex, and ICMP acknowledges the need for diplomatic engagement with bodies like the FDA and EMA. To counter this, the program includes a collaborative forum for policymakers to co-develop guidelines.<br />ICMP is committed to accessibility, offering subsidized enrollment for providers in low-resource settings and open-source toolkits for small clinics. As Dr. Hale emphasizes, "Our goal is a world where virtual care is as trusted as in-person visits—safe, ethical, and universally available."<br />Stakeholders are encouraged to apply for accreditation here and join upcoming webinars on implementation best practices.</p><p>At ICMP, we're pioneering the future of healthcare one connection at a time. This launch marks a pivotal step toward a borderless, ethical digital health landscape.</p><p><br />For more on telemedicine advancements, visit our blog archives or subscribe to the ICMP newsletter.</p></div>
+    - ID: "78bd5b13-d9ab-44a4-bae4-c2dda0ad6133"
+      Hint: IntroText
+      Value: This groundbreaking initiative aims to ensure safe, ethical, and standardized virtual care delivery across borders and platforms, fostering trust in digital health services while addressing regulatory fragmentation in an increasingly interconnected world.
+    - ID: "7cba72f9-1513-41af-ba26-de761f138805"
+      Hint: Title
+      Value: ICMP Launches Global Telemedicine Accreditation Program
+    - ID: "85f5b648-1823-4509-b7fd-27deacdf2dff"
+      Hint: MetaDescription
+      Value: "ICMP introduces the Global Telemedicine Accreditation Program (GTAP) to standardize safe, ethical virtual care for international providers. Learn how this initiative ensures cross-border compliance and innovation in digital health."
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "a98ffc7d-9c43-4c57-ba44-92cccf4e4521"
+    - ID: "92c233dc-a8b3-4fd0-bb3f-e82a8b49bed2"
+      Hint: MetaTitle
+      Value: ICMP Launches World's First Global Telemedicine Accreditation Program | Safe Virtual Care Standards
+    - ID: "9f4483ca-f858-45d1-86a5-0a69c9ab6207"
+      Hint: MetaKeywords
+      Value: "telemedicine accreditation, global health standards, virtual care, ICMP GTAP, ethical telemedicine, cross-border healthcare, digital health innovation, medical providers, patient safety, health equity"
+    - ID: "a667d11b-ca9f-4fbe-881f-2538eb51f432"
+      Hint: PublishedDate
+      Value: 20250813T000000Z
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\karthikeyan.kumaravel@altudo.co
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20251201T185716Z
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "001dd393-96c5-490b-924a-b0f25cd9efd8"
+      Hint: __Lock
+      Value: <r />
+    - ID: "04bf00db-f5fb-41f7-8ab7-22408372a981"
+      Hint: __Final Renderings
+      Value: |
+        <r xmlns:p="p" xmlns:s="s"
+          p:p="1">
+          <d
+            id="{FE5D7FDF-89C0-4D99-9AA3-B5FBD009C9F3}">
+            <r
+              uid="{E6577B7B-5EEC-43F0-A751-6457290EBB0D}"
+              p:before="*"
+              s:id="{B7C649C8-C683-44CB-9A87-AEBEA3DA8EB3}"
+              s:par="GridParameters=%7BF61E01E9-711A-4C99-AE30-4E28463E1DF7%7D&amp;FieldNames=%7B129985C4-D854-49F5-9602-9E1D1B8DF899%7D&amp;BackgroundImage&amp;Styles=%7C%7B0D8280A3-A4C1-4AAD-8392-30B3080349C8%7D&amp;RenderingIdentifier&amp;CSSStyles&amp;DynamicPlaceholderId=1"
+              s:ph="headless-main" />
+            <r
+              uid="{ECCDC050-7EDE-47E9-ABE3-73295D3277CC}"
+              p:after="r[@uid='{E6577B7B-5EEC-43F0-A751-6457290EBB0D}']"
+              s:id="{F7295588-FA7F-448E-B222-F64005B22E8D}"
+              s:par="GridParameters=%7BF61E01E9-711A-4C99-AE30-4E28463E1DF7%7D&amp;ImageOrder&amp;FieldNames=%7BBAC81150-16BD-4AED-9DF5-6FB5C82E1B95%7D&amp;Styles=%7C%7BDA96D040-41DE-4486-A4D1-6CEDECA18E14%7D&amp;RenderingIdentifier&amp;CSSStyles&amp;DynamicPlaceholderId=3"
+              s:ph="headless-main" />
+            <r
+              uid="{9ADB19C9-8277-4F47-95DF-BDE94C39F41E}"
+              p:after="r[@uid='{ECCDC050-7EDE-47E9-ABE3-73295D3277CC}']"
+              s:id="{B7C649C8-C683-44CB-9A87-AEBEA3DA8EB3}"
+              s:par="GridParameters=%7BF61E01E9-711A-4C99-AE30-4E28463E1DF7%7D&amp;FieldNames=%7B129985C4-D854-49F5-9602-9E1D1B8DF899%7D&amp;BackgroundImage&amp;Styles=%7C%7B0D8280A3-A4C1-4AAD-8392-30B3080349C8%7D&amp;RenderingIdentifier&amp;CSSStyles&amp;DynamicPlaceholderId=4"
+              s:ph="headless-main" />
+            <r
+              uid="{392DA7C3-FB30-40FE-B216-ED447498DA55}"
+              p:after="r[@uid='{9ADB19C9-8277-4F47-95DF-BDE94C39F41E}']"
+              s:id="{D425DB5D-FFB0-4574-852C-C17D904CC3E7}"
+              s:par="GridParameters=%7BF61E01E9-711A-4C99-AE30-4E28463E1DF7%7D&amp;FieldNames=%7B6F83E0EE-E1C1-42D2-8B7B-DA86DFDD39DB%7D&amp;Styles=%7C%7B475E77AB-3D7F-4C96-A0C4-8164A8158C82%7D&amp;RenderingIdentifier&amp;CSSStyles&amp;DynamicPlaceholderId=2"
+              s:ph="/headless-main/container-1" />
+            <r
+              uid="{949DBA3C-3BD8-43AE-8C03-A9ACAF8DCA64}"
+              p:after="r[@uid='{392DA7C3-FB30-40FE-B216-ED447498DA55}']"
+              s:id="{1409AEA2-6E60-4EA9-8813-CB229DF0E3B7}"
+              s:par="GridParameters=%7BF61E01E9-711A-4C99-AE30-4E28463E1DF7%7D&amp;FieldNames=%7B0EFC83ED-6584-40A0-91D4-56B2091E359B%7D&amp;Styles=%7C%7B475E77AB-3D7F-4C96-A0C4-8164A8158C82%7D%7C%7BACA1D298-4F90-4EA9-8281-82D0BBB1E353%7D&amp;RenderingIdentifier&amp;CSSStyles&amp;DynamicPlaceholderId=6"
+              s:ph="/headless-main/container-4" />
+            <r
+              uid="{B705FA95-41D3-41BF-9F01-74F62C364CB8}"
+              p:after="*[1=2]"
+              s:id="{C5F905F8-FD1F-444E-A9E5-AC6B774FF0DE}"
+              s:par="GridParameters=%7BF61E01E9-711A-4C99-AE30-4E28463E1DF7%7D&amp;Heading Tag&amp;FieldNames=%7B73D70018-AEEB-4FE5-A0F2-50B7BE67B1FF%7D&amp;Styles&amp;RenderingIdentifier&amp;CSSStyles&amp;DynamicPlaceholderId=5"
+              s:ph="/headless-main/container-4" />
+          </d>
+        </r>
+    - ID: "06890ecb-5786-4776-8d76-19250477a9bc"
+      Hint: MetaImage
+      Value: |
+        <image mediaid="{91CD5DFA-8BC0-48B5-943A-E7689E560172}" />
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20251028T125300Z
+    - ID: "3e431de1-525e-47a3-b6b0-1ccbec3a8c98"
+      Hint: __Workflow state
+      Value: "{F7F71754-F47E-4605-AD5B-87F78974DD92}"
+    - ID: "4e0720e9-9d50-4ddc-87cf-ecd65e8e94c8"
+      Hint: NavigationTitle
+      Value: ICMP Launches
+    - ID: "6128ed46-0b79-4d6a-87ad-ac6fe70c649c"
+      Hint: Category
+      Value: Insights
+    - ID: "6fb03d9c-e0f6-4765-831d-d5627c4e0b67"
+      Hint: Content
+      Value: |
+        <div class="ck-content"><p>In an era where virtual consultations are bridging healthcare gaps worldwide, the International Council for Medical Proficiency (ICMP) is setting a new standard with the launch of the world's first global accreditation program for telemedicine providers. This groundbreaking initiative aims to ensure safe, ethical, and standardized virtual care delivery across borders and platforms, fostering trust in digital health services while addressing regulatory fragmentation in an increasingly interconnected world.</p><p>&nbsp;</p><p><strong>Revolutionizing Virtual Care: The Need for Global Standards</strong><br />Telemedicine has surged in adoption, with over 80% of healthcare systems incorporating virtual visits post-pandemic. Yet, inconsistencies in licensing, data privacy, and clinical protocols have created silos that hinder cross-border care. Enter ICMP's Global Telemedicine Accreditation Program (GTAP)—a comprehensive framework designed to unify these disparate elements into a cohesive, internationally recognized credential.<br />Launched today at the annual Global Health Innovation Summit in Geneva, GTAP targets medical providers, platforms, and institutions offering remote services. By establishing benchmarks for quality, ethics, and interoperability, the program empowers practitioners to deliver care seamlessly, whether consulting a patient in rural Kenya from a clinic in New York or integrating AI-driven diagnostics across EU and Asian networks.</p><p><br />&nbsp;<strong>Core Pillars of the GTAP Framework</strong><br />The program's architecture is built on four interconnected pillars, each informed by input from over 500 global stakeholders, including regulators, ethicists, and frontline clinicians:<br /><strong>Safety and Clinical Excellence:&nbsp;</strong>Accredited providers must demonstrate proficiency in virtual diagnostics, emergency triage, and follow-up protocols. This includes mandatory training on secure video platforms and real-time data encryption to mitigate risks like misdiagnosis or cyber threats.<br /><strong>Ethical Practices and Equity:</strong>&nbsp;Emphasizing patient-centered care, GTAP requires adherence to universal ethical guidelines, such as informed consent in multilingual settings and equitable access for underserved populations. Bias audits for AI-assisted tools are a key requirement, ensuring no demographic is left behind.<br /><strong>Standardization Across Borders:</strong>&nbsp;To tackle jurisdictional hurdles, the program introduces a "Universal Telemedicine Passport"—a digital credential verifiable via blockchain, allowing accredited providers to operate compliantly in participating countries without redundant certifications.<br /><strong>Continuous Innovation and Compliance:</strong>&nbsp;Providers commit to annual audits and upskilling modules on emerging technologies, like augmented reality for remote surgeries. ICMP's oversight board, comprising representatives from WHO and regional health authorities, ensures ongoing relevance.<br />Early adopters, including major platforms like Teladoc and Amwell, have already enrolled, with pilot certifications expected by Q1 2026. Initial projections suggest GTAP could standardize care for up to 50 million virtual visits annually within its first three years.</p><p><br /><strong>Real-World Applications: Bridging Gaps in Global Health</strong><br />Imagine a specialist in Tokyo guiding a surgical procedure for a child in rural Bolivia via augmented reality overlays—now made possible with GTAP's interoperability standards. Or consider the story of Dr. Aisha Rahman, a family physician in Lagos, Nigeria. Through the program, she gained accreditation that unlocked partnerships with U.S.-based insurers, expanding her virtual clinic to serve expatriates and locals alike. "GTAP isn't just a badge; it's a lifeline for equitable care," Dr. Rahman notes.<br />In conflict zones and remote islands, where physical access is limited, this accreditation promises to elevate telemedicine from a patchwork solution to a robust ecosystem. By harmonizing standards, ICMP is not only safeguarding patients but also accelerating innovation, such as integrating wearable data streams for proactive chronic disease management.</p><p><br /><strong>Challenges and Commitments: Navigating the Road Ahead</strong><br />No initiative of this scale is without hurdles. Regulatory alignment across 190+ countries remains complex, and ICMP acknowledges the need for diplomatic engagement with bodies like the FDA and EMA. To counter this, the program includes a collaborative forum for policymakers to co-develop guidelines.<br />ICMP is committed to accessibility, offering subsidized enrollment for providers in low-resource settings and open-source toolkits for small clinics. As Dr. Hale emphasizes, "Our goal is a world where virtual care is as trusted as in-person visits—safe, ethical, and universally available."<br />Stakeholders are encouraged to apply for accreditation here and join upcoming webinars on implementation best practices.</p><p>At ICMP, we're pioneering the future of healthcare one connection at a time. This launch marks a pivotal step toward a borderless, ethical digital health landscape.</p><p><br />For more on telemedicine advancements, visit our blog archives or subscribe to the ICMP newsletter.</p></div>
+    - ID: "78bd5b13-d9ab-44a4-bae4-c2dda0ad6133"
+      Hint: IntroText
+      Value: This groundbreaking initiative aims to ensure safe, ethical, and standardized virtual care delivery across borders and platforms, fostering trust in digital health services while addressing regulatory fragmentation in an increasingly interconnected world.
+    - ID: "7cba72f9-1513-41af-ba26-de761f138805"
+      Hint: Title
+      Value: ICMP Launches Global Telemedicine Accreditation Program
+    - ID: "85f5b648-1823-4509-b7fd-27deacdf2dff"
+      Hint: MetaDescription
+      Value: "ICMP introduces the Global Telemedicine Accreditation Program (GTAP) to standardize safe, ethical virtual care for international providers. Learn how this initiative ensures cross-border compliance and innovation in digital health."
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "7c9c6ba6-124c-4f19-8fea-79650f2af9c4"
+    - ID: "92c233dc-a8b3-4fd0-bb3f-e82a8b49bed2"
+      Hint: MetaTitle
+      Value: ICMP Launches World's First Global Telemedicine Accreditation Program | Safe Virtual Care Standards
+    - ID: "9f4483ca-f858-45d1-86a5-0a69c9ab6207"
+      Hint: MetaKeywords
+      Value: "telemedicine accreditation, global health standards, virtual care, ICMP GTAP, ethical telemedicine, cross-border healthcare, digital health innovation, medical providers, patient safety, health equity"
+    - ID: "a667d11b-ca9f-4fbe-881f-2538eb51f432"
+      Hint: PublishedDate
+      Value: 20250813T000000Z
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\karthikeyan.kumaravel@altudo.co
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20251201T185652Z
+- Language: "fr-CA"
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "04bf00db-f5fb-41f7-8ab7-22408372a981"
+      Hint: __Final Renderings
+      Value: |
+        <r xmlns:p="p" xmlns:s="s"
+          p:p="1">
+          <d
+            id="{FE5D7FDF-89C0-4D99-9AA3-B5FBD009C9F3}">
+            <r
+              uid="{E6577B7B-5EEC-43F0-A751-6457290EBB0D}"
+              p:before="*"
+              s:id="{B7C649C8-C683-44CB-9A87-AEBEA3DA8EB3}"
+              s:par="GridParameters=%7BF61E01E9-711A-4C99-AE30-4E28463E1DF7%7D&amp;FieldNames=%7B129985C4-D854-49F5-9602-9E1D1B8DF899%7D&amp;BackgroundImage&amp;Styles=%7C%7B0D8280A3-A4C1-4AAD-8392-30B3080349C8%7D&amp;RenderingIdentifier&amp;CSSStyles&amp;DynamicPlaceholderId=1"
+              s:ph="headless-main" />
+            <r
+              uid="{ECCDC050-7EDE-47E9-ABE3-73295D3277CC}"
+              p:after="r[@uid='{E6577B7B-5EEC-43F0-A751-6457290EBB0D}']"
+              s:id="{F7295588-FA7F-448E-B222-F64005B22E8D}"
+              s:par="GridParameters=%7BF61E01E9-711A-4C99-AE30-4E28463E1DF7%7D&amp;ImageOrder&amp;FieldNames=%7BBAC81150-16BD-4AED-9DF5-6FB5C82E1B95%7D&amp;Styles=%7C%7BDA96D040-41DE-4486-A4D1-6CEDECA18E14%7D&amp;RenderingIdentifier&amp;CSSStyles&amp;DynamicPlaceholderId=3"
+              s:ph="headless-main" />
+            <r
+              uid="{9ADB19C9-8277-4F47-95DF-BDE94C39F41E}"
+              p:after="r[@uid='{ECCDC050-7EDE-47E9-ABE3-73295D3277CC}']"
+              s:id="{B7C649C8-C683-44CB-9A87-AEBEA3DA8EB3}"
+              s:par="GridParameters=%7BF61E01E9-711A-4C99-AE30-4E28463E1DF7%7D&amp;FieldNames=%7B129985C4-D854-49F5-9602-9E1D1B8DF899%7D&amp;BackgroundImage&amp;Styles=%7C%7B0D8280A3-A4C1-4AAD-8392-30B3080349C8%7D&amp;RenderingIdentifier&amp;CSSStyles&amp;DynamicPlaceholderId=4"
+              s:ph="headless-main" />
+            <r
+              uid="{392DA7C3-FB30-40FE-B216-ED447498DA55}"
+              p:after="r[@uid='{9ADB19C9-8277-4F47-95DF-BDE94C39F41E}']"
+              s:id="{D425DB5D-FFB0-4574-852C-C17D904CC3E7}"
+              s:par="GridParameters=%7BF61E01E9-711A-4C99-AE30-4E28463E1DF7%7D&amp;FieldNames=%7B6F83E0EE-E1C1-42D2-8B7B-DA86DFDD39DB%7D&amp;Styles=%7C%7B475E77AB-3D7F-4C96-A0C4-8164A8158C82%7D&amp;RenderingIdentifier&amp;CSSStyles&amp;DynamicPlaceholderId=2"
+              s:ph="/headless-main/container-1" />
+            <r
+              uid="{949DBA3C-3BD8-43AE-8C03-A9ACAF8DCA64}"
+              p:after="r[@uid='{392DA7C3-FB30-40FE-B216-ED447498DA55}']"
+              s:id="{1409AEA2-6E60-4EA9-8813-CB229DF0E3B7}"
+              s:par="GridParameters=%7BF61E01E9-711A-4C99-AE30-4E28463E1DF7%7D&amp;FieldNames=%7B0EFC83ED-6584-40A0-91D4-56B2091E359B%7D&amp;Styles=%7C%7B475E77AB-3D7F-4C96-A0C4-8164A8158C82%7D%7C%7BACA1D298-4F90-4EA9-8281-82D0BBB1E353%7D&amp;RenderingIdentifier&amp;CSSStyles&amp;DynamicPlaceholderId=6"
+              s:ph="/headless-main/container-4" />
+            <r
+              uid="{B705FA95-41D3-41BF-9F01-74F62C364CB8}"
+              p:after="*[1=2]"
+              s:id="{C5F905F8-FD1F-444E-A9E5-AC6B774FF0DE}"
+              s:par="GridParameters=%7BF61E01E9-711A-4C99-AE30-4E28463E1DF7%7D&amp;Heading Tag&amp;FieldNames=%7B73D70018-AEEB-4FE5-A0F2-50B7BE67B1FF%7D&amp;Styles&amp;RenderingIdentifier&amp;CSSStyles&amp;DynamicPlaceholderId=5"
+              s:ph="/headless-main/container-4" />
+          </d>
+        </r>
+    - ID: "06890ecb-5786-4776-8d76-19250477a9bc"
+      Hint: MetaImage
+      Value: |
+        <image mediaid="{91CD5DFA-8BC0-48B5-943A-E7689E560172}" alt="Telemedicine" height="" width="" hspace="" vspace="" />
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20251028T125300Z
+    - ID: "3e431de1-525e-47a3-b6b0-1ccbec3a8c98"
+      Hint: __Workflow state
+      Value: "{F7F71754-F47E-4605-AD5B-87F78974DD92}"
+    - ID: "4e0720e9-9d50-4ddc-87cf-ecd65e8e94c8"
+      Hint: NavigationTitle
+      Value: L’ICMP lance le premier programme mondial d’accréditation en télémédecine
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+      Hint: __Owner
+      Value: |
+        sitecore\karthikeyan.kumaravel@altudo.co
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\karthikeyan.kumaravel@altudo.co
+    - ID: "6128ed46-0b79-4d6a-87ad-ac6fe70c649c"
+      Hint: Category
+      Value: Connaissances
+    - ID: "6fb03d9c-e0f6-4765-831d-d5627c4e0b67"
+      Hint: Content
+      Value: |
+        <div class="ck-content">
+        &Agrave; l'heure o&ugrave; les t&eacute;l&eacute;consultations comblent les lacunes en mati&egrave;re de soins de sant&eacute; &agrave; travers le monde, le Conseil international des comp&eacute;tences m&eacute;dicales (ICMP) &eacute;tablit une nouvelle norme avec le lancement du premier programme d'accr&eacute;ditation mondial pour les fournisseurs de t&eacute;l&eacute;m&eacute;decine. Cette initiative novatrice vise &agrave; garantir des soins virtuels s&ucirc;rs, &eacute;thiques et standardis&eacute;s, au-del&agrave; des fronti&egrave;res et des plateformes, en renfor&ccedil;ant la confiance dans les services de sant&eacute; num&eacute;riques et en s'attaquant &agrave; la fragmentation r&eacute;glementaire dans un monde de plus en plus interconnect&eacute;.
+        <p>&nbsp;</p>
+        <p><strong>R&eacute;volutionner les soins virtuels&nbsp;: la n&eacute;cessit&eacute; de normes mondiales</strong></p>
+        <p>
+        La t&eacute;l&eacute;m&eacute;decine a connu une forte croissance, avec plus de 80 % des syst&egrave;mes de sant&eacute; int&eacute;grant les consultations virtuelles apr&egrave;s la pand&eacute;mie. Cependant, les incoh&eacute;rences en mati&egrave;re d'autorisations, de confidentialit&eacute; des donn&eacute;es et de protocoles cliniques ont cr&eacute;&eacute; des silos qui entravent les soins transfrontaliers. D&eacute;couvrez le Programme mondial d'accr&eacute;ditation en t&eacute;l&eacute;m&eacute;decine (GTAP) de l'ICMP&nbsp;: un cadre complet con&ccedil;u pour unifier ces &eacute;l&eacute;ments disparates en une certification coh&eacute;rente et reconnue internationalement. Lanc&eacute; aujourd'hui lors du Sommet mondial annuel sur l'innovation en sant&eacute; &agrave; Gen&egrave;ve, le GTAP s'adresse aux professionnels de la sant&eacute;, aux plateformes et aux institutions offrant des services &agrave; distance. En &eacute;tablissant des normes de qualit&eacute;, d'&eacute;thique et d'interop&eacute;rabilit&eacute;, le programme permet aux praticiens de fournir des soins de mani&egrave;re fluide, qu'il s'agisse de consulter un patient dans une r&eacute;gion rurale du Kenya depuis une clinique de New York ou d'int&eacute;grer des diagnostics bas&eacute;s sur l'IA au sein des r&eacute;seaux europ&eacute;ens et asiatiques.
+        </p>
+        <p>&nbsp;<strong>Piliers fondamentaux du cadre GTAP</strong><br />
+        L'architecture du programme repose sur quatre piliers interd&eacute;pendants, chacun ayant &eacute;t&eacute; &eacute;labor&eacute; gr&acirc;ce aux contributions de plus de 500 acteurs internationaux, notamment des organismes de r&eacute;glementation, des sp&eacute;cialistes de l'&eacute;thique et des cliniciens de premi&egrave;re ligne&nbsp;:<br />
+        <strong>S&eacute;curit&eacute; et excellence clinique&nbsp;:</strong> Les fournisseurs accr&eacute;dit&eacute;s doivent d&eacute;montrer leur ma&icirc;trise des diagnostics virtuels, du triage d'urgence et des protocoles de suivi. Cela comprend une formation obligatoire sur les plateformes vid&eacute;o s&eacute;curis&eacute;es et le chiffrement des donn&eacute;es en temps r&eacute;el afin d'att&eacute;nuer les risques tels que les erreurs de diagnostic ou les cybermenaces.<br />
+        <strong>Pratiques &eacute;thiques et &eacute;quit&eacute;&nbsp;:</strong> Mettant l'accent sur les soins centr&eacute;s sur le patient, le GTAP exige le respect de principes &eacute;thiques universels, tels que le consentement &eacute;clair&eacute; dans un contexte multilingue et un acc&egrave;s &eacute;quitable pour les populations mal desservies. Les audits de biais pour les outils assist&eacute;s par l'IA constituent une exigence essentielle, garantissant qu'aucun groupe d&eacute;mographique ne soit laiss&eacute; pour compte.<br />
+        <strong>Standardisation transfrontali&egrave;re&nbsp;:</strong> Pour surmonter les obstacles juridictionnels, le programme introduit un &laquo;&nbsp;Passeport universel de t&eacute;l&eacute;m&eacute;decine&nbsp;&raquo; &ndash; une attestation num&eacute;rique v&eacute;rifiable via la cha&icirc;ne de blocs, permettant aux fournisseurs accr&eacute;dit&eacute;s d'exercer en toute conformit&eacute; dans les pays participants sans certifications redondantes.<br />
+        <strong>Innovation continue et conformit&eacute;&nbsp;:</strong> Les fournisseurs s'engagent &agrave; se soumettre &agrave; des v&eacute;rifications annuelles et &agrave; des modules de perfectionnement sur les technologies &eacute;mergentes, comme la r&eacute;alit&eacute; augment&eacute;e pour les interventions chirurgicales &agrave; distance. Le conseil de surveillance de l'ICMP, compos&eacute; de repr&eacute;sentants de l'OMS et des autorit&eacute;s sanitaires r&eacute;gionales, garantit sa pertinence continue. Les premiers utilisateurs, notamment des plateformes majeures comme Teladoc et Amwell, se sont d&eacute;j&agrave; inscrits, et des certifications pilotes sont attendues d'ici le premier trimestre de 2026. Les premi&egrave;res projections sugg&egrave;rent que le GTAP pourrait normaliser les soins pour pr&egrave;s de 50 millions de consultations virtuelles par ann&eacute;e au cours de ses trois premi&egrave;res ann&eacute;es.
+        Applications concr&egrave;tes&nbsp;: Combler les lacunes en mati&egrave;re de sant&eacute; mondiale
+        Imaginez un sp&eacute;cialiste &agrave; Tokyo guidant une intervention chirurgicale sur un enfant dans une r&eacute;gion rurale de Bolivie gr&acirc;ce &agrave; la r&eacute;alit&eacute; augment&eacute;e, d&eacute;sormais possible gr&acirc;ce aux normes d'interop&eacute;rabilit&eacute; du GTAP. Ou encore, prenons l'exemple du Dr Aisha Rahman, m&eacute;decin de famille &agrave; Lagos, au Nig&eacute;ria. Gr&acirc;ce au programme, elle a obtenu une accr&eacute;ditation qui lui a permis de nouer des partenariats avec des assureurs am&eacute;ricains, &eacute;largissant ainsi sa clinique virtuelle aux expatri&eacute;s comme aux locaux. &laquo;&nbsp;GTAP n'est pas qu'un simple label&nbsp;; c'est un gage d'acc&egrave;s &eacute;quitable aux soins&nbsp;&raquo;, souligne le Dr Rahman. Dans les zones de conflit et les &icirc;les isol&eacute;es, o&ugrave; l'acc&egrave;s physique est limit&eacute;, cette accr&eacute;ditation promet de transformer la t&eacute;l&eacute;m&eacute;decine, d'une solution fragmentaire &agrave; un &eacute;cosyst&egrave;me robuste. En harmonisant les normes, l'ICMP prot&egrave;ge non seulement les patients, mais acc&eacute;l&egrave;re &eacute;galement l'innovation, notamment gr&acirc;ce &agrave; l'int&eacute;gration des flux de donn&eacute;es provenant des appareils portables pour une gestion proactive des maladies chroniques.
+        D&eacute;fis et engagements&nbsp;: Perspectives d'avenir
+        Aucune initiative de cette envergure n'est sans obstacles. L'harmonisation r&eacute;glementaire dans plus de 190 pays demeure complexe, et l'ICMP reconna&icirc;t la n&eacute;cessit&eacute; d'un dialogue diplomatique avec des organismes tels que la FDA et l'EMA. Pour rem&eacute;dier &agrave; cela, le programme comprend un forum collaboratif permettant aux d&eacute;cideurs politiques d'&eacute;laborer conjointement des lignes directrices.
+        L'ICMP s'engage en faveur de l'accessibilit&eacute;, en proposant une inscription subventionn&eacute;e pour les professionnels de la sant&eacute; exer&ccedil;ant dans des contextes aux ressources limit&eacute;es et des outils libres pour les petites cliniques. Comme le souligne le Dr Hale&nbsp;: &laquo;&nbsp;Notre objectif est un monde o&ugrave; les soins virtuels sont aussi fiables que les consultations en personne&nbsp;&mdash; s&eacute;curitaires, &eacute;thiques et accessibles &agrave; tous.&nbsp;&raquo;</p>
+        </div>
+    - ID: "78bd5b13-d9ab-44a4-bae4-c2dda0ad6133"
+      Hint: IntroText
+      Value: "Cette initiative novatrice vise &agrave; assurer une prestation de soins virtuels s&eacute;curitaire, &eacute;thique et standardis&eacute;e au-del&agrave; des fronti&egrave;res et des plateformes, en favorisant la confiance dans les services de sant&eacute; num&eacute;riques tout en luttant contre la fragmentation r&eacute;glementaire dans un monde de plus en plus interconnect&eacute;."
+    - ID: "7cba72f9-1513-41af-ba26-de761f138805"
+      Hint: Title
+      Value: L'ICMP lance un programme mondial d'agrément en télémédecine
+    - ID: "85f5b648-1823-4509-b7fd-27deacdf2dff"
+      Hint: MetaDescription
+      Value: L’ICMP lance le Programme mondial d’accréditation en télémédecine (GTAP) afin de normaliser les pratiques de soins virtuels sécuritaires et éthiques pour les fournisseurs internationaux. Découvrez comment cette initiative assure la conformité transfrontalière et l’innovation en santé numérique.
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "49ebb7c2-01ba-410a-ab34-b0f7ec7f53f9"
+    - ID: "92c233dc-a8b3-4fd0-bb3f-e82a8b49bed2"
+      Hint: MetaTitle
+      Value: L’ICMP lance le premier programme mondial d’accréditation en télémédecine | Normes de soins virtuels sécuritaires
+    - ID: "9f4483ca-f858-45d1-86a5-0a69c9ab6207"
+      Hint: MetaKeywords
+      Value: Accréditation en télémédecine, normes sanitaires mondiales, soins virtuels, ICMP GTAP, télémédecine éthique, soins de santé transfrontaliers, innovation en santé numérique, professionnels de la santé, sécurité des patients, équité en santé
+    - ID: "a667d11b-ca9f-4fbe-881f-2538eb51f432"
+      Hint: PublishedDate
+      Value: 20250813T000000Z
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\karthikeyan.kumaravel@altudo.co
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20251201T185738Z

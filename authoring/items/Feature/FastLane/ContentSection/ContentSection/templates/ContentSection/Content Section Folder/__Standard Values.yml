@@ -1,0 +1,36 @@
+﻿---
+ID: "c8742f66-b3d0-4481-bd24-48e80db9ce90"
+Parent: "acbe9ad5-48f2-4d44-9cbe-3d34e6224a83"
+Template: "acbe9ad5-48f2-4d44-9cbe-3d34e6224a83"
+Path: /sitecore/templates/Feature/FastLane/Renderings/ContentSection/Content Section Folder/__Standard Values
+SharedFields:
+- ID: "1172f251-dad4-4efb-a329-0c63500e4f1e"
+  Hint: __Masters
+  Value: |
+    {1763B6F2-B32E-4EC7-A570-92FA167E1B45}
+    {ACBE9AD5-48F2-4D44-9CBE-3D34E6224A83}
+- ID: "dbbbeca1-21c7-4906-9dd2-493c1efa59a2"
+  Hint: __Shared revision
+  Value: "121af791-61b5-4270-ae5f-68f8b77f52b4"
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20120621T071605Z
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\admin
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "d90effd7-5c0f-42a7-b49f-df6eff828c6a"
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\karthikeyan.kumaravel@altudo.co
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20250604T122446Z

@@ -1,0 +1,40 @@
+﻿---
+ID: "753166a8-9626-4e25-8bd2-3a40af1e8c70"
+Parent: "02639c62-e47e-48e1-b7f7-b459550ab273"
+Template: "02639c62-e47e-48e1-b7f7-b459550ab273"
+Path: /sitecore/templates/Feature/FastLane/Renderings/SocialLinks/SocialLinks Folder/__Standard Values
+SharedFields:
+- ID: "1172f251-dad4-4efb-a329-0c63500e4f1e"
+  Hint: __Masters
+  Value: |
+    {9B0EE820-703C-4649-9EEF-684A1B297FFD}
+    {02639C62-E47E-48E1-B7F7-B459550AB273}
+- ID: "dbbbeca1-21c7-4906-9dd2-493c1efa59a2"
+  Hint: __Shared revision
+  Value: "7f2b99ce-2b8b-485b-ac07-49285616863c"
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20250224T121013Z
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+      Hint: __Owner
+      Value: |
+        sitecore\karthikeyan.kumaravel@altudo.co
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\karthikeyan.kumaravel@altudo.co
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "7badcdde-f9c6-44ae-bd06-7a7a57de4ae2"
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\andy.cohen@altudo.co
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20250628T164353Z

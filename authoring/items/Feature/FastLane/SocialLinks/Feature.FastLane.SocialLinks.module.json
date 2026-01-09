@@ -1,0 +1,30 @@
+{
+    "$schema": "../../../../../.sitecore/schemas/ModuleFile.schema.json",
+    "namespace": "Feature.FastLane.SocialLinks",
+    "references": ["Feature.FastLane.Root"],
+    "items": {
+        "path": "SocialLinks",
+        "includes": [
+			{
+                "name": "templates",
+                "path": "/sitecore/templates/Feature/FastLane/Renderings/SocialLinks"
+            },            
+			{
+                "name": "branches",
+                "path": "/sitecore/templates/Branches/Feature/FastLane/Default Variants/SocialLinks"
+            },
+			{
+                "name": "branches-template-data",
+                "path": "/sitecore/templates/Branches/Feature/FastLane/Data/SocialLinks Folder"
+            },
+			{
+                "name": "renderings",
+                "path": "/sitecore/layout/Renderings/Feature/FastLane/Renderings/SocialLinks"                
+            },
+			{
+                "name": "settings",
+                "path": "/sitecore/system/Settings/Feature/FastLane/Renderings/SocialLinks"   
+            }
+        ]
+    }
+}

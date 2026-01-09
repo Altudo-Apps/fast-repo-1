@@ -1,0 +1,41 @@
+﻿---
+ID: "9aaa3d8b-30a2-46ce-bd4e-42c47ab81eef"
+Parent: "702049f1-1f8f-4141-bae4-31d3b5f56c61"
+Template: "bc9bb684-36df-4285-888b-d8b4d87b10de"
+Path: /sitecore/system/Settings/Feature/FastLane/FastLane Default Page Designs Site Setup/Update Page Designs
+SharedFields:
+- ID: "ba3f86a2-4a1c-4d78-b63d-91c2779c1b5e"
+  Hint: __Sortorder
+  Value: 425
+- ID: "c0a5bd91-e658-46ce-b631-77ce337d8e6e"
+  Hint: Script
+  Value: "{956C4A38-C3AA-4271-8B9A-91D75FDABE1E}"
+- ID: "dbbbeca1-21c7-4906-9dd2-493c1efa59a2"
+  Hint: __Shared revision
+  Value: "313b1afb-64ae-4138-9e82-fe861ef2ef66"
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20250628T185009Z
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+      Hint: __Owner
+      Value: |
+        sitecore\andy.cohen@altudo.co
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\andy.cohen@altudo.co
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "09e8044d-beb2-4336-935b-9669c317fda5"
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\andy.cohen@altudo.co
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20250629T104157Z

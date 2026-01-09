@@ -1,0 +1,26 @@
+﻿---
+ID: "3195f30d-73d2-4b51-a298-879a3c186d2a"
+Parent: "0f234cc9-40e2-475c-9371-464314f4c3ed"
+Template: "9878abdd-0000-4881-a7fc-366da38f4bd1"
+Path: /sitecore/system/Settings/Project/FastLane/RenderingParameterSettings/CardLinkType/Card
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20250623T072239Z
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "53cac018-3878-47a1-a3c9-6bf5222c9ed7"
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\karthikeyan.kumaravel@altudo.co
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20250623T072239Z
+    - ID: "eba40eb0-8201-4ef4-98bd-717d6f30a4e2"
+      Hint: LinkType
+      Value: Card

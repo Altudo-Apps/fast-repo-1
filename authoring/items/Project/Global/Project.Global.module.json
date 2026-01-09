@@ -1,0 +1,64 @@
+{
+    "$schema": "../../../../.sitecore/schemas/ModuleFile.schema.json",
+    "namespace": "Project.Global",
+    "references": ["Feature.FastLane.*"],
+    "items": {
+        "path": "Global",
+        "includes": [            
+            {
+                "name": "media",
+                "path": "/sitecore/Media Library/Project/FastLane/global",
+                "rules": [
+                    {
+                        "path": "*",
+                        "scope": "ItemAndDescendants",
+                        "allowedPushOperations": "CreateUpdateAndDelete"
+                    }
+                ]
+            },
+            {
+                "name": "media-shared",
+                "path": "/sitecore/Media Library/Project/FastLane/shared",
+                "scope": "DescendantsOnly"
+            },           
+            {
+                "name": "site",
+                "path": "/sitecore/content/FastLaneTenant/global",
+                "rules": [
+                    {
+                        "path": "/home",
+                        "scope": "ItemAndDescendants"
+                    },
+                    {
+                        "path": "/Media",
+                        "scope": "ItemAndDescendants"
+                    },
+                    {
+                        "path": "/Data",
+                        "scope": "ItemAndDescendants"
+                    },
+                    {
+                        "path": "/Dictionary",
+                        "scope": "ItemAndDescendants"
+                    },
+                    {
+                        "path": "/Presentation",
+                        "scope": "ItemAndDescendants"
+                    },
+                    {
+                        "path": "/Settings/Site Grouping",
+                        "scope": "ItemAndDescendants"
+                    },
+                    {
+                        "path": "/Settings",
+                        "scope": "ItemAndDescendants"
+                    },
+                    {
+                        "path": "*",
+                        "scope": "Ignored"
+                    }
+                ]
+            }
+        ]
+    }
+}

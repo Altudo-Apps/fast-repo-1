@@ -1,0 +1,37 @@
+﻿---
+ID: "bf4b61db-a4e5-4f57-97ec-30d711a00bc0"
+Parent: "5048e9ac-3c3f-40a0-a0bd-71ff61f6cc0b"
+Template: "76da0a8d-fc7e-42b2-af1e-205b49e43f98"
+Path: "/sitecore/templates/Branches/Feature/FastLane/Available Headless Renderings Override/FastLane - Available Renderings - Media/$name"
+SharedFields:
+- ID: "715ae6c0-71c8-4744-ab4f-65362d20ad65"
+  Hint: Renderings
+  Value: |
+    {3467E307-F70A-48B1-A490-9BFCC410F3BA}
+    {AB2EDBA0-3960-4F12-B765-579DC231894A}
+    {9C713ACF-85B9-43CB-A8B4-14947BCC442C}
+- ID: "dbbbeca1-21c7-4906-9dd2-493c1efa59a2"
+  Hint: __Shared revision
+  Value: "e3e2df03-6661-4220-a281-1f325e7ec03e"
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20211026T075600Z
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\Admin
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "4685e701-32cb-4d8d-a924-a2157803840a"
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\andy.cohen@altudo.co
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20250628T135832Z

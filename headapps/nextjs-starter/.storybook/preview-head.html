@@ -1,0 +1,36 @@
+<script>
+    // Ensure pageEditing is defined globally
+    window.pageEditing = {
+      getPlaceholderChromes: function() { return []; },
+      getFieldChromes: function() { return []; },
+      getComponentChromes: function() { return []; },
+      isEditing: true
+    };
+    
+    // Mock Sitecore JSS module
+    window.SitecoreJSS = {
+      useSitecoreContext: function() { 
+        return window.SitecoreContext || { 
+          sitecoreContext: { pageEditing: true, pageState: 'edit' } 
+        }; 
+      },
+      withSitecoreContext: function(Component) {
+        return Component;
+      },
+      withDatasourceCheck: function(Component) {
+        return Component;
+      }
+    };
+    
+    // Override require function to return our mocks
+    const originalRequire = window.require;
+    window.require = function(moduleName) {
+      if (moduleName === '@sitecore-jss/sitecore-jss-nextjs') {
+        return window.SitecoreJSS;
+      }
+      if (moduleName === 'src/core/config/editing') {
+        return { useEditor: function() { return true; }, checkIsNotNormal: function() { return false; } };
+      }
+      return originalRequire ? originalRequire(moduleName) : undefined;
+    };
+  </script>

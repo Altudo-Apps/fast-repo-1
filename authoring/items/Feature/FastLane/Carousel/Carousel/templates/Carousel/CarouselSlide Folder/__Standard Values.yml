@@ -1,0 +1,36 @@
+﻿---
+ID: "bdebfc56-f32e-4828-aabb-ab4df356f2b9"
+Parent: "94e9a81a-0c49-4992-865b-d7cf580142ba"
+Template: "94e9a81a-0c49-4992-865b-d7cf580142ba"
+Path: /sitecore/templates/Feature/FastLane/Renderings/Carousel/CarouselSlide Folder/__Standard Values
+SharedFields:
+- ID: "1172f251-dad4-4efb-a329-0c63500e4f1e"
+  Hint: __Masters
+  Value: |
+    {3E6D40EA-6BC7-46AF-9339-E37F45D7262E}
+    {94E9A81A-0C49-4992-865B-D7CF580142BA}
+- ID: "dbbbeca1-21c7-4906-9dd2-493c1efa59a2"
+  Hint: __Shared revision
+  Value: "dd20624a-9782-4e5e-8635-c0a6de5537b5"
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20120621T071605Z
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\admin
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "02410b74-83af-4f86-a4bf-b825ba467cc0"
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\karthikeyan.kumaravel@altudo.co
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20250704T120203Z

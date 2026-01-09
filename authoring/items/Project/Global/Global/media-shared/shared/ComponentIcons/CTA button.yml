@@ -1,0 +1,63 @@
+﻿---
+ID: "91ba0340-f91e-47e9-bdbf-b8f3a1e85428"
+Parent: "3c310376-bb7f-4391-9b24-96707e69529c"
+Template: "f1828a2c-7e5d-4bbd-98ca-320474871548"
+Path: /sitecore/media library/Project/FastLane/shared/ComponentIcons/CTA button
+SharedFields:
+- ID: "06d5295c-ed2f-4a54-9bf2-26228d113318"
+  Hint: __Icon
+  Value: "-/media/91BA0340F91E47E9BDBFB8F3A1E85428.ashx?h=16&thn=1&w=16"
+- ID: "22eac599-f13b-4607-a89d-c091763a467d"
+  Hint: Width
+  Value: 128
+- ID: "40e50ed9-ba07-4702-992e-a912738d32dc"
+  Hint: Blob
+  BlobID: "79ebe390-f97f-4b23-a8b9-cdb39ebe8b94"
+  Value: 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
+- ID: "6954b7c7-2487-423f-8600-436cb3b6dc0e"
+  Hint: Size
+  Value: 1870
+- ID: "6f47a0a5-9c94-4b48-abeb-42d38def6054"
+  Hint: Mime Type
+  Value: image/png
+- ID: "c06867fe-9a43-4c7d-b739-48780492d06f"
+  Hint: Extension
+  Value: png
+- ID: "cb09946f-3218-4823-87d2-d5007c199a96"
+  Hint: Dimensions
+  Value: 128 x 128
+- ID: "dbbbeca1-21c7-4906-9dd2-493c1efa59a2"
+  Hint: __Shared revision
+  Value: "01cf43fb-de5f-40fa-bcb9-1b16277ec7b5"
+- ID: "de2ca9e4-c117-4c8a-a139-1ff4b199d15a"
+  Hint: Height
+  Value: 128
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20250618T184723Z
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+      Hint: __Owner
+      Value: |
+        sitecore\karthikeyan.kumaravel@altudo.co
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\karthikeyan.kumaravel@altudo.co
+    - ID: "65885c44-8fcd-4a7f-94f1-ee63703fe193"
+      Hint: Alt
+      Value: CTA Button
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "13c8c40f-0653-4455-bf11-743f1c583064"
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\karthikeyan.kumaravel@altudo.co
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20250618T184730Z

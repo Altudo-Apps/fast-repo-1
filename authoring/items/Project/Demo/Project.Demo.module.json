@@ -1,0 +1,59 @@
+{
+    "$schema": "../../../../.sitecore/schemas/ModuleFile.schema.json",
+    "namespace": "Project.Demo",
+    "references": ["Feature.FastLane.*", "Project.Global"],
+    "items": {
+        "path": "Demo",
+        "includes": [            
+            {
+                "name": "media",
+                "path": "/sitecore/Media Library/Project/FastLane/FastLaneWebsite",
+                "rules": [
+                    {
+                        "path": "*",
+                        "scope": "ItemAndDescendants",
+                        "allowedPushOperations": "CreateUpdateAndDelete"
+                    }
+                ]
+            },
+            {
+                "name": "site",
+                "path": "/sitecore/content/FastLaneTenant/FastLaneWebsite",
+                "rules": [
+                    {
+                        "path": "/home",
+                        "scope": "ItemAndDescendants"
+                    },
+                    {
+                        "path": "/Media",
+                        "scope": "ItemAndDescendants"
+                    },
+                    {
+                        "path": "/Data",
+                        "scope": "ItemAndDescendants"
+                    },
+                    {
+                        "path": "/Dictionary",
+                        "scope": "ItemAndDescendants"
+                    },
+                    {
+                        "path": "/Presentation",
+                        "scope": "ItemAndDescendants"
+                    },
+                    {
+                        "path": "/Settings/Site Grouping",
+                        "scope": "ItemAndDescendants"
+                    },
+                    {
+                        "path": "/Settings",
+                        "scope": "ItemAndDescendants"
+                    },
+                    {
+                        "path": "*",
+                        "scope": "Ignored"
+                    }
+                ]
+            }
+        ]
+    }
+}

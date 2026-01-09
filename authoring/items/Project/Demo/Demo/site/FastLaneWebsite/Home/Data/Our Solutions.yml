@@ -1,0 +1,141 @@
+﻿---
+ID: "30b849fd-00c1-4c8d-8071-179c0795ea36"
+Parent: "debef755-9c8a-4d73-8720-ed81a3f82b41"
+Template: "1763b6f2-b32e-4ec7-a570-92fa167e1b45"
+Path: /sitecore/content/FastLaneTenant/fastlanewebsite/Home/Data/Our Solutions
+SharedFields:
+- ID: "a4f985d9-98b3-4b52-aaaf-4344f6e747c6"
+  Hint: __Workflow
+  Value: "{9A1B3B33-17C0-4DAE-A533-CEC7FA11F68A}"
+- ID: "ba3f86a2-4a1c-4d78-b63d-91c2779c1b5e"
+  Hint: __Sortorder
+  Value: 300
+- ID: "dbbbeca1-21c7-4906-9dd2-493c1efa59a2"
+  Hint: __Shared revision
+  Value: "4188badc-b84e-4791-b127-859a028d3a1c"
+Languages:
+- Language: "ar-AE"
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20250606T150930Z
+    - ID: "3e431de1-525e-47a3-b6b0-1ccbec3a8c98"
+      Hint: __Workflow state
+      Value: 
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+      Hint: __Owner
+      Value: |
+        sitecore\karthikeyan.kumaravel@altudo.co
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\karthikeyan.kumaravel@altudo.co
+    - ID: "78bd5b13-d9ab-44a4-bae4-c2dda0ad6133"
+      Hint: IntroText
+      Value: |
+        يقدم الكوليجيوم الدولي للمهنيين الطبيين (ICMP) حلولاً مستقبلية تساعد مؤسسات الرعاية الصحية على التكيف مع بيئة سريعة التطور. من خلال الاستشارات الاستراتيجية والابتكار الرقمي والتعاون بين القطاعات، يمكّن ICMP مقدمي الخدمات من تحسين نتائج المرضى وتبسيط سير العمل السريري واعتماد نماذج رعاية قابلة للتطوير وقائمة على التكنولوجيا.<br />
+        <br />
+        تستند حلولنا إلى ممارسات قائمة على الأدلة ومصممة خصيصًا لمواجهة التحديات التشغيلية والتنظيمية والديموغرافية الفريدة التي تواجه أنظمة الرعاية الصحية الحديثة.
+    - ID: "7cba72f9-1513-41af-ba26-de761f138805"
+      Hint: Title
+      Value: حلولنا
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "2258ef2d-1947-4820-b9c7-b5f737b0435b"
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\karthikeyan.kumaravel@altudo.co
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20251106T101317Z
+    - ID: "f56d5ae9-cbca-48e1-b47e-e06a7561fc5d"
+      Hint: CalltoActionLinkMain
+      Value: |
+        <link text="تعرف على المزيد" linktype="external" url="https://www.altudo.co" anchor="" title="تعرف على المزيد" target="" />
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20250606T150930Z
+    - ID: "4aacfbea-b35f-43f6-be5c-de9fe7f00015"
+      Hint: CalltoActionLinkSecondary
+      Value: 
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+      Hint: __Owner
+      Value: |
+        sitecore\karthikeyan.kumaravel@altudo.co
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\karthikeyan.kumaravel@altudo.co
+    - ID: "78bd5b13-d9ab-44a4-bae4-c2dda0ad6133"
+      Hint: IntroText
+      Value: |
+        The International Collegium of Medical Professionals (ICMP) delivers forward-thinking solutions that help healthcare organizations adapt to a rapidly evolving landscape. Through strategic advisory, digital innovation, and cross-sector collaboration, ICMP empowers providers to improve patient outcomes, streamline clinical workflows, and adopt scalable, technology-driven care models.<br />
+        <br />
+        Our solutions are grounded in evidence-based practice and tailored to address the unique operational, regulatory, and demographic challenges facing modern healthcare systems.
+    - ID: "7cba72f9-1513-41af-ba26-de761f138805"
+      Hint: Title
+      Value: Our Solutions
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "797858c8-a13a-427d-a137-15051d827a08"
+    - ID: "ba41d59c-a2b6-4f14-8913-7734549cce04"
+      Hint: Image
+      Value: 
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\andy.cohen@altudo.co
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20250619T193659Z
+    - ID: "f56d5ae9-cbca-48e1-b47e-e06a7561fc5d"
+      Hint: CalltoActionLinkMain
+      Value: |
+        <link text="Learn More" linktype="external" url="https://www.altudo.co" anchor="" title="Learn More" target="" />
+- Language: "fr-CA"
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20250606T150930Z
+    - ID: "3e431de1-525e-47a3-b6b0-1ccbec3a8c98"
+      Hint: __Workflow state
+      Value: 
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+      Hint: __Owner
+      Value: |
+        sitecore\karthikeyan.kumaravel@altudo.co
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\karthikeyan.kumaravel@altudo.co
+    - ID: "78bd5b13-d9ab-44a4-bae4-c2dda0ad6133"
+      Hint: IntroText
+      Value: |
+        <p dir="auto">Le Collegium international des professionnels m&eacute;dicaux (ICMP) propose des solutions prospectives qui aident les organisations de sant&eacute; &agrave; s&rsquo;adapter &agrave; un paysage en rapide &eacute;volution. Gr&acirc;ce &agrave; un conseil strat&eacute;gique, &agrave; l&rsquo;innovation num&eacute;rique et &agrave; la collaboration intersectorielle, l&rsquo;ICMP habilite les prestataires de soins &agrave; am&eacute;liorer les r&eacute;sultats pour les patients, &agrave; rationaliser les flux de travail cliniques et &agrave; adopter des mod&egrave;les de soins &eacute;volutifs et pilot&eacute;s par la technologie.</p>
+        <p dir="auto">Nos solutions sont ancr&eacute;es dans la pratique fond&eacute;e sur des preuves et adapt&eacute;es pour aborder les d&eacute;fis op&eacute;rationnels, r&eacute;glementaires et d&eacute;mographiques uniques auxquels font face les syst&egrave;mes de sant&eacute; modernes.</p>
+    - ID: "7cba72f9-1513-41af-ba26-de761f138805"
+      Hint: Title
+      Value: Nos solutions
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "af4e8c43-880f-4d9c-bbf6-7da08ab012c3"
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\karthikeyan.kumaravel@altudo.co
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20251105T061722Z
+    - ID: "f56d5ae9-cbca-48e1-b47e-e06a7561fc5d"
+      Hint: CalltoActionLinkMain
+      Value: |
+        <link text="En savoir plus" linktype="external" url="https://www.altudo.co" anchor="" title="En savoir plus" target="" />

@@ -1,0 +1,146 @@
+﻿---
+ID: "2263268e-8c05-404e-81e3-2fe9a98ad77b"
+Parent: "debef755-9c8a-4d73-8720-ed81a3f82b41"
+Template: "1763b6f2-b32e-4ec7-a570-92fa167e1b45"
+Path: /sitecore/content/FastLaneTenant/fastlanewebsite/Home/Data/A Little About Us
+SharedFields:
+- ID: "a4f985d9-98b3-4b52-aaaf-4344f6e747c6"
+  Hint: __Workflow
+  Value: "{9A1B3B33-17C0-4DAE-A533-CEC7FA11F68A}"
+- ID: "ba3f86a2-4a1c-4d78-b63d-91c2779c1b5e"
+  Hint: __Sortorder
+  Value: 200
+- ID: "dbbbeca1-21c7-4906-9dd2-493c1efa59a2"
+  Hint: __Shared revision
+  Value: "df6053f9-94c1-496b-94f2-19a5e80ae9a0"
+Languages:
+- Language: "ar-AE"
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20250606T151827Z
+    - ID: "3e431de1-525e-47a3-b6b0-1ccbec3a8c98"
+      Hint: __Workflow state
+      Value: 
+    - ID: "4aacfbea-b35f-43f6-be5c-de9fe7f00015"
+      Hint: CalltoActionLinkSecondary
+      Value: |
+        <link text="انظر قيادتنا" anchor="" linktype="internal" class="" title="انظر قيادتنا" target="" querystring="" id="{5FDF63BA-6158-42B2-BB74-4EFF89CD022B}" />
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+      Hint: __Owner
+      Value: |
+        sitecore\karthikeyan.kumaravel@altudo.co
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\karthikeyan.kumaravel@altudo.co
+    - ID: "78bd5b13-d9ab-44a4-bae4-c2dda0ad6133"
+      Hint: IntroText
+      Value: منذ نشأتها في أعقاب الحرب العالمية الأولى وحتى دورها في تشكيل السياسة الصحية العالمية في القرن الحادي والعشرين، ظلت الكلية الدولية للمهنيين الطبيين ثابتة في التزامها بتوحيد الأطباء في السعي لتحقيق رعاية أخلاقية قائمة على الأدلة. وقد كانت بمثابة منتدى للمحادثات الصعبة، ومستودع للمعرفة المشتركة، وحصن ضد تسييس العلم.
+    - ID: "7cba72f9-1513-41af-ba26-de761f138805"
+      Hint: Title
+      Value: نبذة عننا
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "c77c4903-1588-4ba6-bbb5-9ce4d0b580cd"
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\karthikeyan.kumaravel@altudo.co
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20251106T101236Z
+    - ID: "f56d5ae9-cbca-48e1-b47e-e06a7561fc5d"
+      Hint: CalltoActionLinkMain
+      Value: |
+        <link text="تعرف على تاريخنا" anchor="" linktype="internal" class="" title="تعرف على تاريخنا" target="" querystring="" id="{41FAA3EB-737F-462B-A900-C2ED51FC1986}" />
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "001dd393-96c5-490b-924a-b0f25cd9efd8"
+      Hint: __Lock
+      Value: <r />
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20250606T151827Z
+    - ID: "4aacfbea-b35f-43f6-be5c-de9fe7f00015"
+      Hint: CalltoActionLinkSecondary
+      Value: |
+        <link text="See Our Leadership" anchor="" linktype="internal" class="" title="See Our Leadership" target="" querystring="" id="{5FDF63BA-6158-42B2-BB74-4EFF89CD022B}" />
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+      Hint: __Owner
+      Value: |
+        sitecore\karthikeyan.kumaravel@altudo.co
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\karthikeyan.kumaravel@altudo.co
+    - ID: "78bd5b13-d9ab-44a4-bae4-c2dda0ad6133"
+      Hint: IntroText
+      Value: "From its origins in the aftermath of World War I to its role in shaping global health policy in the 21st century, the International Collegium of Medical Professionals has remained steadfast in its commitment to uniting physicians in the pursuit of ethical, evidence-based care. It has served as a forum for difficult conversations, a repository of shared knowledge, and a bulwark against the politicization of science."
+    - ID: "7cba72f9-1513-41af-ba26-de761f138805"
+      Hint: Title
+      Value: A little about us
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "66989d6d-9406-43ce-9799-2200dcd352ec"
+    - ID: "ba41d59c-a2b6-4f14-8913-7734549cce04"
+      Hint: Image
+      Value: 
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\karthikeyan.kumaravel@altudo.co
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20250730T055324Z
+    - ID: "f56d5ae9-cbca-48e1-b47e-e06a7561fc5d"
+      Hint: CalltoActionLinkMain
+      Value: |
+        <link text="Learn Our History" anchor="" linktype="internal" class="" title="Learn Our History" target="" querystring="" id="{41FAA3EB-737F-462B-A900-C2ED51FC1986}" />
+- Language: "fr-CA"
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20250606T151827Z
+    - ID: "3e431de1-525e-47a3-b6b0-1ccbec3a8c98"
+      Hint: __Workflow state
+      Value: 
+    - ID: "4aacfbea-b35f-43f6-be5c-de9fe7f00015"
+      Hint: CalltoActionLinkSecondary
+      Value: |
+        <link text="Voir notre direction" anchor="" linktype="internal" class="" title="Voir notre direction" target="" querystring="" id="{5FDF63BA-6158-42B2-BB74-4EFF89CD022B}" />
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+      Hint: __Owner
+      Value: |
+        sitecore\karthikeyan.kumaravel@altudo.co
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\karthikeyan.kumaravel@altudo.co
+    - ID: "78bd5b13-d9ab-44a4-bae4-c2dda0ad6133"
+      Hint: IntroText
+      Value: |
+        <p dir="auto">De ses origines dans l'apr&egrave;s-guerre de la Premi&egrave;re Guerre mondiale &agrave; son r&ocirc;le dans la formation des politiques de sant&eacute; mondiales au XXIe si&egrave;cle, le Collegium international des professionnels m&eacute;dicaux est rest&eacute; in&eacute;branlable dans son engagement &agrave; unir les m&eacute;decins dans la poursuite de soins &eacute;thiques et fond&eacute;s sur des preuves. Il a servi de forum pour des conversations difficiles, de r&eacute;servoir de connaissances partag&eacute;es et de rempart contre la politisation de la science.</p>
+    - ID: "7cba72f9-1513-41af-ba26-de761f138805"
+      Hint: Title
+      Value: Un peu à notre sujet
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "8a2b3134-c514-4427-8bd4-4d1724a920ee"
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\karthikeyan.kumaravel@altudo.co
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20251105T061547Z
+    - ID: "f56d5ae9-cbca-48e1-b47e-e06a7561fc5d"
+      Hint: CalltoActionLinkMain
+      Value: |
+        <link text="Découvrez notre histoire" anchor="" linktype="internal" class="" title="Découvrez notre histoire" target="" querystring="" id="{41FAA3EB-737F-462B-A900-C2ED51FC1986}" />

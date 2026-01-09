@@ -1,0 +1,26 @@
+﻿---
+ID: "270745a2-aadd-4aac-87f8-83d5d4f4427a"
+Parent: "566ffa5e-ee6b-49d2-bc09-c9f1b7c94b4e"
+Template: "5795dc8d-875b-47fa-832d-1c3c3ff32c7b"
+Path: /sitecore/system/Settings/Project/FastLane/RenderingParameterSettings/CardOrientation/vertical
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "1d8beee4-b30a-48fa-b082-b7ac5c709be7"
+      Hint: Name
+      Value: vertical
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20250224T193401Z
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "9a3540f6-9fa9-4e10-97bb-3e28f01be9e9"
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\karthikeyan.kumaravel@altudo.co
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20250224T193401Z

@@ -1,0 +1,15 @@
+version = 1
+
+exclude_patterns = [
+  "**/stories/**",
+  "**/src/core/atom/Images.tsx"
+]
+
+[[analyzers]]
+name = "javascript"
+
+  [analyzers.meta]
+  environment = ["vitest"]
+
+[[analyzers]]
+name = "secrets"

@@ -1,0 +1,63 @@
+﻿---
+ID: "2a81e387-ac10-479f-85f7-de3f8bce5a2c"
+Parent: "80c483a8-aa4e-4700-ba12-454f58171b84"
+Template: "f1828a2c-7e5d-4bbd-98ca-320474871548"
+Path: /sitecore/media library/Project/FastLane/shared/FooterLogos/Google Play
+SharedFields:
+- ID: "06d5295c-ed2f-4a54-9bf2-26228d113318"
+  Hint: __Icon
+  Value: "-/media/2A81E387AC10479F85F7DE3F8BCE5A2C.ashx?h=16&thn=1&w=16"
+- ID: "22eac599-f13b-4607-a89d-c091763a467d"
+  Hint: Width
+  Value: 135
+- ID: "40e50ed9-ba07-4702-992e-a912738d32dc"
+  Hint: Blob
+  BlobID: "547d7fc3-53b2-4263-a736-164aff9f6e27"
+  Value: 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
+- ID: "6954b7c7-2487-423f-8600-436cb3b6dc0e"
+  Hint: Size
+  Value: 2433
+- ID: "6f47a0a5-9c94-4b48-abeb-42d38def6054"
+  Hint: Mime Type
+  Value: image/png
+- ID: "c06867fe-9a43-4c7d-b739-48780492d06f"
+  Hint: Extension
+  Value: png
+- ID: "cb09946f-3218-4823-87d2-d5007c199a96"
+  Hint: Dimensions
+  Value: 135 x 40
+- ID: "dbbbeca1-21c7-4906-9dd2-493c1efa59a2"
+  Hint: __Shared revision
+  Value: "0b3dc4a6-8983-498f-820f-6794cbebf92c"
+- ID: "de2ca9e4-c117-4c8a-a139-1ff4b199d15a"
+  Hint: Height
+  Value: 40
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20250528T070925Z
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+      Hint: __Owner
+      Value: |
+        sitecore\karthikeyan.kumaravel@altudo.co
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\karthikeyan.kumaravel@altudo.co
+    - ID: "65885c44-8fcd-4a7f-94f1-ee63703fe193"
+      Hint: Alt
+      Value: Google PlayStore
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "3d11ed8f-1142-4310-89db-bec01979a2a5"
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\karthikeyan.kumaravel@altudo.co
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20250528T070945Z

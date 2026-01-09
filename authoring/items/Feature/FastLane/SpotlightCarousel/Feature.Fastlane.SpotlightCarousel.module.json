@@ -1,0 +1,30 @@
+{
+    "$schema": "../../../../../.sitecore/schemas/ModuleFile.schema.json",
+    "namespace": "Feature.FastLane.SpotlightCarousel",
+    "references": ["Feature.FastLane.Root"],
+    "items": {
+        "path": "SpotlightCarousel",
+        "includes": [
+			{
+                "name": "templates",
+                "path": "/sitecore/templates/Feature/FastLane/Renderings/SpotlightCarousel"
+            },            
+			{
+                "name": "branches",
+                "path": "/sitecore/templates/Branches/Feature/FastLane/Default Variants/SpotlightCarousel"
+            },
+			{
+                "name": "placeholders",
+                "path": "/sitecore/layout/Placeholder Settings/Feature/FastLane/SpotlightCarousel" 
+            },
+			{
+                "name": "renderings",
+                "path": "/sitecore/layout/Renderings/Feature/FastLane/Renderings/SpotlightCarousel"                
+            },
+			{
+                "name": "settings",
+                "path": "/sitecore/system/Settings/Feature/FastLane/Renderings/SpotlightCarousel"  
+            }
+        ]
+    }
+}

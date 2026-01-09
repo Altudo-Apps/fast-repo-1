@@ -1,0 +1,94 @@
+﻿---
+ID: "7fc5a7b3-8667-42c9-8caf-26df35032e29"
+Parent: "150ceb6d-b242-464b-a89d-0612fc25ffc7"
+Template: "0a7aa373-5ed1-4e9b-9678-22d3c5faf6df"
+Path: /sitecore/content/FastLaneTenant/fastlanewebsite/Home/About Us/Data/Our Mission
+SharedFields:
+- ID: "a4f985d9-98b3-4b52-aaaf-4344f6e747c6"
+  Hint: __Workflow
+  Value: "{9A1B3B33-17C0-4DAE-A533-CEC7FA11F68A}"
+- ID: "dbbbeca1-21c7-4906-9dd2-493c1efa59a2"
+  Hint: __Shared revision
+  Value: "7cc019ae-00ad-452d-b722-42b1185fabc7"
+Languages:
+- Language: "ar-AE"
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20250610T112737Z
+    - ID: "3e431de1-525e-47a3-b6b0-1ccbec3a8c98"
+      Hint: __Workflow state
+      Value: "{B71D5C66-667B-4CF1-BE66-342C8B59A4DB}"
+    - ID: "729034fc-24f3-40b7-8fa4-fb49d7de20dd"
+      Hint: Text
+      Value: |
+        <div class="ck-content">
+        <h2 style="margin-bottom:20px;">مهمتنا</h2>
+        <p style="white-space:pre-wrap;">توحيد الأطباء في جميع أنحاء العالم سعياً لتحقيق التميز الطبي والممارسة الأخلاقية والرعاية الصحية العادلة للجميع. نحن نعمل على تطوير المعايير العالمية في مجال الرعاية السريرية والتعليم والبحث؛ ونعزز التعاون بين الثقافات؛ وندعو إلى ممارسة الطب القائم على العلم والرحمة في خدمة الإنسانية.</p>
+        </div>
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "c2618269-5a46-4175-aefa-063ce3643daf"
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\karthikeyan.kumaravel@altudo.co
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20251106T110645Z
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "001dd393-96c5-490b-924a-b0f25cd9efd8"
+      Hint: __Lock
+      Value: <r />
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20250610T112737Z
+    - ID: "3e431de1-525e-47a3-b6b0-1ccbec3a8c98"
+      Hint: __Workflow state
+      Value: "{B71D5C66-667B-4CF1-BE66-342C8B59A4DB}"
+    - ID: "729034fc-24f3-40b7-8fa4-fb49d7de20dd"
+      Hint: Text
+      Value: |
+        <div class="ck-content"><h2 style="margin-bottom:20px;">Our Mission</h2><p style="white-space:pre-wrap;">To unite physicians worldwide in the pursuit of medical excellence, ethical practice, and equitable health for all. We advance global standards in clinical care, education, and research; foster cross-cultural collaboration; and advocate for science-based, compassionate medicine in service to humanity.</p></div>
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "586d28a2-4a83-415e-b85c-046e32d10b97"
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\inam.hasan@altudo.co
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20250612T092903Z
+- Language: "fr-CA"
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20250610T112737Z
+    - ID: "3e431de1-525e-47a3-b6b0-1ccbec3a8c98"
+      Hint: __Workflow state
+      Value: "{B71D5C66-667B-4CF1-BE66-342C8B59A4DB}"
+    - ID: "729034fc-24f3-40b7-8fa4-fb49d7de20dd"
+      Hint: Text
+      Value: |
+        <div class="ck-content">
+        <h2 style="margin-bottom:20px;">Notre mission</h2>
+        <p style="white-space:pre-wrap;">Unir les m&eacute;decins du monde entier dans la qu&ecirc;te de l'excellence m&eacute;dicale, d'une pratique &eacute;thique et d'une sant&eacute; &eacute;quitable pour tous. Nous faisons la promotion des normes internationales en mati&egrave;re de soins cliniques, d'enseignement et de recherche ; nous favorisons la collaboration interculturelle ; et nous d&eacute;fendons une m&eacute;decine fond&eacute;e sur la science et empreinte de compassion, au service de l'humanit&eacute;.</p>
+        </div>
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "7b8f2ee5-c532-4d1b-96f2-430f23bb6bd1"
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\karthikeyan.kumaravel@altudo.co
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20251126T131527Z

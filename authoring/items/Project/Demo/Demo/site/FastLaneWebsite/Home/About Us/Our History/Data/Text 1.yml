@@ -1,0 +1,117 @@
+﻿---
+ID: "a3256fd7-82a5-44a1-b8cd-08fe5e568c99"
+Parent: "2451876e-d6b3-4156-97ca-92fefa985a5b"
+Template: "0a7aa373-5ed1-4e9b-9678-22d3c5faf6df"
+Path: /sitecore/content/FastLaneTenant/fastlanewebsite/Home/About Us/Our History/Data/Text 1
+SharedFields:
+- ID: "a4f985d9-98b3-4b52-aaaf-4344f6e747c6"
+  Hint: __Workflow
+  Value: "{9A1B3B33-17C0-4DAE-A533-CEC7FA11F68A}"
+- ID: "dbbbeca1-21c7-4906-9dd2-493c1efa59a2"
+  Hint: __Shared revision
+  Value: "e6fe3281-f82f-4dfc-baf8-dd56b044a476"
+Languages:
+- Language: "ar-AE"
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20250612T091427Z
+    - ID: "3e431de1-525e-47a3-b6b0-1ccbec3a8c98"
+      Hint: __Workflow state
+      Value: "{B71D5C66-667B-4CF1-BE66-342C8B59A4DB}"
+    - ID: "729034fc-24f3-40b7-8fa4-fb49d7de20dd"
+      Hint: Text
+      Value: |
+        <section>
+        <h2>التأسيس والسنوات الأولى (1921-1939)</h2>
+        <p>
+        تأسست الجمعية الدولية للمهنيين الطبيين (ICMP) في عام 1921 في جنيف، سويسرا، في أعقاب الحرب العالمية الأولى. كشفت الدمار الذي خلفته الحرب عن نقاط ضعف عميقة في البنية التحتية الطبية العالمية: عدم تنسيق الطب الميداني، والافتقار إلى معايير للتدريب الطبي في مختلف البلدان، وغياب التواصل الدولي بين الأطباء. استجابةً لذلك، اجتمع مجموعة من الأطباء من عشرة بلدان في قصر الأمم ووقعوا على ميثاق جنيف للتضامن الطبي، وأنشأوا ICMP كهيئة مهنية محايدة وغير سياسية مكرسة لرفع معايير الطب عبر الحدود.
+        </p>
+        <p>
+        كانت الرؤية التأسيسية ذات شقين: تعزيز الممارسة الطبية الأخلاقية القائمة على الأدلة في جميع أنحاء العالم، وتشجيع التعاون عبر الحدود الوطنية والثقافية. وشملت الأولويات الأولية الدعوة إلى توحيد التعليم الطبي، ونشر مبادئ توجيهية متعددة اللغات حول أخلاقيات مهنة الطب، وتشجيع مبادرات البحث عبر الحدود. وعكس شعار المنظمة في بداياتها &mdash; &rdquo;Scientia et Humanitas&ldquo; (العلم والإنسانية) &mdash; هذه المهمة المزدوجة.
+        </p>
+        <p>
+        في غضون بضع سنوات، نمت اللجنة الدولية للضحايا المفقودين بسرعة، وجذبت أعضاء من أكثر من 40 دولة. حضر مؤتمرها الرسمي الأول، الذي عقد في باريس عام 1925، أكثر من 800 طبيب وعالم. بحلول عام 1938، كانت المنظمة قد طورت شبكة صغيرة ولكنها مؤثرة من المكاتب الإقليمية وأطلقت مجلتها الرئيسية، The Collegium Review of Medicine، التي لا تزال تصدر حتى اليوم.
+        </p>
+        </section>
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "29a249d7-5f7e-48bc-bd7d-ecc80ff4482f"
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\karthikeyan.kumaravel@altudo.co
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20251106T113112Z
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20250612T091427Z
+    - ID: "3e431de1-525e-47a3-b6b0-1ccbec3a8c98"
+      Hint: __Workflow state
+      Value: "{B71D5C66-667B-4CF1-BE66-342C8B59A4DB}"
+    - ID: "729034fc-24f3-40b7-8fa4-fb49d7de20dd"
+      Hint: Text
+      Value: |
+        <section>
+        <h2>Founding and Early Years (1921&ndash;1939)</h2>
+        <p>
+        The International Collegium of Medical Professionals (ICMP) was founded in 1921 in Geneva, Switzerland, in the wake of World War I. The devastation of the war had revealed profound weaknesses in the global medical infrastructure: uncoordinated field medicine, a lack of standards for medical training across nations, and virtually no international communication between physicians. In response, a group of physicians from ten countries gathered at the Palais des Nations and signed the Geneva Charter of Medical Solidarity, establishing the ICMP as a neutral, apolitical professional body dedicated to elevating standards in medicine across borders.
+        </p>
+        <p>
+        The founding vision was twofold: to promote ethical, evidence-based medical practice worldwide, and to foster collaboration across national and cultural boundaries. The initial priorities included advocating for standardized medical education, publishing multilingual guidelines on medical ethics, and promoting cross-border research initiatives. The organization&rsquo;s early motto&mdash;&ldquo;Scientia et Humanitas&rdquo; (Science and Humanity)&mdash;reflected this dual mission.
+        </p>
+        <p>
+        Within a few years, the ICMP grew rapidly, attracting members from over 40 countries. Its first formal congress, held in Paris in 1925, was attended by more than 800 physicians and scholars. By 1938, the organization had developed a small but influential network of regional offices and had launched its flagship journal, The Collegium Review of Medicine, which remains in publication today.
+        </p>
+        </section>
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "d62599a3-16f8-416d-a2ad-5f22364e0077"
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\karthikeyan.kumaravel@altudo.co
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20250613T112747Z
+- Language: "fr-CA"
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20250612T091427Z
+    - ID: "3e431de1-525e-47a3-b6b0-1ccbec3a8c98"
+      Hint: __Workflow state
+      Value: "{B71D5C66-667B-4CF1-BE66-342C8B59A4DB}"
+    - ID: "729034fc-24f3-40b7-8fa4-fb49d7de20dd"
+      Hint: Text
+      Value: |
+        <section>
+        <h2>Fondation et premi&egrave;res ann&eacute;es (1921-1939)</h2>
+        <p>
+        Le Coll&egrave;ge international des professionnels de la sant&eacute; (CIPS) a &eacute;t&eacute; fond&eacute; en 1921 &agrave; Gen&egrave;ve, en Suisse, au lendemain de la Premi&egrave;re Guerre mondiale. Les ravages de la guerre avaient r&eacute;v&eacute;l&eacute; de profondes lacunes dans l'infrastructure m&eacute;dicale mondiale&nbsp;: une m&eacute;decine de campagne non coordonn&eacute;e, une absence de normes pour la formation m&eacute;dicale entre les pays et une communication internationale quasi inexistante entre les m&eacute;decins. En r&eacute;action, un groupe de m&eacute;decins de dix pays s'est r&eacute;uni au Palais des Nations et a sign&eacute; la Charte de Gen&egrave;ve de solidarit&eacute; m&eacute;dicale, &eacute;tablissant le CIPS comme un organisme professionnel neutre et apolitique, vou&eacute; &agrave; l'&eacute;l&eacute;vation des normes m&eacute;dicales au-del&agrave; des fronti&egrave;res.
+        </p>
+        <p>
+        La vision fondatrice &eacute;tait double&nbsp;: promouvoir une pratique m&eacute;dicale &eacute;thique et fond&eacute;e sur des preuves &agrave; l&rsquo;&eacute;chelle mondiale et favoriser la collaboration au-del&agrave; des fronti&egrave;res nationales et culturelles. Les priorit&eacute;s initiales comprenaient la d&eacute;fense d'une formation m&eacute;dicale standardis&eacute;e, la publication de lignes directrices multilingues sur l'&eacute;thique m&eacute;dicale et la promotion d'initiatives de recherche transfrontali&egrave;res. La devise initiale de l&rsquo;organisation, &laquo;&nbsp;Scientia et Humanitas&nbsp;&raquo; (Science et Humanit&eacute;), refl&eacute;tait cette double mission.
+        </p>
+        <p>
+        En quelques ann&eacute;es, l'ICMP a connu une croissance rapide, attirant des membres de plus de 40 pays. Son premier congr&egrave;s officiel, tenu &agrave; Paris en 1925, r&eacute;unit plus de 800 m&eacute;decins et chercheurs. D&egrave;s 1938, l'organisation avait mis sur pied un r&eacute;seau restreint mais influent de bureaux r&eacute;gionaux et avait lanc&eacute; sa revue phare, The Collegium Review of Medicine, toujours publi&eacute;e aujourd'hui.</p>
+        </section>
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "59f49f63-959b-4b6b-a1fc-793918a9e4ce"
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\karthikeyan.kumaravel@altudo.co
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20251126T132216Z

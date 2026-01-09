@@ -1,0 +1,141 @@
+﻿---
+ID: "8e614de0-68f9-4198-834f-2e333a92c4ae"
+Parent: "debef755-9c8a-4d73-8720-ed81a3f82b41"
+Template: "1763b6f2-b32e-4ec7-a570-92fa167e1b45"
+Path: /sitecore/content/FastLaneTenant/fastlanewebsite/Home/Data/Resources for healthcare advocates
+SharedFields:
+- ID: "a4f985d9-98b3-4b52-aaaf-4344f6e747c6"
+  Hint: __Workflow
+  Value: "{9A1B3B33-17C0-4DAE-A533-CEC7FA11F68A}"
+- ID: "ba3f86a2-4a1c-4d78-b63d-91c2779c1b5e"
+  Hint: __Sortorder
+  Value: 400
+- ID: "dbbbeca1-21c7-4906-9dd2-493c1efa59a2"
+  Hint: __Shared revision
+  Value: "14c707fb-9e4d-45e7-8c2b-7b2202633bad"
+Languages:
+- Language: "ar-AE"
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20250610T102540Z
+    - ID: "3e431de1-525e-47a3-b6b0-1ccbec3a8c98"
+      Hint: __Workflow state
+      Value: 
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+      Hint: __Owner
+      Value: |
+        sitecore\karthikeyan.kumaravel@altudo.co
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\karthikeyan.kumaravel@altudo.co
+    - ID: "78bd5b13-d9ab-44a4-bae4-c2dda0ad6133"
+      Hint: IntroText
+      Value: |
+        تم تصميم موارد ICMP لتزويد قادة الرعاية الصحية بالمعرفة والأدوات والأطر اللازمة لدفع عجلة التحول بثقة. من الكتيبات الاستراتيجية ومجموعات أدوات التنفيذ إلى الملخصات السياساتية ودراسات الحالة، يختزل محتوانا التحديات المعقدة إلى حلول عملية قائمة على الأدلة.&nbsp;<br />
+        <br />
+        هذه الموارد مصممة خصيصًا لصانعي القرار الذين يتعاملون مع التغيير &mdash; لمساعدتهم على تسريع الابتكار وتقليل المخاطر ومواءمة نماذج الرعاية مع المتطلبات الناشئة.
+    - ID: "7cba72f9-1513-41af-ba26-de761f138805"
+      Hint: Title
+      Value: موارد لمناصري الرعاية الصحية
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "95da144d-2735-4d79-b262-35b2cbbdb727"
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\karthikeyan.kumaravel@altudo.co
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20251106T095446Z
+    - ID: "f56d5ae9-cbca-48e1-b47e-e06a7561fc5d"
+      Hint: CalltoActionLinkMain
+      Value: |
+        <link text="عرض مواردنا" linktype="external" url="https://www.altudo.co" anchor="" title="عرض مواردنا" target="" />
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "001dd393-96c5-490b-924a-b0f25cd9efd8"
+      Hint: __Lock
+      Value: <r />
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20250610T102540Z
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+      Hint: __Owner
+      Value: |
+        sitecore\karthikeyan.kumaravel@altudo.co
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\karthikeyan.kumaravel@altudo.co
+    - ID: "78bd5b13-d9ab-44a4-bae4-c2dda0ad6133"
+      Hint: IntroText
+      Value: |
+        ICMP&rsquo;s resources are designed to equip healthcare leaders with the knowledge, tools, and frameworks needed to drive transformation with confidence. From strategic playbooks and implementation toolkits to policy briefs and case studies, our content distills complex challenges into practical, evidence-based solutions.&nbsp;<br />
+        <br />
+        These resources are tailored for decision-makers navigating change&mdash;helping them accelerate innovation, reduce risk, and align care models with emerging demands.
+    - ID: "7cba72f9-1513-41af-ba26-de761f138805"
+      Hint: Title
+      Value: Resources for healthcare advocates
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "0579e3ce-e6ed-484a-b466-fb120e32af98"
+    - ID: "ba41d59c-a2b6-4f14-8913-7734549cce04"
+      Hint: Image
+      Value: 
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\sneha.yadav@altudo.co
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20250717T074816Z
+    - ID: "f56d5ae9-cbca-48e1-b47e-e06a7561fc5d"
+      Hint: CalltoActionLinkMain
+      Value: |
+        <link text="View Our Resources" linktype="external" url="https://www.altudo.co" anchor="" title="View Our Resources" target="" />
+- Language: "fr-CA"
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20250610T102540Z
+    - ID: "3e431de1-525e-47a3-b6b0-1ccbec3a8c98"
+      Hint: __Workflow state
+      Value: 
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+      Hint: __Owner
+      Value: |
+        sitecore\karthikeyan.kumaravel@altudo.co
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\karthikeyan.kumaravel@altudo.co
+    - ID: "78bd5b13-d9ab-44a4-bae4-c2dda0ad6133"
+      Hint: IntroText
+      Value: |
+        <p dir="auto">Les ressources de l&rsquo;ICMP sont con&ccedil;ues pour &eacute;quiper les leaders en sant&eacute; des connaissances, outils et cadres n&eacute;cessaires pour piloter la transformation avec confiance. Des guides strat&eacute;giques et des kits de mise en &oelig;uvre aux fiches de politique et &eacute;tudes de cas, notre contenu synth&eacute;tise les d&eacute;fis complexes en solutions pratiques et fond&eacute;es sur des preuves.</p>
+        <p dir="auto">Ces ressources sont adapt&eacute;es aux d&eacute;cideurs qui naviguent le changement &mdash; en les aidant &agrave; acc&eacute;l&eacute;rer l&rsquo;innovation, &agrave; r&eacute;duire les risques et &agrave; aligner les mod&egrave;les de soins avec les demandes &eacute;mergentes.</p>
+    - ID: "7cba72f9-1513-41af-ba26-de761f138805"
+      Hint: Title
+      Value: Ressources pour les défenseurs de la santé
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "9ff51321-e952-4987-8514-cc737cf538d8"
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\karthikeyan.kumaravel@altudo.co
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20251105T061842Z
+    - ID: "f56d5ae9-cbca-48e1-b47e-e06a7561fc5d"
+      Hint: CalltoActionLinkMain
+      Value: |
+        <link text="Voir nos ressources" linktype="external" url="https://www.altudo.co" anchor="" title="Voir nos ressources" target="" />

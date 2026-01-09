@@ -1,0 +1,26 @@
+﻿---
+ID: "a952dacc-2cc3-4b9b-a47c-bfd731015990"
+Parent: "09157f53-8bb8-484a-8574-68a7ad48342b"
+Template: "53b01916-8800-443e-a5b7-2f17efa45f90"
+Path: /sitecore/system/Settings/Project/FastLane/RenderingParameterSettings/ImageOrder/right
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20250220T075744Z
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "f7479167-24aa-4082-b873-ec01b48c813e"
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\karthikeyan.kumaravel@altudo.co
+    - ID: "bcc19ad9-6a1e-45ad-9483-e939209c338b"
+      Hint: Name
+      Value: right
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20250220T075744Z

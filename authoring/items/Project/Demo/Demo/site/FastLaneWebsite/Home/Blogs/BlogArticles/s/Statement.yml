@@ -1,0 +1,338 @@
+﻿---
+ID: "7acbda2e-dd56-4ec6-863e-516ae058aab7"
+Parent: "dc5f8009-b896-414a-968c-e1ff64c801b9"
+Template: "350838af-2729-4435-accd-f1bdb79ef733"
+Path: /sitecore/content/FastLaneTenant/fastlanewebsite/Home/Blogs/BlogArticles/s/Statement
+BranchID: "85f6266a-c591-4ada-85cb-c6cdd8775f47"
+SharedFields:
+- ID: "a4f985d9-98b3-4b52-aaaf-4344f6e747c6"
+  Hint: __Workflow
+  Value: "{CF913994-CC05-4D20-B38A-9CF1E73F5951}"
+- ID: "dbbbeca1-21c7-4906-9dd2-493c1efa59a2"
+  Hint: __Shared revision
+  Value: "16153480-8dd5-45e5-8f35-a0fdb9af7a11"
+- ID: "f6d8a61c-2f84-4401-bd24-52d2068172bc"
+  Hint: __Originator
+  Value: "{64A8D11E-D36B-4319-AEA1-E7C4976224D1}"
+Languages:
+- Language: "ar-AE"
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "04bf00db-f5fb-41f7-8ab7-22408372a981"
+      Hint: __Final Renderings
+      Value: |
+        <r xmlns:p="p" xmlns:s="s"
+          p:p="1">
+          <d
+            id="{FE5D7FDF-89C0-4D99-9AA3-B5FBD009C9F3}">
+            <r
+              uid="{E6577B7B-5EEC-43F0-A751-6457290EBB0D}"
+              p:before="*"
+              s:id="{B7C649C8-C683-44CB-9A87-AEBEA3DA8EB3}"
+              s:par="GridParameters=%7BF61E01E9-711A-4C99-AE30-4E28463E1DF7%7D&amp;FieldNames=%7B129985C4-D854-49F5-9602-9E1D1B8DF899%7D&amp;BackgroundImage&amp;Styles=%7C%7B0D8280A3-A4C1-4AAD-8392-30B3080349C8%7D&amp;RenderingIdentifier&amp;CSSStyles&amp;DynamicPlaceholderId=1"
+              s:ph="headless-main" />
+            <r
+              uid="{ECCDC050-7EDE-47E9-ABE3-73295D3277CC}"
+              p:after="r[@uid='{E6577B7B-5EEC-43F0-A751-6457290EBB0D}']"
+              s:id="{F7295588-FA7F-448E-B222-F64005B22E8D}"
+              s:par="GridParameters=%7BF61E01E9-711A-4C99-AE30-4E28463E1DF7%7D&amp;ImageOrder&amp;FieldNames=%7BBAC81150-16BD-4AED-9DF5-6FB5C82E1B95%7D&amp;Styles=%7C%7BDA96D040-41DE-4486-A4D1-6CEDECA18E14%7D&amp;RenderingIdentifier&amp;CSSStyles&amp;DynamicPlaceholderId=3"
+              s:ph="headless-main" />
+            <r
+              uid="{9ADB19C9-8277-4F47-95DF-BDE94C39F41E}"
+              p:after="r[@uid='{ECCDC050-7EDE-47E9-ABE3-73295D3277CC}']"
+              s:id="{B7C649C8-C683-44CB-9A87-AEBEA3DA8EB3}"
+              s:par="GridParameters=%7BF61E01E9-711A-4C99-AE30-4E28463E1DF7%7D&amp;FieldNames=%7B129985C4-D854-49F5-9602-9E1D1B8DF899%7D&amp;BackgroundImage&amp;Styles=%7C%7B0D8280A3-A4C1-4AAD-8392-30B3080349C8%7D&amp;RenderingIdentifier&amp;CSSStyles&amp;DynamicPlaceholderId=4"
+              s:ph="headless-main" />
+            <r
+              uid="{392DA7C3-FB30-40FE-B216-ED447498DA55}"
+              p:after="r[@uid='{9ADB19C9-8277-4F47-95DF-BDE94C39F41E}']"
+              s:id="{D425DB5D-FFB0-4574-852C-C17D904CC3E7}"
+              s:par="GridParameters=%7BF61E01E9-711A-4C99-AE30-4E28463E1DF7%7D&amp;FieldNames=%7B6F83E0EE-E1C1-42D2-8B7B-DA86DFDD39DB%7D&amp;Styles=%7C%7B475E77AB-3D7F-4C96-A0C4-8164A8158C82%7D&amp;RenderingIdentifier&amp;CSSStyles&amp;DynamicPlaceholderId=2"
+              s:ph="/headless-main/container-1" />
+            <r
+              uid="{E48A28A0-3907-4DBA-B8B1-CF26D3D63E49}"
+              p:after="r[@uid='{392DA7C3-FB30-40FE-B216-ED447498DA55}']"
+              s:id="{1409AEA2-6E60-4EA9-8813-CB229DF0E3B7}"
+              s:par="GridParameters=%7BF61E01E9-711A-4C99-AE30-4E28463E1DF7%7D&amp;FieldNames=%7B0EFC83ED-6584-40A0-91D4-56B2091E359B%7D&amp;Styles=%7C%7BACA1D298-4F90-4EA9-8281-82D0BBB1E353%7D%7C%7B475E77AB-3D7F-4C96-A0C4-8164A8158C82%7D&amp;RenderingIdentifier&amp;CSSStyles&amp;DynamicPlaceholderId=6"
+              s:ph="/headless-main/container-4" />
+            <r
+              uid="{8A3FE593-AABF-4D36-82B3-2BB2F7F75168}"
+              p:after="*[1=2]"
+              s:id="{C5F905F8-FD1F-444E-A9E5-AC6B774FF0DE}"
+              s:par="GridParameters=%7BF61E01E9-711A-4C99-AE30-4E28463E1DF7%7D&amp;Heading Tag&amp;FieldNames=%7B73D70018-AEEB-4FE5-A0F2-50B7BE67B1FF%7D&amp;Styles&amp;RenderingIdentifier&amp;CSSStyles&amp;DynamicPlaceholderId=5"
+              s:ph="/headless-main/container-4" />
+          </d>
+        </r>
+    - ID: "06890ecb-5786-4776-8d76-19250477a9bc"
+      Hint: MetaImage
+      Value: |
+        <image mediaid="{8943DA01-E7AA-4089-86C1-CFA93F4754C1}" alt="Statement" height="" width="" hspace="" vspace="" />
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20251028T103438Z
+    - ID: "3e431de1-525e-47a3-b6b0-1ccbec3a8c98"
+      Hint: __Workflow state
+      Value: "{F7F71754-F47E-4605-AD5B-87F78974DD92}"
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+      Hint: __Owner
+      Value: |
+        sitecore\karthikeyan.kumaravel@altudo.co
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\karthikeyan.kumaravel@altudo.co
+    - ID: "6128ed46-0b79-4d6a-87ad-ac6fe70c649c"
+      Hint: Category
+      Value: Insights
+    - ID: "6fb03d9c-e0f6-4765-831d-d5627c4e0b67"
+      Hint: Content
+      Value: |
+        <div class="ck-content"><p>We recognize that this is a time of unprecedented uncertainties for our professionals, trainees, and those preparing for certification. As a certifying body, we are reassured by the fact that delivering excellence amid uncertainty, weighing complex factors, and staying focused on core responsibilities is a hallmark of professional practice across all disciplines. This admirable ability to operate effectively in the face of disruption and complexity is rooted in rigorous training, a commitment to lifelong learning, and the pursuit of excellence.<br />We have the highest confidence in our candidates' and certified professionals’ abilities to apply their knowledge and skills to navigate the current challenges, as well as those that may arise in the future.<br /><br />Our mission — to define standards, certify professionals, and promote continuous learning to enhance knowledge, practice, and professionalism — serves as our guiding principle as we support our community in serving the public with integrity and expertise. To that end, we maintain a steadfast focus on our certification standards, which are grounded in evidence, built on sound evaluation methods, and aligned with current national practices.<br /><br />We are also deeply grateful for the invaluable support provided by professional societies, specialty organizations, and other trusted resources. These groups offer up-to-date, evidence-based knowledge and essential guidance, including information on relevant legal and regulatory developments. We encourage all members of our professional community to engage with these resources to stay informed and deliver high-quality service in today’s evolving environment.<br /><br />Core principles of professionalism — including respect, integrity, empathy, accountability, and acting in the best interests of those we serve — should continue to guide practice. These values reflect our shared commitment to public trust and professional excellence. We remain steadfast in our belief that the dedication and resilience of our professional community will ensure the continued delivery of high standards and impactful service nationwide. Together, we will continue to uphold excellence while adapting to the challenges of today and tomorrow.<br />&nbsp;</p></div>
+    - ID: "78bd5b13-d9ab-44a4-bae4-c2dda0ad6133"
+      Hint: IntroText
+      Value: |
+        <p>We remain steadfast in our belief that the dedication and resilience of our professional community</p>
+        <p>will ensure the continued delivery of high standards and impactful service nationwide.</p>
+    - ID: "7cba72f9-1513-41af-ba26-de761f138805"
+      Hint: Title
+      Value: Statement Regarding Our Ever Changing Environment
+    - ID: "85f5b648-1823-4509-b7fd-27deacdf2dff"
+      Hint: MetaDescription
+      Value: "Read Fast Lane's official statement addressing the challenges and opportunities posed by our ever-changing environment in XM Cloud digital solutions."
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "b6b52911-1b73-468a-94cb-90db874190e5"
+    - ID: "92c233dc-a8b3-4fd0-bb3f-e82a8b49bed2"
+      Hint: MetaTitle
+      Value: "Statement Regarding Our Ever-Changing Environment | Fast Lane XM Cloud Blogs"
+    - ID: "9f4483ca-f858-45d1-86a5-0a69c9ab6207"
+      Hint: MetaKeywords
+      Value: environmental statement, XM Cloud news, Fast Lane updates, digital transformation response
+    - ID: "a667d11b-ca9f-4fbe-881f-2538eb51f432"
+      Hint: PublishedDate
+      Value: 20250227T000000Z
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\karthikeyan.kumaravel@altudo.co
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20251201T190009Z
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "001dd393-96c5-490b-924a-b0f25cd9efd8"
+      Hint: __Lock
+      Value: <r />
+    - ID: "04bf00db-f5fb-41f7-8ab7-22408372a981"
+      Hint: __Final Renderings
+      Value: |
+        <r xmlns:p="p" xmlns:s="s"
+          p:p="1">
+          <d
+            id="{FE5D7FDF-89C0-4D99-9AA3-B5FBD009C9F3}">
+            <r
+              uid="{E6577B7B-5EEC-43F0-A751-6457290EBB0D}"
+              p:before="*"
+              s:id="{B7C649C8-C683-44CB-9A87-AEBEA3DA8EB3}"
+              s:par="GridParameters=%7BF61E01E9-711A-4C99-AE30-4E28463E1DF7%7D&amp;FieldNames=%7B129985C4-D854-49F5-9602-9E1D1B8DF899%7D&amp;BackgroundImage&amp;Styles=%7C%7B0D8280A3-A4C1-4AAD-8392-30B3080349C8%7D&amp;RenderingIdentifier&amp;CSSStyles&amp;DynamicPlaceholderId=1"
+              s:ph="headless-main" />
+            <r
+              uid="{ECCDC050-7EDE-47E9-ABE3-73295D3277CC}"
+              p:after="r[@uid='{E6577B7B-5EEC-43F0-A751-6457290EBB0D}']"
+              s:id="{F7295588-FA7F-448E-B222-F64005B22E8D}"
+              s:par="GridParameters=%7BF61E01E9-711A-4C99-AE30-4E28463E1DF7%7D&amp;ImageOrder&amp;FieldNames=%7BBAC81150-16BD-4AED-9DF5-6FB5C82E1B95%7D&amp;Styles=%7C%7BDA96D040-41DE-4486-A4D1-6CEDECA18E14%7D&amp;RenderingIdentifier&amp;CSSStyles&amp;DynamicPlaceholderId=3"
+              s:ph="headless-main" />
+            <r
+              uid="{9ADB19C9-8277-4F47-95DF-BDE94C39F41E}"
+              p:after="r[@uid='{ECCDC050-7EDE-47E9-ABE3-73295D3277CC}']"
+              s:id="{B7C649C8-C683-44CB-9A87-AEBEA3DA8EB3}"
+              s:par="GridParameters=%7BF61E01E9-711A-4C99-AE30-4E28463E1DF7%7D&amp;FieldNames=%7B129985C4-D854-49F5-9602-9E1D1B8DF899%7D&amp;BackgroundImage&amp;Styles=%7C%7B0D8280A3-A4C1-4AAD-8392-30B3080349C8%7D&amp;RenderingIdentifier&amp;CSSStyles&amp;DynamicPlaceholderId=4"
+              s:ph="headless-main" />
+            <r
+              uid="{392DA7C3-FB30-40FE-B216-ED447498DA55}"
+              p:after="r[@uid='{9ADB19C9-8277-4F47-95DF-BDE94C39F41E}']"
+              s:id="{D425DB5D-FFB0-4574-852C-C17D904CC3E7}"
+              s:par="GridParameters=%7BF61E01E9-711A-4C99-AE30-4E28463E1DF7%7D&amp;FieldNames=%7B6F83E0EE-E1C1-42D2-8B7B-DA86DFDD39DB%7D&amp;Styles=%7C%7B475E77AB-3D7F-4C96-A0C4-8164A8158C82%7D&amp;RenderingIdentifier&amp;CSSStyles&amp;DynamicPlaceholderId=2"
+              s:ph="/headless-main/container-1" />
+            <r
+              uid="{E48A28A0-3907-4DBA-B8B1-CF26D3D63E49}"
+              p:after="r[@uid='{392DA7C3-FB30-40FE-B216-ED447498DA55}']"
+              s:id="{1409AEA2-6E60-4EA9-8813-CB229DF0E3B7}"
+              s:par="GridParameters=%7BF61E01E9-711A-4C99-AE30-4E28463E1DF7%7D&amp;FieldNames=%7B0EFC83ED-6584-40A0-91D4-56B2091E359B%7D&amp;Styles=%7C%7BACA1D298-4F90-4EA9-8281-82D0BBB1E353%7D%7C%7B475E77AB-3D7F-4C96-A0C4-8164A8158C82%7D&amp;RenderingIdentifier&amp;CSSStyles&amp;DynamicPlaceholderId=6"
+              s:ph="/headless-main/container-4" />
+            <r
+              uid="{8A3FE593-AABF-4D36-82B3-2BB2F7F75168}"
+              p:after="*[1=2]"
+              s:id="{C5F905F8-FD1F-444E-A9E5-AC6B774FF0DE}"
+              s:par="GridParameters=%7BF61E01E9-711A-4C99-AE30-4E28463E1DF7%7D&amp;Heading Tag&amp;FieldNames=%7B73D70018-AEEB-4FE5-A0F2-50B7BE67B1FF%7D&amp;Styles&amp;RenderingIdentifier&amp;CSSStyles&amp;DynamicPlaceholderId=5"
+              s:ph="/headless-main/container-4" />
+          </d>
+        </r>
+    - ID: "06890ecb-5786-4776-8d76-19250477a9bc"
+      Hint: MetaImage
+      Value: |
+        <image mediaid="{8943DA01-E7AA-4089-86C1-CFA93F4754C1}" />
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20251028T103438Z
+    - ID: "3e431de1-525e-47a3-b6b0-1ccbec3a8c98"
+      Hint: __Workflow state
+      Value: "{F7F71754-F47E-4605-AD5B-87F78974DD92}"
+    - ID: "4e0720e9-9d50-4ddc-87cf-ecd65e8e94c8"
+      Hint: NavigationTitle
+      Value: Statement
+    - ID: "6128ed46-0b79-4d6a-87ad-ac6fe70c649c"
+      Hint: Category
+      Value: Insights
+    - ID: "6fb03d9c-e0f6-4765-831d-d5627c4e0b67"
+      Hint: Content
+      Value: |
+        <div class="ck-content"><p>We recognize that this is a time of unprecedented uncertainties for our professionals, trainees, and those preparing for certification. As a certifying body, we are reassured by the fact that delivering excellence amid uncertainty, weighing complex factors, and staying focused on core responsibilities is a hallmark of professional practice across all disciplines. This admirable ability to operate effectively in the face of disruption and complexity is rooted in rigorous training, a commitment to lifelong learning, and the pursuit of excellence.<br />We have the highest confidence in our candidates' and certified professionals’ abilities to apply their knowledge and skills to navigate the current challenges, as well as those that may arise in the future.<br /><br />Our mission — to define standards, certify professionals, and promote continuous learning to enhance knowledge, practice, and professionalism — serves as our guiding principle as we support our community in serving the public with integrity and expertise. To that end, we maintain a steadfast focus on our certification standards, which are grounded in evidence, built on sound evaluation methods, and aligned with current national practices.<br /><br />We are also deeply grateful for the invaluable support provided by professional societies, specialty organizations, and other trusted resources. These groups offer up-to-date, evidence-based knowledge and essential guidance, including information on relevant legal and regulatory developments. We encourage all members of our professional community to engage with these resources to stay informed and deliver high-quality service in today’s evolving environment.<br /><br />Core principles of professionalism — including respect, integrity, empathy, accountability, and acting in the best interests of those we serve — should continue to guide practice. These values reflect our shared commitment to public trust and professional excellence. We remain steadfast in our belief that the dedication and resilience of our professional community will ensure the continued delivery of high standards and impactful service nationwide. Together, we will continue to uphold excellence while adapting to the challenges of today and tomorrow.<br />&nbsp;</p></div>
+    - ID: "78bd5b13-d9ab-44a4-bae4-c2dda0ad6133"
+      Hint: IntroText
+      Value: |
+        <p>We remain steadfast in our belief that the dedication and resilience of our professional community</p>
+        <p>will ensure the continued delivery of high standards and impactful service nationwide.</p>
+    - ID: "7cba72f9-1513-41af-ba26-de761f138805"
+      Hint: Title
+      Value: Statement Regarding Our Ever Changing Environment
+    - ID: "85f5b648-1823-4509-b7fd-27deacdf2dff"
+      Hint: MetaDescription
+      Value: "Read Fast Lane's official statement addressing the challenges and opportunities posed by our ever-changing environment in XM Cloud digital solutions."
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "2aa6ab2f-0837-439a-b7c9-ae4f8fd5d1e0"
+    - ID: "92c233dc-a8b3-4fd0-bb3f-e82a8b49bed2"
+      Hint: MetaTitle
+      Value: "Statement Regarding Our Ever-Changing Environment | Fast Lane XM Cloud Blogs"
+    - ID: "9f4483ca-f858-45d1-86a5-0a69c9ab6207"
+      Hint: MetaKeywords
+      Value: environmental statement, XM Cloud news, Fast Lane updates, digital transformation response
+    - ID: "a667d11b-ca9f-4fbe-881f-2538eb51f432"
+      Hint: PublishedDate
+      Value: 20250227T000000Z
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\karthikeyan.kumaravel@altudo.co
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20251201T185946Z
+- Language: "fr-CA"
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "04bf00db-f5fb-41f7-8ab7-22408372a981"
+      Hint: __Final Renderings
+      Value: |
+        <r xmlns:p="p" xmlns:s="s"
+          p:p="1">
+          <d
+            id="{FE5D7FDF-89C0-4D99-9AA3-B5FBD009C9F3}">
+            <r
+              uid="{E6577B7B-5EEC-43F0-A751-6457290EBB0D}"
+              p:before="*"
+              s:id="{B7C649C8-C683-44CB-9A87-AEBEA3DA8EB3}"
+              s:par="GridParameters=%7BF61E01E9-711A-4C99-AE30-4E28463E1DF7%7D&amp;FieldNames=%7B129985C4-D854-49F5-9602-9E1D1B8DF899%7D&amp;BackgroundImage&amp;Styles=%7C%7B0D8280A3-A4C1-4AAD-8392-30B3080349C8%7D&amp;RenderingIdentifier&amp;CSSStyles&amp;DynamicPlaceholderId=1"
+              s:ph="headless-main" />
+            <r
+              uid="{ECCDC050-7EDE-47E9-ABE3-73295D3277CC}"
+              p:after="r[@uid='{E6577B7B-5EEC-43F0-A751-6457290EBB0D}']"
+              s:id="{F7295588-FA7F-448E-B222-F64005B22E8D}"
+              s:par="GridParameters=%7BF61E01E9-711A-4C99-AE30-4E28463E1DF7%7D&amp;ImageOrder&amp;FieldNames=%7BBAC81150-16BD-4AED-9DF5-6FB5C82E1B95%7D&amp;Styles=%7C%7BDA96D040-41DE-4486-A4D1-6CEDECA18E14%7D&amp;RenderingIdentifier&amp;CSSStyles&amp;DynamicPlaceholderId=3"
+              s:ph="headless-main" />
+            <r
+              uid="{9ADB19C9-8277-4F47-95DF-BDE94C39F41E}"
+              p:after="r[@uid='{ECCDC050-7EDE-47E9-ABE3-73295D3277CC}']"
+              s:id="{B7C649C8-C683-44CB-9A87-AEBEA3DA8EB3}"
+              s:par="GridParameters=%7BF61E01E9-711A-4C99-AE30-4E28463E1DF7%7D&amp;FieldNames=%7B129985C4-D854-49F5-9602-9E1D1B8DF899%7D&amp;BackgroundImage&amp;Styles=%7C%7B0D8280A3-A4C1-4AAD-8392-30B3080349C8%7D&amp;RenderingIdentifier&amp;CSSStyles&amp;DynamicPlaceholderId=4"
+              s:ph="headless-main" />
+            <r
+              uid="{392DA7C3-FB30-40FE-B216-ED447498DA55}"
+              p:after="r[@uid='{9ADB19C9-8277-4F47-95DF-BDE94C39F41E}']"
+              s:id="{D425DB5D-FFB0-4574-852C-C17D904CC3E7}"
+              s:par="GridParameters=%7BF61E01E9-711A-4C99-AE30-4E28463E1DF7%7D&amp;FieldNames=%7B6F83E0EE-E1C1-42D2-8B7B-DA86DFDD39DB%7D&amp;Styles=%7C%7B475E77AB-3D7F-4C96-A0C4-8164A8158C82%7D&amp;RenderingIdentifier&amp;CSSStyles&amp;DynamicPlaceholderId=2"
+              s:ph="/headless-main/container-1" />
+            <r
+              uid="{E48A28A0-3907-4DBA-B8B1-CF26D3D63E49}"
+              p:after="r[@uid='{392DA7C3-FB30-40FE-B216-ED447498DA55}']"
+              s:id="{1409AEA2-6E60-4EA9-8813-CB229DF0E3B7}"
+              s:par="GridParameters=%7BF61E01E9-711A-4C99-AE30-4E28463E1DF7%7D&amp;FieldNames=%7B0EFC83ED-6584-40A0-91D4-56B2091E359B%7D&amp;Styles=%7C%7BACA1D298-4F90-4EA9-8281-82D0BBB1E353%7D%7C%7B475E77AB-3D7F-4C96-A0C4-8164A8158C82%7D&amp;RenderingIdentifier&amp;CSSStyles&amp;DynamicPlaceholderId=6"
+              s:ph="/headless-main/container-4" />
+            <r
+              uid="{8A3FE593-AABF-4D36-82B3-2BB2F7F75168}"
+              p:after="*[1=2]"
+              s:id="{C5F905F8-FD1F-444E-A9E5-AC6B774FF0DE}"
+              s:par="GridParameters=%7BF61E01E9-711A-4C99-AE30-4E28463E1DF7%7D&amp;Heading Tag&amp;FieldNames=%7B73D70018-AEEB-4FE5-A0F2-50B7BE67B1FF%7D&amp;Styles&amp;RenderingIdentifier&amp;CSSStyles&amp;DynamicPlaceholderId=5"
+              s:ph="/headless-main/container-4" />
+          </d>
+        </r>
+    - ID: "06890ecb-5786-4776-8d76-19250477a9bc"
+      Hint: MetaImage
+      Value: |
+        <image mediaid="{8943DA01-E7AA-4089-86C1-CFA93F4754C1}" alt="Statement" height="" width="" hspace="" vspace="" />
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20251028T103438Z
+    - ID: "3e431de1-525e-47a3-b6b0-1ccbec3a8c98"
+      Hint: __Workflow state
+      Value: "{F7F71754-F47E-4605-AD5B-87F78974DD92}"
+    - ID: "4e0720e9-9d50-4ddc-87cf-ecd65e8e94c8"
+      Hint: NavigationTitle
+      Value: Déclaration concernant notre environnement en constante évolution
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+      Hint: __Owner
+      Value: |
+        sitecore\karthikeyan.kumaravel@altudo.co
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\karthikeyan.kumaravel@altudo.co
+    - ID: "6128ed46-0b79-4d6a-87ad-ac6fe70c649c"
+      Hint: Category
+      Value: Connaissances
+    - ID: "6fb03d9c-e0f6-4765-831d-d5627c4e0b67"
+      Hint: Content
+      Value: |
+        <div class="ck-content">
+        <p>Nous sommes conscients que cette p&eacute;riode est marqu&eacute;e par une incertitude sans pr&eacute;c&eacute;dent pour nos professionnels, nos stagiaires et les personnes pr&eacute;parant leur certification. En tant qu'organisme certificateur, nous sommes rassur&eacute;s par le fait que l'excellence dans un contexte d'incertitude, la prise en compte de facteurs complexes et le maintien de l'attention sur les responsabilit&eacute;s essentielles sont des caract&eacute;ristiques fondamentales de la pratique professionnelle, toutes disciplines confondues. Cette capacit&eacute; remarquable &agrave; agir efficacement face aux perturbations et &agrave; la complexit&eacute; repose sur une formation rigoureuse, un engagement envers la formation continue et la recherche de l'excellence.<br />
+        Nous avons la plus grande confiance dans la capacit&eacute; de nos candidats et de nos professionnels certifi&eacute;s &agrave; appliquer leurs connaissances et leurs comp&eacute;tences pour relever les d&eacute;fis actuels, ainsi que ceux qui pourraient survenir &agrave; l'avenir.<br />
+        <br />
+        Notre mission &ndash; d&eacute;finir des normes, certifier les professionnels et promouvoir la formation continue pour enrichir les connaissances, les pratiques et le professionnalisme &ndash; constitue notre principe directeur alors que nous soutenons notre communaut&eacute; afin qu'elle serve le public avec int&eacute;grit&eacute; et expertise. &Agrave; cette fin, nous restons fermement attach&eacute;s &agrave; nos normes de certification, qui sont fond&eacute;es sur des donn&eacute;es probantes, s'appuient sur des m&eacute;thodes d'&eacute;valuation rigoureuses et sont conformes aux pratiques nationales en vigueur.
+        Nous sommes &eacute;galement profond&eacute;ment reconnaissants du soutien inestimable apport&eacute; par les soci&eacute;t&eacute;s professionnelles, les organisations sp&eacute;cialis&eacute;es et d'autres ressources fiables. Ces groupes offrent des connaissances &agrave; jour et fond&eacute;es sur des donn&eacute;es probantes, ainsi que des conseils essentiels, notamment sur les &eacute;volutions juridiques et r&eacute;glementaires pertinentes. Nous encourageons tous les membres de notre communaut&eacute; professionnelle &agrave; consulter ces ressources afin de rester inform&eacute;s et de fournir un service de haute qualit&eacute; dans le contexte actuel en constante &eacute;volution.
+        Les principes fondamentaux du professionnalisme &ndash; notamment le respect, l'int&eacute;grit&eacute;, l'empathie, la responsabilit&eacute; et l'action dans le meilleur int&eacute;r&ecirc;t des personnes que nous servons &ndash; doivent continuer &agrave; guider notre pratique. Ces valeurs refl&egrave;tent notre engagement commun envers la confiance du public et l'excellence professionnelle. Nous restons convaincus que le d&eacute;vouement et la r&eacute;silience de notre communaut&eacute; professionnelle assureront le maintien de normes &eacute;lev&eacute;es et la qualit&eacute; des services offerts &agrave; l'&eacute;chelle nationale. Ensemble, nous continuerons de viser l'excellence tout en nous adaptant aux d&eacute;fis d'aujourd'hui et de demain.<br />
+        &nbsp;</p>
+        </div>
+    - ID: "78bd5b13-d9ab-44a4-bae4-c2dda0ad6133"
+      Hint: IntroText
+      Value: |
+        <p>Nous demeurons fermement convaincus que le d&eacute;vouement et la r&eacute;silience de notre communaut&eacute; professionnelle</p>
+        <p>garantira la continuit&eacute; de la prestation de services de haute qualit&eacute; et &agrave; fort impact &agrave; l'&eacute;chelle nationale.</p>
+    - ID: "7cba72f9-1513-41af-ba26-de761f138805"
+      Hint: Title
+      Value: Déclaration concernant notre environnement en constante évolution
+    - ID: "85f5b648-1823-4509-b7fd-27deacdf2dff"
+      Hint: MetaDescription
+      Value: Lisez la déclaration officielle de Fast Lane concernant les défis et les opportunités que représente notre environnement en constante évolution dans les solutions numériques XM Cloud.
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "2d94cf1b-1c63-4349-88bb-1009bdfc9be4"
+    - ID: "92c233dc-a8b3-4fd0-bb3f-e82a8b49bed2"
+      Hint: MetaTitle
+      Value: Déclaration concernant notre environnement en constante évolution | Blogues Fast Lane XM Cloud
+    - ID: "9f4483ca-f858-45d1-86a5-0a69c9ab6207"
+      Hint: MetaKeywords
+      Value: Déclaration environnementale, nouvelles XM Cloud, mises à jour Fast Lane, réponse à la transformation numérique
+    - ID: "a667d11b-ca9f-4fbe-881f-2538eb51f432"
+      Hint: PublishedDate
+      Value: 20250227T000000Z
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\karthikeyan.kumaravel@altudo.co
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20251201T190029Z

@@ -1,0 +1,41 @@
+﻿---
+ID: "4e746e80-95f0-40a2-9b00-ff9a9a19bf70"
+Parent: "16fc0f9e-b6e3-41d5-b3ce-e70a84872f84"
+Template: "c16a4c28-0a40-4d2c-9f19-20648c62b054"
+Path: /sitecore/templates/Branches/Feature/FastLane/Data/SocialShare Folder/SocialShare/Pinterest
+Languages:
+- Language: en
+  Fields:
+  - ID: "30e85e5d-e00a-4864-b358-7624d511deb4"
+    Hint: __Unversioned revision
+    Value: "46b9cbca-d9e3-4944-a87d-1a26616c1cea"
+  - ID: "b5e02ad9-d56f-4c41-a065-a133db87bdeb"
+    Hint: __Display name
+    Value: 
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "230e662b-b8f9-4368-b633-cbdb02f8755b"
+      Hint: Media
+      Value: |
+        <link linktype="external" url="https://media-hosting.imagekit.io//8decd61836e348a5/icons8-pinterest-48.png?Expires=1835018068&amp;Key-Pair-Id=K2ZIVPTIP2VGHC&amp;Signature=gWczP002ByRNI2gPyu2ojBNJ1R-dYEEWTxfo~jr0tEMTH309f6OhW9gMqMBntQdxX3~rzTDgoEmkJ3jovz-3H~q6NygMMnvJ0bquSiVcDArbyNDbL~nSYFkdAtJ-QkYg2T~4kcAmYMEhyWZsV6OZZ0S0mfaNiOFzxGUjakz52-57S5qohN33VF98swpGUfpwqk3txurd2seTWyUCa5zqTAinXVVbTF8-cyqHHujF-vtGN70ZSNL162G~ox-DAIOP3v1K6~J5JehkJrCygl5ANCUSaTTWAe5NdnzsX5quuWaGW3iOvUjrIB4L4N8e2dqHKTz2aiFy1LayYSaM1bcC8w__" anchor="" target="" />
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20250226T113650Z
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "5e11c59f-7f96-40cc-9aa7-a5261a3a2130"
+    - ID: "aa4e5f92-cbb0-4134-ba73-fe27fc4e2e7a"
+      Hint: SocialIcon
+      Value: |
+        <image mediaid="{834D3543-AD2E-45F0-A5B4-7D2660F66B2A}" />
+    - ID: "ba0a52e5-b8a7-46fd-b24d-815c5d720b96"
+      Hint: Title
+      Value: Pinterest
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\andy.cohen@altudo.co
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20250625T160512Z

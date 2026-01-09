@@ -1,0 +1,278 @@
+﻿---
+ID: "00840cd7-a51f-4023-b2e2-17fc4aa9ee72"
+Parent: "5fdf63ba-6158-42b2-bb74-4eff89cd022b"
+Template: "58c7b74f-d255-4002-9b02-ce1b0d25624a"
+Path: /sitecore/content/FastLaneTenant/fastlanewebsite/Home/About Us/Our Leadership/Dr Sophia Kuznetsova MD MEd
+BranchID: "fb656afe-4101-447e-8dd3-6d8a529efbf8"
+SharedFields:
+- ID: "06d5295c-ed2f-4a54-9bf2-26228d113318"
+  Hint: __Icon
+  Value: "/sitecore/media library/Project/FastLaneTenant/FastLaneWebsite/PageIcons/-/media/E288D21A54DC445AAAE7E5ECED94945E.ashx"
+- ID: "a4f985d9-98b3-4b52-aaaf-4344f6e747c6"
+  Hint: __Workflow
+  Value: "{CF913994-CC05-4D20-B38A-9CF1E73F5951}"
+- ID: "dbbbeca1-21c7-4906-9dd2-493c1efa59a2"
+  Hint: __Shared revision
+  Value: "14ee1470-37b2-4487-a835-fc8ea6e29c0f"
+- ID: "f6d8a61c-2f84-4401-bd24-52d2068172bc"
+  Hint: __Originator
+  Value: "{04645324-9552-446A-8405-2E03D08C8378}"
+Languages:
+- Language: "ar-AE"
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "04bf00db-f5fb-41f7-8ab7-22408372a981"
+      Hint: __Final Renderings
+      Value: |
+        <r xmlns:p="p" xmlns:s="s"
+          p:p="1">
+          <d
+            id="{FE5D7FDF-89C0-4D99-9AA3-B5FBD009C9F3}">
+            <r
+              uid="{C15F3C42-E0A9-490F-A428-5ACDBDA0E76E}"
+              p:before="*"
+              s:id="{F7295588-FA7F-448E-B222-F64005B22E8D}"
+              s:par="GridParameters&amp;ImageOrder&amp;FieldNames&amp;Styles&amp;RenderingIdentifier&amp;CSSStyles&amp;DynamicPlaceholderId=1"
+              s:ph="/headless-main/sxa-contentpagewithsidebar/container-1/column-2-3/container-9" />
+            <r
+              uid="{490E5068-2AF4-46A8-A83C-8BB0510433EF}"
+              p:after="r[@uid='{C15F3C42-E0A9-490F-A428-5ACDBDA0E76E}']"
+              s:ds="local:/Data/BioImage"
+              s:id="{AB2EDBA0-3960-4F12-B765-579DC231894A}"
+              s:par="GridParameters={F61E01E9-711A-4C99-AE30-4E28463E1DF7}&amp;FieldNames={75EC0D4C-10AC-4C23-B3F0-08EC0B3CD31C}&amp;Styles&amp;RenderingIdentifier&amp;CSSStyles&amp;DynamicPlaceholderId=2"
+              s:ph="/headless-main/sxa-contentpagewithsidebar/container-1/column-2-3/column-1-8" />
+            <r
+              uid="{2144752D-E0A5-4E78-85C9-42E0A4BD017F}"
+              p:after="*[1=2]"
+              s:id="{C5F905F8-FD1F-444E-A9E5-AC6B774FF0DE}"
+              s:par="GridParameters={F61E01E9-711A-4C99-AE30-4E28463E1DF7}&amp;Heading Tag&amp;FieldNames={73D70018-AEEB-4FE5-A0F2-50B7BE67B1FF}&amp;Styles&amp;RenderingIdentifier&amp;CSSStyles&amp;DynamicPlaceholderId=3"
+              s:ph="/headless-main/sxa-contentpagewithsidebar/container-1/column-2-3/column-2-8" />
+          </d>
+        </r>
+    - ID: "06890ecb-5786-4776-8d76-19250477a9bc"
+      Hint: MetaImage
+      Value: |
+        <image mediaid="{D9E524B5-42F3-4002-9677-5DE437C22F2A}" alt="DrSofia" height="" width="" hspace="" vspace="" />
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20250627T045731Z
+    - ID: "3e431de1-525e-47a3-b6b0-1ccbec3a8c98"
+      Hint: __Workflow state
+      Value: "{F7F71754-F47E-4605-AD5B-87F78974DD92}"
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+      Hint: __Owner
+      Value: |
+        sitecore\karthikeyan.kumaravel@altudo.co
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\andy.cohen@altudo.co
+    - ID: "6128ed46-0b79-4d6a-87ad-ac6fe70c649c"
+      Hint: Category
+      Value: فريق القيادة
+    - ID: "78bd5b13-d9ab-44a4-bae4-c2dda0ad6133"
+      Hint: IntroText
+      Value: |
+        <p>الدكتورة صوفيا كوزنتسوفا هي طبيبة ومدرسة طب روسية الأصل متخصصة في ضمان الجودة السريرية. في ICMP، تقود جهود الاعتماد العالمي، وتقوم بمواءمة معايير التدريب وعمليات الاعتماد لضمان ممارسة طبية متسقة وقائمة على الأدلة عبر أنظمة الرعاية الصحية المتنوعة.<br />
+        &nbsp;
+        </p>
+    - ID: "7cba72f9-1513-41af-ba26-de761f138805"
+      Hint: Title
+      Value: الدكتورة صوفيا كوزنتسوفا، دكتوراه في الطب، ماجستير في التربية – مديرة المعايير الطبية والاعتماد، ICMP
+    - ID: "85f5b648-1823-4509-b7fd-27deacdf2dff"
+      Hint: MetaDescription
+      Value: اكتشف الملف الشخصي للدكتورة صوفيا كوزنتسوفا، مديرة المعايير الطبية والاعتماد في ICMP، التي تقود التميز في حلول إدارة المحتوى XM Cloud.
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "906b35f6-9775-4bc5-9016-e9a37809f76f"
+    - ID: "92c233dc-a8b3-4fd0-bb3f-e82a8b49bed2"
+      Hint: MetaTitle
+      Value: الدكتورة صوفيا كوزنتسوفا، دكتوراه في الطب، ماجستير في التربية – مديرة المعايير الطبية والاعتماد | Fast Lane XM Cloud
+    - ID: "9f4483ca-f858-45d1-86a5-0a69c9ab6207"
+      Hint: MetaKeywords
+      Value: الدكتورة صوفيا كوزنتسوفا، مديرة المعايير الطبية، الاعتماد، قيادة XM Cloud، المديرة التنفيذية لـ Fast Lane
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\karthikeyan.kumaravel@altudo.co
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20251201T191018Z
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "001dd393-96c5-490b-924a-b0f25cd9efd8"
+      Hint: __Lock
+      Value: <r />
+    - ID: "04bf00db-f5fb-41f7-8ab7-22408372a981"
+      Hint: __Final Renderings
+      Value: |
+        <r xmlns:p="p" xmlns:s="s"
+          p:p="1">
+          <d
+            id="{FE5D7FDF-89C0-4D99-9AA3-B5FBD009C9F3}">
+            <r
+              uid="{C15F3C42-E0A9-490F-A428-5ACDBDA0E76E}"
+              p:before="*"
+              s:id="{F7295588-FA7F-448E-B222-F64005B22E8D}"
+              s:par="GridParameters&amp;ImageOrder&amp;FieldNames&amp;Styles&amp;RenderingIdentifier&amp;CSSStyles&amp;DynamicPlaceholderId=1"
+              s:ph="/headless-main/sxa-contentpagewithsidebar/container-1/column-2-3/container-9" />
+            <r
+              uid="{490E5068-2AF4-46A8-A83C-8BB0510433EF}"
+              p:after="r[@uid='{C15F3C42-E0A9-490F-A428-5ACDBDA0E76E}']"
+              s:ds="local:/Data/BioImage"
+              s:id="{AB2EDBA0-3960-4F12-B765-579DC231894A}"
+              s:par="GridParameters={F61E01E9-711A-4C99-AE30-4E28463E1DF7}&amp;FieldNames={75EC0D4C-10AC-4C23-B3F0-08EC0B3CD31C}&amp;Styles&amp;RenderingIdentifier&amp;CSSStyles&amp;DynamicPlaceholderId=2"
+              s:ph="/headless-main/sxa-contentpagewithsidebar/container-1/column-2-3/column-1-8" />
+            <r
+              uid="{2144752D-E0A5-4E78-85C9-42E0A4BD017F}"
+              p:after="*[1=2]"
+              s:id="{C5F905F8-FD1F-444E-A9E5-AC6B774FF0DE}"
+              s:par="GridParameters={F61E01E9-711A-4C99-AE30-4E28463E1DF7}&amp;Heading Tag&amp;FieldNames={73D70018-AEEB-4FE5-A0F2-50B7BE67B1FF}&amp;Styles&amp;RenderingIdentifier&amp;CSSStyles&amp;DynamicPlaceholderId=3"
+              s:ph="/headless-main/sxa-contentpagewithsidebar/container-1/column-2-3/column-2-8" />
+          </d>
+        </r>
+    - ID: "06890ecb-5786-4776-8d76-19250477a9bc"
+      Hint: MetaImage
+      Value: |
+        <image mediaid="{D9E524B5-42F3-4002-9677-5DE437C22F2A}" />
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20250627T045731Z
+    - ID: "3e431de1-525e-47a3-b6b0-1ccbec3a8c98"
+      Hint: __Workflow state
+      Value: "{F7F71754-F47E-4605-AD5B-87F78974DD92}"
+    - ID: "4e0720e9-9d50-4ddc-87cf-ecd65e8e94c8"
+      Hint: NavigationTitle
+      Value: Dr Sophia Kuznetsova MD MEd
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+      Hint: __Owner
+      Value: |
+        sitecore\andy.cohen@altudo.co
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\andy.cohen@altudo.co
+    - ID: "6128ed46-0b79-4d6a-87ad-ac6fe70c649c"
+      Hint: Category
+      Value: Leadership Team
+    - ID: "78bd5b13-d9ab-44a4-bae4-c2dda0ad6133"
+      Hint: IntroText
+      Value: |
+        <p>Dr. Sofia Kuznetsova is a Russian-born physician and medical educator specializing in clinical quality assurance. At ICMP, she leads global accreditation efforts, harmonizing training standards and certification processes to ensure consistent, evidence-based medical practice across diverse healthcare systems.<br />
+        &nbsp;
+        </p>
+    - ID: "7cba72f9-1513-41af-ba26-de761f138805"
+      Hint: Title
+      Value: Dr. Sofia Kuznetsova, MD, MEd – Director of Medical Standards and Accreditation, ICMP
+    - ID: "85f5b648-1823-4509-b7fd-27deacdf2dff"
+      Hint: MetaDescription
+      Value: Explore the profile of Dr. Sofia Kuznetsova, Director of Medical Standards and Accreditation at ICMP, driving excellence in XM Cloud content management solutions.
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "ea3c847b-9bb4-44e3-98e3-bfe4f2884501"
+    - ID: "92c233dc-a8b3-4fd0-bb3f-e82a8b49bed2"
+      Hint: MetaTitle
+      Value: Dr. Sofia Kuznetsova, MD, MEd – Director of Medical Standards & Accreditation | Fast Lane XM Cloud
+    - ID: "9f4483ca-f858-45d1-86a5-0a69c9ab6207"
+      Hint: MetaKeywords
+      Value: Dr Sofia Kuznetsova, medical standards director, accreditation, XM Cloud leadership, Fast Lane executive
+    - ID: "ba41d59c-a2b6-4f14-8913-7734549cce04"
+      Hint: Image
+      Value: 
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\karthikeyan.kumaravel@altudo.co
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20251201T190814Z
+    - ID: "f56d5ae9-cbca-48e1-b47e-e06a7561fc5d"
+      Hint: CalltoActionLinkMain
+      Value: 
+- Language: "fr-CA"
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "04bf00db-f5fb-41f7-8ab7-22408372a981"
+      Hint: __Final Renderings
+      Value: |
+        <r xmlns:p="p" xmlns:s="s"
+          p:p="1">
+          <d
+            id="{FE5D7FDF-89C0-4D99-9AA3-B5FBD009C9F3}">
+            <r
+              uid="{C15F3C42-E0A9-490F-A428-5ACDBDA0E76E}"
+              p:before="*"
+              s:id="{F7295588-FA7F-448E-B222-F64005B22E8D}"
+              s:par="GridParameters&amp;ImageOrder&amp;FieldNames&amp;Styles&amp;RenderingIdentifier&amp;CSSStyles&amp;DynamicPlaceholderId=1"
+              s:ph="/headless-main/sxa-contentpagewithsidebar/container-1/column-2-3/container-9" />
+            <r
+              uid="{490E5068-2AF4-46A8-A83C-8BB0510433EF}"
+              p:after="r[@uid='{C15F3C42-E0A9-490F-A428-5ACDBDA0E76E}']"
+              s:ds="local:/Data/BioImage"
+              s:id="{AB2EDBA0-3960-4F12-B765-579DC231894A}"
+              s:par="GridParameters={F61E01E9-711A-4C99-AE30-4E28463E1DF7}&amp;FieldNames={75EC0D4C-10AC-4C23-B3F0-08EC0B3CD31C}&amp;Styles&amp;RenderingIdentifier&amp;CSSStyles&amp;DynamicPlaceholderId=2"
+              s:ph="/headless-main/sxa-contentpagewithsidebar/container-1/column-2-3/column-1-8" />
+            <r
+              uid="{2144752D-E0A5-4E78-85C9-42E0A4BD017F}"
+              p:after="*[1=2]"
+              s:id="{C5F905F8-FD1F-444E-A9E5-AC6B774FF0DE}"
+              s:par="GridParameters={F61E01E9-711A-4C99-AE30-4E28463E1DF7}&amp;Heading Tag&amp;FieldNames={73D70018-AEEB-4FE5-A0F2-50B7BE67B1FF}&amp;Styles&amp;RenderingIdentifier&amp;CSSStyles&amp;DynamicPlaceholderId=3"
+              s:ph="/headless-main/sxa-contentpagewithsidebar/container-1/column-2-3/column-2-8" />
+          </d>
+        </r>
+    - ID: "06890ecb-5786-4776-8d76-19250477a9bc"
+      Hint: MetaImage
+      Value: |
+        <image mediaid="{D9E524B5-42F3-4002-9677-5DE437C22F2A}" alt="DrSofia" height="" width="" hspace="" vspace="" />
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20250627T045731Z
+    - ID: "3e431de1-525e-47a3-b6b0-1ccbec3a8c98"
+      Hint: __Workflow state
+      Value: "{F7F71754-F47E-4605-AD5B-87F78974DD92}"
+    - ID: "4e0720e9-9d50-4ddc-87cf-ecd65e8e94c8"
+      Hint: NavigationTitle
+      Value: Dre Sophia Kuznetsova, MD, MEd
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+      Hint: __Owner
+      Value: |
+        sitecore\karthikeyan.kumaravel@altudo.co
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\andy.cohen@altudo.co
+    - ID: "6128ed46-0b79-4d6a-87ad-ac6fe70c649c"
+      Hint: Category
+      Value: Équipe de direction
+    - ID: "78bd5b13-d9ab-44a4-bae4-c2dda0ad6133"
+      Hint: IntroText
+      Value: |
+        <p>La Dre Sofia Kuznetsova est une m&eacute;decin et formatrice m&eacute;dicale d'origine russe, sp&eacute;cialis&eacute;e dans l'assurance qualit&eacute; clinique. &Agrave; l'ICMP, elle dirige les initiatives d'accr&eacute;ditation internationales, harmonisant les normes de formation et les processus de certification afin d'assurer une pratique m&eacute;dicale coh&eacute;rente et fond&eacute;e sur des donn&eacute;es probantes au sein de divers syst&egrave;mes de sant&eacute;.<br />
+        &nbsp;
+        </p>
+    - ID: "7cba72f9-1513-41af-ba26-de761f138805"
+      Hint: Title
+      Value: Dre Sofia Kuznetsova, MD, MEd – Directrice des normes médicales et de l’agrément, ICMP
+    - ID: "85f5b648-1823-4509-b7fd-27deacdf2dff"
+      Hint: MetaDescription
+      Value: Découvrez le profil du Dr Sofia Kuznetsova, directrice des normes médicales et de l'accréditation à l'ICMP, qui œuvre à l'excellence des solutions de gestion de contenu XM Cloud.
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "2a10356a-16f9-40a3-868d-89a42dae3bcc"
+    - ID: "92c233dc-a8b3-4fd0-bb3f-e82a8b49bed2"
+      Hint: MetaTitle
+      Value: Dre Sofia Kuznetsova, MD, MEd – Directrice des normes médicales et de l'agrément | Fast Lane XM Cloud
+    - ID: "9f4483ca-f858-45d1-86a5-0a69c9ab6207"
+      Hint: MetaKeywords
+      Value: Dre Sofia Kuznetsova, directrice des normes médicales, accréditation, direction de XM Cloud, cadre de Fast Lane
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\karthikeyan.kumaravel@altudo.co
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20251201T191034Z

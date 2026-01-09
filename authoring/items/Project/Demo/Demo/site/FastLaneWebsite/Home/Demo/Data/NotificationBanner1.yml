@@ -1,0 +1,144 @@
+﻿---
+ID: "62ce4edb-1737-45f5-a695-5b3a3dd54b01"
+Parent: "f3c9b4eb-f564-4b70-9b94-ae20de5bb833"
+Template: "06668086-6f8c-48ce-ae14-d10eb7c93136"
+Path: /sitecore/content/FastLaneTenant/fastlanewebsite/Home/Demo/Data/NotificationBanner1
+SharedFields:
+- ID: "a4f985d9-98b3-4b52-aaaf-4344f6e747c6"
+  Hint: __Workflow
+  Value: "{9A1B3B33-17C0-4DAE-A533-CEC7FA11F68A}"
+- ID: "dbbbeca1-21c7-4906-9dd2-493c1efa59a2"
+  Hint: __Shared revision
+  Value: "01af5905-d6c8-496e-850f-c637c517b54b"
+Languages:
+- Language: "ar-AE"
+  Fields:
+  - ID: "30e85e5d-e00a-4864-b358-7624d511deb4"
+    Hint: __Unversioned revision
+    Value: "90c2fc6a-7f64-441b-ab21-474660559ead"
+  - ID: "b5e02ad9-d56f-4c41-a065-a133db87bdeb"
+    Hint: __Display name
+    Value: 
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "2326fc6c-8884-465d-b308-7b9e5238a57e"
+      Hint: BannerText
+      Value: |
+        <div class="ck-content">
+        <p><span style="-webkit-text-stroke-width: 0px; float: none; font-size: 14px; font-style: normal; font-variant-caps: normal; font-variant-ligatures: normal; font-weight: 400; letter-spacing: normal; orphans: 2; text-align: justify; text-decoration-color: initial; text-decoration-style: initial; text-decoration-thickness: initial; text-indent: 0px; text-transform: none; white-space: normal; widows: 2; word-spacing: 0px; display: inline !important; font-family: 'Open Sans', Arial, sans-serif;">لأنه في أوقات فراغنا، عندما نكون أحراراً في الاختيار ولا شيء يمنعنا من فعل ما نرغب فيه، يجب أن نستمتع بكل متعة ونرفض كل ألم..</span></p>
+        </div>
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20250221T100433Z
+    - ID: "3e431de1-525e-47a3-b6b0-1ccbec3a8c98"
+      Hint: __Workflow state
+      Value: "{B71D5C66-667B-4CF1-BE66-342C8B59A4DB}"
+    - ID: "82a63b6d-4465-40d9-839c-d270f293e4e9"
+      Hint: CloseIcon
+      Value: |
+        <image mediaid="{5229D587-2CE2-4D84-8569-194BA2B01408}" alt="CloseIcon" height="" width="" hspace="" vspace="" />
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "203bcfe3-96a2-4f91-96ef-8dfb2ff06384"
+    - ID: "8e2ad6d4-ebbc-42c7-96dd-051af4133689"
+      Hint: BannerTitle
+      Value: "تنبيه !! العرض سينتهي خلال يومين انقر على الرابط أدناه !!! "
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\karthikeyan.kumaravel@altudo.co
+    - ID: "d39a0fb3-e09f-4068-9faf-65560589919c"
+      Hint: BannerIcon
+      Value: |
+        <image mediaid="{7BEAB3E1-B74E-4CC0-AD17-A9439CD1480E}" alt="NotificationBanner" height="" width="" hspace="" vspace="" />
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20251106T151844Z
+- Language: en
+  Fields:
+  - ID: "30e85e5d-e00a-4864-b358-7624d511deb4"
+    Hint: __Unversioned revision
+    Value: "9f96b921-e8ff-41dd-94b2-fdfda0cf7316"
+  - ID: "b5e02ad9-d56f-4c41-a065-a133db87bdeb"
+    Hint: __Display name
+    Value: 
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "001dd393-96c5-490b-924a-b0f25cd9efd8"
+      Hint: __Lock
+      Value: <r />
+    - ID: "2326fc6c-8884-465d-b308-7b9e5238a57e"
+      Hint: BannerText
+      Value: |
+        <div class="ck-content">
+        <p><span style="-webkit-text-stroke-width: 0px; float: none; font-size: 14px; font-style: normal; font-variant-caps: normal; font-variant-ligatures: normal; font-weight: 400; letter-spacing: normal; orphans: 2; text-align: justify; text-decoration-color: initial; text-decoration-style: initial; text-decoration-thickness: initial; text-indent: 0px; text-transform: none; white-space: normal; widows: 2; word-spacing: 0px; display: inline !important; font-family: 'Open Sans', Arial, sans-serif;">Nam libero tempore, cum soluta nobis est eligendi optio cumque nihil impedit quo minus id quod maxime placeat facere possimus, omnis voluptas assumenda est, omnis dolor repellendus.</span></p>
+        </div>
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20250221T100433Z
+    - ID: "3e431de1-525e-47a3-b6b0-1ccbec3a8c98"
+      Hint: __Workflow state
+      Value: "{B71D5C66-667B-4CF1-BE66-342C8B59A4DB}"
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "6ab84d49-06e9-47f6-801a-6b40827084f5"
+    - ID: "8e2ad6d4-ebbc-42c7-96dd-051af4133689"
+      Hint: BannerTitle
+      Value: "Alert !! The Offer is expiring in 2 days Click the below link !!! "
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\andy.cohen@altudo.co
+    - ID: "d39a0fb3-e09f-4068-9faf-65560589919c"
+      Hint: BannerIcon
+      Value: |
+        <image mediaid="{7BEAB3E1-B74E-4CC0-AD17-A9439CD1480E}" />
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20250628T212437Z
+- Language: "fr-CA"
+  Fields:
+  - ID: "30e85e5d-e00a-4864-b358-7624d511deb4"
+    Hint: __Unversioned revision
+    Value: "acd73b74-c9c2-4669-ac48-2d9474fb9b88"
+  - ID: "b5e02ad9-d56f-4c41-a065-a133db87bdeb"
+    Hint: __Display name
+    Value: 
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "2326fc6c-8884-465d-b308-7b9e5238a57e"
+      Hint: BannerText
+      Value: |
+        <div class="ck-content">
+        <p><span style="-webkit-text-stroke-width: 0px; float: none; font-size: 14px; font-style: normal; font-variant-caps: normal; font-variant-ligatures: normal; font-weight: 400; letter-spacing: normal; orphans: 2; text-align: justify; text-decoration-color: initial; text-decoration-style: initial; text-decoration-thickness: initial; text-indent: 0px; text-transform: none; white-space: normal; widows: 2; word-spacing: 0px; display: inline !important; font-family: 'Open Sans', Arial, sans-serif;">Nam libero tempore, cum soluta nobis est eligendi optio cumque nihil impedit quo minus id quod maxime placeat facere possimus, omnis voluptas assumenda est, omnis dolor repellendus.</span></p>
+        </div>
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20250221T100433Z
+    - ID: "3e431de1-525e-47a3-b6b0-1ccbec3a8c98"
+      Hint: __Workflow state
+      Value: "{B71D5C66-667B-4CF1-BE66-342C8B59A4DB}"
+    - ID: "82a63b6d-4465-40d9-839c-d270f293e4e9"
+      Hint: CloseIcon
+      Value: |
+        <image mediaid="{5229D587-2CE2-4D84-8569-194BA2B01408}" alt="CloseIcon" height="" width="" hspace="" vspace="" />
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "2e0ea2a9-b461-4096-bad5-6c88f8d528f6"
+    - ID: "8e2ad6d4-ebbc-42c7-96dd-051af4133689"
+      Hint: BannerTitle
+      Value: "Alerte ! L'offre expire dans 2 jours ! Cliquez sur le lien ci-dessous !"
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\karthikeyan.kumaravel@altudo.co
+    - ID: "d39a0fb3-e09f-4068-9faf-65560589919c"
+      Hint: BannerIcon
+      Value: |
+        <image mediaid="{7BEAB3E1-B74E-4CC0-AD17-A9439CD1480E}" alt="ModalIcon" height="" width="" hspace="" vspace="" />
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20251127T103118Z

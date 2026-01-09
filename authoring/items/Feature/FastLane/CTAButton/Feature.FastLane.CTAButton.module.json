@@ -1,0 +1,30 @@
+{
+    "$schema": "../../../../../.sitecore/schemas/ModuleFile.schema.json",
+    "namespace": "Feature.FastLane.CTAButton",
+    "references": ["Feature.FastLane.Root"],
+    "items": {
+        "path": "CTAButton",
+        "includes": [
+			{
+                "name": "templates",
+                "path": "/sitecore/templates/Feature/FastLane/Renderings/CTAButton"
+            },            
+			{
+                "name": "branches",
+                "path": "/sitecore/templates/Branches/Feature/FastLane/Default Variants/CTAButton"
+            },
+			{
+                "name": "branches-template-data",
+                "path": "/sitecore/templates/Branches/Feature/FastLane/Data/CTAButton Folder"
+            },
+			{
+                "name": "renderings",
+                "path": "/sitecore/layout/Renderings/Feature/FastLane/Renderings/CTAButton"                
+            },
+			{
+                "name": "settings",
+                "path": "/sitecore/system/Settings/Feature/FastLane/Renderings/CTAButton"
+            }
+        ]
+    }
+}

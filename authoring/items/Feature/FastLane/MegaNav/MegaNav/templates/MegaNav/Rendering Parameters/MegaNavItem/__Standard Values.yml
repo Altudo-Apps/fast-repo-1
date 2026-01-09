@@ -1,0 +1,27 @@
+﻿---
+ID: "b7808b1d-b8ec-4b81-985e-cad4480ef97e"
+Parent: "55ff6120-7a44-4c29-a17d-133743e39217"
+Template: "55ff6120-7a44-4c29-a17d-133743e39217"
+Path: /sitecore/templates/Feature/FastLane/Renderings/MegaNav/Rendering Parameters/MegaNavItem/__Standard Values
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20211012T120926Z
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\JssImport
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "f133d80d-99fa-47bf-b6b5-b97cc04b9ab5"
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\karthikeyan.kumaravel@altudo.co
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20250429T122257Z

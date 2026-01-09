@@ -1,0 +1,337 @@
+﻿---
+ID: "3fc98dd9-0ccf-461c-a286-5ddd9bab6044"
+Parent: "521085ce-4ba5-414f-b885-df138ae15174"
+Template: "dd22f1b3-bd87-4db2-9e7d-f7a496888d43"
+Path: /sitecore/system/Modules/PowerShell/Script Library/JSS SXA/FastLane Site/Functions/Update Site
+SharedFields:
+- ID: "b1a94ff0-6897-47c0-9c51-aa6acb80b1f0"
+  Hint: Script
+  Value: |
+    Import-Function Get-ItemByIdSafe
+    Import-Function Get-ProjectTemplateBasedOnBaseTemplate
+    Import-Function Add-SiteModule
+    Import-Function Invoke-AddItem
+    Import-Function Get-Action
+    
+    $SharedSiteItemId = "{C197DBD2-75C1-4993-932B-ADB65397C867}"
+    $SharedSiteItem = Get-Item -Path "master:" -ID $SharedSiteItemId
+    $SharedSitePath = $SharedSiteItem.ItemPath
+    Write-Log "My Shared site: $SharedSitePath"
+    
+    function Get-LocalStyle {
+        param(
+            $Site,
+            $styleIds
+        )
+        $styles = Get-ChildItem -Path "$($Site.Paths.Path)/Presentation/Styles" -Recurse
+        $styleIds | % {
+            $styleId = $_
+            $style = Get-ItemByIdSafe $styleId
+            $styles | ? { $_.Value -eq $style.Value } | % { $_.ID }
+        }
+    }
+    
+    function Update-FieldNamesToLocalVariant {
+        param(
+            [Parameter(Mandatory = $true)]
+            [string]$itemPath,
+            [Parameter(Mandatory = $true)]
+            [string]$sitePath
+        )
+        $item = Get-Item -Path $sitePath$itemPath 
+        $sharedSitePrefix = "$SharedSitePath/Presentation/Headless Variants"
+        $localSitePrefix = "$sitePath/Presentation/Headless Variants"
+    
+        $renderings = Get-Rendering -Item $item -FinalLayout
+        $updatedRenderings = @()
+        $anyUpdated = $false
+    
+        foreach ($rendering in $renderings) {
+            $params = Get-RenderingParameter -Rendering $rendering
+            $fieldId = $params["FieldNames"]
+    
+            if ([string]::IsNullOrWhiteSpace($fieldId)) {
+                $updatedRenderings += $rendering
+                continue
+            }
+    
+            $variantItem = Get-Item -Path "master:" -ID $fieldId -ErrorAction SilentlyContinue
+    
+            if ($variantItem -and $variantItem.Paths.FullPath.StartsWith($sharedSitePrefix)) {
+                $relativePath = $variantItem.Paths.FullPath.Substring($sharedSitePrefix.Length)
+                $localVariantPath = "$localSitePrefix$relativePath"
+                $localVariantItem = Get-Item -Path $localVariantPath -ErrorAction SilentlyContinue
+    
+                if ($localVariantItem) {
+                    Write-Host "Updating FieldNames for $($item.Paths.FullPath): $($variantItem.ID) => $($localVariantItem.ID)"
+                    $params["FieldNames"] = $localVariantItem.ID
+                    $updatedRendering = $rendering | Set-RenderingParameter -Parameter $params
+                    $updatedRenderings += $updatedRendering
+                    $anyUpdated = $true
+                    continue
+                }
+                else {
+                    Write-Log "[FASTLANE SITE CREATION] Local variant not found for: $localVariantPath"
+                }
+            }
+    
+            # No update needed, keep original
+            $updatedRenderings += $rendering
+        }
+    
+        if ($anyUpdated) {
+            $updatedRenderings | Set-Rendering -Item $item -FinalLayout
+            Write-Log "[FASTLANE SITE CREATION] Updated variants for renderings on: $($item.Paths.FullPath)"
+        }
+    }
+    
+    function Update-StyleItems {
+        param(
+            [Parameter(Mandatory = $true)]
+            [string]$itemPath,
+            [Parameter(Mandatory = $true)]
+            [string]$sitePath
+        )
+        $item = Get-Item -Path $sitePath$itemPath 
+    
+        $renderings = Get-Rendering -Item $item -FinalLayout
+        $updatedRenderings = @()
+        $anyUpdated = $false
+    
+        foreach ($rendering in $renderings) {
+            $params = Get-RenderingParameter -Rendering $rendering
+            $styleIdsString = $params["Styles"]
+    
+            if ([string]::IsNullOrWhiteSpace($styleIdsString)) {
+                $updatedRenderings += $rendering
+                continue
+            }
+            $styleIds = $styleIdsString -split '\|'
+            $styles = Get-LocalStyle $Site $styleIds
+            $styles = [string]::Join('|', $styles)
+    
+            if ($styles -and $styles.Length -gt 0) {
+                $params["Styles"] = $styles
+                $updatedRendering = $rendering | Set-RenderingParameter -Parameter $params
+                $updatedRenderings += $updatedRendering
+                $anyUpdated = $true
+                continue    
+            }
+    
+            # No update needed, keep original
+            $updatedRenderings += $rendering
+        }
+    
+        if ($anyUpdated) {
+            $updatedRenderings | Set-Rendering -Item $item -FinalLayout
+            Write-Log "[FASTLANE SITE CREATION] Updated styles for renderings on: $($item.Paths.FullPath)"
+        }
+    }
+    
+    
+    function Invoke-ModuleScriptBody {
+        [CmdletBinding()]
+        param(
+            [Parameter(Mandatory = $true, Position = 0)]
+            [Item]$Site,
+    
+            [Parameter(Mandatory = $true, Position = 1)]
+            [Item[]]$TenantTemplates
+        )
+    
+        begin {
+            Write-Log "Cmdlet Invoke-ModuleScriptBody - Begin"
+        }
+    
+        process {
+            if ($null -eq $Site) {
+                Write-Log "[Site creation] Site parameter is null. Cannot proceed."
+                return
+            }
+            
+            Write-Log "Cmdlet Invoke-ModuleScriptBody - Process"
+            $sitePath = $Site.Paths.Path
+            Write-Log "My site: $sitePath"
+    		
+            # ensure site modules installed
+            $requiredModules = "{4342A029-0186-4B0D-8959-FFEF4FD998C2}", "{78678FFE-092F-45C8-B477-DC08A40D9D31}"
+            $scaffoldingService = [Sitecore.DependencyInjection.ServiceLocator]::ServiceProvider.GetService([Sitecore.XA.Foundation.Scaffolding.Services.IScaffoldingService])
+            $installedModules = $scaffoldingService.GetModules($Site).FeatureItemId
+            if ($installedModules.Count -eq 0) {     
+                # if the function is called during new site creation - get the list of modules which are being installed
+                if ($null -ne $DefinitionItems) {             
+                    $installedModules = $DefinitionItems.ID
+                }
+            }
+            $definitionItems = Compare-Object $installedModules $requiredModules | ? { $_.SideIndicator -eq "=>" } | % { $_.inputobject } | % { Get-ItemByIdSafe $_ }
+            if ($definitionItems.Count -gt 0) {       
+                #Add-SiteModule $SiteItem $definitionItems #$SiteItem is null hence using $Site
+                Add-SiteModule $Site $definitionItems
+            }
+            # ensure site items exists - in case modules installed earlier
+            $requiredModules | % {
+                $actions = Get-ItemByIdSafe $_ | Get-Action | ? { $_.TemplateName -eq "AddItem" }
+                foreach ($action in $actions) {
+                    Invoke-AddItem $Site $action
+                }
+            }
+    
+            Write-Log "[FASTLANE SITE CREATION] Removing local style items"
+            $styles = Get-ChildItem -Path "$sitePath/Presentation/Styles"
+            foreach ($style in $styles) {
+                Remove-Item -Path $style.ItemPath -Permanently -Force -Recurse
+            }
+            # Get-ChildItem -Path "$SharedSitePath/Presentation/Styles" | ForEach-Object {
+                # $styleFolder = $_            
+                # $styleFolder | Copy-Item -Destination "$sitePath/Presentation/Styles" -Recurse
+            # }
+    
+            # add media library root.
+            $virtualMedia = Get-Item -path "$sitePath/Media" -Language $Site.Language
+            $ids = $virtualMedia.AdditionalChildren.Split('|') | ? { [guid]::TryParse($_, [ref][guid]::Empty) }
+            #$ids += "{B4D0BE7D-1DCD-4263-9EDE-9E6693DA8BCB}"
+            $virtualMedia.AdditionalChildren = ($ids | Select-Object -Unique) -join "|"
+    		
+            # migrate field values for non-english versions
+            $data = Get-Item -Path "$sitePath/Data" -Language '*'
+            $siteLanguage = $data.Language | ? { $_.Name -ne "en" } | Select-Object -First 1
+            if ($siteLanguage.Name -ne $null) {
+                $branches = gci -path '/sitecore/system/Settings/Feature/JSS Experience Accelerator/FastLane Site Setup/FastLane Site Setup' | ? { $_.TemplateId -eq '{3AEA335C-D06D-45B1-841A-CBC8D2D1CE40}' } | % { $_.Fields['Template'].Value.ToString() }
+                Get-ChildItem -Path $sitePath -Recurse | `
+                    ? { $branches.Contains($_.BranchId.ToString()) } | `
+                    ? { $_.TemplateName -ne 'Page Data' } | `
+                    % {
+                    Write-Verbose "Migrating field values for $($_.Paths.Path)"
+                    $_ = $_.Versions.AddVersion()
+                    Add-ItemLanguage -Item $_ -TargetLanguage $siteLanguage.Name -Language 'en' -IfExist OverwriteLatest | Out-Null
+                    $_.Versions.RemoveAll($false)
+                }
+                    
+                Get-ChildItem -Path "$sitePath/Presentation/Styles" -Recurse | % {
+                    Write-Verbose "Migrating field values for $($_.Paths.Path)"
+                    $_ = $_.Versions.AddVersion()
+                    Add-ItemLanguage -Item $_ -TargetLanguage $siteLanguage.Name -Language 'en' -IfExist OverwriteLatest | Out-Null
+                    $_.Versions.RemoveAll($false)
+                }                
+            }
+    
+            # Write-Log "[FASTLANE SITE CREATION] Updating partial design components with local variants"
+            
+            # Update-FieldNamesToLocalVariant -itemPath "/Presentation/Partial Designs/MainNavigationHeader" -sitePath $sitePath
+            # Update-FieldNamesToLocalVariant -itemPath "/Presentation/Partial Designs/Footer" -sitePath $sitePath
+    
+            # Write-Log "[FASTLANE SITE CREATION] Updating partial design components with local style items"
+    
+            # Update-StyleItems -itemPath "/Presentation/Partial Designs/MainNavigationHeader" -sitePath $sitePath
+            # Update-StyleItems -itemPath "/Presentation/Partial Designs/Footer" -sitePath $sitePath
+    
+            $homeItem = Get-Item -Path "$sitePath/Home"
+    		
+    		$homeBranchTemplateId = "{6E85A915-A455-41EB-95DF-ECA8F61521EC}"
+    		$404BranchTemplateId = "{196DCD3B-379E-4B21-B953-F3459DF5ED2D}"
+    		$500BranchTemplateId = "{F346E573-1C50-4B90-A03E-2A032800FEEB}"
+    		#$stylesBranchTemplateId = "{C3E4D214-FF17-4798-BF0E-E599FDD6B6EC}"
+    		
+            Write-Log "[FASTLANE SITE CREATION] Recreating home"
+    		#Remove old home and create new home based on the home branch and update the site group item
+            Remove-Item -Path "$sitePath/Home" -Permanently -Force -Recurse
+            New-Item -Path "$sitePath/Home" -ItemType $homeBranchTemplateId
+            $homeItem = Get-Item -Path "$sitePath/Home"
+    
+            # Write-Log "[FASTLANE SITE CREATION] Recreating styles"
+    		# #Remove old styles and create new styles based on the styles branch
+            # Remove-Item -Path "$sitePath/Presentation/Styles" -Permanently -Force -Recurse
+            # New-Item -Path "$sitePath/Presentation/Styles" -ItemType $stylesBranchTemplateId
+            # $stylesItem = Get-Item -Path "$sitePath/Presentation/Styles"
+    
+            Write-Log "[FASTLANE SITE CREATION] Create 404"
+    		#Create 404
+            New-Item -Path "$sitePath/Home/Page Not Found" -ItemType $404BranchTemplateId
+    
+            Write-Log "[FASTLANE SITE CREATION] Create 500"
+    		#Create 500
+    		New-Item -Path "$sitePath/Home/Internal Server Error" -ItemType $500BranchTemplateId
+    
+            Write-Log "[FASTLANE SITE CREATION] Updating Site Group Item Start Item to new Home."
+            $siteGroupItem = Get-Item -Path "$sitePath/Settings/Site Grouping/$($Site.Name)"
+            $siteGroupItem.Editing.BeginEdit()
+            $siteGroupItem["StartItem"] = $homeItem.ID
+            $siteGroupItem.Editing.EndEdit()
+    
+            Write-Log "[FASTLANE SITE CREATION] Update Site Error pages"
+            $pageNotFoundItem = Get-Item -Path "$sitePath/Home/Page Not Found" #404 page
+            $serverErrorPage = Get-Item -Path "$sitePath/Home/Internal Server Error"#500 page
+            $siteSettings = Get-Item -Path "$sitePath/Settings"
+            $siteSettings.Editing.BeginEdit()
+            $siteSettings["Error404Page"] = $pageNotFoundItem.Paths.Path
+            $siteSettings["Error500Page"] = $serverErrorPage.Paths.Path
+            $siteSettings.Editing.EndEdit()
+    		
+    		Write-Log "[FASTLANE SITE CREATION] Update Available Renderings Groupings"
+            $availableRenderings = Get-Item -Path "$sitePath/Presentation/Available Renderings"
+            $availableRenderings.Editing.BeginEdit()
+            $availableRenderings["Group renderings in sections"] = 1
+            $availableRenderings.Editing.EndEdit()
+    		
+    		# Write-Log "[FASTLANE SITE CREATION] Copy Page Branches"
+    		# $sitePageBranchesPath = "$sitePath/Presentation/Page Branches"
+    		# $sharedPageBranchesPath = "$SharedSitePath/Presentation/Page Branches"
+    		# $sitePageBranches = Get-Item -Path $sitePageBranchesPath
+    		# $sharedPageBranches = Get-Item -Path $sharedPageBranchesPath
+    		# $sharedPageBranchesChildren = Get-ChildItem -Path $sharedPageBranchesPath
+    		# foreach ($child in $sharedPageBranchesChildren) {
+    			# Copy-Item -Path $child.ItemPath -Destination $sitePageBranchesPath -Recurse
+    			# $newItem = Get-Item "$sitePageBranchesPath/$($child.Name)"
+    			# if ($newItem) {
+    				# Write-Log "[FASTLANE SITE CREATION] Successfully copied '$($child.Name)'"
+    				# Write-Log "[FASTLANE SITE CREATION] Update Page Branches folder rules"
+    				
+    				# $oldId = $child.ID.Guid
+    				# $newId = $newItem.ID.Guid
+    				# $ruleField = $sitePageBranches.Fields["Rule"]
+    				# $ruleFieldValue = $ruleField.Value
+    				# $updatedValue = $ruleFieldValue -replace [regex]::Escape($oldId.ToString()), $newId.ToString()
+    
+    				# $sitePageBranches.Editing.BeginEdit()
+    				# $sitePageBranches["Rule"] = $updatedValue
+    				# $sitePageBranches.Editing.EndEdit()
+    			# } else {
+    				# Write-Warning "Failed to copy '$($child.Name)'"
+    			# }
+    		# }
+    
+        }
+    
+        end {
+            Write-Log "Cmdlet Invoke-ModuleScriptBody - End"
+        }
+    } 
+- ID: "dbbbeca1-21c7-4906-9dd2-493c1efa59a2"
+  Hint: __Shared revision
+  Value: "c71d4bef-1f84-4803-82fa-b5fd84016877"
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20250628T191445Z
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+      Hint: __Owner
+      Value: |
+        sitecore\andy.cohen@altudo.co
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\andy.cohen@altudo.co
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "b6efb426-a59f-423b-9edf-2ba1e3c0191a"
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\andy.cohen@altudo.co
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20250630T000731Z

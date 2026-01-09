@@ -1,0 +1,152 @@
+﻿---
+ID: "b3913602-da6e-4e3a-921d-9d099a47718a"
+Parent: "1ca672c3-e41f-45e0-85c9-29ad7da178b5"
+Template: "c16a4c28-0a40-4d2c-9f19-20648c62b054"
+Path: /sitecore/content/FastLaneTenant/global/Data/SocialShare/Pinterest
+BranchID: "c8547450-f5cc-4b84-9127-74215d27b7ba"
+SharedFields:
+- ID: "a4f985d9-98b3-4b52-aaaf-4344f6e747c6"
+  Hint: __Workflow
+  Value: "{9A1B3B33-17C0-4DAE-A533-CEC7FA11F68A}"
+- ID: "dbbbeca1-21c7-4906-9dd2-493c1efa59a2"
+  Hint: __Shared revision
+  Value: "80ee407f-7c97-4db7-9b6e-54e615f98e3f"
+- ID: "f6d8a61c-2f84-4401-bd24-52d2068172bc"
+  Hint: __Originator
+  Value: "{4E746E80-95F0-40A2-9B00-FF9A9A19BF70}"
+Languages:
+- Language: "ar-AE"
+  Fields:
+  - ID: "30e85e5d-e00a-4864-b358-7624d511deb4"
+    Hint: __Unversioned revision
+    Value: "82c18d98-45bd-4bdd-a6cc-b07ad33f3193"
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "230e662b-b8f9-4368-b633-cbdb02f8755b"
+      Hint: Media
+      Value: |
+        <link linktype="external" url="https://media-hosting.imagekit.io//8decd61836e348a5/icons8-pinterest-48.png?Expires=1835018068&amp;Key-Pair-Id=K2ZIVPTIP2VGHC&amp;Signature=gWczP002ByRNI2gPyu2ojBNJ1R-dYEEWTxfo~jr0tEMTH309f6OhW9gMqMBntQdxX3~rzTDgoEmkJ3jovz-3H~q6NygMMnvJ0bquSiVcDArbyNDbL~nSYFkdAtJ-QkYg2T~4kcAmYMEhyWZsV6OZZ0S0mfaNiOFzxGUjakz52-57S5qohN33VF98swpGUfpwqk3txurd2seTWyUCa5zqTAinXVVbTF8-cyqHHujF-vtGN70ZSNL162G~ox-DAIOP3v1K6~J5JehkJrCygl5ANCUSaTTWAe5NdnzsX5quuWaGW3iOvUjrIB4L4N8e2dqHKTz2aiFy1LayYSaM1bcC8w__" anchor="" target="" />
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20250629T172646Z
+    - ID: "3e431de1-525e-47a3-b6b0-1ccbec3a8c98"
+      Hint: __Workflow state
+      Value: "{B71D5C66-667B-4CF1-BE66-342C8B59A4DB}"
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+      Hint: __Owner
+      Value: |
+        sitecore\karthikeyan.kumaravel@altudo.co
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\andy.cohen@altudo.co
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "87da162b-fb09-4924-a152-3b137bba54e6"
+    - ID: "aa4e5f92-cbb0-4134-ba73-fe27fc4e2e7a"
+      Hint: SocialIcon
+      Value: |
+        <image mediaid="{834D3543-AD2E-45F0-A5B4-7D2660F66B2A}" />
+    - ID: "ba0a52e5-b8a7-46fd-b24d-815c5d720b96"
+      Hint: Title
+      Value: Pinterest
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\karthikeyan.kumaravel@altudo.co
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20251104T183245Z
+- Language: en
+  Fields:
+  - ID: "30e85e5d-e00a-4864-b358-7624d511deb4"
+    Hint: __Unversioned revision
+    Value: "95b7d956-149c-49a5-ba4a-e01cc5827a6e"
+  - ID: "b5e02ad9-d56f-4c41-a065-a133db87bdeb"
+    Hint: __Display name
+    Value: 
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "001dd393-96c5-490b-924a-b0f25cd9efd8"
+      Hint: __Lock
+      Value: <r />
+    - ID: "230e662b-b8f9-4368-b633-cbdb02f8755b"
+      Hint: Media
+      Value: |
+        <link linktype="external" url="https://media-hosting.imagekit.io//8decd61836e348a5/icons8-pinterest-48.png?Expires=1835018068&amp;Key-Pair-Id=K2ZIVPTIP2VGHC&amp;Signature=gWczP002ByRNI2gPyu2ojBNJ1R-dYEEWTxfo~jr0tEMTH309f6OhW9gMqMBntQdxX3~rzTDgoEmkJ3jovz-3H~q6NygMMnvJ0bquSiVcDArbyNDbL~nSYFkdAtJ-QkYg2T~4kcAmYMEhyWZsV6OZZ0S0mfaNiOFzxGUjakz52-57S5qohN33VF98swpGUfpwqk3txurd2seTWyUCa5zqTAinXVVbTF8-cyqHHujF-vtGN70ZSNL162G~ox-DAIOP3v1K6~J5JehkJrCygl5ANCUSaTTWAe5NdnzsX5quuWaGW3iOvUjrIB4L4N8e2dqHKTz2aiFy1LayYSaM1bcC8w__" anchor="" target="" />
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20250629T172646Z
+    - ID: "3e431de1-525e-47a3-b6b0-1ccbec3a8c98"
+      Hint: __Workflow state
+      Value: "{B71D5C66-667B-4CF1-BE66-342C8B59A4DB}"
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+      Hint: __Owner
+      Value: |
+        sitecore\andy.cohen@altudo.co
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\andy.cohen@altudo.co
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "1ba7380e-6c3a-4fdf-b2e8-119d6143cd7d"
+    - ID: "aa4e5f92-cbb0-4134-ba73-fe27fc4e2e7a"
+      Hint: SocialIcon
+      Value: |
+        <image mediaid="{834D3543-AD2E-45F0-A5B4-7D2660F66B2A}" />
+    - ID: "ba0a52e5-b8a7-46fd-b24d-815c5d720b96"
+      Hint: Title
+      Value: Pinterest
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\andy.cohen@altudo.co
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20250629T173335Z
+- Language: "fr-CA"
+  Fields:
+  - ID: "30e85e5d-e00a-4864-b358-7624d511deb4"
+    Hint: __Unversioned revision
+    Value: "0a54034e-2c7c-4524-b640-0cc25504e5b2"
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "230e662b-b8f9-4368-b633-cbdb02f8755b"
+      Hint: Media
+      Value: |
+        <link linktype="external" url="https://media-hosting.imagekit.io//8decd61836e348a5/icons8-pinterest-48.png?Expires=1835018068&amp;Key-Pair-Id=K2ZIVPTIP2VGHC&amp;Signature=gWczP002ByRNI2gPyu2ojBNJ1R-dYEEWTxfo~jr0tEMTH309f6OhW9gMqMBntQdxX3~rzTDgoEmkJ3jovz-3H~q6NygMMnvJ0bquSiVcDArbyNDbL~nSYFkdAtJ-QkYg2T~4kcAmYMEhyWZsV6OZZ0S0mfaNiOFzxGUjakz52-57S5qohN33VF98swpGUfpwqk3txurd2seTWyUCa5zqTAinXVVbTF8-cyqHHujF-vtGN70ZSNL162G~ox-DAIOP3v1K6~J5JehkJrCygl5ANCUSaTTWAe5NdnzsX5quuWaGW3iOvUjrIB4L4N8e2dqHKTz2aiFy1LayYSaM1bcC8w__" anchor="" target="" />
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20250629T172646Z
+    - ID: "3e431de1-525e-47a3-b6b0-1ccbec3a8c98"
+      Hint: __Workflow state
+      Value: "{B71D5C66-667B-4CF1-BE66-342C8B59A4DB}"
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+      Hint: __Owner
+      Value: |
+        sitecore\karthikeyan.kumaravel@altudo.co
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\andy.cohen@altudo.co
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "bb50fa95-9f17-4bd9-863e-38e7da464b3f"
+    - ID: "aa4e5f92-cbb0-4134-ba73-fe27fc4e2e7a"
+      Hint: SocialIcon
+      Value: |
+        <image mediaid="{834D3543-AD2E-45F0-A5B4-7D2660F66B2A}" />
+    - ID: "ba0a52e5-b8a7-46fd-b24d-815c5d720b96"
+      Hint: Title
+      Value: Pinterest
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\karthikeyan.kumaravel@altudo.co
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20251104T182722Z

@@ -1,0 +1,94 @@
+﻿---
+ID: "094d16b8-e70b-44f8-802b-eec59062834f"
+Parent: "150ceb6d-b242-464b-a89d-0612fc25ffc7"
+Template: "0a7aa373-5ed1-4e9b-9678-22d3c5faf6df"
+Path: /sitecore/content/FastLaneTenant/fastlanewebsite/Home/About Us/Data/Our Vision
+SharedFields:
+- ID: "a4f985d9-98b3-4b52-aaaf-4344f6e747c6"
+  Hint: __Workflow
+  Value: "{9A1B3B33-17C0-4DAE-A533-CEC7FA11F68A}"
+- ID: "dbbbeca1-21c7-4906-9dd2-493c1efa59a2"
+  Hint: __Shared revision
+  Value: "ac274cd5-8476-4b8e-9dc5-5000b39fcba8"
+Languages:
+- Language: "ar-AE"
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20250610T112719Z
+    - ID: "3e431de1-525e-47a3-b6b0-1ccbec3a8c98"
+      Hint: __Workflow state
+      Value: "{B71D5C66-667B-4CF1-BE66-342C8B59A4DB}"
+    - ID: "729034fc-24f3-40b7-8fa4-fb49d7de20dd"
+      Hint: Text
+      Value: |
+        <div class="ck-content">
+        <h2 style="margin-bottom:20px;">رؤيتنا</h2>
+        <p>منذ نشأتها في أعقاب الحرب العالمية الأولى وحتى دورها في تشكيل السياسة الصحية العالمية في القرن الحادي والعشرين، ظلت الكلية الدولية للمهنيين الطبيين ثابتة في التزامها بتوحيد الأطباء في السعي لتحقيق رعاية أخلاقية قائمة على الأدلة. وقد كانت بمثابة منتدى للمحادثات الصعبة، ومستودع للمعرفة المشتركة، وحصن ضد تسييس العلم.</p>
+        </div>
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "1d33f68a-c626-486e-ae39-f45ab57bab64"
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\karthikeyan.kumaravel@altudo.co
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20251106T111512Z
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "001dd393-96c5-490b-924a-b0f25cd9efd8"
+      Hint: __Lock
+      Value: <r />
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20250610T112719Z
+    - ID: "3e431de1-525e-47a3-b6b0-1ccbec3a8c98"
+      Hint: __Workflow state
+      Value: "{B71D5C66-667B-4CF1-BE66-342C8B59A4DB}"
+    - ID: "729034fc-24f3-40b7-8fa4-fb49d7de20dd"
+      Hint: Text
+      Value: |
+        <div class="ck-content"><h2 style="margin-bottom:20px;">Our Vision</h2><p>From its origins in the aftermath of World War I to its role in shaping global health policy in the 21st century, the International Collegium of Medical Professionals has remained steadfast in its commitment to uniting physicians in the pursuit of ethical, evidence-based care. It has served as a forum for difficult conversations, a repository of shared knowledge, and a bulwark against the politicization of science.</p></div>
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "beed0fea-fb72-4249-a5f5-1a499543ff36"
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\inam.hasan@altudo.co
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20250612T092826Z
+- Language: "fr-CA"
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20250610T112719Z
+    - ID: "3e431de1-525e-47a3-b6b0-1ccbec3a8c98"
+      Hint: __Workflow state
+      Value: "{B71D5C66-667B-4CF1-BE66-342C8B59A4DB}"
+    - ID: "729034fc-24f3-40b7-8fa4-fb49d7de20dd"
+      Hint: Text
+      Value: |
+        <div class="ck-content">
+        <h2 style="margin-bottom:20px;">Notre vision</h2>
+        <p>Depuis sa cr&eacute;ation au lendemain de la Premi&egrave;re Guerre mondiale jusqu'&agrave; son r&ocirc;le d&eacute;terminant dans l'&eacute;laboration des politiques de sant&eacute; mondiale au XXIe si&egrave;cle, le Coll&egrave;ge international des professionnels de la sant&eacute; est rest&eacute; fid&egrave;le &agrave; son engagement d'unir les m&eacute;decins dans la pratique de soins &eacute;thiques et fond&eacute;s sur des donn&eacute;es probantes. Il a servi de forum pour des discussions difficiles, de centre de partage des connaissances et de rempart contre la politisation de la science.</p>
+        </div>
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "792d7f57-fe6c-450f-8b0c-35a0ab979177"
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\karthikeyan.kumaravel@altudo.co
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20251126T131608Z

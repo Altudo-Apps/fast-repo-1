@@ -1,0 +1,380 @@
+﻿---
+ID: "7dc690b6-5da7-4ab7-8859-c3cbca282efc"
+Parent: "6f8af16c-8165-4e94-b6c0-2a3abbd31b4c"
+Template: "350838af-2729-4435-accd-f1bdb79ef733"
+Path: /sitecore/content/FastLaneTenant/fastlanewebsite/Home/Blogs/BlogArticles/i/ICMP Hosts
+BranchID: "85f6266a-c591-4ada-85cb-c6cdd8775f47"
+SharedFields:
+- ID: "a4f985d9-98b3-4b52-aaaf-4344f6e747c6"
+  Hint: __Workflow
+  Value: "{CF913994-CC05-4D20-B38A-9CF1E73F5951}"
+- ID: "dbbbeca1-21c7-4906-9dd2-493c1efa59a2"
+  Hint: __Shared revision
+  Value: "60724b2c-55ac-4720-9874-af6a8d947aaa"
+- ID: "f6d8a61c-2f84-4401-bd24-52d2068172bc"
+  Hint: __Originator
+  Value: "{64A8D11E-D36B-4319-AEA1-E7C4976224D1}"
+Languages:
+- Language: "ar-AE"
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "04bf00db-f5fb-41f7-8ab7-22408372a981"
+      Hint: __Final Renderings
+      Value: |
+        <r xmlns:p="p" xmlns:s="s"
+          p:p="1">
+          <d
+            id="{FE5D7FDF-89C0-4D99-9AA3-B5FBD009C9F3}">
+            <r
+              uid="{E6577B7B-5EEC-43F0-A751-6457290EBB0D}"
+              p:before="*"
+              s:id="{B7C649C8-C683-44CB-9A87-AEBEA3DA8EB3}"
+              s:par="GridParameters=%7BF61E01E9-711A-4C99-AE30-4E28463E1DF7%7D&amp;FieldNames=%7B129985C4-D854-49F5-9602-9E1D1B8DF899%7D&amp;BackgroundImage&amp;Styles=%7C%7B0D8280A3-A4C1-4AAD-8392-30B3080349C8%7D&amp;RenderingIdentifier&amp;CSSStyles&amp;DynamicPlaceholderId=1"
+              s:ph="headless-main" />
+            <r
+              uid="{ECCDC050-7EDE-47E9-ABE3-73295D3277CC}"
+              p:after="r[@uid='{E6577B7B-5EEC-43F0-A751-6457290EBB0D}']"
+              s:id="{F7295588-FA7F-448E-B222-F64005B22E8D}"
+              s:par="GridParameters=%7BF61E01E9-711A-4C99-AE30-4E28463E1DF7%7D&amp;ImageOrder&amp;FieldNames=%7BBAC81150-16BD-4AED-9DF5-6FB5C82E1B95%7D&amp;Styles=%7C%7BDA96D040-41DE-4486-A4D1-6CEDECA18E14%7D&amp;RenderingIdentifier&amp;CSSStyles&amp;DynamicPlaceholderId=3"
+              s:ph="headless-main" />
+            <r
+              uid="{9ADB19C9-8277-4F47-95DF-BDE94C39F41E}"
+              p:after="r[@uid='{ECCDC050-7EDE-47E9-ABE3-73295D3277CC}']"
+              s:id="{B7C649C8-C683-44CB-9A87-AEBEA3DA8EB3}"
+              s:par="GridParameters=%7BF61E01E9-711A-4C99-AE30-4E28463E1DF7%7D&amp;FieldNames=%7B129985C4-D854-49F5-9602-9E1D1B8DF899%7D&amp;BackgroundImage&amp;Styles=%7C%7B0D8280A3-A4C1-4AAD-8392-30B3080349C8%7D&amp;RenderingIdentifier&amp;CSSStyles&amp;DynamicPlaceholderId=4"
+              s:ph="headless-main" />
+            <r
+              uid="{392DA7C3-FB30-40FE-B216-ED447498DA55}"
+              p:after="r[@uid='{9ADB19C9-8277-4F47-95DF-BDE94C39F41E}']"
+              s:id="{D425DB5D-FFB0-4574-852C-C17D904CC3E7}"
+              s:par="GridParameters=%7BF61E01E9-711A-4C99-AE30-4E28463E1DF7%7D&amp;FieldNames=%7B6F83E0EE-E1C1-42D2-8B7B-DA86DFDD39DB%7D&amp;Styles=%7C%7B475E77AB-3D7F-4C96-A0C4-8164A8158C82%7D&amp;RenderingIdentifier&amp;CSSStyles&amp;DynamicPlaceholderId=2"
+              s:ph="/headless-main/container-1" />
+            <r
+              uid="{91DE9E42-A5B7-4A0C-9FD6-E161FA2A2A33}"
+              p:after="r[@uid='{392DA7C3-FB30-40FE-B216-ED447498DA55}']"
+              s:id="{1409AEA2-6E60-4EA9-8813-CB229DF0E3B7}"
+              s:par="GridParameters=%7BF61E01E9-711A-4C99-AE30-4E28463E1DF7%7D&amp;FieldNames=%7B0EFC83ED-6584-40A0-91D4-56B2091E359B%7D&amp;Styles=%7C%7B475E77AB-3D7F-4C96-A0C4-8164A8158C82%7D%7C%7BACA1D298-4F90-4EA9-8281-82D0BBB1E353%7D&amp;RenderingIdentifier&amp;CSSStyles&amp;DynamicPlaceholderId=6"
+              s:ph="/headless-main/container-4" />
+            <r
+              uid="{8A4EFCA2-5DCF-4BA4-B3DD-DEDB63774800}"
+              p:after="*[1=2]"
+              s:id="{C5F905F8-FD1F-444E-A9E5-AC6B774FF0DE}"
+              s:par="GridParameters=%7BF61E01E9-711A-4C99-AE30-4E28463E1DF7%7D&amp;Heading Tag&amp;FieldNames=%7B73D70018-AEEB-4FE5-A0F2-50B7BE67B1FF%7D&amp;Styles&amp;RenderingIdentifier&amp;CSSStyles&amp;DynamicPlaceholderId=5"
+              s:ph="/headless-main/container-4" />
+          </d>
+        </r>
+    - ID: "06890ecb-5786-4776-8d76-19250477a9bc"
+      Hint: MetaImage
+      Value: |
+        <image mediaid="{2C661A21-0A37-4C11-B2A1-7389E5007484}" alt="ICMP Host Data" height="" width="" hspace="" vspace="" />
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20251028T130840Z
+    - ID: "3e431de1-525e-47a3-b6b0-1ccbec3a8c98"
+      Hint: __Workflow state
+      Value: "{F7F71754-F47E-4605-AD5B-87F78974DD92}"
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+      Hint: __Owner
+      Value: |
+        sitecore\karthikeyan.kumaravel@altudo.co
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\karthikeyan.kumaravel@altudo.co
+    - ID: "6128ed46-0b79-4d6a-87ad-ac6fe70c649c"
+      Hint: Category
+      Value: Insights
+    - ID: "6fb03d9c-e0f6-4765-831d-d5627c4e0b67"
+      Hint: Content
+      Value: |
+        <p>The International Council for Medical Proficiency (ICMP) successfully hosted its first hybrid Global Medical Congress since the pandemic, drawing over 6,000 physicians, researchers, and health leaders to Geneva, Switzerland, from November 5-8, 2025. Blending in-person plenaries with virtual access across 120 countries, the event focused on rebuilding trust in medicine through post-pandemic recovery strategies, cutting-edge innovations, and the ethical globalization of care&mdash;marking a triumphant return to collaborative discourse in an era of digital transformation and renewed professional solidarity.<br />
+        <strong></strong></p>
+        <p><strong>A Resonant Return: The Congress in Context</strong><br />
+        After five years of virtual-only gatherings disrupted by COVID-19, the 2025 ICMP Global Medical Congress signified a pivotal reconnection. Held at the iconic Palais des Nations, the hybrid format accommodated 2,500 on-site delegates while streaming sessions to a global audience, ensuring inclusivity for those in remote or resource-limited settings. With a theme of "Rebuilding Trust: Innovate, Ethicize, Globalize," the congress addressed the erosion of public confidence in healthcare&mdash;exacerbated by misinformation and inequities&mdash;while charting pathways for resilient, patient-centered systems.<br />
+        Dr. Fitzgerald opened the event with a keynote: "We've survived isolation; now we thrive in unity. This congress isn't just a meeting&mdash;it's a manifesto for medicine's moral and innovative revival." Attendance shattered pre-pandemic records, with 65% of participants from low- and middle-income countries, underscoring ICMP's equity mandate.<br />
+        <strong></strong></p>
+        <p><strong>Core Themes and Groundbreaking Sessions</strong><br />
+        The four-day agenda featured over 150 sessions, blending TED-style talks, interactive workshops, and AI-facilitated debates. Key themes included:<br />
+        <br />
+        <strong>Rebuilding Trust Post-Pandemic:</strong>&nbsp;Panels dissected vaccine hesitancy and infodemic responses, with WHO's Dr. Maria Neira sharing data on how transparent communication boosted immunization rates by 28% in pilot regions. A highlight was the "Trust Lab," where delegates prototyped community engagement tools using gamified apps.<br />
+        <strong>Innovation at the Forefront:</strong>&nbsp;Spotlights on emerging tech, such as quantum-enhanced diagnostics and blockchain for secure health records, drew crowds. A sold-out session on AI ethics featured ICMP's new Code of Medical Conduct, with live demos of bias-detection algorithms.<br />
+        <strong>Ethical Globalization of Care:</strong>&nbsp;Discussions on equitable telemedicine and genomic equity emphasized cross-border collaborations. The launch of the Global Research Equity Consortium's action plan, chaired by Dr. Javier Ortega, sparked commitments from 40 funders totaling $120 million for LMIC-led trials.<br />
+        <br />
+        Notable moments included a fireside chat with ICMP President Dr. Aminata Diouf on climate-health intersections and a closing concert blending Swiss folk with African rhythms, symbolizing cultural fusion in global health.</p>
+        <p><strong>Voices and Impacts: Stories from Attendees</strong><br />
+        Feedback was overwhelmingly positive, with a 4.9/5 satisfaction rating. Dr. Priya Singh, a pediatrician from Mumbai attending virtually, noted: "The hybrid model made elite insights accessible&mdash; I networked with Geneva experts without leaving my clinic." On-site, Senegalese delegate Dr. Moussa Traor&eacute; praised the policy roundtables: "These dialogues will shape our national accreditation reforms back home."<br />
+        The congress generated 12 joint declarations, including a "Geneva Accord on Ethical AI," signed by 85 organizations, and spawned 20+ spin-off working groups on topics like sustainable supply chains.<br />
+        Looking Ahead: Sustaining the Momentum<br />
+        As the curtains closed, ICMP announced the 2027 congress in Nairobi, Kenya, to further decentralize its footprint. Recordings and resources are available at icmp.org/congress-2025, with calls for 2027 proposals now open.<br />
+        This event reaffirmed ICMP's role as a convener of change, proving that in hybrid harmony, we can heal divides and ignite progress. Join the conversation in our blog archives or subscribe to the ICMP newsletter for highlights.</p>
+    - ID: "78bd5b13-d9ab-44a4-bae4-c2dda0ad6133"
+      Hint: IntroText
+      Value: ICMP hosted its first hybrid Global Medical Congress since the pandemic in Geneva, attracting over 6,000 physicians worldwide. The event emphasized rebuilding trust in medicine, fostering innovation, and advancing ethical global care practices.
+    - ID: "7cba72f9-1513-41af-ba26-de761f138805"
+      Hint: Title
+      Value: ICMP Hosts First Hybrid Global Congress Since Pandemic
+    - ID: "85f5b648-1823-4509-b7fd-27deacdf2dff"
+      Hint: MetaDescription
+      Value: "Over 6,000 physicians joined ICMP's landmark hybrid Global Medical Congress in Geneva—the first since the pandemic—focusing on innovation, ethical globalization, and restoring trust in post-pandemic healthcare."
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "cff424bd-05c3-4587-8cac-49f547212883"
+    - ID: "92c233dc-a8b3-4fd0-bb3f-e82a8b49bed2"
+      Hint: MetaTitle
+      Value: ICMP's 2025 Hybrid Global Medical Congress in Geneva | Over 6,000 Attendees Rebuild Trust
+    - ID: "9f4483ca-f858-45d1-86a5-0a69c9ab6207"
+      Hint: MetaKeywords
+      Value: "ICMP congress, hybrid medical event, global health congress, Geneva 2025, post-pandemic trust, medical innovation, ethical globalization, physician gathering, health equity, digital health"
+    - ID: "a667d11b-ca9f-4fbe-881f-2538eb51f432"
+      Hint: PublishedDate
+      Value: 20251003T000000Z
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\karthikeyan.kumaravel@altudo.co
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20251201T185027Z
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "001dd393-96c5-490b-924a-b0f25cd9efd8"
+      Hint: __Lock
+      Value: <r />
+    - ID: "04bf00db-f5fb-41f7-8ab7-22408372a981"
+      Hint: __Final Renderings
+      Value: |
+        <r xmlns:p="p" xmlns:s="s"
+          p:p="1">
+          <d
+            id="{FE5D7FDF-89C0-4D99-9AA3-B5FBD009C9F3}">
+            <r
+              uid="{E6577B7B-5EEC-43F0-A751-6457290EBB0D}"
+              p:before="*"
+              s:id="{B7C649C8-C683-44CB-9A87-AEBEA3DA8EB3}"
+              s:par="GridParameters=%7BF61E01E9-711A-4C99-AE30-4E28463E1DF7%7D&amp;FieldNames=%7B129985C4-D854-49F5-9602-9E1D1B8DF899%7D&amp;BackgroundImage&amp;Styles=%7C%7B0D8280A3-A4C1-4AAD-8392-30B3080349C8%7D&amp;RenderingIdentifier&amp;CSSStyles&amp;DynamicPlaceholderId=1"
+              s:ph="headless-main" />
+            <r
+              uid="{ECCDC050-7EDE-47E9-ABE3-73295D3277CC}"
+              p:after="r[@uid='{E6577B7B-5EEC-43F0-A751-6457290EBB0D}']"
+              s:id="{F7295588-FA7F-448E-B222-F64005B22E8D}"
+              s:par="GridParameters=%7BF61E01E9-711A-4C99-AE30-4E28463E1DF7%7D&amp;ImageOrder&amp;FieldNames=%7BBAC81150-16BD-4AED-9DF5-6FB5C82E1B95%7D&amp;Styles=%7C%7BDA96D040-41DE-4486-A4D1-6CEDECA18E14%7D&amp;RenderingIdentifier&amp;CSSStyles&amp;DynamicPlaceholderId=3"
+              s:ph="headless-main" />
+            <r
+              uid="{9ADB19C9-8277-4F47-95DF-BDE94C39F41E}"
+              p:after="r[@uid='{ECCDC050-7EDE-47E9-ABE3-73295D3277CC}']"
+              s:id="{B7C649C8-C683-44CB-9A87-AEBEA3DA8EB3}"
+              s:par="GridParameters=%7BF61E01E9-711A-4C99-AE30-4E28463E1DF7%7D&amp;FieldNames=%7B129985C4-D854-49F5-9602-9E1D1B8DF899%7D&amp;BackgroundImage&amp;Styles=%7C%7B0D8280A3-A4C1-4AAD-8392-30B3080349C8%7D&amp;RenderingIdentifier&amp;CSSStyles&amp;DynamicPlaceholderId=4"
+              s:ph="headless-main" />
+            <r
+              uid="{392DA7C3-FB30-40FE-B216-ED447498DA55}"
+              p:after="r[@uid='{9ADB19C9-8277-4F47-95DF-BDE94C39F41E}']"
+              s:id="{D425DB5D-FFB0-4574-852C-C17D904CC3E7}"
+              s:par="GridParameters=%7BF61E01E9-711A-4C99-AE30-4E28463E1DF7%7D&amp;FieldNames=%7B6F83E0EE-E1C1-42D2-8B7B-DA86DFDD39DB%7D&amp;Styles=%7C%7B475E77AB-3D7F-4C96-A0C4-8164A8158C82%7D&amp;RenderingIdentifier&amp;CSSStyles&amp;DynamicPlaceholderId=2"
+              s:ph="/headless-main/container-1" />
+            <r
+              uid="{91DE9E42-A5B7-4A0C-9FD6-E161FA2A2A33}"
+              p:after="r[@uid='{392DA7C3-FB30-40FE-B216-ED447498DA55}']"
+              s:id="{1409AEA2-6E60-4EA9-8813-CB229DF0E3B7}"
+              s:par="GridParameters=%7BF61E01E9-711A-4C99-AE30-4E28463E1DF7%7D&amp;FieldNames=%7B0EFC83ED-6584-40A0-91D4-56B2091E359B%7D&amp;Styles=%7C%7B475E77AB-3D7F-4C96-A0C4-8164A8158C82%7D%7C%7BACA1D298-4F90-4EA9-8281-82D0BBB1E353%7D&amp;RenderingIdentifier&amp;CSSStyles&amp;DynamicPlaceholderId=6"
+              s:ph="/headless-main/container-4" />
+            <r
+              uid="{8A4EFCA2-5DCF-4BA4-B3DD-DEDB63774800}"
+              p:after="*[1=2]"
+              s:id="{C5F905F8-FD1F-444E-A9E5-AC6B774FF0DE}"
+              s:par="GridParameters=%7BF61E01E9-711A-4C99-AE30-4E28463E1DF7%7D&amp;Heading Tag&amp;FieldNames=%7B73D70018-AEEB-4FE5-A0F2-50B7BE67B1FF%7D&amp;Styles&amp;RenderingIdentifier&amp;CSSStyles&amp;DynamicPlaceholderId=5"
+              s:ph="/headless-main/container-4" />
+          </d>
+        </r>
+    - ID: "06890ecb-5786-4776-8d76-19250477a9bc"
+      Hint: MetaImage
+      Value: |
+        <image mediaid="{2C661A21-0A37-4C11-B2A1-7389E5007484}" />
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20251028T130840Z
+    - ID: "3e431de1-525e-47a3-b6b0-1ccbec3a8c98"
+      Hint: __Workflow state
+      Value: "{F7F71754-F47E-4605-AD5B-87F78974DD92}"
+    - ID: "4e0720e9-9d50-4ddc-87cf-ecd65e8e94c8"
+      Hint: NavigationTitle
+      Value: ICMP Hosts First Hybrid Global Congress Since Pandemic
+    - ID: "6128ed46-0b79-4d6a-87ad-ac6fe70c649c"
+      Hint: Category
+      Value: Insights
+    - ID: "6fb03d9c-e0f6-4765-831d-d5627c4e0b67"
+      Hint: Content
+      Value: |
+        <p>The International Council for Medical Proficiency (ICMP) successfully hosted its first hybrid Global Medical Congress since the pandemic, drawing over 6,000 physicians, researchers, and health leaders to Geneva, Switzerland, from November 5-8, 2025. Blending in-person plenaries with virtual access across 120 countries, the event focused on rebuilding trust in medicine through post-pandemic recovery strategies, cutting-edge innovations, and the ethical globalization of care&mdash;marking a triumphant return to collaborative discourse in an era of digital transformation and renewed professional solidarity.<br />
+        <strong></strong></p>
+        <p><strong>A Resonant Return: The Congress in Context</strong><br />
+        After five years of virtual-only gatherings disrupted by COVID-19, the 2025 ICMP Global Medical Congress signified a pivotal reconnection. Held at the iconic Palais des Nations, the hybrid format accommodated 2,500 on-site delegates while streaming sessions to a global audience, ensuring inclusivity for those in remote or resource-limited settings. With a theme of "Rebuilding Trust: Innovate, Ethicize, Globalize," the congress addressed the erosion of public confidence in healthcare&mdash;exacerbated by misinformation and inequities&mdash;while charting pathways for resilient, patient-centered systems.<br />
+        Dr. Fitzgerald opened the event with a keynote: "We've survived isolation; now we thrive in unity. This congress isn't just a meeting&mdash;it's a manifesto for medicine's moral and innovative revival." Attendance shattered pre-pandemic records, with 65% of participants from low- and middle-income countries, underscoring ICMP's equity mandate.<br />
+        <strong></strong></p>
+        <p><strong>Core Themes and Groundbreaking Sessions</strong><br />
+        The four-day agenda featured over 150 sessions, blending TED-style talks, interactive workshops, and AI-facilitated debates. Key themes included:<br />
+        <br />
+        <strong>Rebuilding Trust Post-Pandemic:</strong>&nbsp;Panels dissected vaccine hesitancy and infodemic responses, with WHO's Dr. Maria Neira sharing data on how transparent communication boosted immunization rates by 28% in pilot regions. A highlight was the "Trust Lab," where delegates prototyped community engagement tools using gamified apps.<br />
+        <strong>Innovation at the Forefront:</strong>&nbsp;Spotlights on emerging tech, such as quantum-enhanced diagnostics and blockchain for secure health records, drew crowds. A sold-out session on AI ethics featured ICMP's new Code of Medical Conduct, with live demos of bias-detection algorithms.<br />
+        <strong>Ethical Globalization of Care:</strong>&nbsp;Discussions on equitable telemedicine and genomic equity emphasized cross-border collaborations. The launch of the Global Research Equity Consortium's action plan, chaired by Dr. Javier Ortega, sparked commitments from 40 funders totaling $120 million for LMIC-led trials.<br />
+        <br />
+        Notable moments included a fireside chat with ICMP President Dr. Aminata Diouf on climate-health intersections and a closing concert blending Swiss folk with African rhythms, symbolizing cultural fusion in global health.</p>
+        <p><strong>Voices and Impacts: Stories from Attendees</strong><br />
+        Feedback was overwhelmingly positive, with a 4.9/5 satisfaction rating. Dr. Priya Singh, a pediatrician from Mumbai attending virtually, noted: "The hybrid model made elite insights accessible&mdash; I networked with Geneva experts without leaving my clinic." On-site, Senegalese delegate Dr. Moussa Traor&eacute; praised the policy roundtables: "These dialogues will shape our national accreditation reforms back home."<br />
+        The congress generated 12 joint declarations, including a "Geneva Accord on Ethical AI," signed by 85 organizations, and spawned 20+ spin-off working groups on topics like sustainable supply chains.<br />
+        Looking Ahead: Sustaining the Momentum<br />
+        As the curtains closed, ICMP announced the 2027 congress in Nairobi, Kenya, to further decentralize its footprint. Recordings and resources are available at icmp.org/congress-2025, with calls for 2027 proposals now open.<br />
+        This event reaffirmed ICMP's role as a convener of change, proving that in hybrid harmony, we can heal divides and ignite progress. Join the conversation in our blog archives or subscribe to the ICMP newsletter for highlights.</p>
+    - ID: "78bd5b13-d9ab-44a4-bae4-c2dda0ad6133"
+      Hint: IntroText
+      Value: ICMP hosted its first hybrid Global Medical Congress since the pandemic in Geneva, attracting over 6,000 physicians worldwide. The event emphasized rebuilding trust in medicine, fostering innovation, and advancing ethical global care practices.
+    - ID: "7cba72f9-1513-41af-ba26-de761f138805"
+      Hint: Title
+      Value: ICMP Hosts First Hybrid Global Congress Since Pandemic
+    - ID: "85f5b648-1823-4509-b7fd-27deacdf2dff"
+      Hint: MetaDescription
+      Value: "Over 6,000 physicians joined ICMP's landmark hybrid Global Medical Congress in Geneva—the first since the pandemic—focusing on innovation, ethical globalization, and restoring trust in post-pandemic healthcare."
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "16db2560-aee1-49b3-a3f8-b4e745e3a9e8"
+    - ID: "92c233dc-a8b3-4fd0-bb3f-e82a8b49bed2"
+      Hint: MetaTitle
+      Value: ICMP's 2025 Hybrid Global Medical Congress in Geneva | Over 6,000 Attendees Rebuild Trust
+    - ID: "9f4483ca-f858-45d1-86a5-0a69c9ab6207"
+      Hint: MetaKeywords
+      Value: "ICMP congress, hybrid medical event, global health congress, Geneva 2025, post-pandemic trust, medical innovation, ethical globalization, physician gathering, health equity, digital health"
+    - ID: "a667d11b-ca9f-4fbe-881f-2538eb51f432"
+      Hint: PublishedDate
+      Value: 20251003T000000Z
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\karthikeyan.kumaravel@altudo.co
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20251201T185322Z
+- Language: "fr-CA"
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "04bf00db-f5fb-41f7-8ab7-22408372a981"
+      Hint: __Final Renderings
+      Value: |
+        <r xmlns:p="p" xmlns:s="s"
+          p:p="1">
+          <d
+            id="{FE5D7FDF-89C0-4D99-9AA3-B5FBD009C9F3}">
+            <r
+              uid="{E6577B7B-5EEC-43F0-A751-6457290EBB0D}"
+              p:before="*"
+              s:id="{B7C649C8-C683-44CB-9A87-AEBEA3DA8EB3}"
+              s:par="GridParameters=%7BF61E01E9-711A-4C99-AE30-4E28463E1DF7%7D&amp;FieldNames=%7B129985C4-D854-49F5-9602-9E1D1B8DF899%7D&amp;BackgroundImage&amp;Styles=%7C%7B0D8280A3-A4C1-4AAD-8392-30B3080349C8%7D&amp;RenderingIdentifier&amp;CSSStyles&amp;DynamicPlaceholderId=1"
+              s:ph="headless-main" />
+            <r
+              uid="{ECCDC050-7EDE-47E9-ABE3-73295D3277CC}"
+              p:after="r[@uid='{E6577B7B-5EEC-43F0-A751-6457290EBB0D}']"
+              s:id="{F7295588-FA7F-448E-B222-F64005B22E8D}"
+              s:par="GridParameters=%7BF61E01E9-711A-4C99-AE30-4E28463E1DF7%7D&amp;ImageOrder&amp;FieldNames=%7BBAC81150-16BD-4AED-9DF5-6FB5C82E1B95%7D&amp;Styles=%7C%7BDA96D040-41DE-4486-A4D1-6CEDECA18E14%7D&amp;RenderingIdentifier&amp;CSSStyles&amp;DynamicPlaceholderId=3"
+              s:ph="headless-main" />
+            <r
+              uid="{9ADB19C9-8277-4F47-95DF-BDE94C39F41E}"
+              p:after="r[@uid='{ECCDC050-7EDE-47E9-ABE3-73295D3277CC}']"
+              s:id="{B7C649C8-C683-44CB-9A87-AEBEA3DA8EB3}"
+              s:par="GridParameters=%7BF61E01E9-711A-4C99-AE30-4E28463E1DF7%7D&amp;FieldNames=%7B129985C4-D854-49F5-9602-9E1D1B8DF899%7D&amp;BackgroundImage&amp;Styles=%7C%7B0D8280A3-A4C1-4AAD-8392-30B3080349C8%7D&amp;RenderingIdentifier&amp;CSSStyles&amp;DynamicPlaceholderId=4"
+              s:ph="headless-main" />
+            <r
+              uid="{392DA7C3-FB30-40FE-B216-ED447498DA55}"
+              p:after="r[@uid='{9ADB19C9-8277-4F47-95DF-BDE94C39F41E}']"
+              s:id="{D425DB5D-FFB0-4574-852C-C17D904CC3E7}"
+              s:par="GridParameters=%7BF61E01E9-711A-4C99-AE30-4E28463E1DF7%7D&amp;FieldNames=%7B6F83E0EE-E1C1-42D2-8B7B-DA86DFDD39DB%7D&amp;Styles=%7C%7B475E77AB-3D7F-4C96-A0C4-8164A8158C82%7D&amp;RenderingIdentifier&amp;CSSStyles&amp;DynamicPlaceholderId=2"
+              s:ph="/headless-main/container-1" />
+            <r
+              uid="{91DE9E42-A5B7-4A0C-9FD6-E161FA2A2A33}"
+              p:after="r[@uid='{392DA7C3-FB30-40FE-B216-ED447498DA55}']"
+              s:id="{1409AEA2-6E60-4EA9-8813-CB229DF0E3B7}"
+              s:par="GridParameters=%7BF61E01E9-711A-4C99-AE30-4E28463E1DF7%7D&amp;FieldNames=%7B0EFC83ED-6584-40A0-91D4-56B2091E359B%7D&amp;Styles=%7C%7B475E77AB-3D7F-4C96-A0C4-8164A8158C82%7D%7C%7BACA1D298-4F90-4EA9-8281-82D0BBB1E353%7D&amp;RenderingIdentifier&amp;CSSStyles&amp;DynamicPlaceholderId=6"
+              s:ph="/headless-main/container-4" />
+            <r
+              uid="{8A4EFCA2-5DCF-4BA4-B3DD-DEDB63774800}"
+              p:after="*[1=2]"
+              s:id="{C5F905F8-FD1F-444E-A9E5-AC6B774FF0DE}"
+              s:par="GridParameters=%7BF61E01E9-711A-4C99-AE30-4E28463E1DF7%7D&amp;Heading Tag&amp;FieldNames=%7B73D70018-AEEB-4FE5-A0F2-50B7BE67B1FF%7D&amp;Styles&amp;RenderingIdentifier&amp;CSSStyles&amp;DynamicPlaceholderId=5"
+              s:ph="/headless-main/container-4" />
+          </d>
+        </r>
+    - ID: "06890ecb-5786-4776-8d76-19250477a9bc"
+      Hint: MetaImage
+      Value: |
+        <image mediaid="{2C661A21-0A37-4C11-B2A1-7389E5007484}" alt="ICMP Host Data" height="" width="" hspace="" vspace="" />
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20251028T130840Z
+    - ID: "3e431de1-525e-47a3-b6b0-1ccbec3a8c98"
+      Hint: __Workflow state
+      Value: "{F7F71754-F47E-4605-AD5B-87F78974DD92}"
+    - ID: "4e0720e9-9d50-4ddc-87cf-ecd65e8e94c8"
+      Hint: NavigationTitle
+      Value: L'ICMP organise son premier congrès mondial hybride depuis la pandémie
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+      Hint: __Owner
+      Value: |
+        sitecore\karthikeyan.kumaravel@altudo.co
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\karthikeyan.kumaravel@altudo.co
+    - ID: "6128ed46-0b79-4d6a-87ad-ac6fe70c649c"
+      Hint: Category
+      Value: Connaissances
+    - ID: "6fb03d9c-e0f6-4765-831d-d5627c4e0b67"
+      Hint: Content
+      Value: |
+        Le Conseil international pour l'expertise m&eacute;dicale (ICMP) a organis&eacute; avec succ&egrave;s son premier Congr&egrave;s m&eacute;dical mondial hybride depuis le d&eacute;but de la pand&eacute;mie, r&eacute;unissant plus de 6&nbsp;000 m&eacute;decins, chercheurs et responsables de la sant&eacute; &agrave; Gen&egrave;ve, en Suisse, du 5 au 8 novembre 2025. Alliant s&eacute;ances pl&eacute;ni&egrave;res en personne et acc&egrave;s virtuel dans 120 pays, l'&eacute;v&eacute;nement a mis l'accent sur le r&eacute;tablissement de la confiance dans la m&eacute;decine gr&acirc;ce &agrave; des strat&eacute;gies de relance post-pand&eacute;mie, des innovations de pointe et une mondialisation &eacute;thique des soins &ndash; marquant ainsi un retour r&eacute;ussi au dialogue collaboratif &agrave; l'&egrave;re de la transformation num&eacute;rique et d'une solidarit&eacute; professionnelle renouvel&eacute;e.
+        <strong></strong>
+        <p>&nbsp;</p>
+        <p><strong>Un retour en force&nbsp;: Le Congr&egrave;s dans son contexte</strong><br />
+        Apr&egrave;s cinq ans de r&eacute;unions exclusivement virtuelles perturb&eacute;es par la COVID-19, le Congr&egrave;s m&eacute;dical mondial de l'ICMP 2025 a marqu&eacute; une reconnexion essentielle. Organis&eacute; au Palais des Nations, un lieu embl&eacute;matique, le congr&egrave;s, en format hybride, a accueilli 2&nbsp;500 d&eacute;l&eacute;gu&eacute;s sur place tout en diffusant les s&eacute;ances en direct aupr&egrave;s d'un public mondial, garantissant ainsi l'inclusion des personnes vivant dans des r&eacute;gions &eacute;loign&eacute;es ou aux ressources limit&eacute;es. Plac&eacute; sous le th&egrave;me &laquo;&nbsp;Reconstruire la confiance&nbsp;: innover, &eacute;thiquer, mondialiser&nbsp;&raquo;, le congr&egrave;s a abord&eacute; l'&eacute;rosion de la confiance du public dans les soins de sant&eacute; &ndash; exacerb&eacute;e par la d&eacute;sinformation et les in&eacute;galit&eacute;s &ndash; tout en tra&ccedil;ant la voie vers des syst&egrave;mes r&eacute;silients et centr&eacute;s sur le patient. Le Dr Fitzgerald a inaugur&eacute; l'&eacute;v&eacute;nement par un discours d'ouverture&nbsp;: &laquo;&nbsp;Nous avons surv&eacute;cu &agrave; l'isolement&nbsp;; aujourd'hui, on prosp&egrave;re ensemble. Ce congr&egrave;s n'est pas une simple r&eacute;union, c'est un manifeste pour la renaissance morale et novatrice de la m&eacute;decine.La participation a fracass&eacute; les records d'avant la pand&eacute;mie, avec 65 % des participants provenant de pays &agrave; revenu faible ou interm&eacute;diaire, soulignant ainsi l'engagement de l'ICMP en faveur de l'&eacute;quit&eacute;.<br />
+        <strong></strong></p>
+        <p><strong>Th&egrave;mes cl&eacute;s et s&eacute;ances novatrices</strong><br />
+        Le programme de quatre jours proposait plus de 150 s&eacute;ances, combinant des conf&eacute;rences de type TED, des ateliers interactifs et des d&eacute;bats anim&eacute;s par l'IA. Parmi les th&egrave;mes principaux&nbsp;:<br />
+        <br />
+        <strong>Reconstruire la confiance apr&egrave;s la pand&eacute;mie&nbsp;:</strong> Des panels ont analys&eacute; l'h&eacute;sitation vaccinale et les r&eacute;ponses &agrave; l'infod&eacute;mie. La Dre Maria Neira de l'OMS a pr&eacute;sent&eacute; des donn&eacute;es montrant comment une communication transparente a permis d'augmenter les taux de vaccination de 28 % dans les r&eacute;gions pilotes. L'un des points forts a &eacute;t&eacute; le &laquo;&nbsp;Trust Lab&nbsp;&raquo;, o&ugrave; les d&eacute;l&eacute;gu&eacute;s ont prototyp&eacute; des outils d'engagement communautaire &agrave; l'aide d'applications ludiques.<br />
+        <strong>Innovation &agrave; l'avant-garde&nbsp;:</strong> Des pr&eacute;sentations sur les technologies &eacute;mergentes, telles que les diagnostics quantiques et la blockchain pour la s&eacute;curit&eacute; des dossiers m&eacute;dicaux, ont attir&eacute; les foules. Une s&eacute;ance &agrave; guichets ferm&eacute;s sur l'&eacute;thique de l'IA a pr&eacute;sent&eacute; le nouveau Code de d&eacute;ontologie m&eacute;dicale de l'ICMP, avec des d&eacute;monstrations en direct d'algorithmes de d&eacute;tection des biais.<br />
+        <strong>Mondialisation &eacute;thique des soins&nbsp;:</strong> Les discussions sur la t&eacute;l&eacute;m&eacute;decine &eacute;quitable et l'&eacute;quit&eacute; g&eacute;nomique ont mis l'accent sur les collaborations transfrontali&egrave;res. Le lancement du plan d'action du Consortium mondial pour l'&eacute;quit&eacute; en recherche, pr&eacute;sid&eacute; par le Dr Javier Ortega, a suscit&eacute; des engagements de 40 bailleurs de fonds, pour un montant total de 120 millions de dollars, en faveur d'essais cliniques men&eacute;s par des pays &agrave; revenu faible et interm&eacute;diaire.
+        Parmi les moments forts, mentionnons une discussion informelle avec la Dre Aminata Diouf, pr&eacute;sidente de l'ICMP, sur les liens entre climat et sant&eacute;, et un concert de cl&ocirc;ture m&ecirc;lant musique folklorique suisse et rythmes africains, symbolisant la fusion culturelle dans le domaine de la sant&eacute; mondiale.
+        T&eacute;moignages et impacts : histoires des participants
+        Les commentaires ont &eacute;t&eacute; extr&ecirc;mement positifs, avec un taux de satisfaction de 4,9/5. La Dre Priya Singh, p&eacute;diatre de Mumbai participant &agrave; distance, a d&eacute;clar&eacute; : &laquo; Le mod&egrave;le hybride a rendu les connaissances de haut niveau accessibles &ndash; j'ai pu &eacute;changer avec des experts genevois sans quitter mon cabinet. Sur place, le Dr Moussa Traor&eacute;, d&eacute;l&eacute;gu&eacute; s&eacute;n&eacute;galais, a &eacute;galement particip&eacute; &agrave; l'&eacute;v&eacute;nement. Les tables rondes sur les politiques publiques ont &eacute;t&eacute; salu&eacute;es&nbsp;: &laquo;&nbsp;Ces dialogues fa&ccedil;onneront nos r&eacute;formes nationales d&rsquo;accr&eacute;ditation.&nbsp;&raquo;<br />
+        Le congr&egrave;s a abouti &agrave; 12 d&eacute;clarations communes, dont un &laquo;&nbsp;Accord de Gen&egrave;ve sur l&rsquo;IA &eacute;thique&nbsp;&raquo;, sign&eacute; par 85 organisations, et a donn&eacute; naissance &agrave; plus de 20 groupes de travail d&eacute;riv&eacute;s sur des sujets tels que les cha&icirc;nes d&rsquo;approvisionnement durables.<br />
+        Perspectives d'avenir&nbsp;: Maintenir la dynamique<br />
+        &Agrave; la cl&ocirc;ture du congr&egrave;s, l&rsquo;ICMP a annonc&eacute; la tenue de son congr&egrave;s de 2027 &agrave; Nairobi, au Kenya, afin de poursuivre sa d&eacute;centralisation. Les enregistrements et les ressources sont disponibles sur icmp.org/congress-2025, et l&rsquo;appel de propositions pour 2027 est ouvert.<br />
+        Cet &eacute;v&eacute;nement a r&eacute;affirm&eacute; le r&ocirc;le de l'ICMP en tant que catalyseur du changement, prouvant que, dans une harmonie hybride, nous pouvons surmonter les divisions et stimuler le progr&egrave;s. Joignez-vous &agrave; la conversation dans nos archives de blogues ou abonnez-vous &agrave; l'infolettre de l'ICMP pour en d&eacute;couvrir les points saillants.</p>
+    - ID: "78bd5b13-d9ab-44a4-bae4-c2dda0ad6133"
+      Hint: IntroText
+      Value: L'ICMP a organis&eacute; &agrave; Gen&egrave;ve son premier congr&egrave;s m&eacute;dical mondial hybride depuis le d&eacute;but de la pand&eacute;mie, r&eacute;unissant plus de 6 000 m&eacute;decins du monde entier. L'&eacute;v&eacute;nement a mis l'accent sur le r&eacute;tablissement de la confiance dans la m&eacute;decine, la promotion de l'innovation et l'avancement de pratiques de soins &eacute;thiques &agrave; l'&eacute;chelle mondiale.
+    - ID: "7cba72f9-1513-41af-ba26-de761f138805"
+      Hint: Title
+      Value: L'ICMP organise son premier congrès mondial hybride depuis la pandémie
+    - ID: "85f5b648-1823-4509-b7fd-27deacdf2dff"
+      Hint: MetaDescription
+      Value: "Plus de 6 000 médecins ont participé au congrès médical mondial hybride historique de l'ICMP à Genève – le premier depuis la pandémie – axé sur l'innovation, la mondialisation éthique et le rétablissement de la confiance dans les soins de santé post-pandémiques."
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "e5989952-69e5-4609-9213-a9ecb3cdd982"
+    - ID: "92c233dc-a8b3-4fd0-bb3f-e82a8b49bed2"
+      Hint: MetaTitle
+      Value: Congrès médical mondial hybride de l'ICMP 2025 à Genève | Plus de 6 000 participants pour rétablir la confiance
+    - ID: "9f4483ca-f858-45d1-86a5-0a69c9ab6207"
+      Hint: MetaKeywords
+      Value: "Congrès ICMP, événement médical hybride, congrès mondial de la santé, Genève 2025, confiance post-pandémique, innovation médicale, mondialisation éthique, rassemblement de médecins, équité en santé, santé numérique"
+    - ID: "a667d11b-ca9f-4fbe-881f-2538eb51f432"
+      Hint: PublishedDate
+      Value: 20251003T000000Z
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\karthikeyan.kumaravel@altudo.co
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20251201T184954Z

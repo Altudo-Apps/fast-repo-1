@@ -1,0 +1,362 @@
+﻿---
+ID: "5fdf63ba-6158-42b2-bb74-4eff89cd022b"
+Parent: "0adfd485-e57c-417a-b2e4-de7a3d381dce"
+Template: "770fd597-ea0b-4ff3-944f-9248aedfe84a"
+Path: /sitecore/content/FastLaneTenant/fastlanewebsite/Home/About Us/Our Leadership
+BranchID: "b9fb36f5-3b3a-4b06-8112-0066d0a2b7db"
+SharedFields:
+- ID: "1172f251-dad4-4efb-a329-0c63500e4f1e"
+  Hint: __Masters
+  Value: "{C14B6289-8AC2-439C-9E5B-40DE9F820C3F}"
+- ID: "24171bf1-c0e1-480e-be76-4c0a1876f916"
+  Hint: Page Design
+  Value: 
+- ID: "a4f985d9-98b3-4b52-aaaf-4344f6e747c6"
+  Hint: __Workflow
+  Value: "{CF913994-CC05-4D20-B38A-9CF1E73F5951}"
+- ID: "c7c26117-dbb1-42b2-ab5e-f7223845cca3"
+  Hint: __Thumbnail
+  Value: 
+- ID: "dbbbeca1-21c7-4906-9dd2-493c1efa59a2"
+  Hint: __Shared revision
+  Value: "0019ec20-410b-47d8-b4bb-fd1d20462e5b"
+- ID: "f1a1fe9e-a60c-4ddb-a3a0-bb5b29fe732e"
+  Hint: __Renderings
+  Value: |
+    <r xmlns:p="p" xmlns:s="s"
+      p:p="1">
+      <d
+        id="{FE5D7FDF-89C0-4D99-9AA3-B5FBD009C9F3}">
+        <r
+          uid="{766DF4DB-F7AE-473D-A2B2-78C6A3A02A61}"
+          p:before="*"
+          s:ds="local:/Data/Dr Aminata Diouf"
+          s:id="{2AC9F9B4-0E80-4B4E-BC71-A52B5F1C8D9B}"
+          s:par="CTAButton=1&amp;CardOrientation=horizontalflex&amp;ImageOrder=left&amp;HeaderTag=h3&amp;LinkType=Button&amp;GridParameters={F61E01E9-711A-4C99-AE30-4E28463E1DF7}&amp;FieldNames&amp;Styles={ACA1D298-4F90-4EA9-8281-82D0BBB1E353}&amp;RenderingIdentifier&amp;CSSStyles&amp;DynamicPlaceholderId=1"
+          s:ph="/headless-main/sxa-landing-page-with-sidebar/container-1/column-2-3" />
+        <r
+          uid="{B9A5F1B2-19CA-457C-BBF1-D5A1ACE31B06}"
+          p:after="r[@uid='{766DF4DB-F7AE-473D-A2B2-78C6A3A02A61}']"
+          s:ds="local:/Data/Dr Javier Ortega"
+          s:id="{2AC9F9B4-0E80-4B4E-BC71-A52B5F1C8D9B}"
+          s:par="CTAButton=1&amp;CardOrientation=horizontalflex&amp;ImageOrder=left&amp;HeaderTag=h3&amp;LinkType=Button&amp;GridParameters={F61E01E9-711A-4C99-AE30-4E28463E1DF7}&amp;FieldNames&amp;Styles={ACA1D298-4F90-4EA9-8281-82D0BBB1E353}&amp;RenderingIdentifier&amp;CSSStyles&amp;DynamicPlaceholderId=2"
+          s:ph="/headless-main/sxa-landing-page-with-sidebar/container-1/column-2-3" />
+        <r
+          uid="{7F2AD213-9641-4DC1-8EB7-53AFD05DF703}"
+          p:after="r[@uid='{B9A5F1B2-19CA-457C-BBF1-D5A1ACE31B06}']"
+          s:ds="local:/Data/Dr Lien Tran"
+          s:id="{2AC9F9B4-0E80-4B4E-BC71-A52B5F1C8D9B}"
+          s:par="CTAButton=1&amp;CardOrientation=horizontalflex&amp;ImageOrder=left&amp;HeaderTag=h3&amp;LinkType=Button&amp;GridParameters={F61E01E9-711A-4C99-AE30-4E28463E1DF7}&amp;FieldNames&amp;Styles={ACA1D298-4F90-4EA9-8281-82D0BBB1E353}&amp;RenderingIdentifier&amp;CSSStyles&amp;DynamicPlaceholderId=3"
+          s:ph="/headless-main/sxa-landing-page-with-sidebar/container-1/column-2-3" />
+        <r
+          uid="{AA008D5D-CBF3-40B6-BDF6-759128253F8A}"
+          p:after="r[@uid='{7F2AD213-9641-4DC1-8EB7-53AFD05DF703}']"
+          s:ds="local:/Data/Dr Sofia Kuznetsova"
+          s:id="{2AC9F9B4-0E80-4B4E-BC71-A52B5F1C8D9B}"
+          s:par="CTAButton=1&amp;CardOrientation=horizontalflex&amp;ImageOrder=left&amp;HeaderTag=h3&amp;LinkType=Button&amp;GridParameters={F61E01E9-711A-4C99-AE30-4E28463E1DF7}&amp;FieldNames&amp;Styles={ACA1D298-4F90-4EA9-8281-82D0BBB1E353}&amp;RenderingIdentifier&amp;CSSStyles&amp;DynamicPlaceholderId=4"
+          s:ph="/headless-main/sxa-landing-page-with-sidebar/container-1/column-2-3" />
+        <r
+          uid="{1F4AC4E7-2F0E-46DB-ACA1-89EB457F20BF}"
+          p:after="r[@uid='{AA008D5D-CBF3-40B6-BDF6-759128253F8A}']"
+          s:id="{F7295588-FA7F-448E-B222-F64005B22E8D}"
+          s:par="GridParameters={F61E01E9-711A-4C99-AE30-4E28463E1DF7}&amp;ImageOrder=right&amp;FieldNames={8B1E9501-095A-48EE-A07B-8BE4A654CD03}&amp;Styles={EF57264A-DE76-4138-8D84-E1C9D0817B1F}|{CC371879-3C7C-4284-BDD1-E567746F8059}|{C89F12C0-1C9B-468D-A613-A5B2ECE35DEC}|{B9987F84-3F44-4164-B67C-4358C72DA416}|{A7198BFC-02EC-4906-B92E-EDBD12BED619}|{87D3E96C-A4B5-49D7-A1D1-8891FE624EF2}|{A4F0BA41-0D86-412D-8293-96EE7FE1096F}|{ABAB66E7-B2A7-45D5-8240-A9D4F0439C01}|{CE4890CA-AEDB-4109-AD9A-50073570D394}|{62046E34-8C5E-44C4-B092-537547D5E1CC}|{7BC5B335-BFB0-4B2D-9767-CF4B70E2B8EE}|{3695D896-A0DB-4B57-AE2D-11C49F1D0132}|{ABDFECBD-593D-4966-9B44-8B10D2E83F24}|{498BD240-85CF-450D-B482-0B90A9047088}|{F3F87D63-70DC-4097-A67E-DE3224A24E9A}&amp;RenderingIdentifier&amp;CSSStyles&amp;DynamicPlaceholderId=5"
+          s:ph="/headless-main/sxa-landing-page-with-sidebar/container-6" />
+        <r
+          uid="{209E220E-D614-4107-9978-E5E7E82EDC70}"
+          p:after="*[1=2]"
+          s:ds="local:/Data/Leadership"
+          s:id="{AB2EDBA0-3960-4F12-B765-579DC231894A}"
+          s:par="GridParameters={F61E01E9-711A-4C99-AE30-4E28463E1DF7}&amp;FieldNames={75EC0D4C-10AC-4C23-B3F0-08EC0B3CD31C}&amp;Styles&amp;RenderingIdentifier&amp;CSSStyles&amp;DynamicPlaceholderId=6"
+          s:ph="/headless-main/sxa-landing-page-with-sidebar/container-6/bannercontent-5" />
+      </d>
+    </r>
+- ID: "f6d8a61c-2f84-4401-bd24-52d2068172bc"
+  Hint: __Originator
+  Value: "{E24EEB6C-BCBC-44A6-B87E-9C0A19435F15}"
+Languages:
+- Language: "ar-AE"
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "06890ecb-5786-4776-8d76-19250477a9bc"
+      Hint: MetaImage
+      Value: |
+        <image mediaid="{315305A1-F176-480A-A5CA-8B3010EC1FEB}" alt="LeadershipBanner" height="" width="" hspace="" vspace="" />
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20250612T100558Z
+    - ID: "3e431de1-525e-47a3-b6b0-1ccbec3a8c98"
+      Hint: __Workflow state
+      Value: "{F7F71754-F47E-4605-AD5B-87F78974DD92}"
+    - ID: "4e0720e9-9d50-4ddc-87cf-ecd65e8e94c8"
+      Hint: NavigationTitle
+      Value: قيادتنا
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+      Hint: __Owner
+      Value: |
+        sitecore\karthikeyan.kumaravel@altudo.co
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\karthikeyan.kumaravel@altudo.co
+    - ID: "78bd5b13-d9ab-44a4-bae4-c2dda0ad6133"
+      Hint: IntroText
+      Value: فريق قيادتنا يتألف من مجموعة من المحاربين المتمرسين في مجال الرعاية الصحية. إنهم يقضون أيامهم في رعاية الأقل حظاً بيننا دون أن ينتظروا أي مقابل.
+    - ID: "7cba72f9-1513-41af-ba26-de761f138805"
+      Hint: Title
+      Value: قيادتنا
+    - ID: "85f5b648-1823-4509-b7fd-27deacdf2dff"
+      Hint: MetaDescription
+      Value: تعرف على القادة البارزين وراء Fast Lane والتزامهم بتطوير حلول إدارة المحتوى XM Cloud.
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "75bae863-73d2-4868-ae7a-01e48aaf85bf"
+    - ID: "92c233dc-a8b3-4fd0-bb3f-e82a8b49bed2"
+      Hint: MetaTitle
+      Value: "فريق القيادة - تعرف على خبراء Fast Lane في مجال XM Cloud"
+    - ID: "9f4483ca-f858-45d1-86a5-0a69c9ab6207"
+      Hint: MetaKeywords
+      Value: قيادة Fast Lane، ومسؤولو XM Cloud، وخبراء Sitecore، وقادة إدارة المحتوى
+    - ID: "ba41d59c-a2b6-4f14-8913-7734549cce04"
+      Hint: Image
+      Value: |
+        <image mediaid="{2A350EE8-E1A7-4EA5-8CE1-A5F35F96B4F4}" alt="PageTitleBannerImage" height="" width="" hspace="" vspace="" />
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\karthikeyan.kumaravel@altudo.co
+    - ID: "c24e85bf-697a-4e60-92ce-c0d557ce510e"
+      Hint: NavigationDescription
+      Value: هذا وصف لعنصر القيادة
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20251201T191144Z
+    - ID: "f56d5ae9-cbca-48e1-b47e-e06a7561fc5d"
+      Hint: CalltoActionLinkMain
+      Value: |
+        <link text="تعالوا واصنعوا الفرق معنا!" linktype="external" url="https://www.sitecore.com" anchor="" title="تعالوا واصنعوا الفرق معنا!" target="" />
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "001dd393-96c5-490b-924a-b0f25cd9efd8"
+      Hint: __Lock
+      Value: <r />
+    - ID: "04bf00db-f5fb-41f7-8ab7-22408372a981"
+      Hint: __Final Renderings
+      Value: |
+        <r xmlns:p="p" xmlns:s="s"
+          p:p="1">
+          <d
+            id="{FE5D7FDF-89C0-4D99-9AA3-B5FBD009C9F3}">
+            <r
+              uid="{766DF4DB-F7AE-473D-A2B2-78C6A3A02A61}"
+              p:before="*"
+              s:ds="local:/Data/Dr Aminata Diouf"
+              s:id="{2AC9F9B4-0E80-4B4E-BC71-A52B5F1C8D9B}"
+              s:par="CTAButton=1&amp;CardOrientation=horizontalflex&amp;ImageOrder=left&amp;HeaderTag=h3&amp;LinkType=Button&amp;GridParameters={F61E01E9-711A-4C99-AE30-4E28463E1DF7}&amp;FieldNames&amp;Styles={ACA1D298-4F90-4EA9-8281-82D0BBB1E353}&amp;RenderingIdentifier&amp;CSSStyles&amp;DynamicPlaceholderId=1"
+              s:ph="/headless-main/sxa-landing-page-with-sidebar/container-1/column-2-3" />
+            <r
+              uid="{B9A5F1B2-19CA-457C-BBF1-D5A1ACE31B06}"
+              p:after="r[@uid='{766DF4DB-F7AE-473D-A2B2-78C6A3A02A61}']"
+              s:ds="local:/Data/Dr Javier Ortega"
+              s:id="{2AC9F9B4-0E80-4B4E-BC71-A52B5F1C8D9B}"
+              s:par="CTAButton=1&amp;CardOrientation=horizontalflex&amp;ImageOrder=left&amp;HeaderTag=h3&amp;LinkType=Button&amp;GridParameters={F61E01E9-711A-4C99-AE30-4E28463E1DF7}&amp;FieldNames&amp;Styles={ACA1D298-4F90-4EA9-8281-82D0BBB1E353}&amp;RenderingIdentifier&amp;CSSStyles&amp;DynamicPlaceholderId=2"
+              s:ph="/headless-main/sxa-landing-page-with-sidebar/container-1/column-2-3" />
+            <r
+              uid="{7F2AD213-9641-4DC1-8EB7-53AFD05DF703}"
+              p:after="r[@uid='{B9A5F1B2-19CA-457C-BBF1-D5A1ACE31B06}']"
+              s:ds="local:/Data/Dr Lien Tran"
+              s:id="{2AC9F9B4-0E80-4B4E-BC71-A52B5F1C8D9B}"
+              s:par="CTAButton=1&amp;CardOrientation=horizontalflex&amp;ImageOrder=left&amp;HeaderTag=h3&amp;LinkType=Button&amp;GridParameters={F61E01E9-711A-4C99-AE30-4E28463E1DF7}&amp;FieldNames&amp;Styles={ACA1D298-4F90-4EA9-8281-82D0BBB1E353}&amp;RenderingIdentifier&amp;CSSStyles&amp;DynamicPlaceholderId=3"
+              s:ph="/headless-main/sxa-landing-page-with-sidebar/container-1/column-2-3" />
+            <r
+              uid="{AA008D5D-CBF3-40B6-BDF6-759128253F8A}"
+              p:after="r[@uid='{7F2AD213-9641-4DC1-8EB7-53AFD05DF703}']"
+              s:ds="local:/Data/Dr Sofia Kuznetsova"
+              s:id="{2AC9F9B4-0E80-4B4E-BC71-A52B5F1C8D9B}"
+              s:par="CTAButton=1&amp;CardOrientation=horizontalflex&amp;ImageOrder=left&amp;HeaderTag=h3&amp;LinkType=Button&amp;GridParameters={F61E01E9-711A-4C99-AE30-4E28463E1DF7}&amp;FieldNames&amp;Styles={ACA1D298-4F90-4EA9-8281-82D0BBB1E353}&amp;RenderingIdentifier&amp;CSSStyles&amp;DynamicPlaceholderId=4"
+              s:ph="/headless-main/sxa-landing-page-with-sidebar/container-1/column-2-3" />
+            <r
+              uid="{1F4AC4E7-2F0E-46DB-ACA1-89EB457F20BF}"
+              p:after="r[@uid='{AA008D5D-CBF3-40B6-BDF6-759128253F8A}']"
+              s:id="{F7295588-FA7F-448E-B222-F64005B22E8D}"
+              s:par="GridParameters={F61E01E9-711A-4C99-AE30-4E28463E1DF7}&amp;ImageOrder=right&amp;FieldNames={8B1E9501-095A-48EE-A07B-8BE4A654CD03}&amp;Styles={EF57264A-DE76-4138-8D84-E1C9D0817B1F}|{CC371879-3C7C-4284-BDD1-E567746F8059}|{C89F12C0-1C9B-468D-A613-A5B2ECE35DEC}|{B9987F84-3F44-4164-B67C-4358C72DA416}|{A7198BFC-02EC-4906-B92E-EDBD12BED619}|{87D3E96C-A4B5-49D7-A1D1-8891FE624EF2}|{A4F0BA41-0D86-412D-8293-96EE7FE1096F}|{ABAB66E7-B2A7-45D5-8240-A9D4F0439C01}|{CE4890CA-AEDB-4109-AD9A-50073570D394}|{62046E34-8C5E-44C4-B092-537547D5E1CC}|{7BC5B335-BFB0-4B2D-9767-CF4B70E2B8EE}|{3695D896-A0DB-4B57-AE2D-11C49F1D0132}|{ABDFECBD-593D-4966-9B44-8B10D2E83F24}|{498BD240-85CF-450D-B482-0B90A9047088}|{F3F87D63-70DC-4097-A67E-DE3224A24E9A}&amp;RenderingIdentifier&amp;CSSStyles&amp;DynamicPlaceholderId=5"
+              s:ph="/headless-main/sxa-landing-page-with-sidebar/container-6" />
+            <r
+              uid="{209E220E-D614-4107-9978-E5E7E82EDC70}"
+              p:after="*[1=2]"
+              s:ds="local:/Data/Leadership"
+              s:id="{AB2EDBA0-3960-4F12-B765-579DC231894A}"
+              s:par="GridParameters={F61E01E9-711A-4C99-AE30-4E28463E1DF7}&amp;FieldNames={75EC0D4C-10AC-4C23-B3F0-08EC0B3CD31C}&amp;Styles&amp;RenderingIdentifier&amp;CSSStyles&amp;DynamicPlaceholderId=6"
+              s:ph="/headless-main/sxa-landing-page-with-sidebar/container-6/bannercontent-5" />
+          </d>
+        </r>
+    - ID: "06890ecb-5786-4776-8d76-19250477a9bc"
+      Hint: MetaImage
+      Value: |
+        <image mediaid="{315305A1-F176-480A-A5CA-8B3010EC1FEB}" />
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20250612T100558Z
+    - ID: "3e431de1-525e-47a3-b6b0-1ccbec3a8c98"
+      Hint: __Workflow state
+      Value: "{F7F71754-F47E-4605-AD5B-87F78974DD92}"
+    - ID: "4e0720e9-9d50-4ddc-87cf-ecd65e8e94c8"
+      Hint: NavigationTitle
+      Value: Our Leadership
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+      Hint: __Owner
+      Value: |
+        sitecore\andy.cohen@altudo.co
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\karthikeyan.kumaravel@altudo.co
+    - ID: "78bd5b13-d9ab-44a4-bae4-c2dda0ad6133"
+      Hint: IntroText
+      Value: Our leadership team is all hardened healthcare access warriors. They selflessly spend their days caring for the less fortunate among us.
+    - ID: "7cba72f9-1513-41af-ba26-de761f138805"
+      Hint: Title
+      Value: Our Leadership
+    - ID: "85f5b648-1823-4509-b7fd-27deacdf2dff"
+      Hint: MetaDescription
+      Value: Get to know the visionary leaders behind Fast Lane and their commitment to advancing XM Cloud content management solutions.
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "0cc1aa77-dfc8-4f90-b4bd-febf83f502e5"
+    - ID: "92c233dc-a8b3-4fd0-bb3f-e82a8b49bed2"
+      Hint: MetaTitle
+      Value: "Leadership Team - Meet Fast Lane's XM Cloud Experts"
+    - ID: "9f4483ca-f858-45d1-86a5-0a69c9ab6207"
+      Hint: MetaKeywords
+      Value: Fast Lane leadership, XM Cloud executives, Sitecore experts, content management leaders
+    - ID: "ba41d59c-a2b6-4f14-8913-7734549cce04"
+      Hint: Image
+      Value: |
+        <image mediaid="{2A350EE8-E1A7-4EA5-8CE1-A5F35F96B4F4}" />
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\karthikeyan.kumaravel@altudo.co
+    - ID: "c24e85bf-697a-4e60-92ce-c0d557ce510e"
+      Hint: NavigationDescription
+      Value: This is a leadership item description
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20251201T191127Z
+    - ID: "f56d5ae9-cbca-48e1-b47e-e06a7561fc5d"
+      Hint: CalltoActionLinkMain
+      Value: |
+        <link text="Come make a difference with us!" linktype="external" url="https://www.sitecore.com" anchor="" title="Come make a difference with us!" target="" />
+- Language: "fr-CA"
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "04bf00db-f5fb-41f7-8ab7-22408372a981"
+      Hint: __Final Renderings
+      Value: |
+        <r xmlns:p="p" xmlns:s="s"
+          p:p="1">
+          <d
+            id="{FE5D7FDF-89C0-4D99-9AA3-B5FBD009C9F3}">
+            <r
+              uid="{766DF4DB-F7AE-473D-A2B2-78C6A3A02A61}"
+              p:before="*"
+              s:ds="local:/Data/Dr Aminata Diouf"
+              s:id="{2AC9F9B4-0E80-4B4E-BC71-A52B5F1C8D9B}"
+              s:par="CTAButton=1&amp;CardOrientation=horizontalflex&amp;ImageOrder=left&amp;HeaderTag=h3&amp;LinkType=Button&amp;GridParameters={F61E01E9-711A-4C99-AE30-4E28463E1DF7}&amp;FieldNames&amp;Styles={ACA1D298-4F90-4EA9-8281-82D0BBB1E353}&amp;RenderingIdentifier&amp;CSSStyles&amp;DynamicPlaceholderId=1"
+              s:ph="/headless-main/sxa-landing-page-with-sidebar/container-1/column-2-3" />
+            <r
+              uid="{B9A5F1B2-19CA-457C-BBF1-D5A1ACE31B06}"
+              p:after="r[@uid='{766DF4DB-F7AE-473D-A2B2-78C6A3A02A61}']"
+              s:ds="local:/Data/Dr Javier Ortega"
+              s:id="{2AC9F9B4-0E80-4B4E-BC71-A52B5F1C8D9B}"
+              s:par="CTAButton=1&amp;CardOrientation=horizontalflex&amp;ImageOrder=left&amp;HeaderTag=h3&amp;LinkType=Button&amp;GridParameters={F61E01E9-711A-4C99-AE30-4E28463E1DF7}&amp;FieldNames&amp;Styles={ACA1D298-4F90-4EA9-8281-82D0BBB1E353}&amp;RenderingIdentifier&amp;CSSStyles&amp;DynamicPlaceholderId=2"
+              s:ph="/headless-main/sxa-landing-page-with-sidebar/container-1/column-2-3" />
+            <r
+              uid="{7F2AD213-9641-4DC1-8EB7-53AFD05DF703}"
+              p:after="r[@uid='{B9A5F1B2-19CA-457C-BBF1-D5A1ACE31B06}']"
+              s:ds="local:/Data/Dr Lien Tran"
+              s:id="{2AC9F9B4-0E80-4B4E-BC71-A52B5F1C8D9B}"
+              s:par="CTAButton=1&amp;CardOrientation=horizontalflex&amp;ImageOrder=left&amp;HeaderTag=h3&amp;LinkType=Button&amp;GridParameters={F61E01E9-711A-4C99-AE30-4E28463E1DF7}&amp;FieldNames&amp;Styles={ACA1D298-4F90-4EA9-8281-82D0BBB1E353}&amp;RenderingIdentifier&amp;CSSStyles&amp;DynamicPlaceholderId=3"
+              s:ph="/headless-main/sxa-landing-page-with-sidebar/container-1/column-2-3" />
+            <r
+              uid="{AA008D5D-CBF3-40B6-BDF6-759128253F8A}"
+              p:after="r[@uid='{7F2AD213-9641-4DC1-8EB7-53AFD05DF703}']"
+              s:ds="local:/Data/Dr Sofia Kuznetsova"
+              s:id="{2AC9F9B4-0E80-4B4E-BC71-A52B5F1C8D9B}"
+              s:par="CTAButton=1&amp;CardOrientation=horizontalflex&amp;ImageOrder=left&amp;HeaderTag=h3&amp;LinkType=Button&amp;GridParameters={F61E01E9-711A-4C99-AE30-4E28463E1DF7}&amp;FieldNames&amp;Styles={ACA1D298-4F90-4EA9-8281-82D0BBB1E353}&amp;RenderingIdentifier&amp;CSSStyles&amp;DynamicPlaceholderId=4"
+              s:ph="/headless-main/sxa-landing-page-with-sidebar/container-1/column-2-3" />
+            <r
+              uid="{1F4AC4E7-2F0E-46DB-ACA1-89EB457F20BF}"
+              p:after="r[@uid='{AA008D5D-CBF3-40B6-BDF6-759128253F8A}']"
+              s:id="{F7295588-FA7F-448E-B222-F64005B22E8D}"
+              s:par="GridParameters={F61E01E9-711A-4C99-AE30-4E28463E1DF7}&amp;ImageOrder=right&amp;FieldNames={8B1E9501-095A-48EE-A07B-8BE4A654CD03}&amp;Styles={EF57264A-DE76-4138-8D84-E1C9D0817B1F}|{CC371879-3C7C-4284-BDD1-E567746F8059}|{C89F12C0-1C9B-468D-A613-A5B2ECE35DEC}|{B9987F84-3F44-4164-B67C-4358C72DA416}|{A7198BFC-02EC-4906-B92E-EDBD12BED619}|{87D3E96C-A4B5-49D7-A1D1-8891FE624EF2}|{A4F0BA41-0D86-412D-8293-96EE7FE1096F}|{ABAB66E7-B2A7-45D5-8240-A9D4F0439C01}|{CE4890CA-AEDB-4109-AD9A-50073570D394}|{62046E34-8C5E-44C4-B092-537547D5E1CC}|{7BC5B335-BFB0-4B2D-9767-CF4B70E2B8EE}|{3695D896-A0DB-4B57-AE2D-11C49F1D0132}|{ABDFECBD-593D-4966-9B44-8B10D2E83F24}|{498BD240-85CF-450D-B482-0B90A9047088}|{F3F87D63-70DC-4097-A67E-DE3224A24E9A}&amp;RenderingIdentifier&amp;CSSStyles&amp;DynamicPlaceholderId=5"
+              s:ph="/headless-main/sxa-landing-page-with-sidebar/container-6" />
+            <r
+              uid="{209E220E-D614-4107-9978-E5E7E82EDC70}"
+              p:after="*[1=2]"
+              s:ds="local:/Data/Leadership"
+              s:id="{AB2EDBA0-3960-4F12-B765-579DC231894A}"
+              s:par="GridParameters={F61E01E9-711A-4C99-AE30-4E28463E1DF7}&amp;FieldNames={75EC0D4C-10AC-4C23-B3F0-08EC0B3CD31C}&amp;Styles&amp;RenderingIdentifier&amp;CSSStyles&amp;DynamicPlaceholderId=6"
+              s:ph="/headless-main/sxa-landing-page-with-sidebar/container-6/bannercontent-5" />
+          </d>
+        </r>
+    - ID: "06890ecb-5786-4776-8d76-19250477a9bc"
+      Hint: MetaImage
+      Value: |
+        <image mediaid="{315305A1-F176-480A-A5CA-8B3010EC1FEB}" alt="LeadershipBanner" height="" width="" hspace="" vspace="" />
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20250612T100558Z
+    - ID: "3e431de1-525e-47a3-b6b0-1ccbec3a8c98"
+      Hint: __Workflow state
+      Value: "{F7F71754-F47E-4605-AD5B-87F78974DD92}"
+    - ID: "4e0720e9-9d50-4ddc-87cf-ecd65e8e94c8"
+      Hint: NavigationTitle
+      Value: Notre leadership
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+      Hint: __Owner
+      Value: |
+        sitecore\karthikeyan.kumaravel@altudo.co
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\karthikeyan.kumaravel@altudo.co
+    - ID: "78bd5b13-d9ab-44a4-bae4-c2dda0ad6133"
+      Hint: IntroText
+      Value: Notre &eacute;quipe de direction est compos&eacute;e de fervents d&eacute;fenseurs de l'acc&egrave;s aux soins de sant&eacute;. Ils consacrent leurs journ&eacute;es avec abn&eacute;gation &agrave; prendre soin des plus d&eacute;munis.
+    - ID: "7cba72f9-1513-41af-ba26-de761f138805"
+      Hint: Title
+      Value: Notre leadership
+    - ID: "85f5b648-1823-4509-b7fd-27deacdf2dff"
+      Hint: MetaDescription
+      Value: Découvrez les leaders visionnaires derrière Fast Lane et leur engagement à faire progresser les solutions de gestion de contenu XM Cloud.
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "a77510b9-e0a2-4947-bd2b-1f1fd8026343"
+    - ID: "92c233dc-a8b3-4fd0-bb3f-e82a8b49bed2"
+      Hint: MetaTitle
+      Value: "Équipe de direction - Découvrez les experts XM Cloud de Fast Lane"
+    - ID: "9f4483ca-f858-45d1-86a5-0a69c9ab6207"
+      Hint: MetaKeywords
+      Value: Responsables de Fast Lane, dirigeants de XM Cloud, experts Sitecore, responsables de la gestion de contenu
+    - ID: "ba41d59c-a2b6-4f14-8913-7734549cce04"
+      Hint: Image
+      Value: |
+        <image mediaid="{2A350EE8-E1A7-4EA5-8CE1-A5F35F96B4F4}" alt="HomePage_Banner" height="" width="" hspace="" vspace="" />
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\karthikeyan.kumaravel@altudo.co
+    - ID: "c24e85bf-697a-4e60-92ce-c0d557ce510e"
+      Hint: NavigationDescription
+      Value: Ceci est la description d'un élément de leadership
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20251201T191159Z
+    - ID: "f56d5ae9-cbca-48e1-b47e-e06a7561fc5d"
+      Hint: CalltoActionLinkMain
+      Value: |
+        <link text="Venez faire la différence avec nous !" linktype="external" url="https://www.sitecore.com" anchor="" title="Venez faire la différence avec nous !" target="" />

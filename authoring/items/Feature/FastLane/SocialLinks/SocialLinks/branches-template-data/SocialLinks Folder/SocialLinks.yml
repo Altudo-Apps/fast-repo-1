@@ -1,0 +1,39 @@
+﻿---
+ID: "41be8339-1100-4c64-a7b5-679d311a982e"
+Parent: "fe026ac2-9ee3-4e63-bd3d-1e5b1f4a7d69"
+Template: "02639c62-e47e-48e1-b7f7-b459550ab273"
+Path: /sitecore/templates/Branches/Feature/FastLane/Data/SocialLinks Folder/SocialLinks
+SharedFields:
+- ID: "1172f251-dad4-4efb-a329-0c63500e4f1e"
+  Hint: __Masters
+  Value: |
+    {9B0EE820-703C-4649-9EEF-684A1B297FFD}
+    {02639C62-E47E-48E1-B7F7-B459550AB273}
+- ID: "dbbbeca1-21c7-4906-9dd2-493c1efa59a2"
+  Hint: __Shared revision
+  Value: "93c9d26b-88d7-4b32-a6a0-c0466f47bd45"
+Languages:
+- Language: en
+  Fields:
+  - ID: "30e85e5d-e00a-4864-b358-7624d511deb4"
+    Hint: __Unversioned revision
+    Value: "63af7644-a1fc-4b50-9762-db0bf8d4ed48"
+  - ID: "b5e02ad9-d56f-4c41-a065-a133db87bdeb"
+    Hint: __Display name
+    Value: Social Links
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20250224T121113Z
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "1cb0fa8c-d65e-4683-b50c-6105e64471f7"
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\andy.cohen@altudo.co
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20250625T160422Z

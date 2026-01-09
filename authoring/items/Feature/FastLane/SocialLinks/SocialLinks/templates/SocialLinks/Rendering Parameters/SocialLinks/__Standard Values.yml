@@ -1,0 +1,27 @@
+﻿---
+ID: "4dd9f793-6a06-4a35-a13b-47d71b04c920"
+Parent: "54f4cf1d-db69-43ca-ad02-6500d579fb86"
+Template: "54f4cf1d-db69-43ca-ad02-6500d579fb86"
+Path: /sitecore/templates/Feature/FastLane/Renderings/SocialLinks/Rendering Parameters/SocialLinks/__Standard Values
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20211012T120926Z
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\JssImport
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "c6cd46a3-b3b6-40c9-9f83-6ab32c9cd564"
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\saivarun.allada@altudo.co
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20250512T090855Z

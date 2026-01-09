@@ -1,0 +1,287 @@
+﻿---
+ID: "86eb9d56-5738-4632-9fa9-4964b69cdb66"
+Parent: "5fdf63ba-6158-42b2-bb74-4eff89cd022b"
+Template: "58c7b74f-d255-4002-9b02-ce1b0d25624a"
+Path: /sitecore/content/FastLaneTenant/fastlanewebsite/Home/About Us/Our Leadership/Dr Javier Ortega MD PhD
+BranchID: "fb656afe-4101-447e-8dd3-6d8a529efbf8"
+SharedFields:
+- ID: "06d5295c-ed2f-4a54-9bf2-26228d113318"
+  Hint: __Icon
+  Value: "/sitecore/media library/Project/FastLaneTenant/FastLaneWebsite/PageIcons/-/media/E288D21A54DC445AAAE7E5ECED94945E.ashx"
+- ID: "a4f985d9-98b3-4b52-aaaf-4344f6e747c6"
+  Hint: __Workflow
+  Value: "{CF913994-CC05-4D20-B38A-9CF1E73F5951}"
+- ID: "dbbbeca1-21c7-4906-9dd2-493c1efa59a2"
+  Hint: __Shared revision
+  Value: "3d9b81b7-9c6e-4bc6-9ace-60b61cc5ab8e"
+- ID: "f6d8a61c-2f84-4401-bd24-52d2068172bc"
+  Hint: __Originator
+  Value: "{04645324-9552-446A-8405-2E03D08C8378}"
+Languages:
+- Language: "ar-AE"
+  Fields:
+  - ID: "30e85e5d-e00a-4864-b358-7624d511deb4"
+    Hint: __Unversioned revision
+    Value: "02e2a149-554c-4538-a7e6-bfdb76762386"
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "04bf00db-f5fb-41f7-8ab7-22408372a981"
+      Hint: __Final Renderings
+      Value: |
+        <r xmlns:p="p" xmlns:s="s"
+          p:p="1">
+          <d
+            id="{FE5D7FDF-89C0-4D99-9AA3-B5FBD009C9F3}">
+            <r
+              uid="{C15F3C42-E0A9-490F-A428-5ACDBDA0E76E}"
+              p:before="*"
+              s:id="{F7295588-FA7F-448E-B222-F64005B22E8D}"
+              s:par="GridParameters&amp;ImageOrder&amp;FieldNames&amp;Styles&amp;RenderingIdentifier&amp;CSSStyles&amp;DynamicPlaceholderId=1"
+              s:ph="/headless-main/sxa-contentpagewithsidebar/container-1/column-2-3/container-9" />
+            <r
+              uid="{490E5068-2AF4-46A8-A83C-8BB0510433EF}"
+              p:after="r[@uid='{C15F3C42-E0A9-490F-A428-5ACDBDA0E76E}']"
+              s:ds="local:/Data/BioImage"
+              s:id="{AB2EDBA0-3960-4F12-B765-579DC231894A}"
+              s:par="GridParameters={F61E01E9-711A-4C99-AE30-4E28463E1DF7}&amp;FieldNames={75EC0D4C-10AC-4C23-B3F0-08EC0B3CD31C}&amp;Styles&amp;RenderingIdentifier&amp;CSSStyles&amp;DynamicPlaceholderId=2"
+              s:ph="/headless-main/sxa-contentpagewithsidebar/container-1/column-2-3/column-1-8" />
+            <r
+              uid="{2144752D-E0A5-4E78-85C9-42E0A4BD017F}"
+              p:after="*[1=2]"
+              s:id="{C5F905F8-FD1F-444E-A9E5-AC6B774FF0DE}"
+              s:par="GridParameters={F61E01E9-711A-4C99-AE30-4E28463E1DF7}&amp;Heading Tag&amp;FieldNames={73D70018-AEEB-4FE5-A0F2-50B7BE67B1FF}&amp;Styles&amp;RenderingIdentifier&amp;CSSStyles&amp;DynamicPlaceholderId=3"
+              s:ph="/headless-main/sxa-contentpagewithsidebar/container-1/column-2-3/column-2-8" />
+          </d>
+        </r>
+    - ID: "06890ecb-5786-4776-8d76-19250477a9bc"
+      Hint: MetaImage
+      Value: |
+        <image mediaid="{3F761E8A-348F-4686-B2E9-69383A6F88A2}" alt="DrJavier" height="" width="" hspace="" vspace="" />
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20250627T044649Z
+    - ID: "3e431de1-525e-47a3-b6b0-1ccbec3a8c98"
+      Hint: __Workflow state
+      Value: "{F7F71754-F47E-4605-AD5B-87F78974DD92}"
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+      Hint: __Owner
+      Value: |
+        sitecore\karthikeyan.kumaravel@altudo.co
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\andy.cohen@altudo.co
+    - ID: "6128ed46-0b79-4d6a-87ad-ac6fe70c649c"
+      Hint: Category
+      Value: فريق القيادة
+    - ID: "78bd5b13-d9ab-44a4-bae4-c2dda0ad6133"
+      Hint: IntroText
+      Value: <p>الدكتور خافيير أورتيغا هو طبيب وعالم إسباني متخصص في علم الأورام الترجمي وأخلاقيات الطب. بصفته نائب رئيس ICMP، يقود مبادرات التعاون البحثي العالمي والمعايير السريرية. الدكتور أورتيغا، الأستاذ السابق في جامعة برشلونة، معروف بربطه بين الابتكار السريري والسياسات، ودفاعه عن المساواة في الوصول إلى التقنيات الطبية الناشئة.&nbsp;</p>
+    - ID: "7cba72f9-1513-41af-ba26-de761f138805"
+      Hint: Title
+      Value: الدكتور خافيير أورتيغا، دكتوراه في الطب – نائب رئيس ICMP
+    - ID: "85f5b648-1823-4509-b7fd-27deacdf2dff"
+      Hint: MetaDescription
+      Value: اكتشف الدور القيادي والخبرة التي يتمتع بها الدكتور خافيير أورتيغا، نائب رئيس ICMP، الذي يساهم في تقديم حلول مبتكرة لإدارة محتوى XM Cloud.
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "549e57fe-77a5-49dc-85e5-90cfa39969c9"
+    - ID: "92c233dc-a8b3-4fd0-bb3f-e82a8b49bed2"
+      Hint: MetaTitle
+      Value: الدكتور خافيير أورتيغا، دكتوراه في الطب – نائب رئيس ICMP | Fast Lane XM Cloud
+    - ID: "9f4483ca-f858-45d1-86a5-0a69c9ab6207"
+      Hint: MetaKeywords
+      Value: الدكتور خافيير أورتيغا، نائب رئيس ICMP، القيادة الطبية، حلول XM Cloud، مدير تنفيذي في Fast Lane
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\karthikeyan.kumaravel@altudo.co
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20251201T190638Z
+- Language: en
+  Fields:
+  - ID: "30e85e5d-e00a-4864-b358-7624d511deb4"
+    Hint: __Unversioned revision
+    Value: "d5261785-6f97-42d3-a109-39d11ec2d25e"
+  - ID: "b5e02ad9-d56f-4c41-a065-a133db87bdeb"
+    Hint: __Display name
+    Value: 
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "001dd393-96c5-490b-924a-b0f25cd9efd8"
+      Hint: __Lock
+      Value: <r />
+    - ID: "04bf00db-f5fb-41f7-8ab7-22408372a981"
+      Hint: __Final Renderings
+      Value: |
+        <r xmlns:p="p" xmlns:s="s"
+          p:p="1">
+          <d
+            id="{FE5D7FDF-89C0-4D99-9AA3-B5FBD009C9F3}">
+            <r
+              uid="{C15F3C42-E0A9-490F-A428-5ACDBDA0E76E}"
+              p:before="*"
+              s:id="{F7295588-FA7F-448E-B222-F64005B22E8D}"
+              s:par="GridParameters&amp;ImageOrder&amp;FieldNames&amp;Styles&amp;RenderingIdentifier&amp;CSSStyles&amp;DynamicPlaceholderId=1"
+              s:ph="/headless-main/sxa-contentpagewithsidebar/container-1/column-2-3/container-9" />
+            <r
+              uid="{490E5068-2AF4-46A8-A83C-8BB0510433EF}"
+              p:after="r[@uid='{C15F3C42-E0A9-490F-A428-5ACDBDA0E76E}']"
+              s:ds="local:/Data/BioImage"
+              s:id="{AB2EDBA0-3960-4F12-B765-579DC231894A}"
+              s:par="GridParameters={F61E01E9-711A-4C99-AE30-4E28463E1DF7}&amp;FieldNames={75EC0D4C-10AC-4C23-B3F0-08EC0B3CD31C}&amp;Styles&amp;RenderingIdentifier&amp;CSSStyles&amp;DynamicPlaceholderId=2"
+              s:ph="/headless-main/sxa-contentpagewithsidebar/container-1/column-2-3/column-1-8" />
+            <r
+              uid="{2144752D-E0A5-4E78-85C9-42E0A4BD017F}"
+              p:after="*[1=2]"
+              s:id="{C5F905F8-FD1F-444E-A9E5-AC6B774FF0DE}"
+              s:par="GridParameters={F61E01E9-711A-4C99-AE30-4E28463E1DF7}&amp;Heading Tag&amp;FieldNames={73D70018-AEEB-4FE5-A0F2-50B7BE67B1FF}&amp;Styles&amp;RenderingIdentifier&amp;CSSStyles&amp;DynamicPlaceholderId=3"
+              s:ph="/headless-main/sxa-contentpagewithsidebar/container-1/column-2-3/column-2-8" />
+          </d>
+        </r>
+    - ID: "06890ecb-5786-4776-8d76-19250477a9bc"
+      Hint: MetaImage
+      Value: |
+        <image mediaid="{3F761E8A-348F-4686-B2E9-69383A6F88A2}" />
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20250627T044649Z
+    - ID: "3e431de1-525e-47a3-b6b0-1ccbec3a8c98"
+      Hint: __Workflow state
+      Value: "{F7F71754-F47E-4605-AD5B-87F78974DD92}"
+    - ID: "4e0720e9-9d50-4ddc-87cf-ecd65e8e94c8"
+      Hint: NavigationTitle
+      Value: Dr. Javier Ortega, MD, PhD
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+      Hint: __Owner
+      Value: |
+        sitecore\andy.cohen@altudo.co
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\andy.cohen@altudo.co
+    - ID: "6128ed46-0b79-4d6a-87ad-ac6fe70c649c"
+      Hint: Category
+      Value: Leadership Team
+    - ID: "78bd5b13-d9ab-44a4-bae4-c2dda0ad6133"
+      Hint: IntroText
+      Value: "<p>Dr. Javier Ortega is a Spanish physician-scientist specializing in translational oncology and medical ethics. As Vice President of ICMP, he leads initiatives on global research collaboration and clinical standards. A former professor at the University of Barcelona, Dr. Ortega is known for bridging clinical innovation with policy, advocating for equitable access to emerging medical technologies.&nbsp;</p>"
+    - ID: "7cba72f9-1513-41af-ba26-de761f138805"
+      Hint: Title
+      Value: Dr. Javier Ortega, MD, PhD – Vice President, ICMP
+    - ID: "85f5b648-1823-4509-b7fd-27deacdf2dff"
+      Hint: MetaDescription
+      Value: Discover the leadership role and expertise of Dr. Javier Ortega, MD, PhD, Vice President at ICMP, contributing to innovative XM Cloud content management solutions.
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "e7bfcb2f-be6d-4c5f-aafa-97b56ac24580"
+    - ID: "92c233dc-a8b3-4fd0-bb3f-e82a8b49bed2"
+      Hint: MetaTitle
+      Value: Dr. Javier Ortega, MD, PhD – Vice President, ICMP | Fast Lane XM Cloud
+    - ID: "9f4483ca-f858-45d1-86a5-0a69c9ab6207"
+      Hint: MetaKeywords
+      Value: Dr Javier Ortega, Vice President ICMP, medical leadership, XM Cloud solutions, Fast Lane executive
+    - ID: "ba41d59c-a2b6-4f14-8913-7734549cce04"
+      Hint: Image
+      Value: 
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\karthikeyan.kumaravel@altudo.co
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20251201T190613Z
+    - ID: "f56d5ae9-cbca-48e1-b47e-e06a7561fc5d"
+      Hint: CalltoActionLinkMain
+      Value: 
+- Language: "fr-CA"
+  Fields:
+  - ID: "30e85e5d-e00a-4864-b358-7624d511deb4"
+    Hint: __Unversioned revision
+    Value: "f34c6bef-d33e-4507-8aa8-e3b002d353b9"
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "04bf00db-f5fb-41f7-8ab7-22408372a981"
+      Hint: __Final Renderings
+      Value: |
+        <r xmlns:p="p" xmlns:s="s"
+          p:p="1">
+          <d
+            id="{FE5D7FDF-89C0-4D99-9AA3-B5FBD009C9F3}">
+            <r
+              uid="{C15F3C42-E0A9-490F-A428-5ACDBDA0E76E}"
+              p:before="*"
+              s:id="{F7295588-FA7F-448E-B222-F64005B22E8D}"
+              s:par="GridParameters&amp;ImageOrder&amp;FieldNames&amp;Styles&amp;RenderingIdentifier&amp;CSSStyles&amp;DynamicPlaceholderId=1"
+              s:ph="/headless-main/sxa-contentpagewithsidebar/container-1/column-2-3/container-9" />
+            <r
+              uid="{490E5068-2AF4-46A8-A83C-8BB0510433EF}"
+              p:after="r[@uid='{C15F3C42-E0A9-490F-A428-5ACDBDA0E76E}']"
+              s:ds="local:/Data/BioImage"
+              s:id="{AB2EDBA0-3960-4F12-B765-579DC231894A}"
+              s:par="GridParameters={F61E01E9-711A-4C99-AE30-4E28463E1DF7}&amp;FieldNames={75EC0D4C-10AC-4C23-B3F0-08EC0B3CD31C}&amp;Styles&amp;RenderingIdentifier&amp;CSSStyles&amp;DynamicPlaceholderId=2"
+              s:ph="/headless-main/sxa-contentpagewithsidebar/container-1/column-2-3/column-1-8" />
+            <r
+              uid="{2144752D-E0A5-4E78-85C9-42E0A4BD017F}"
+              p:after="*[1=2]"
+              s:id="{C5F905F8-FD1F-444E-A9E5-AC6B774FF0DE}"
+              s:par="GridParameters={F61E01E9-711A-4C99-AE30-4E28463E1DF7}&amp;Heading Tag&amp;FieldNames={73D70018-AEEB-4FE5-A0F2-50B7BE67B1FF}&amp;Styles&amp;RenderingIdentifier&amp;CSSStyles&amp;DynamicPlaceholderId=3"
+              s:ph="/headless-main/sxa-contentpagewithsidebar/container-1/column-2-3/column-2-8" />
+          </d>
+        </r>
+    - ID: "06890ecb-5786-4776-8d76-19250477a9bc"
+      Hint: MetaImage
+      Value: |
+        <image mediaid="{3F761E8A-348F-4686-B2E9-69383A6F88A2}" alt="DrJavier" height="" width="" hspace="" vspace="" />
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20250627T044649Z
+    - ID: "3e431de1-525e-47a3-b6b0-1ccbec3a8c98"
+      Hint: __Workflow state
+      Value: "{F7F71754-F47E-4605-AD5B-87F78974DD92}"
+    - ID: "4e0720e9-9d50-4ddc-87cf-ecd65e8e94c8"
+      Hint: NavigationTitle
+      Value: Dr Javier Ortega, MD, PhD
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+      Hint: __Owner
+      Value: |
+        sitecore\karthikeyan.kumaravel@altudo.co
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\andy.cohen@altudo.co
+    - ID: "6128ed46-0b79-4d6a-87ad-ac6fe70c649c"
+      Hint: Category
+      Value: Équipe de direction
+    - ID: "78bd5b13-d9ab-44a4-bae4-c2dda0ad6133"
+      Hint: IntroText
+      Value: "<p>Le Dr Javier Ortega est un m&eacute;decin-chercheur espagnol sp&eacute;cialis&eacute; en oncologie translationnelle et en &eacute;thique m&eacute;dicale. En tant que vice-pr&eacute;sident de l'ICMP, il pilote des initiatives de collaboration internationale en mati&egrave;re de recherche et de normes cliniques. Ancien professeur &agrave; l'Universit&eacute; de Barcelone, le Dr Ortega est reconnu pour son r&ocirc;le de catalyseur de l'innovation clinique et des politiques de sant&eacute;, et pour son plaidoyer en faveur d'un acc&egrave;s &eacute;quitable aux nouvelles technologies m&eacute;dicales.&nbsp;</p>"
+    - ID: "7cba72f9-1513-41af-ba26-de761f138805"
+      Hint: Title
+      Value: "Dr Javier Ortega, MD, PhD – Vice-président, ICMP"
+    - ID: "85f5b648-1823-4509-b7fd-27deacdf2dff"
+      Hint: MetaDescription
+      Value: "Découvrez le rôle de leader et l'expertise du Dr Javier Ortega, MD, PhD, vice-président de l'ICMP, qui contribue aux solutions novatrices de gestion de contenu XM Cloud."
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "1516b314-6c1a-4a25-8718-98a82732d026"
+    - ID: "92c233dc-a8b3-4fd0-bb3f-e82a8b49bed2"
+      Hint: MetaTitle
+      Value: "Dr Javier Ortega, MD, PhD – Vice-président, ICMP | Fast Lane XM Cloud"
+    - ID: "9f4483ca-f858-45d1-86a5-0a69c9ab6207"
+      Hint: MetaKeywords
+      Value: "Dr Javier Ortega, vice-président de l'ICMP, leadership médical, solutions XM Cloud, cadre de Fast Lane"
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\karthikeyan.kumaravel@altudo.co
+    - ID: "c24e85bf-697a-4e60-92ce-c0d557ce510e"
+      Hint: NavigationDescription
+      Value: "le vice-président de l'ICMP"
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20251201T190652Z

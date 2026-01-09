@@ -1,0 +1,211 @@
+﻿---
+ID: "32079ea5-b291-4019-ac51-23416a922168"
+Parent: "ffdba8b4-cb4c-4de5-9214-5782faa7fc43"
+Template: "fbc802e5-4b9e-480f-93da-3f2a80cae5cb"
+Path: /sitecore/content/FastLaneTenant/global/Presentation/Page Branches
+BranchID: "aa6c7b9e-a399-47ae-82b8-0d88c695249b"
+SharedFields:
+- ID: "bb3391dd-f8be-4b2e-ae9f-47bb63c166ce"
+  Hint: Rule
+  Value: |
+    <ruleset>
+      <rule
+        uid="{01A6371C-916C-4450-B4EF-1DBD9173EB9B}"
+        name="Default Page Rules">
+        <conditions>
+          <or
+            uid="7BED8548C8774052BC6C2807D68C243E">
+            <or
+              uid="13151A554FC84E4E822F198066D8B020">
+              <or
+                uid="F6983A7F06734F7BB05ECCBBB0C58DA8">
+                <condition
+                  id="{D0810F9D-734C-452D-BBB6-4730368D68F1}"
+                  uid="2DC77C52983147C4A1E5A05E03954BBF"
+                  templateid="{42DF736E-FF50-4722-A116-F11E157383D7}" />
+                <condition
+                  id="{D0810F9D-734C-452D-BBB6-4730368D68F1}"
+                  uid="A3F545CCEFD549FEA64CD82F0886946A"
+                  templateid="{770FD597-EA0B-4FF3-944F-9248AEDFE84A}" />
+              </or>
+              <condition
+                id="{D0810F9D-734C-452D-BBB6-4730368D68F1}"
+                uid="AFBB262CA46D497A8904D05C69F8A205"
+                templateid="{58C7B74F-D255-4002-9B02-CE1B0D25624A}" />
+            </or>
+            <condition
+              id="{D0810F9D-734C-452D-BBB6-4730368D68F1}"
+              uid="68EFF805874F4B80A6F56E74901AAFD0"
+              templateid="{F58DC353-B0B5-4015-9659-1BCD318BF36E}" />
+          </or>
+        </conditions>
+        <actions>
+          <action
+            id="{D46EC8E5-7B46-47DE-B44A-4C5C30EF48D1}"
+            uid="C5BD871824004BA1A6AB3891E200FF8C"
+            PageBranchId="{B9FB36F5-3B3A-4B06-8112-0066D0A2B7DB}" />
+          <action
+            id="{D46EC8E5-7B46-47DE-B44A-4C5C30EF48D1}"
+            uid="5AE3878D84B64926A6A016067F4504EB"
+            PageBranchId="{BF8579BE-DB2D-4B0A-814B-B4931F3E8A49}" />
+          <action
+            id="{D46EC8E5-7B46-47DE-B44A-4C5C30EF48D1}"
+            uid="5452C11D5A6B49F5B89437F67A287B23"
+            PageBranchId="{E12EBC2C-3900-4C9D-B7CE-A23214373AE5}" />
+          <action
+            id="{D46EC8E5-7B46-47DE-B44A-4C5C30EF48D1}"
+            uid="458E843E771A429298FE7C577AF3C851"
+            PageBranchId="{CB3B64E1-B06F-4C73-B8A0-5D5A6F6FCE8A}" />
+          <action
+            id="{D46EC8E5-7B46-47DE-B44A-4C5C30EF48D1}"
+            uid="960C034A842A497EB50C0868E03EDF55"
+            PageBranchId="{C1D1E5B7-CF16-4BFA-AFCD-DB0DFCF3661F}" />
+          <action
+            id="{D46EC8E5-7B46-47DE-B44A-4C5C30EF48D1}"
+            uid="20E2AFD1B6404ADC902E43CF942C0E41"
+            PageBranchId="{CB76D74B-9353-4B42-98A7-1D258629F596}" />
+          <action
+            id="{D46EC8E5-7B46-47DE-B44A-4C5C30EF48D1}"
+            uid="EFFEA2FFE8124A3DAF61CCF42A350D9F"
+            PageBranchId="{FB656AFE-4101-447E-8DD3-6D8A529EFBF8}" />
+          <action
+            id="{D46EC8E5-7B46-47DE-B44A-4C5C30EF48D1}"
+            uid="640594DFB50F4A9083238DA81469A332"
+            PageBranchId="{D4F628F9-BB47-4DB8-AB6A-FB4E593E0FD5}" />
+          <action
+            id="{D46EC8E5-7B46-47DE-B44A-4C5C30EF48D1}"
+            uid="766A12DF9B7049E19EF47276C3AC508D"
+            PageBranchId="{85F6266A-C591-4ADA-85CB-C6CDD8775F47}" />
+        </actions>
+      </rule>
+      <rule
+        uid="{9CED4E61-36C3-46C1-A4B6-F59EEE2B1192}"
+        name="Article Page Rule">
+        <conditions>
+          <condition
+            id="{5DE6D53E-EA62-4D17-8BDD-FEBCD80AC07B}"
+            uid="4A2C4DFF7D0944A3B9026CFCD385AA10"
+            templateid="{A07BDB02-B3F4-4B2D-997D-48FDDCA9192E}" />
+        </conditions>
+        <actions>
+          <action
+            id="{D46EC8E5-7B46-47DE-B44A-4C5C30EF48D1}"
+            uid="A77A3DE9D7C4456A99D69FC32919E9B0"
+            PageBranchId="{CB76D74B-9353-4B42-98A7-1D258629F596}" />
+        </actions>
+      </rule>
+      <rule
+        uid="{26958DDB-31DF-4A60-BACD-43B3F8511583}"
+        name="Blog Article Folder Rule">
+        <conditions>
+          <condition
+            id="{5DE6D53E-EA62-4D17-8BDD-FEBCD80AC07B}"
+            uid="6DF2AB326DE54C50848A3EE6C64C2311"
+            templateid="{21F3C2D7-CDA1-4DB8-8A38-707CC3F2BBAB}" />
+        </conditions>
+        <actions>
+          <action
+            id="{D46EC8E5-7B46-47DE-B44A-4C5C30EF48D1}"
+            uid="260E5954BD3343069F4ECCDCD13AA701"
+            PageBranchId="{85F6266A-C591-4ADA-85CB-C6CDD8775F47}" />
+        </actions>
+      </rule>
+      <rule
+        uid="{54DAF004-4E3F-49CA-8693-21579A76AC20}"
+        name="Blog Article Page Rule">
+        <conditions>
+          <condition
+            id="{5DE6D53E-EA62-4D17-8BDD-FEBCD80AC07B}"
+            uid="476D94ABD691433EB656ADEB2462D7F4"
+            templateid="{CE4FBA93-7384-4C2F-8E00-C50181610504}" />
+        </conditions>
+        <actions>
+          <action
+            id="{D46EC8E5-7B46-47DE-B44A-4C5C30EF48D1}"
+            uid="B0A9B66744FD4FC0A0C7643376BBB4A0"
+            PageBranchId="{85F6266A-C591-4ADA-85CB-C6CDD8775F47}" />
+        </actions>
+      </rule>
+    </ruleset>
+- ID: "dbbbeca1-21c7-4906-9dd2-493c1efa59a2"
+  Hint: __Shared revision
+  Value: "48095a5b-9a6b-4452-8c43-8dc7a9972e8d"
+- ID: "f6d8a61c-2f84-4401-bd24-52d2068172bc"
+  Hint: __Originator
+  Value: "{63D0F6B2-D72F-4C31-BBA2-1709C4B68B7B}"
+Languages:
+- Language: "ar-AE"
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20250124T122024Z
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+      Hint: __Owner
+      Value: |
+        sitecore\karthikeyan.kumaravel@altudo.co
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\karthikeyan.kumaravel@altudo.co
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "fa3f1ee3-88db-4bb2-b104-4e2048b20d59"
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\karthikeyan.kumaravel@altudo.co
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20251104T183315Z
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20250124T122024Z
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+      Hint: __Owner
+      Value: |
+        sitecore\karthikeyan.kumaravel@altudo.co
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\karthikeyan.kumaravel@altudo.co
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "90921e25-4caf-4171-9444-798314b4d674"
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\karthikeyan.kumaravel@altudo.co
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20251027T204157Z
+- Language: "fr-CA"
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20250124T122024Z
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+      Hint: __Owner
+      Value: |
+        sitecore\karthikeyan.kumaravel@altudo.co
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\karthikeyan.kumaravel@altudo.co
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "8ed18a8c-7518-4dc9-9fb2-7a2929c82f80"
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\karthikeyan.kumaravel@altudo.co
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20251104T182745Z

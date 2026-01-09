@@ -1,0 +1,171 @@
+﻿---
+ID: "31071c2e-3475-4ed2-ab10-e2a88a938741"
+Parent: "f3c9b4eb-f564-4b70-9b94-ae20de5bb833"
+Template: "e58b7dbf-2a15-4a94-ad45-9c250ac1ac68"
+Path: /sitecore/content/FastLaneTenant/fastlanewebsite/Home/Demo/Data/Can we cover solopreneurs
+SharedFields:
+- ID: "a4f985d9-98b3-4b52-aaaf-4344f6e747c6"
+  Hint: __Workflow
+  Value: "{9A1B3B33-17C0-4DAE-A533-CEC7FA11F68A}"
+- ID: "ba3f86a2-4a1c-4d78-b63d-91c2779c1b5e"
+  Hint: __Sortorder
+  Value: 100
+- ID: "dbbbeca1-21c7-4906-9dd2-493c1efa59a2"
+  Hint: __Shared revision
+  Value: "08589977-883a-44fd-af21-bf4bcf7d28a4"
+Languages:
+- Language: "ar-AE"
+  Fields:
+  - ID: "30e85e5d-e00a-4864-b358-7624d511deb4"
+    Hint: __Unversioned revision
+    Value: "a08ef719-a77e-46b1-8c94-c2224c573b0a"
+  - ID: "b5e02ad9-d56f-4c41-a065-a133db87bdeb"
+    Hint: __Display name
+    Value: 
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20250610T095046Z
+    - ID: "3e431de1-525e-47a3-b6b0-1ccbec3a8c98"
+      Hint: __Workflow state
+      Value: "{B71D5C66-667B-4CF1-BE66-342C8B59A4DB}"
+    - ID: "6128ed46-0b79-4d6a-87ad-ac6fe70c649c"
+      Hint: Category
+      Value: هذا مخصص
+    - ID: "78bd5b13-d9ab-44a4-bae4-c2dda0ad6133"
+      Hint: IntroText
+      Value: |
+        <div class="ck-content">
+        <p>لنضع هنا فقرة وصفية مناسبة حول محتوى البطاقة وما نريد قوله</p>
+        <p>لنضع هنا فقرة وصفية لائقة حول محتوى البطاقة وما نريد قوله لنضع هنا فقرة وصفية لائقة حول محتوى البطاقة وما نريد قوله لنضع هنا فقرة وصفية لائقة حول محتوى البطاقة وما نريد قوله لنضع هنا فقرة وصفية لائقة حول محتوى البطاقة وما نريد قوله لنضع هنا فقرة وصفية لائقة حول محتوى البطاقة وما نريد قوله. لنضع هنا فقرة وصفية لائقة حول محتوى البطاقة وما نريد قوله. لنضع هنا فقرة وصفية لائقة حول محتوى البطاقة وما نريد قوله. لنضع هنا فقرة وصفية لائقة حول محتوى البطاقة وما نريد قوله. لنضع هنا فقرة وصفية لائقة حول محتوى البطاقة وما نريد قوله. لنضع هنا فقرة وصفية لائقة حول محتوى البطاقة وما نريد أن نقوله دعونا نضع هنا فقرة وصفية لائقة حول محتوى البطاقة، وما نريد أن نقوله دعونا نضع هنا فقرة وصفية لائقة حول محتوى البطاقة، وما نريد أن نقوله دعونا نضع هنا فقرة وصفية لائقة حول محتوى البطاقة، وما نريد أن نقوله دعونا نضع هنا فقرة وصفية لائقة حول محتوى البطاقة، وما نريد أن نقوله دعونا</p>
+        </div>
+    - ID: "7cba72f9-1513-41af-ba26-de761f138805"
+      Hint: Title
+      Value: هل يمكننا تغطية رواد الأعمال الفرديين؟
+    - ID: "8c2b6bbe-34c6-4373-bf1b-3a9da4119dda"
+      Hint: Icon
+      Value: |
+        <image mediaid="{3A2C2615-609C-40DC-A7EF-656DA82EA958}" alt="Icon" height="" width="" hspace="" vspace="" />
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "78a224e9-7fff-4652-bcb5-66705a1efba3"
+    - ID: "ba41d59c-a2b6-4f14-8913-7734549cce04"
+      Hint: Image
+      Value: |
+        <image mediaid="bd25382b-053f-4129-90fe-4cc971f28599" alt="Image" height="" width="" hspace="" vspace="" />
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\karthikeyan.kumaravel@altudo.co
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20251106T152245Z
+    - ID: "f56d5ae9-cbca-48e1-b47e-e06a7561fc5d"
+      Hint: CalltoActionLinkMain
+      Value: |
+        <link text="تعرف على المزيد" anchor="" linktype="internal" class="" title="" target="" querystring="" id="{0ADFD485-E57C-417A-B2E4-DE7A3D381DCE}" />
+- Language: en
+  Fields:
+  - ID: "30e85e5d-e00a-4864-b358-7624d511deb4"
+    Hint: __Unversioned revision
+    Value: "7c4fcfbf-6967-4818-8743-d51a71a22bd2"
+  - ID: "b5e02ad9-d56f-4c41-a065-a133db87bdeb"
+    Hint: __Display name
+    Value: 
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "001dd393-96c5-490b-924a-b0f25cd9efd8"
+      Hint: __Lock
+      Value: <r />
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20250610T095046Z
+    - ID: "3e431de1-525e-47a3-b6b0-1ccbec3a8c98"
+      Hint: __Workflow state
+      Value: "{B71D5C66-667B-4CF1-BE66-342C8B59A4DB}"
+    - ID: "6128ed46-0b79-4d6a-87ad-ac6fe70c649c"
+      Hint: Category
+      Value: This is an earmark
+    - ID: "78bd5b13-d9ab-44a4-bae4-c2dda0ad6133"
+      Hint: IntroText
+      Value: |
+        <div class="ck-content"><p>Lets have a decent paragraph description here around the content of the card, and what we wanna say</p><p>Lets have a decent paragraph description here around the content of the card, and what we wanna sayLets have a decent paragraph description here around the content of the card, and what we wanna sayLets have a decent paragraph description here around the content of the card, and what we wanna sayLets have a decent paragraph description here around the content of the card, and what we wanna sayLets have a decent paragraph description here around the content of the card, and what we wanna sayLets have a decent paragraph description here around the content of the card, and what we wanna sayLets have a decent paragraph description here around the content of the card, and what we wanna sayLets have a decent paragraph description here around the content of the card, and what we wanna sayLets have a decent paragraph description here around the content of the card, and what we wanna sayLets have a decent paragraph description here around the content of the card, and what we wanna sayLets have a decent paragraph description here around the content of the card, and what we wanna sayLets have a decent paragraph description here around the content of the card, and what we wanna sayLets have a decent paragraph description here around the content of the card, and what we wanna sayLets have a decent paragraph description here around the content of the card, and what we wanna sayLets have a decent paragraph description here around the content of the card, and what we wanna sayLets have a decent paragraph description here around the content of the card, and what we wanna sayLets have a decent paragraph description here around the content of the card, and what we wanna sayLets have a decent paragraph description here around the content of the card, and what we wanna sayLets have a decent paragraph description here around the content of the card, and what we wanna sayLets have a decent paragraph description here around the content of the card, and what we wanna sayLets have a decent paragraph description here around the content of the card, and what we wanna sayLets have a decent paragraph description here around the content of the card, and what we wanna sayLets have a decent paragraph description here around the content of the card, and what we wanna sayLets have a decent paragraph description here around the content of the card, and what we wanna sayLets have a decent paragraph description here around the content of the card, and what we wanna sayLets have a decent paragraph description here around the content of the card, and what we wanna sayLets have a decent paragraph description here around the content of the card, and what we wanna sayLets have a decent paragraph description here around the content of the card, and what we wanna sayLets have a decent paragraph description here around the content of the card, and what we wanna sayLets have a decent paragraph description here around the content of the card, and what we wanna sayLets have a decent paragraph description here around the content of the card, and what we wanna sayLets have a decent paragraph description here around the content of the card, and what we wanna sayLets have a decent paragraph description here around the content of the card, and what we wanna say</p><p>&nbsp;</p></div>
+    - ID: "7cba72f9-1513-41af-ba26-de761f138805"
+      Hint: Title
+      Value: "Can we cover solopreneurs?"
+    - ID: "8c2b6bbe-34c6-4373-bf1b-3a9da4119dda"
+      Hint: Icon
+      Value: |
+        <image mediaid="{3A2C2615-609C-40DC-A7EF-656DA82EA958}" />
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "728efd22-3beb-4b3d-a553-e561f75e1752"
+    - ID: "ba41d59c-a2b6-4f14-8913-7734549cce04"
+      Hint: Image
+      Value: |
+        <image mediaid="bd25382b-053f-4129-90fe-4cc971f28599" />
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\andy.cohen@altudo.co
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20250701T111853Z
+    - ID: "f56d5ae9-cbca-48e1-b47e-e06a7561fc5d"
+      Hint: CalltoActionLinkMain
+      Value: |
+        <link linktype="internal" id="0adfd485-e57c-417a-b2e4-de7a3d381dce" anchor="" querystring="" target="" class="" text="learn more" title=""/>
+- Language: "fr-CA"
+  Fields:
+  - ID: "30e85e5d-e00a-4864-b358-7624d511deb4"
+    Hint: __Unversioned revision
+    Value: "c6f5c02f-4024-4191-a7d5-711432d6e5f9"
+  - ID: "b5e02ad9-d56f-4c41-a065-a133db87bdeb"
+    Hint: __Display name
+    Value: 
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20250610T095046Z
+    - ID: "3e431de1-525e-47a3-b6b0-1ccbec3a8c98"
+      Hint: __Workflow state
+      Value: "{B71D5C66-667B-4CF1-BE66-342C8B59A4DB}"
+    - ID: "6128ed46-0b79-4d6a-87ad-ac6fe70c649c"
+      Hint: Category
+      Value: Ceci est une affectation.
+    - ID: "78bd5b13-d9ab-44a4-bae4-c2dda0ad6133"
+      Hint: IntroText
+      Value: |
+        <div class="ck-content">
+        <p>Ayez un paragraphe descriptif d&eacute;cent ici autour du contenu de la carte, et ce que nous voulons dire.</p>
+        </div>
+    - ID: "7cba72f9-1513-41af-ba26-de761f138805"
+      Hint: Title
+      Value: "Pouvons-nous couvrir les solopreneurs ?"
+    - ID: "8c2b6bbe-34c6-4373-bf1b-3a9da4119dda"
+      Hint: Icon
+      Value: |
+        <image mediaid="{3A2C2615-609C-40DC-A7EF-656DA82EA958}" alt="Contact" height="" width="" hspace="" vspace="" />
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "45535359-dc16-43b3-a048-b63ed0e1981b"
+    - ID: "ba41d59c-a2b6-4f14-8913-7734549cce04"
+      Hint: Image
+      Value: |
+        <image mediaid="bd25382b-053f-4129-90fe-4cc971f28599" />
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\karthikeyan.kumaravel@altudo.co
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20251127T102947Z
+    - ID: "f56d5ae9-cbca-48e1-b47e-e06a7561fc5d"
+      Hint: CalltoActionLinkMain
+      Value: |
+        <link text="apprendre encore plus" anchor="" linktype="internal" class="" title="apprendre encore plus" target="" querystring="" id="{0ADFD485-E57C-417A-B2E4-DE7A3D381DCE}" />

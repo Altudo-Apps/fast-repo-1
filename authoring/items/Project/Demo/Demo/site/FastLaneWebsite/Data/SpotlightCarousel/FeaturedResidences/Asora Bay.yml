@@ -1,0 +1,45 @@
+﻿---
+ID: "6007e494-6c09-4876-a5cc-3cb39d5e16b5"
+Parent: "b0eecccc-1125-4866-9284-d44da494d744"
+Template: "b9f1d392-12d8-4198-8c53-f5803cc361c5"
+Path: /sitecore/content/FastLaneTenant/fastlanewebsite/Data/SpotlightCarousel/FeaturedResidences/Asora Bay
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20251209T124534Z
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+      Hint: __Owner
+      Value: |
+        sitecore\karthikeyan.kumaravel@altudo.co
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\karthikeyan.kumaravel@altudo.co
+    - ID: "6ed1b39c-b628-41dc-a3e7-7a824b2120ea"
+      Hint: Title
+      Value: Jumeirah Residences Asora Bay
+    - ID: "78339d1b-f439-4a7a-9a12-b237daa406af"
+      Hint: CTAMainLink
+      Value: |
+        <link linktype="external" url="https://xmc-fast-lane.vercel.app" anchor="" target="" />
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "990e5b12-323c-40b2-90d7-2766fcfe0b56"
+    - ID: "a580d2c7-0e73-433e-afb2-57ad8d9e51c9"
+      Hint: Description
+      Value: Set on the peninsula of La Mer South, Jumeirah Residences Asora Bay will offer exclusive homes, including apartments, ocean villas, and a signature penthouse. Nestled in the hillside, it will offer uninterrupted views of the Arabian Gulf and Dubai skyline.
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\karthikeyan.kumaravel@altudo.co
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20251211T132631Z
+    - ID: "f782e84c-541d-4bbd-b63c-c3b6ebbe9f64"
+      Hint: SpotlightImage
+      Value: |
+        <image mediaid="{3A349323-0FD6-48F4-9585-A623884ECE3D}" />

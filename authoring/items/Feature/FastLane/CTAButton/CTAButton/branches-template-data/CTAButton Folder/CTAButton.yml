@@ -1,0 +1,39 @@
+﻿---
+ID: "7e7526fa-92e1-4f4b-ba44-3b4da39113df"
+Parent: "cf56d6f7-3144-45b2-a0ff-cb91fcb18aff"
+Template: "88570f2f-8c9e-4100-be3f-26fe10a96e93"
+Path: /sitecore/templates/Branches/Feature/FastLane/Data/CTAButton Folder/CTAButton
+SharedFields:
+- ID: "1172f251-dad4-4efb-a329-0c63500e4f1e"
+  Hint: __Masters
+  Value: |
+    {62B5C59B-7E55-433A-9316-E59C9E1D59F3}
+    {88570F2F-8C9E-4100-BE3F-26FE10A96E93}
+- ID: "dbbbeca1-21c7-4906-9dd2-493c1efa59a2"
+  Hint: __Shared revision
+  Value: "f6e76d75-042b-4c3c-9d42-88889cd60bcf"
+Languages:
+- Language: en
+  Fields:
+  - ID: "30e85e5d-e00a-4864-b358-7624d511deb4"
+    Hint: __Unversioned revision
+    Value: "694cc188-38d9-4a96-8adb-b0bbf54582c2"
+  - ID: "b5e02ad9-d56f-4c41-a065-a133db87bdeb"
+    Hint: __Display name
+    Value: CTA Button
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20250225T141044Z
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "a313c0e0-62a2-4d18-900d-3f810297267f"
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\andy.cohen@altudo.co
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20250620T211514Z
